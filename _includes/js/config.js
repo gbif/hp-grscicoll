@@ -18,7 +18,25 @@ var siteConfig = {
       // The route you are currently using for occurrence search. The language prefix will be added automatically
       // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
       route: '/specimen/search'
-    }
+    },
+    collectionKey: {
+      route: '/collection/:key',
+      isHref: true,
+      url: ({ key }) => {
+        return `/collection/${key}`;
+      }
+    },
+    collectionSpecimens: {
+      route: '/collection/:key/specimens',
+      url: ({ key }) => `/collection/${key}/specimens`
+    },
+    institutionKey: {
+      route: '/institution/:key',
+      isHref: true,
+      url: ({ key }) => {
+        return `/institution/${key}`;
+      }
+    },
   },
   occurrence: {
     excludedFilters: ['occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
