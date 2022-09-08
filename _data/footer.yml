@@ -13,7 +13,6 @@ columns:
   - name: Code
     description: | # Can be Markdown
       This project is open source. See `_data/footer.yml` to customize the footer.
-  
   - name: Contact
     description: | # Can be Markdown
       Social icons links defined in `_config.yml`

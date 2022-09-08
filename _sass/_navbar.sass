@@ -1,0 +1,37 @@
+.navbar-logo_text
+  font-size: 1rem
+
+.navbar-logo_img 
+  width: 1.5em
+  margin-right: .5em
+
+// This is commented out as they indented logo didn't work well visually on search pages that is full width
+// +from($navbar-breakpoint)
+  // .navbar-brand 
+  //   margin-left: calc(50vw - #{$navbar-breakpoint / 2})
+  // .navbar-content
+    // margin: auto
+    // max-width: $navbar-breakpoint
+
+.navbar-item
+  padding: 0.5rem 1rem
+
+.navbar-top-item
+  padding: 0.5rem 2rem
+
+.language-selector
+  a.button
+    color: white
+    background: none
+    border-color: none
+    &:hover
+      background: #ffffff11
+      color: white
+    span:first-of-type
+      width: 0
+      visibility: hidden
+      overflow: hidden
+    .icon
+      margin: 0!important
+      width: auto
+      font-size: 1.5rem

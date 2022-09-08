@@ -1,3 +1,38 @@
 @import "theme/_main";
+@import "_navbar";
 
+html {
+  font-size: 15px;
+}
 // You can add additional styling here
+
+
+.home {
+  .feature-content {
+    text-align: start;
+    margin-left: auto;
+    margin-right: auto;
+    width: $navbar-breakpoint;
+    max-width: 100%;
+  }
+  .feature-description {
+    margin: initial;
+    padding: 0;
+    width: 500px;
+    p {
+      font-weight: 500
+    }
+  }
+  .feature-title {
+    width: 500px;
+    font-size: 4rem;
+  }
+  .gettingStarted {
+    margin-top: 1em;
+    font-size: 14px;
+    a {
+      color: orange;
+      text-decoration: none;
+    }
+  }
+}
