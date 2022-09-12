@@ -6,16 +6,20 @@ title: Natural History Collections
 description: |
   An ever growing catalogue of the worlds natural history collections and the people involved
 
-  <form action="/collection/search" method="GET">
+  <form action="/specimen/search" method="GET">
     <input name="q" class="input" type="text" placeholder="Name, catalog no, code, …" style="width: 250px">
     <button type="submit" class="button is-primary">Search specimens</button>
   </form>
 
   {: .gettingStarted}
-  Not sure how to get started? <a href="/about">Watch our Getting started video</a>
+  Not sure how to get started? <a href="/about/#what-is-this">Watch our Getting started video</a>
 background:  "{{ site.data.images.catocala_ilia_cramer.src }}"
 imageLicense: "{{ site.data.images.catocala_ilia_cramer.caption }}"
 permalink: /
+composition:
+  - type: heroImage # the block type
+  - type: features
+    data: collections
 ---
 
 Edit `/home.md` to change the text.
