@@ -4,7 +4,7 @@ layout: home
 klass: home
 title: Natural History Collections
 description: |
-  An ever growing catalogue of the worlds natural history collections and the people involved
+  An ever growing catalogue of the world's natural history collections and the people involved
 
   <form action="/specimen/search" method="GET">
     <input name="q" class="input" type="text" placeholder="Name, catalog no, code, …" style="width: 250px">
