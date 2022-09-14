@@ -65,3 +65,7 @@ html {
 .boxHero {
   min-height: calc(100vh - var(--navbar-height))!important;
 }
+
+.navbar--hasWhiteText .navbar-start > .navbar-item:focus {
+  background: none;
+}
