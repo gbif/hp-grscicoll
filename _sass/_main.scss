@@ -4,10 +4,13 @@
 html {
   font-size: 15px;
 }
+
 // You can add additional styling here
 
 
 .home.floatingHero {
+  padding: 0 24px; 
+
   .feature-content {
     text-align: start;
     margin-left: auto;
@@ -15,24 +18,46 @@ html {
     width: $navbar-breakpoint;
     max-width: 100%;
   }
+
   .feature-description {
     margin: initial;
     padding: 0;
     width: 500px;
+
     p {
       font-weight: 500
     }
   }
+
   .feature-title {
     width: 500px;
+    max-width: 100%;
     font-size: 4rem;
   }
+
   .gettingStarted {
     margin-top: 1em;
     font-size: 14px;
+
     a {
       color: orange;
       text-decoration: none;
+    }
+  }
+}
+
+@media (max-width: 800px) {
+  .home.floatingHero {
+    .feature-title {
+      font-size: 3rem;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .home.floatingHero {
+    .feature-title {
+      font-size: 2rem;
     }
   }
 }
