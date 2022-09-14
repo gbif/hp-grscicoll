@@ -40,7 +40,8 @@ var siteConfig = {
   },
   occurrence: {
     excludedFilters: ['occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
-    highlightedFilters: ['taxonKey', 'institutionKey', 'collectionKey', 'catalogNumber', 'recordedBy', 'identifiedBy'],
+    highlightedFilters: ['taxonKey', 'verbatimScientificName', 'institutionKey', 'collectionKey', 'catalogNumber', 'recordedBy', 'identifiedBy'],
+    defaultTableColumns: ['features', 'institutionKey', 'collectionKey', 'catalogNumber', 'country', 'year', 'recordedBy', 'identifiedBy'],
     mapSettings: {
       lat: 0,
       lng: 0,
@@ -94,12 +95,6 @@ var siteConfig = {
       PLATE_CAREE: ['NATURAL', 'BRIGHT', 'DARK'],
       MERCATOR: ['NATURAL', 'BRIGHT', 'SATELLITE', 'DARK'],
       ANTARCTIC: ['NATURAL', 'BRIGHT', 'DARK']
-    },
-    styleLookup: {
-      MERCATOR: {
-        // BRIGHT: 'BRIGHT_MERCATOR_TEST',
-        NATURAL: 'NATURAL_HILLSHADE_MERCATOR'
-      }
     }
   }
 };

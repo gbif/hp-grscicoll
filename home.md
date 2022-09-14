@@ -13,8 +13,8 @@ description: |
 
   {: .gettingStarted}
   Not sure how to get started? <a href="/about/#what-is-this">Watch our Getting started video</a>
-background:  "{{ site.data.images.catocala_ilia_cramer.src }}"
-imageLicense: "{{ site.data.images.catocala_ilia_cramer.caption }}"
+background:  "{{ site.data.images.catocala.src }}"
+imageLicense: "{{ site.data.images.catocala.caption }}"
 permalink: /
 composition:
   - type: heroImage # the block type
