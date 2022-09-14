@@ -16,6 +16,7 @@ description: |
 background:  "{{ site.data.images.catocala.src }}"
 imageLicense: "{{ site.data.images.catocala.caption }}"
 permalink: /
+height: 80vh
 composition:
   - type: heroImage # the block type
   - type: features
