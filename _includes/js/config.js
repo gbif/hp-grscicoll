@@ -82,6 +82,16 @@ var siteConfig = {
     // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
+  collection: {
+    rootFilter: {
+      displayOnNHCPortal: true
+    }
+  },
+  institution: {
+    rootFilter: {
+      displayOnNHCPortal: true
+    }
+  },
   apiKeys: {
     maptiler: "wFxbBf3Tv2e75QQfYOOW",
     mapbox: "pk.eyJ1IjoiZ2JpZiIsImEiOiJja3VmZm50Z3kxcm1vMnBtdnBmeGd5cm9hIn0.M2z2n9QP9fRHZUCw9vbgOA"
