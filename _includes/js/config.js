@@ -42,6 +42,7 @@ var siteConfig = {
     excludedFilters: ['occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
     highlightedFilters: ['taxonKey', 'verbatimScientificName', 'institutionKey', 'collectionKey', 'catalogNumber', 'recordedBy', 'identifiedBy'],
     defaultTableColumns: ['features', 'institutionKey', 'collectionKey', 'catalogNumber', 'country', 'year', 'recordedBy', 'identifiedBy'],
+    availableCatalogues: ['INSTITUTION', 'COLLECTION', 'OCCURRENCE'],
     mapSettings: {
       lat: 0,
       lng: 0,
@@ -83,11 +84,13 @@ var siteConfig = {
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
   collection: {
+    availableCatalogues: ['INSTITUTION', 'COLLECTION', 'OCCURRENCE'],
     rootFilter: {
       displayOnNHCPortal: true
     }
   },
   institution: {
+    availableCatalogues: ['INSTITUTION', 'COLLECTION', 'OCCURRENCE'],
     rootFilter: {
       displayOnNHCPortal: true
     }
