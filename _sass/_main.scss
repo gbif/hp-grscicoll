@@ -46,6 +46,7 @@ html {
   }
 }
 
+
 @media (max-width: 800px) {
   .home.floatingHero {
     .feature-title {
@@ -60,10 +61,15 @@ html {
       font-size: 2rem;
     }
   }
+  .boxHero {
+    min-height: calc(100vh - var(--navbar-height))!important;
+  }
 }
 
-.boxHero {
-  min-height: calc(100vh - var(--navbar-height))!important;
+
+.boxHero .feature-content {
+  width: 70rem;
+  max-width: 100%;
 }
 
 .navbar--hasWhiteText .navbar-start > .navbar-item:focus {
