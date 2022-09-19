@@ -109,5 +109,8 @@ var siteConfig = {
       MERCATOR: ['NATURAL', 'BRIGHT', 'SATELLITE', 'DARK'],
       ANTARCTIC: ['NATURAL', 'BRIGHT', 'DARK']
     }
+  },
+  messages: {
+    "catalogues.occurrences": "Specimens"
   }
 };
