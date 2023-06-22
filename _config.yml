@@ -19,10 +19,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Natural History Collections # the title of your site should go here
+title: GRSciColl # the title of your site should go here
 email: info@gbif.org
 description: >- # this means to ignore newlines (until baseurl:)
-  A demo site exploring what could be the next step for GrSciColl
+  An ever growing catalogue of the world’s natural history collections and the material they hold
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hp-nhc.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gbif # if you have an account you want to link to. Else comment this line out
@@ -59,12 +59,12 @@ algae:
   style:
     square: true                  # Should corners be square or rounded
     colors:
-      primary: "#4D39E9"          # Primary color of your brand. Use HEX code. Used for buttons and links
-      links: "#4D39E9"            # What color should links have. Use a HEX code. DEfault is primary color. 
+      primary: "#a6906c"          # Primary color of your brand. Use HEX code. Used for buttons and links
+      links: "#4c5f5f"            # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
-    brandBackground: "#4D39E9"    # Define a custom background for the logo/title in the top navigation bar
-    color: "#1B2032"              # What color should the navbar be?
+    brandBackground: "#aa946d"    # Define a custom background for the logo/title in the top navigation bar
+    color: "#37464c"              # What color should the navbar be?
     hasWhiteText: true            # Should the text color be white?
 
 # Exclude from processing.

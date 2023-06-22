@@ -1,0 +1,51 @@
+/* Style the tab */
+.tab {
+  display: flex;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  flex: 1 1 auto;
+  background-color: $gold;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-weight: bold;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: $gold;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: $darkGold;
+  color: white;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  background: white;
+  form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    input {
+      margin-right: 1px;
+      flex: 1 1 auto;
+      padding: 24px 16px;
+      border: none;
+    }
+    button {
+      flex: 0 0 auto;
+      border: none;
+    }
+  }
+}

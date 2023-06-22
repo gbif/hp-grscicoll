@@ -17,7 +17,7 @@ acalypha:
 catocala:
   src: /assets/images/catocala_ilia_cramer_2365571744_cropped.jpg
   caption: |
-    [_Catocala ilia_ Cramer, 1779](https://www.gbif.org/occurrence/2365571744) from [Peabody Museum of Natural History](institution/75f50140-830d-4630-a290-3d6e951a7c29)
+    [_Catocala ilia_ Cramer, 1779](https://www.gbif.org/occurrence/2365571744) from [Peabody Museum of Natural History](/institution/75f50140-830d-4630-a290-3d6e951a7c29)
 calcinus:
   src: /assets/images/calcinus-tubularis.jpeg
   caption: |

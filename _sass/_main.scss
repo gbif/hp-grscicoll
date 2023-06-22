@@ -1,5 +1,43 @@
 @import "theme/_main";
+$gold: #dad1a8;
+$darkGold: #a6906c;
 @import "_navbar";
+@import "_home";
+
+
+// BoxHero layout overwrites
+.boxHero {
+  .feature-img-license {
+    top: 0;
+    bottom: auto;
+    right: 0;
+    left: auto;
+  }
+  .feature-text,
+  .feature-description {
+    text-align: left;
+    margin: 0;
+  }
+
+  .feature-title {
+    padding-left: 32px;
+    margin-top: 24px !important;
+    font-size: 2.5rem;
+  }
+
+  .feature-content {
+    border-radius: 12px 12px 0 0;
+  }
+}
+
+body>nav.navbar {
+  background: rgb(37, 50, 57);
+  background-color: radial-gradient(circle at 100%, rgba(37, 50, 57, 1) 0%, rgba(64, 83, 87, 1) 50%, rgba(37, 50, 57, 1) 100%);
+}
+
+.navbar-brand .navbar-logo {
+  padding-right: 24px;
+}
 
 html {
   font-size: 15px;
@@ -9,40 +47,52 @@ html {
 
 
 .home.floatingHero {
-  padding: 0 24px; 
+  padding: 0 24px;
 
   .feature-content {
+    margin-left: 100px;
     text-align: start;
     margin-left: auto;
     margin-right: auto;
     width: $navbar-breakpoint;
     max-width: 100%;
+    padding-left: 70px;
   }
 
   .feature-description {
     margin: initial;
     padding: 0;
     width: 500px;
-
+    color: $gold;
     p {
       font-weight: 500
+    }
+    .tagLine {
+      font-family: 'Merriweather', serif;
     }
   }
 
   .feature-title {
     width: 500px;
     max-width: 100%;
-    font-size: 4rem;
+    font-size: 3rem;
+    color: $gold;
+    font-weight: 300;
+    font-family: 'Merriweather', serif;
+    line-height: 1.2em;
+
+    span {
+      font-weight: 900;
+    }
+
+    #headline-offset-wrapper {
+      margin-left: -58px;
+    }
   }
 
   .gettingStarted {
     margin-top: 1em;
-    font-size: 14px;
-
-    a {
-      color: orange;
-      text-decoration: none;
-    }
+    font-size: 14px; 
   }
 }
 
@@ -61,8 +111,9 @@ html {
       font-size: 2rem;
     }
   }
+
   .boxHero {
-    min-height: calc(100vh - var(--navbar-height))!important;
+    min-height: calc(100vh - var(--navbar-height)) !important;
   }
 }
 
@@ -72,6 +123,6 @@ html {
   max-width: 100%;
 }
 
-.navbar--hasWhiteText .navbar-start > .navbar-item:focus {
+.navbar--hasWhiteText .navbar-start>.navbar-item:focus {
   background: none;
 }
