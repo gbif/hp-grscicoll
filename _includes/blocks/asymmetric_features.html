@@ -1,0 +1,19 @@
+{% assign sizes = "(max-width: 500px) 100vw, 360px" %}
+{% assign f0 = include.content.features[0] %}
+{% assign f1 = include.content.features[1] %}
+{% assign f2 = include.content.features[2] %}
+<section class="variable-size-features">
+  <div class="feature-cards">
+    <article class="feature">
+      {% include blocks/parts/feature.html content=f0 sizes=sizes %}
+    </article>
+    <div>
+      <article class="feature">
+        {% include blocks/parts/feature.html content=f1 sizes=sizes %}
+      </article>
+      <article class="feature">
+        {% include blocks/parts/feature.html content=f2 sizes=sizes %}
+      </article>
+    </div>
+  </div>
+</section>

@@ -1,6 +1,6 @@
 {
   "title": "Collections",
-  "description": "<span data-ajax-url='https://api.gbif.org/v1/grscicoll/collection?limit=0'>6,795</span> collections from lorem markdownum spatium limes indefessus neque at orat aestuat. Ille est resque, sic ruris erit ante profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur neque inplet iussus temeraria merui fas.",
+  "description": "<span data-ajax-url='https://api.gbif.org/v1/grscicoll/collection?limit=0'>6,795</span> collections from ...\n\nwe could highlight a few collections and possibly specimens. Possibly making it semi dynamic by having a list of 50 preselected ones we choose from",
   "cta": [
     {
       "text": "Explore collections",

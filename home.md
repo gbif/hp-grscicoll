@@ -10,14 +10,15 @@ title: |
     <div><span>Coll</span>ections</div>
   </div>
 description: |
-  <p class="tagLine">A worldwide catalogue of natural history collections and the material they hold</p>
+  <p class="tagLine">A worldwide catalogue of natural history collections</p>
 
   <div class="searchWrapper">
     <!-- Tab links -->
     <div class="tab">
       <button class="tablinks active" onclick="openTab(event, 'searchTab_code')">Institution code</button>
       <button class="tablinks" onclick="openTab(event, 'searchTab_name')">Institution name</button>
-      <button class="tablinks" onclick="openTab(event, 'searchTab_catalogNumber')">Specimen catalog number</button>
+      <a href="/specimen/search"><button class="tablinks" onclick="openTab(event, 'searchTab_catalogNumber')">
+        Digitized specimens <svg style="position: relative; top: 2px;" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"></path></svg></button></a>
     </div>
 
     <!-- Tab content -->
@@ -34,7 +35,7 @@ description: |
 
     <div id="searchTab_name" class="tabcontent">
       <form action="/institution/search" method="GET">
-        <input name="name" class="input" type="text" placeholder="Search institutions by name" style="width: 100%;">
+        <input name="q" class="input" type="text" placeholder="Search institutions" style="width: 100%;">
         <button type="submit" class="button is-ghost">
           <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
           <path fill="none" d="M0 0h24v24H0z"></path><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
@@ -45,8 +46,8 @@ description: |
 
     <div id="searchTab_catalogNumber" class="tabcontent">
       <form action="/specimen/search" method="GET">
-        <input name="q" class="input" type="text" placeholder="Search digitized specimens across fields" style="width: 100%;">
-        <button type="submit" class="button is-ghost">
+        <input id="home_specimen_input" name="q" class="input" type="text" placeholder="Search for digitized specimens" style="width: 100%;">
+        <button type="submit" class="button is-ghost" >
           <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
           <path fill="none" d="M0 0h24v24H0z"></path><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
           </svg>
@@ -55,6 +56,12 @@ description: |
     </div>
   </div>
   <script>
+    window.setTimeout(function() {
+      let a = document.getElementById('headline-offset');
+      a.parentElement.style.marginLeft = '-' + a.offsetWidth + 'px';
+      // a.parentElement.parentElement.style.paddingLeft = a.offsetWidth + 'px';
+    }, 300);
+
     function openTab(evt, tabName) {
       // Declare all variables
       var i, tabcontent, tablinks;
@@ -82,9 +89,17 @@ description: |
 background:  "{{ site.data.images.calcinus.src }}"
 imageLicense: "{{ site.data.images.calcinus.caption }}"
 permalink: /
-height: 80vh
+height: 85vh
 composition:
   - type: heroImage # the block type
+  - type: features
+    data: navCards.shortcuts
+  - type: split
+    data: navCards.typespecimens
+  - type: features
+    data: navCards.fakenews
+  - type: stats
+    data: navCards.stats
   - type: features
     data: collections
 navbar:
@@ -93,15 +108,25 @@ navbar:
     floating: true
 ---
 
-Edit `/home.md` to change the text.
+Ideas for the home page and content more broadly
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+pages: 
+API + download, reports
+About (history, roadmap)
+How to (register, edit, use)
+A metrics page?
+Contact
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+homepage shortcut
+  Map of institutions
+  Register new institution
+  about
+  api
+  download reports
+  GRSciColl visualized
+  grscicoll related news stories from contentful
+
+Counts
+Featured institutions/collections
+Featured specimens
 

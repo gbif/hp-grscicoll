@@ -92,8 +92,15 @@ var siteConfig = {
   institution: {
     availableCatalogues: ['INSTITUTION', 'COLLECTION', 'OCCURRENCE'],
     rootFilter: {
-      displayOnNHCPortal: true
-    }
+      displayOnNHCPortal: true,
+      active: true
+    },
+    mapSettings: {
+      enabled: true,
+      lat: 0,
+      lng: 0,
+      zoom: 1
+    },
   },
   apiKeys: {
     maptiler: "wFxbBf3Tv2e75QQfYOOW",

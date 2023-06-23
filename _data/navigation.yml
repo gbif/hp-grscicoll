@@ -6,5 +6,11 @@
   href: /specimen/search
 - text: About
   href: /about
-- text: How to
-  href: /how-to
+- text: More
+  menu: 
+  - text: How to
+    href: /how-to
+  - text: API
+    href: /api
+  - text: Reports
+    href: /reports
