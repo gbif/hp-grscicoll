@@ -1,7 +1,7 @@
 ---
 lang-ref: how-to
 
-title: What is it and how to contribute
+title: How to
 description: |
     Lorem markdownum spatium limes indefessus neque at orat aestuat. Ille est resque, sic ruris erit ante profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur neque inplet iussus temeraria merui fas.
 background:  "{{ site.data.images.catocala.src }}"

@@ -38,7 +38,7 @@ shortcuts:
         Download country reports
       # img required
       background: https://placehold.co/600x300
-      href: /api
+      href: /reports
 fakenews: 
   title: Stories
   description: if we started to tag articles in contentful with grscicoll, then we could pull relevant stories from there.
