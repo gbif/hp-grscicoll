@@ -59,7 +59,7 @@ typespecimens:
   description: |      # required
     Our community faces a noteworthy challenge: obtaining a type specimen for every described species. With 2.3 million recorded specimens according to the Catalog of Life, we currently possess holotypes for only 300 thousand of them. However, we can overcome this discrepancy by fostering collaboration and dedication. By uniting our knowledge and resources, we can strive towards acquiring type specimens for the remaining species. Let us be motivated by the significance of our mission, as we work together to enhance our understanding and preservation of the incredible biodiversity that surrounds us. Together, we can make a lasting impact.
 
-    By Chat GPT
+    [Placeholder text for a loose idea floating around]
   # img required
   background:  "{{ site.data.images.irpex.src }}"
   imageLicense: "{{ site.data.images.irpex.caption }}"
