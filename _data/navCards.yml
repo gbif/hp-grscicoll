@@ -57,9 +57,9 @@ typespecimens:
   reverse: false
   title: "Building a complete catalogue of all type specimens"
   description: |      # required
-    Our community faces a noteworthy challenge: obtaining a type specimen for every described species. With 2.3 million recorded specimens according to the Catalog of Life, we currently possess holotypes for only 300 thousand of them. However, we can overcome this discrepancy by fostering collaboration and dedication. By uniting our knowledge and resources, we can strive towards acquiring type specimens for the remaining species. Let us be motivated by the significance of our mission, as we work together to enhance our understanding and preservation of the incredible biodiversity that surrounds us. Together, we can make a lasting impact.
-
-    [Placeholder text for a loose idea floating around]
+    Our community faces a noteworthy challenge: providing the records of the type specimens for every described species. With 2.1 million recorded species according to the Catalogue of Life, we can locate holotypes for ~680 thousand of them in GBIF.org (from 925k occurrence records). However, we can overcome this discrepancy by fostering collaboration and dedication. By uniting our knowledge and resources, we can strive towards identifying where all type specimens for the remaining species are located. Let us be motivated by the significance of our mission, as we work together to enhance our understanding and preservation of the incredible biodiversity that surrounds us. Together, we can make a lasting impact.
+    
+    [Placeholder text for a loose idea floating around. Generated with ChatGPT assistance]  
   # img required
   background:  "{{ site.data.images.irpex.src }}"
   imageLicense: "{{ site.data.images.irpex.caption }}"
