@@ -2,6 +2,8 @@
 
 - text: Institutions
   href: /institution/search
+- text: Collections
+  href: /collection/search
 - text: Specimens
   href: /specimen/search
 - text: About
