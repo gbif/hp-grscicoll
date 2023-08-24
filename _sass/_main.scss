@@ -1,6 +1,8 @@
 @import "theme/_main";
 $gold: #F5EDCC;
-$darkGold: #62a8ac;
+$darkGold: #6C698D;
+$blue = #62a8ac;
+$homepageActiveTabColor = $blue;
 @import "_navbar";
 @import "_home";
 @import "_stats";
