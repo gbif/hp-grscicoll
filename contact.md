@@ -2,7 +2,7 @@
 lang-ref: contact
 title: Contact
 description: |
-    Lorem markdownum spatium limes indefessus neque at orat aestuat. Ille est resque, sic ruris erit ante profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur neque inplet iussus temeraria merui fas.
+    Contact us if you would like to contribute to the Global Registry of Scientific Collections, enounter any issue or have any question.
 background:  "{{ site.data.images.puccinia.src }}"
 imageLicense: "{{ site.data.images.puccinia.caption }}"
 height: 70vh
@@ -14,22 +14,18 @@ height: 70vh
 toc: true
 ---
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet ramo pontum ut avus quamquam de trabes vestemque cruorem tremor.
-
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille est resque, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui fas ecce aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
-
 ## Update a record
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet ramo pontum ut avus quamquam de trabes vestemque cruorem tremor.
 
-## Editors
-We could list all the GRSciColl editors
+See our how-to page.
+
+## Post on our forum
+
+You can write your questions and follow the GRSciColl activities on [the GRSciColl forum](https://discourse.gbif.org/c/grscicoll).
+
+## Subscribe and use our mailing list
+
+You are very welcome to use the GRSciColl list to discuss issues, questions and wishes concerning the Global Registry of Scientific Collections. You can subscribe [here](https://lists.gbif.org/mailman/listinfo/scientific-collections).
 
 ## Send us an email 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet ramo pontum ut avus quamquam de trabes vestemque cruorem tremor.
+
+You can send us an email at scientific-collections@gbif.org
