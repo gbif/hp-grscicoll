@@ -15,7 +15,7 @@ height: 70vh
 toc: true
 ---
 
-## What is this
+## What is the Global Registry of Scientific Collections?
 
 The Global Registry of Scientific Collections (GRSciColl), is a comprehensive and community-curated clearinghouse of collection information hosted in the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org) registry. It serves as a valuable resource for researchers, institutions and the scientific community at large. GRSciColl provides information about physical scientific collections, including their content, location, contacts, and associated institutions. It also serves as a reference for institution and collection codes and identifiers.
 
@@ -56,7 +56,7 @@ Please check our current roadmap here.
 
 You can also ask questions and contribute to our work by subscribing to our mailing list or check our forum.
 
-## How to edit
+## How to edit the GRSciColl content
 
 There are three ways to update information on GRSciColl:
 * you can suggest a change
