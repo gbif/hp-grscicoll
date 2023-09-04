@@ -56,57 +56,11 @@ Please check our current roadmap here.
 
 You can also ask questions and contribute to our work by subscribing to our mailing list or check our forum.
 
-## How to edit the GRSciColl content
+## How to edit a GRSciColl collection or institution
 
 There are three ways to update information on GRSciColl:
 * you can suggest a change
 * you can become an editor
 * you can import data
 
-### Suggest a change
-
-Anyone can suggest changes by clicking on any GRSciColl entry, then:
-* Click on `Edit`
-* Click on the `Suggest` toggle button
-* Make your suggestion and leave your email address and a comment
-
-The suggestion will be reviewed by institutional editors, country editors or GBIF Staff depending on the entry edited.
-
-### Become editor
-
-There are two types of editors in GRSciColl: editors and mediators. Both can edit data on GRSciColl and review changes but only mediators can delete, merge and transform entries.
-An editor (or mediator) can be given the permissions to edit:
-* one or several collections
-* one or several institutions (and their associated collections)
-* one or several countries (and their associated institutions and collections)
-
-To become a GRSciColl editor, you will need to have a [GBIF user account](https://www.gbif.org/user/profile) associated with your institutional email address. Please send us an email at scientific-collections@gbif.org to notify us that you would like to become an editor.
-
-### Import data
-
-The [GBIF Collections API](https://www.gbif.org/developer/registry#collections) allows for editing without going through the web interface. The API also has an experimental feature to upload batches of collection and institutions. See the documentation [here](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
-
-If you are interested in using the API for editing GRSciColl, the permission system and requirements are the same as for becoming an editor.
-
-## FAQ
-
-### How to represent my institution and collections?
-
-There is no hierarchy between collection entries nor between institution entries.
-Institutions decide the level of granularity you want to use to represent their collections. For examples, an institution could have an entry for a bird collection and another for a mammal collection while another institution would have only one entry for their vertebrate collection.
-
-In doubt, you can follow these practical guidelines:
-* Make one institution entry per physical locations (the campus, building where the collections are hosted).
-* Make one collection entry for each group of specimen with same point of contact (the person who can tell more about the collection, possibly arrange a loan).
-
-### What should be my collection/institution code?
-
-Codes don’t have to be unique in GRSciColl and an entry can have several codes. The codes should reflect what is used in practice (what is on the labels).
-Note that GRSciColl codes are used to match occurrences published on GBIF to GRSciColl entries.
-
-### What should be my collection/institution identifiers?
-
-An entry can be associated with external identifiers such as: wikidata, ROR, DOI etc.
-Only editors can add identifiers to entries.
-Note that GRSciColl identifiers are used to match occurrences published on GBIF to GRSciColl entries.
-
+See our How-to page for more details.
