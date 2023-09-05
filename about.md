@@ -65,36 +65,38 @@ As mentioned above, GRSciColl aims to improve interoperability and interacts wit
 
 Each GRSciColl entry has a Universally Unique IDentifier (UUID) and associated URLs. In addition to that, editors can add a number of external identifiers to their collections and institution entries.
 Here is the list of identifier types available:
+
 <ul id="identifierEnums"></ul>
-    <script>
-        // Function to fetch and display data
-        function fetchAndDisplayIdentifiers() {
-            const url = 'https://api.gbif.org/v1/enumeration/basic/IdentifierType';
-            const identifierEnumsList = document.getElementById('identifierEnums');
-            fetch(url)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error(`Network response was not ok: ${response.status}`);
-                    }
-                    return response.json();
-                })
-                .then(data => {
-                    // Clear any existing list items
-                    identifierEnumsList.innerHTML = '';
-                    // Iterate through the array and create list items
-                    data.forEach(identifier => {
-                        const listItem = document.createElement('li');
-                        listItem.textContent = identifier;
-                        identifierEnumsList.appendChild(listItem);
-                    });
-                })
-                .catch(error => {
-                    console.error('Error fetching data:', error);
+
+<script>
+    // Function to fetch and display data
+    function fetchAndDisplayIdentifiers() {
+        const url = 'https://api.gbif.org/v1/enumeration/basic/IdentifierType';
+        const identifierEnumsList = document.getElementById('identifierEnums');
+        fetch(url)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Network response was not ok: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                // Clear any existing list items
+                identifierEnumsList.innerHTML = '';
+                // Iterate through the array and create list items
+                data.forEach(identifier => {
+                    const listItem = document.createElement('li');
+                    listItem.textContent = identifier;
+                    identifierEnumsList.appendChild(listItem);
                 });
-        }
-        // Call the function to fetch and display data when the page loads
-        fetchAndDisplayIdentifiers();
-    </script>
+            })
+            .catch(error => {
+                console.error('Error fetching data:', error);
+            });
+    }
+    // Call the function to fetch and display data when the page loads
+    fetchAndDisplayIdentifiers();
+</script>
 
 
 
