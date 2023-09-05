@@ -40,21 +40,21 @@ In 2018, GRSciColl was adopted by the Global Biodiversity Information Facility (
 The following years,
 * GBIF worked with [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) to set up weekly synchronizations of the information in GRSciColl.
 * Collection information was imported from [iDigBio](https://www.idigbio.org).
-* The specimen-related occurrences published on GBIF were linked to GRSciColl entries whenever possible.
-* It became possible to use the metadata of datasets published on GBIF as source of information for collections.
+* The linking of specimen-related occurrences published on GBIF to GRSciColl entries was enabled.
+* The metadata of datasets published on GBIF became a possible source of information for collections.
 
 ### Where are we now
 
 GRSciColl has now a suggestion system as well as editors which review those suggestions. This system enables community curation, anyone can contribute by updating, adding, or merging records.
 We also work with national organizations to import of data from their collection registries in GRSciColl.
 
-Subset of GRSciColl can be part of GBIF-Hosted Portal. See for example the UK Natural Sciences Collections Portal: https://data.dissco-uk.org
+Subset of GRSciColl can be part of [GBIF-Hosted Portals](https://www.gbif.org/hosted-portals). See for example [the UK Natural Sciences Collections Portal](https://data.dissco-uk.org)
 
 ### What is next
 
 Please check our current roadmap here.
 
-You can also ask questions and contribute to our work by subscribing to our mailing list or check our forum.
+You can also ask questions and contribute to our work by subscribing to our mailing list or check our forum. Please check our [contact page](contact).
 
 ## How to edit a GRSciColl collection or institution
 
@@ -63,4 +63,4 @@ There are three ways to update information on GRSciColl:
 * you can become an editor
 * you can import data
 
-See our How-to page for more details.
+See [our How-to](how-to#how-to-edit-a-grscicoll-collection-or-institution) page for more details.
