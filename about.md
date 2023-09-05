@@ -23,7 +23,7 @@ The information in GRSciColl is maintained by a community of editors, including 
 
 ## How to get started
 
-You can start looking for relevant institutions here, collections here and digitized specimens here.
+You can start looking for relevant institutions [here](/institution), collections [here](/collection) and digitized specimens (here)[/specimens].
 
 ## History of the data
 
@@ -38,6 +38,7 @@ GRSciColl was originally developed by the [Consortium of the Barcode of Life (CB
 In 2018, GRSciColl was adopted by the Global Biodiversity Information Facility (GBIF) registry (see [this news item](https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections).
 
 The following years,
+* An [API was developed for GRSciColl](https://www.gbif.org/developer/registry#collections)
 * GBIF worked with [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) to set up weekly synchronizations of the information in GRSciColl.
 * Collection information was imported from [iDigBio](https://www.idigbio.org).
 * The linking of specimen-related occurrences published on GBIF to GRSciColl entries was enabled.
@@ -54,7 +55,63 @@ Subset of GRSciColl can be part of [GBIF-Hosted Portals](https://www.gbif.org/ho
 
 Please check our current roadmap here.
 
-You can also ask questions and contribute to our work by subscribing to our mailing list or check our forum. Please check our [contact page](contact).
+You can ask questions and contribute to our work by subscribing to our mailing list or check our forum. Please check our [contact page](/contact).
+
+## GRSciColl and other systems
+
+As mentioned above, GRSciColl aims to improve interoperability and interacts with a number of other systems.
+
+### Identifiers
+
+Each GRSciColl entry has a Universally Unique IDentifier (UUID) and associated URLs. In addition to that, editors can add a number of external identifiers to their collections and institution entries.
+Here is the list of identifier types available:
+<ul id="identifierEnums"></ul>
+    <script>
+        // Function to fetch and display data
+        function fetchAndDisplayIdentifiers() {
+            const url = 'https://api.gbif.org/v1/enumeration/basic/IdentifierType';
+            const identifierEnumsList = document.getElementById('identifierEnums');
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Network response was not ok: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    // Clear any existing list items
+                    identifierEnumsList.innerHTML = '';
+                    // Iterate through the array and create list items
+                    data.forEach(identifier => {
+                        const listItem = document.createElement('li');
+                        listItem.textContent = identifier;
+                        identifierEnumsList.appendChild(listItem);
+                    });
+                })
+                .catch(error => {
+                    console.error('Error fetching data:', error);
+                });
+        }
+        // Call the function to fetch and display data when the page loads
+        fetchAndDisplayIdentifiers();
+    </script>
+
+
+
+### Occurrences published on GBIF
+
+### GRSciColl content coming from other sources
+
+#### Index Herbariorum
+
+#### GBIF dataset metadata and GBIF publisher pages
+
+### GRSciColl as content for other websites
+
+#### iDigBio
+
+#### GBIF Hosted portals
+
 
 ## How to edit a GRSciColl collection or institution
 
@@ -63,4 +120,4 @@ There are three ways to update information on GRSciColl:
 * you can become an editor
 * you can import data
 
-See [our How-to](how-to#how-to-edit-a-grscicoll-collection-or-institution) page for more details.
+See [our How-to](/how-to#how-to-edit-a-grscicoll-collection-or-institution) page for more details.
