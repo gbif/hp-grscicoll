@@ -23,7 +23,7 @@ The information in GRSciColl is maintained by a community of editors, including 
 
 ## How to get started
 
-You can start looking for relevant institutions [here](/institution/search), collections [here](/collection/search) and digitized specimens (here)[/specimen/search].
+You can start looking for relevant institutions [here](/institution/search), collections [here](/collection/search) and digitized specimens [here](/specimen/search).
 
 ## History of the data
 
@@ -138,14 +138,14 @@ When an entry is connected to one of these sources, the data should be edited at
 Every week, GRSciColl synchronizes with the [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) API. This means that it will use the information accessible via that API to update exsting entries whose sources are Index Herbariorum as well as create new entries.
 
 By default, one Index Herbariorum entry correspond to an institution entry as well as a collection entry in GRSciColl. This is because Herbaria are often botany collections within other institutions. You can read more about the rationale in [this GitHub issue](https://github.com/gbif/registry/issues/167).
-The synchronization process might generate duplicate institution entries as several herbaria can belong to the same university. See our [how-to page](/how#how-to-use-the-grscicoll-editing-interface) to handle these cases.
+The synchronization process might generate duplicate institution entries as several herbaria can belong to the same university. See our [how-to page](/how-to#how-to-use-the-grscicoll-editing-interface) to handle these cases.
 
-Editors can disconnect institutions entries from Index Herbariorum and choose to edit the institution directly in the GRSciColl editing interface. See our [how-to page](/how#how-to-use-the-grscicoll-editing-interface).
+Editors can disconnect institutions entries from Index Herbariorum and choose to edit the institution directly in the GRSciColl editing interface. See our [how-to page](/how-to#how-to-use-the-grscicoll-editing-interface).
 
 #### GBIF dataset metadata and GBIF publisher pages
 
 The metadata of datasets published on GBIF can be used as primary sources for collection entries in GRSciColl. Unlike with the Index Herbariorum synchronization, there is no weekly schedule and new entries aren't automatically created.
-Instead, editors must link GRSciColl collections to their sources manually. This is because the scope of GBIF includes data beyond the scope of GRSciColl. Note that there is also an option to create a collection entry from a dataset. See our [how-to page](/how#how-to-use-the-grscicoll-editing-interface).
+Instead, editors must link GRSciColl collections to their sources manually. This is because the scope of GBIF includes data beyond the scope of GRSciColl. Note that there is also an option to create a collection entry from a dataset. See our [how-to page](/how-to#how-to-use-the-grscicoll-editing-interface).
 When the metadata of a dataset is updated, the corresponding collection entry is updated immediately.
 
 Similarly, the publisher information available on GBIF can be used as primary source for institution entries in GRSciColl.
