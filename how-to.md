@@ -15,6 +15,16 @@ height: 70vh
 toc: true
 ---
 
+## How to add a collection or an institution to GRSciColl
+
+You can suggest or add a collection or an institution to GRSciColl here:
+
+[Add New Institution](https://registry.gbif.org/institution/create){: .button .is-primary}
+
+[Add New Collection](https://registry.gbif.org/collection/create){: .button .is-primary}
+
+When creating a new entry in GRSciColl, very few fields are mandatory. However, we really appreciate if you could provide the address for the entry you created (especially the country).
+
 ## How to edit a GRSciColl collection or institution
 
 There are three ways to update information on GRSciColl:
@@ -81,10 +91,28 @@ See this blogpost: https://data-blog.gbif.org/post/grscicoll-flags/
 
 ## How to use the GRSciColl editing interface
 
-### How to edit entries connected to external sources like Index Herbariorum?
+The GRSciColl editing interface lives in the [GBIF Registry](https://registry.gbif.org). You can access it from any institution or collection page by clicking on the `Edit` button. You don't need an account to suggest changes. For direct updates and for adding or removing primary sources and identifiers, you will need to [be an editor](/how-to#become-editor).
 
-### How do I disconnect an entry from an external source?
+### My collection is a dataset on GBIF: how to make GBIF dataset metadata and GBIF publisher pages primary sources for GRSciColl
 
-### How to handle duplicates?
+1. Log in the registry interface, you must be an editor for the GRSciColl entry you would like to work with.
+2. Click on the `Master source` tab.
+3. Click on the `Create new` button (in the upper rigth corner).
+4. Select the source type (`GBIF dataset` if you are working with a collection or `GBIF publisher` if it is an institution).
+5. Add the UUID of the dataset or publisher that you would like to use. The UUID can be found in the dataset or publisher URL. For example, the UUID for `https://www.gbif.org/dataset/b275a4c1-9859-4f3c-8ead-d86dde820fbc` is `b275a4c1-9859-4f3c-8ead-d86dde820fbc`.
+6. Click on the `Create` button.
 
-### My collection is a dataset on GBIF
+### How to edit entries connected to external sources
+
+You will notice that you cannot edit fields that come from external sources. The only way to do so is to edit the entry at the source (a link to the source is provided) or disconnect the entry from the source.
+
+### How to disconnect an entry from an external source
+
+1. Log in the registry interface, you must be an editor for the GRSciColl entry you would like to work with.
+2. Click on the `Master source` tab.
+3. Click on the `Delete` button (on the same line as the source).
+
+> NB: if you would like to disconnect an collection from Index Herbariorum, please contact us.
+
+### How to handle duplicates
+
