@@ -63,7 +63,7 @@ As mentioned above, GRSciColl aims to improve interoperability and interacts wit
 
 ### Identifiers
 
-Each GRSciColl entry has a Universally Unique IDentifier (UUID) and associated URLs. In addition to that, editors can add a number of external identifiers to their collections and institution entries.
+Each GRSciColl entry has a Universally Unique IDentifier (UUID) and associated URLs. [Editors](/how-to#become-editor) can add a number of external identifiers to their collections and institution entries.
 Here is the list of identifier types available:
 
 <ul id="identifierEnums"></ul>
@@ -98,9 +98,27 @@ Here is the list of identifier types available:
     fetchAndDisplayIdentifiers();
 </script>
 
+In addition to the work of the GRSciCOll editors, a number of identifiers were imported automatically or semi-automatically for a number of institutions.
+* All the entries connected to Index Herbariorum are given an Index Herbariorum identifier. See [how the syncronization with Index Herbariorum works](/about#index-herbariorum).
+* Many `CITES` identifiers also come from Index Herbariorum. See [how the syncronization with Index Herbariorum works](/about#index-herbariorum).
+* We matched as many GRSciColl institution entries as possible with [Wikidata](https://www.wikidata.org/) with their [OpenRefine](https://openrefine.org) Resolution tool and imported the wikidata identifiers.
+* We matched as many GRSciColl institution entries as possible with the [Research Organization Registry (ROR)](https://ror.org) their [OpenRefine](https://openrefine.org) Resolution tool and imported the ROR identifiers.
+* We are working with the [NCBI BioCollection](https://www.ncbi.nlm.nih.gov/biocollections) team to import their identifiers in GRSciColl. We already imported the identifiers for a number of institutions.
 
+Institutions and collections can be searched by identifiers both on our website and with [our API lookup servcie](https://www.gbif.org/developer/registry#lookup).
+
+Identifiers are also used to link specimen-related occurrences published on GBIF to GRSciColl entries.
 
 ### Occurrences published on GBIF
+
+The GBIF interprets every new occurrence published. If this occurrence has a value for any of the following terms, the interpretation will attempt to link it to a GRSciColl entry by using the GRSciColl lookup service:
+* `institutionCode`
+* `collectionCode`
+* `institutionID`
+* `collectionID`
+
+The [GRSciColl lookup service](https://www.gbif.org/developer/registry#lookup) attempts to find which GRSciColl entries match the codes and identifiers given as input. During the occurrence interpretation, the system will use the publisher country to help choose a match in GRSciColl in cases where there are more than one candidate.
+
 
 ### GRSciColl content coming from other sources
 
