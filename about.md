@@ -23,11 +23,11 @@ The information in GRSciColl is maintained by a community of editors, including 
 
 ## How to get started
 
-You can start looking for relevant institutions [here](/institution), collections [here](/collection) and digitized specimens (here)[/specimens].
+You can start looking for relevant institutions [here](/institution/search), collections [here](/collection/search) and digitized specimens (here)[/specimen/search].
 
 ## History of the data
 
-The GRSciColl content has been built over the years. A lot of the institution and collections information has been entered by a dedicated team of curators and members of the community. Some data comes from external sources such as [Index Herbariorum](https://sweetgum.nybg.org/science/ih/), the [Integrated Digitized Biocollections (iDigBio)](https://www.idigbio.org) and national registries.
+The GRSciColl data has been built over the years. A lot of the institution and collections information has been entered by a dedicated team of curators and members of the community. Some data comes from external sources such as [Index Herbariorum](https://sweetgum.nybg.org/science/ih/), the [Integrated Digitized Biocollections (iDigBio)](https://www.idigbio.org) and national registries.
 
 ### How it all started
 
@@ -38,7 +38,7 @@ GRSciColl was originally developed by the [Consortium of the Barcode of Life (CB
 In 2018, GRSciColl was adopted by the Global Biodiversity Information Facility (GBIF) registry (see [this news item](https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections).
 
 The following years,
-* An [API was developed for GRSciColl](https://www.gbif.org/developer/registry#collections)
+* An [API was developed for GRSciColl](/api)
 * GBIF worked with [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) to set up weekly synchronizations of the information in GRSciColl.
 * Collection information was imported from [iDigBio](https://www.idigbio.org).
 * The linking of specimen-related occurrences published on GBIF to GRSciColl entries was enabled.
@@ -49,7 +49,7 @@ The following years,
 GRSciColl has now a suggestion system as well as editors which review those suggestions. This system enables community curation, anyone can contribute by updating, adding, or merging records.
 We also work with national organizations to import of data from their collection registries in GRSciColl.
 
-Subset of GRSciColl can be part of [GBIF-Hosted Portals](https://www.gbif.org/hosted-portals). See for example [the UK Natural Sciences Collections Portal](https://data.dissco-uk.org)
+Subset of GRSciColl can be part of [GBIF-Hosted Portals](https://www.gbif.org/hosted-portals). See for example [the UK Natural Sciences Collections Portal](https://data.dissco-uk.org).
 
 ### What is next
 
@@ -125,7 +125,7 @@ You can learn more on how to link GBIF occurrences to GRSciColl [here](/how-to#h
 
 Occurrences linked to GRSciColl are used to generate some of the dashboards and metrics on the GRSciColl website.
 
-### GRSciColl content coming from other sources
+### GRSciColl data coming from other sources
 
 The GRSciColl institution and collection entries can have an external primary source of information. In other words, the information available in GRSciColl can come from another registry or website. Every time the primary source is edited, the corresponding GRSciColl entry is also updated.
 The goal is to avoid maintaining the same information in multiple registries.
@@ -138,17 +138,29 @@ When an entry is connected to one of these sources, the data should be edited at
 Every week, GRSciColl synchronizes with the [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) API. This means that it will use the information accessible via that API to update exsting entries whose sources are Index Herbariorum as well as create new entries.
 
 By default, one Index Herbariorum entry correspond to an institution entry as well as a collection entry in GRSciColl. This is because Herbaria are often botany collections within other institutions. You can read more about the rationale in [this GitHub issue](https://github.com/gbif/registry/issues/167).
+The synchronization process might generate duplicate institution entries as several herbaria can belong to the same university. See our [how-to page](/how#how-to-use-the-grscicoll-editing-interface) to handle these cases.
 
-Sometimes, 
+Editors can disconnect institutions entries from Index Herbariorum and choose to edit the institution directly in the GRSciColl editing interface. See our [how-to page](/how#how-to-use-the-grscicoll-editing-interface).
 
 #### GBIF dataset metadata and GBIF publisher pages
 
+The metadata of datasets published on GBIF can be used as primary sources for collection entries in GRSciColl. Unlike with the Index Herbariorum synchronization, there is no weekly schedule and new entries aren't automatically created.
+Instead, editors must link GRSciColl collections to their sources manually. This is because the scope of GBIF includes data beyond the scope of GRSciColl. Note that there is also an option to create a collection entry from a dataset. See our [how-to page](/how#how-to-use-the-grscicoll-editing-interface).
+When the metadata of a dataset is updated, the corresponding collection entry is updated immediately.
+
+Similarly, the publisher information available on GBIF can be used as primary source for institution entries in GRSciColl.
+
 ### GRSciColl as content for other websites
+
+The [GRSciColl API](/api) makes it possible for other applications to access the GRSciColl data programmatically. This means that other website are able to display the GRSciColl conten, which remains centrally curated. Anyone can use the API to include the GRSciColl data in their systems. Below are two documented examples.
 
 #### iDigBio
 
+The data displayed on the [iDigBio Collections website](https://www.idigbio.org/portal/collections) is maintained in GRSciColl. iDigBio is part of our team of editors and review update suggestions for US institutions.
+
 #### GBIF Hosted portals
 
+The current GRSciColl website is in fact one of the [GBIF Hosted Portals](https://www.gbif.org/hosted-portals). Any GBIF Hosted portal can display the GRSciColl data. See for example [the UK Natural Sciences Collections Portal](https://data.dissco-uk.org). 
 
 ## How to edit a GRSciColl collection or institution
 
