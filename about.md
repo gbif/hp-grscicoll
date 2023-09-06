@@ -21,9 +21,6 @@ The Global Registry of Scientific Collections (GRSciColl), is a comprehensive an
 
 The information in GRSciColl is maintained by a community of editors, including representatives from registered institutions and national editors. The suggestion system enables anyone to contribute by updating, adding, or merging records, which are then reviewed by relevant individuals. GRSciColl also synchronizes regularly with external sources such as Index Herbariorum, ensuring up-to-date and reliable information.
 
-## How to get started
-
-You can start looking for relevant institutions [here](/institution/search), collections [here](/collection/search) and digitized specimens [here](/specimen/search).
 
 ## History of the data
 
@@ -43,6 +40,8 @@ The following years,
 * Collection information was imported from [iDigBio](https://www.idigbio.org).
 * The linking of specimen-related occurrences published on GBIF to GRSciColl entries was enabled.
 * The metadata of datasets published on GBIF became a possible source of information for collections.
+
+You can read more about some of the history of GRSciColl in [this blog article](https://data-blog.gbif.org/post/grscicoll-2021/).
 
 ### Where are we now
 
