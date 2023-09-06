@@ -27,7 +27,7 @@ Editors can also use the GRSciColl API to update the GRSciColl data programmatic
 
 The [GBIF Data Use Club](https://www.gbif.org/data-use-club) regularly organises webinars on various GBIF-related technical topics. Below is the recorded webinar introducing the GBIF API. It explains how to get started with any GBIF-developed API function (including the GRSciColl API).
 
-![GBIF Data Use Club - Introduction to the API, rgbif and pygbif]({[video-url](https://player.vimeo.com/video/797699677)})
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/797699677?h=e9fb58d307" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ## Technical Documentation
 
