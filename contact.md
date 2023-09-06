@@ -14,9 +14,9 @@ height: 70vh
 toc: true
 ---
 
-## Update a record
+## Update or add a record
 
-See our how-to page.
+See our [how-to page](/how-to).
 
 ## Post on our forum
 
@@ -24,8 +24,10 @@ You can write your questions and follow the GRSciColl activities on [the GRSciCo
 
 ## Subscribe and use our mailing list
 
-You are very welcome to use the GRSciColl list to discuss issues, questions and wishes concerning the Global Registry of Scientific Collections. You can subscribe [here](https://lists.gbif.org/mailman/listinfo/scientific-collections).
+You are very welcome to use the GRSciColl list to discuss issues, questions and wishes concerning the Global Registry of Scientific Collections.
+
+[Subscribe to our mailing list](https://lists.gbif.org/mailman/listinfo/scientific-collections){: .button .is-primary}
 
 ## Send us an email 
 
-You can send us an email at scientific-collections@gbif.org
+You can send us an email at `scientific-collections@gbif.org`
