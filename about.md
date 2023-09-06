@@ -162,11 +162,8 @@ The data displayed on the [iDigBio Collections website](https://www.idigbio.org/
 
 The current GRSciColl website is in fact one of the [GBIF Hosted Portals](https://www.gbif.org/hosted-portals). Any GBIF Hosted portal can display the GRSciColl data. See for example [the UK Natural Sciences Collections Portal](https://data.dissco-uk.org). 
 
-## How to edit a GRSciColl collection or institution
+## How to edit or add collections and institutions to GRSciColl
 
-There are three ways to update information on GRSciColl:
-* you can suggest a change
-* you can become an editor
-* you can import data
+To learn how you can contribute to the GRSciColl content, see our how-to page.
 
-See [our How-to](/how-to#how-to-edit-a-grscicoll-collection-or-institution) page for more details.
+[How-to](/how-to){: .button .is-primary}
