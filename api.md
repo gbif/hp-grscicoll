@@ -4,7 +4,7 @@ title: API documentation
 description: |
     All data is freely available through our APIs
 cta: 
-- text: Documentaion
+- text: Documentation
   href: /sdf
   isPrimary: true
 background:  "{{ site.data.images.acalypha.src }}"
@@ -19,24 +19,19 @@ toc: true
 ---
 
 ## What is an API
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille est resque, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui fas ecce aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
 
-## Documentation
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet ramo pontum ut avus quamquam de trabes vestemque cruorem tremor.
+API stands for Application Progamming Interface. It is a way for computer program to communicate with other system, in our case GRSciColl. Anyone can use the GRSciColl API to access the GRSciColl data programmatically.
+Editors can also use the GRSciColl API to update the GRSciColl data programmatically. If you are interested in becoming an editor, please check our [How-to](how-to#become-editor) page.
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille est resque, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui fas ecce aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+### Introduction to the GBIF API
+
+The [GBIF Data Use Club](https://www.gbif.org/data-use-club) regularly organises webinars on various GBIF-related technical topics. Below is the recorded webinar introducing the GBIF API. It explains how to get started with any GBIF-developed API function (including the GRSciColl API).
+
+[![GBIF Data Use Club - Introduction to the API, rgbif and pygbif]({[video-url](https://player.vimeo.com/video/797699677)})
+
+## Technical Documentation
+
+The API is documented in details here.
 
 [Documentation](https://gbif.org/developer/registry#collections){: .button .is-primary}
 
-## Reports
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet ramo pontum ut avus quamquam de trabes vestemque cruorem tremor.
