@@ -7,14 +7,31 @@
 - text: Specimens
   href: /specimen/search
 - text: About
-  href: /about
-- text: More
-  menu: 
-  - text: How to
-    href: /how-to
+  menu:
+  - text: What is GRSciColl?
+    href: /about#what-is-the-global-registry-of-scientific-collections
+  - text: How to participate
+    href: /about
+  - text: Connected systems
+    href: /about
   - text: API
     href: /api
   - text: Reports
     href: /reports
-  - text: Contact
+- text: Contact
+  menu:
+  - text: Forum
+    href: https://discourse.gbif.org/c/grscicoll
+  - text: Mailing list
+    href: https://lists.gbif.org/mailman/listinfo/scientific-collections
+  - text: Email
     href: /contact
+- text: How-to
+  menu:
+  - text: Add
+    href: how-to#how-to-add-a-collection-or-an-institution-to-grscicoll
+  - text: Edit
+    href: /how-to#how-to-edit-a-grscicoll-collection-or-institution
+  - text: FAQ
+    href: /how-to#editing-guidelines
+
