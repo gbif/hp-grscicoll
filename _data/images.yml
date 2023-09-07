@@ -30,3 +30,11 @@ kanakia:
   src: /assets/images/kanakia_salesnii_1265025121.jpeg
   caption: |
     *Kanakia salesnii* Delorme, 2016. [The Hemiptera collection (EH) of the Muséum national d'Histoire naturelle (MNHN - Paris)](/collection/3c5b0472-7e93-44f9-b2e4-793adccf6072) Photo 2019. Licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+octopus-eggs:
+  src: /assets/images/Octopus_eggs.jpeg
+  caption: |
+    [*Octopus rubescens* S.S.Berry, 1953](https://www.gbif.org/occurrence/2532968646) from the [Malacology and Invertebrate Zoology](https://www.gbif.org/grscicoll/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in United States of America by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+sepioteuthis:
+  src: /assets/images/sepioteuthis.jpeg
+  caption: |
+    ("Sepioteuthis HAW01" - *Sepioteuthis* Blainville, 1824)[https://www.gbif.org/occurrence/1699631546] from the [Malacology and Invertebrate Zoology](https://www.gbif.org/grscicoll/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in United States of America by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
