@@ -13,7 +13,7 @@
   - text: Get involved
     href: /about
   - text: Connected systems
-    href: /about
+    href: /connected-systems
   - text: API
     href: /api
   - text: Reports
@@ -35,7 +35,12 @@
         </span>
       </span>
     href: https://discourse.gbif.org/c/grscicoll
-  - text: Mailing list
+  - text: |
+      <span>Mailing list 
+        <span class="icon-text">
+           <i class="fa fa-link"></i>
+        </span>
+      </span>
     href: https://lists.gbif.org/mailman/listinfo/scientific-collections
   - text: Email
     href: /contact
