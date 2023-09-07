@@ -53,11 +53,3 @@ Subset of GRSciColl can be part of [GBIF-Hosted Portals](https://www.gbif.org/ho
 ### What is next
 
 Please check our current roadmap here.
-
-You can ask questions and contribute to our work by subscribing to our mailing list or check our forum. Please check our [contact page](/contact).
-
-## How to edit or add collections and institutions to GRSciColl
-
-To learn how you can contribute to the GRSciColl content, see our how-to page.
-
-[How-to](/how-to){: .button .is-primary}
