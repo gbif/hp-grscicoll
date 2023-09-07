@@ -28,7 +28,12 @@
     href: /how-to#editing-guidelines
 - text: Contact
   menu:
-  - text: Forum
+  - text: |
+      <span>Forum 
+        <span class="icon-text">
+           <i class="fa fa-link"></i>
+        </span>
+      </span>
     href: https://discourse.gbif.org/c/grscicoll
   - text: Mailing list
     href: https://lists.gbif.org/mailman/listinfo/scientific-collections
