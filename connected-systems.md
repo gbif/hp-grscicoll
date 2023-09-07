@@ -4,8 +4,8 @@ title: Connected systems
 description: |
     The Global Registry of Scientific Collections (GRSciColl) aims to improve interoperability and interacts with a number of other systems.
     
-background:  "{{ site.data.images.octopus-eggs.src }}"
-imageLicense: "{{ site.data.images.octopus-eggs.caption }}"
+background:  "{{ site.data.images.sepioteuthis.src }}"
+imageLicense: "{{ site.data.images.sepioteuthis.caption }}"
 height: 70vh
 # layout: documentation
 # sideNavigation: about.about
