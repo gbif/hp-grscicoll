@@ -18,14 +18,6 @@
     href: /api
   - text: Reports
     href: /reports
-- text: Contact
-  menu:
-  - text: Forum
-    href: https://discourse.gbif.org/c/grscicoll
-  - text: Mailing list
-    href: https://lists.gbif.org/mailman/listinfo/scientific-collections
-  - text: Email
-    href: /contact
 - text: How-to
   menu:
   - text: Add
@@ -34,4 +26,11 @@
     href: /how-to#how-to-edit-a-grscicoll-collection-or-institution
   - text: FAQ
     href: /how-to#editing-guidelines
-
+- text: Contact
+  menu:
+  - text: Forum
+    href: https://discourse.gbif.org/c/grscicoll
+  - text: Mailing list
+    href: https://lists.gbif.org/mailman/listinfo/scientific-collections
+  - text: Email
+    href: /contact
