@@ -8,8 +8,8 @@
   href: /specimen/search
 - text: About
   menu:
-  - text: The Global Registry of Scientific Collections
-    href: /about#what-is-the-global-registry-of-scientific-collections
+  - text: GRSciColl
+    href: /about
   - text: Get involved
     href: /about
   - text: Connected systems
