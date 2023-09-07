@@ -33,8 +33,12 @@ kanakia:
 octopus-eggs:
   src: /assets/images/Octopus_eggs.jpeg
   caption: |
-    [*Octopus rubescens* S.S.Berry, 1953](https://www.gbif.org/occurrence/2532968646) from the [Malacology and Invertebrate Zoology](https://www.gbif.org/grscicoll/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in United States of America by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+    [*Octopus rubescens* S.S.Berry, 1953](https://www.gbif.org/occurrence/2532968646) from the [Malacology and Invertebrate Zoology](/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in United States of America by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
 sepioteuthis:
   src: /assets/images/sepioteuthis.jpeg
   caption: |
-    ("Sepioteuthis HAW01" - *Sepioteuthis* Blainville, 1824)[https://www.gbif.org/occurrence/1699631546] from the [Malacology and Invertebrate Zoology](https://www.gbif.org/grscicoll/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in United States of America by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+    ("Sepioteuthis HAW01" - *Sepioteuthis* Blainville, 1824)[https://www.gbif.org/occurrence/1699631546] from the [Malacology and Invertebrate Zoology](/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in United States of America by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+bombus-rufocinctus:
+  src: /assets/images/Bombus_rufocinctus-3.jpg
+  caption: |
+    [*Bombus rufocinctus* Cresson, 1863](https://www.gbif.org/occurrence/4041655307) from the [Luther Entomological Research Collection](/collection/1e832809-d74d-4527-ad12-4cd698c713f8collected) in United States of America by Luther College (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
