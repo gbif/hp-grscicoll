@@ -1,5 +1,5 @@
 ---
-lang-ref: about
+lang-ref: get-involved
 title: How to get involved
 description: |
     There are several ways to help us improve GRSciColl.
