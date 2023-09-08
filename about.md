@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: What is it and how to contribute
+title: What GRSciColl is and where the data come from
 description: |
     The Global Registry of Scientific Collections (GRSciColl) is a comprehensive, community-curated clearing house of information on scientific collections, which builds on previous efforts developed by the Consortium of the Barcode of Life (CBOL).
     
