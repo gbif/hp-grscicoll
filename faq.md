@@ -14,7 +14,25 @@ height: 70vh
 #  - type: pageMarkdown
 toc: true
 ---
-## Guidelines
+
+## GRSciColl website
+
+## How to get my collection or specimen featured on the homepage?
+
+If you would like your collection or specimen to be featured on the GRSciColl homepage, it must fulfill the following criteria:
+* There must be an entry for the collection and associated institution in GRSciColl
+* The collection must have some digitized specimens available on GBIF:
+     * The occurrences available on GBIF must be linked to the GRSciColl entry
+     * Some of the occurrences available on GBIF must have images
+
+If you want to submit your collection, please fill the following form.
+
+## Can I export GRSciColl into a spreadsheet?
+
+The result of a collection or institution search can be downloaded from the website by clicking on this button:
+<img width="1664" alt="download_as_csv" src="https://github.com/gbif/hp-grscicoll/assets/7677271/0ed58648-4efc-4755-876f-29677f6be975">
+
+## Editing guidelines
 
 ### How to represent my institution and collections?
 
@@ -49,7 +67,7 @@ If you find duplicate entries in GRSciColl, there are two way to handle them.
 Merging entries will delete one and transfert all the identifiers, codes and collections (if it is an institution) to the remaining entry. In additiont to that, the information from the entry deleted will be transferred to empty fields in the remaining entry.
 We recommend merging entry rather than deleting them to conserve the identifiers. So if someone references one of the "old" identifiers, they will be redirected to the remaining entry.
 
-## Technical questions
+## Editing interface - Technical questions
 
 The GRSciColl editing interface lives in the [GBIF Registry](https://registry.gbif.org). You can access it from any institution or collection page by clicking on the `Edit` button. You don't need an account to suggest changes. For direct updates and for adding or removing primary sources and identifiers, you will need to [be an editor](/how-to#become-editor).
 
@@ -80,13 +98,3 @@ In order for your specimens to be displayed on the GRSciColl, they mus be publis
 See how to publish data on GBIF.org [here](https://www.gbif.org/publishing-data) and how to link the occurrences to GRSciColl below:
 
 [Link occurrences]([https://registry.gbif.org/institution/create](https://data-blog.gbif.org/post/grscicoll-flags/)){: .button .is-primary}
-
-## How to get my collection or specimen featured on the homepage?
-
-If you would like your collection or specimen to be featured on the GRSciColl homepage, it must fulfill the following criteria:
-* There must be an entry for the collection and associated institution in GRSciColl
-* The collection must have some digitized specimens available on GBIF:
-     * The occurrences available on GBIF must be linked to the GRSciColl entry
-     * Some of the occurrences available on GBIF must have images
-
-If you want to submit your collection, please fill the following form.
