@@ -3,8 +3,8 @@ lang-ref: contact
 title: Contact
 description: |
     Contact us if you would like to contribute to the Global Registry of Scientific Collections, enounter any issue or have any question.
-background:  "{{ site.data.images.puccinia.src }}"
-imageLicense: "{{ site.data.images.puccinia.caption }}"
+background:  "{{ site.data.images.octopus-eggs.src }}"
+imageLicense: "{{ site.data.images.octopus-eggs.caption }}"
 height: 70vh
 # layout: documentation
 # sideNavigation: about.about
