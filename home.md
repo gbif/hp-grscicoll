@@ -79,15 +79,15 @@ imageLicense: "{{ site.data.images.calcinus.caption }}"
 permalink: /
 height: 85vh
 composition:
+  - type: stats
+    data: navCards.stats
   - type: heroImage # the block type
   - type: features
     data: navCards.shortcuts
   - type: split
-    data: navCards.typespecimens
+    data: navCards.video-intro
   - type: features
-    data: navCards.fakenews
-  - type: stats
-    data: navCards.stats
+    data: navCards.news
   - type: features
     data: collections
 navbar:
