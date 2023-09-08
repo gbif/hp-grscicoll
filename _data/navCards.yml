@@ -1,12 +1,13 @@
 shortcuts: 
   features:
     - preTitle:  # optional
-      title: Institutions # required
+      title: What is GRSciColl? # required
       description: |      # required
-        8438 institutions in 89 countries
+        Read more about the history of GRSciColl.
       # img required
-      background: /assets/images/map_snapshot.png
-      href: /institution/search
+      background:  "{{ site.data.images.lepidotes.src }}"
+      imageLicense: "{{ site.data.images.lepidotes.caption }}"
+      href: /about
     - preTitle:  # optional
       title: Register new institution # required
       description: |      # required
