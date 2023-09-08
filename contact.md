@@ -20,8 +20,9 @@ See our [how-to page](/how-to).
 
 ## Post on our forum
 
-You can write your questions and follow the GRSciColl activities on [the GRSciColl forum](https://discourse.gbif.org/c/grscicoll).
+You can write your questions and follow the GRSciColl activities on our forum
 
+[GRSciColl forum](https://discourse.gbif.org/c/grscicoll){: .button .is-primary}
 ## Subscribe and use our mailing list
 
 You are very welcome to use the GRSciColl list to discuss issues, questions and wishes concerning the Global Registry of Scientific Collections.
