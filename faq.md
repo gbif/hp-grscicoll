@@ -76,7 +76,10 @@ You will notice that you cannot edit fields that come from external sources. The
 
 ### How to link specimen-related occurrences published on GBIF to GRSciColl entries
 
-[See our blogpost]([https://registry.gbif.org/institution/create](https://data-blog.gbif.org/post/grscicoll-flags/)){: .button .is-primary}
+In order for your specimens to be displayed on the GRSciColl, they mus be published on GBIF.org and linked to at least one GRSciColl entry.
+See how to publish data on GBIF.org [here](https://www.gbif.org/publishing-data) and how to link the occurrences to GRSciColl below:
+
+[Link occurrences]([https://registry.gbif.org/institution/create](https://data-blog.gbif.org/post/grscicoll-flags/)){: .button .is-primary}
 
 ## How to get my collection or specimen featured on the homepage?
 
