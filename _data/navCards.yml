@@ -21,27 +21,9 @@ shortcuts:
       # img required
       background: https://placehold.co/600x300
       href: /institution/search
-    - title: History
-      description: |      # required
-        What is GRSciColl, how long has it existed. How was it started and what is the future
-      # img required
-      background: https://placehold.co/600x300
-      href: /about
-    - title: API
-      description: |      # required
-        Learn more about how you can register your institution
-      # img required
-      background: https://cdn.discordapp.com/attachments/1017143593351258192/1121760130942373928/morten100_photo_of_knolling_plants_insects_and_wires_electric_c_7a101878-122b-4baa-91c5-6f317f0b4ff4.png
-      href: /api
-    - title: Reports
-      description: |      # required
-        Download country reports
-      # img required
-      background: https://placehold.co/600x300
-      href: /reports
-fakenews: 
+news: 
   title: Stories
-  description: if we started to tag articles in contentful with grscicoll, then we could pull relevant stories from there.
+  description: Here are some scientific collections news.
   features:
     - preTitle:  # optional
       title: Digitization of mycological collections in Nepal # required
@@ -53,26 +35,40 @@ fakenews:
     - title: GBIF provides new home for the Global Registry of Scientific Collections
       background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2FkbUm56gvv6gA8knbtWoDk%2F4754a89f96fe27d83bf20c7991a80564%2F23379056635_110b6808fe-crop.jpg
       href: https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections
-typespecimens: 
-  reverse: false
-  title: "Building a complete catalogue of all type specimens"
-  description: |      # required
-    Our community faces a noteworthy challenge: providing the records of the type specimens for every described species. With 2.1 million recorded species according to the Catalogue of Life, we can locate holotypes for ~680 thousand of them in GBIF.org (from 925k occurrence records). However, we can overcome this discrepancy by fostering collaboration and dedication. By uniting our knowledge and resources, we can strive towards identifying where all type specimens for the remaining species are located. Let us be motivated by the significance of our mission, as we work together to enhance our understanding and preservation of the incredible biodiversity that surrounds us. Together, we can make a lasting impact.
+# typespecimens: 
+#   reverse: false
+#   title: "Building a complete catalogue of all type specimens"
+#   description: |      # required
+#     Our community faces a noteworthy challenge: providing the records of the type specimens for every described species. With 2.1 million recorded species according to the Catalogue of Life, we can locate holotypes for ~680 thousand of them in GBIF.org (from 925k occurrence records). However, we can overcome this discrepancy by fostering collaboration and dedication. By uniting our knowledge and resources, we can strive towards identifying where all type specimens for the remaining species are located. Let us be motivated by the significance of our mission, as we work together to enhance our understanding and preservation of the incredible biodiversity that surrounds us. Together, we can make a lasting impact.
     
-    [Placeholder text for a loose idea floating around. Generated with ChatGPT assistance]  
+#     [Placeholder text for a loose idea floating around. Generated with ChatGPT assistance]  
+#   # img required
+#   background:  "{{ site.data.images.irpex.src }}"
+#   imageLicense: "{{ site.data.images.irpex.caption }}"
+#   href: /species/search
+#   cta:
+#   - text: Read more
+#     href: http://example.com
+#     isPrimary: true
+#   - text: Explore
+#     href: http://example.com
+
+
+video-intro: 
+  reverse: false
+  title: "Watch our video introduction to GRSciColl"
+  description: |      # required
+    Learn about the Global Registry of Scientific Collections. What it is, who is it for and how to get involved.
   # img required
   background:  "{{ site.data.images.irpex.src }}"
   imageLicense: "{{ site.data.images.irpex.caption }}"
-  href: /species/search
+  href: https://vimeo.com/649977729
   cta:
   - text: Read more
     href: http://example.com
     isPrimary: true
   - text: Explore
     href: http://example.com
-
-
-
 
 stats:
   klass: contentTypesStat
