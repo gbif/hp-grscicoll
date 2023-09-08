@@ -27,20 +27,4 @@
   - text: FAQ
     href: /faq
 - text: Contact
-  menu:
-  - text: |
-      <span>Forum 
-        <span class="icon-text">
-           <i class="fa fa-link"></i>
-        </span>
-      </span>
-    href: https://discourse.gbif.org/c/grscicoll
-  - text: |
-      <span>Mailing list 
-        <span class="icon-text">
-           <i class="fa fa-link"></i>
-        </span>
-      </span>
-    href: https://lists.gbif.org/mailman/listinfo/scientific-collections
-  - text: Email
-    href: /contact
+  href: /contact
