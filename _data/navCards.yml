@@ -5,23 +5,25 @@ shortcuts:
       description: |      # required
         Read more about the history of GRSciColl.
       # img required
-      background:  "{{ site.data.images.lepidotes.src }}"
-      imageLicense: "{{ site.data.images.lepidotes.caption }}"
+      background:  "{{ site.data.images.costatrochus.src }}"
+      imageLicense: "{{ site.data.images.costatrochus.caption }}"
       href: /about
     - preTitle:  # optional
-      title: Register new institution # required
+      title: Help us improve GRSciColl # required
       description: |      # required
-        Learn more about how you can register your institution
+        Add your institution and collections, become an editor, follow our roadmap.
       # img required
-      background: https://cdn.discordapp.com/attachments/1017143593351258192/1121421538386780170/morten100_photo_of_large_wooden_entrance_door_to_a_museum._Symm_b23bb18e-425e-47ab-b74c-dc29ed7e087c.png
-      href: /about
+      background: "{{ site.data.images.clibanarius.src }}"
+      imageLicense: "{{ site.data.images.clibanarius.caption }}"
+      href: /get-involved
     - preTitle:  # optional
-      title: How to edit entries # required
+      title: Connected systems
       description: |      # required
-        Learn more about how you can register your institution
+        Learn how GRSciColl is connected to other system such as Index Herbariorum and GBIF Hosted portals.
       # img required
-      background: https://placehold.co/600x300
-      href: /institution/search
+      background: "{{ site.data.images.echinometra.src }}"
+      imageLicense: "{{ site.data.images.echinometra.caption }}"
+      href: /connected-systems
 news: 
   title: Stories
   description: Here are some scientific collections news.
@@ -33,7 +35,7 @@ news:
       title: Digitization of mycological collections in Nepal # required
       background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F1iRymXEY7n7S70Rwk1gbmm%2F866689c5f7ec2a8dafa17fa1d580f6e7%2Ffungus_np.jpg
       href: https://www.gbif.org/project/1oof3bltISyNanpvIWQYwz/digitization-of-mycological-collections-in-nepal
-    - title: Digitization and mobilization of specimen data from Indonesia's Herbarium Bogoriense
+    - title: Environmental and physiological drivers of global lichen distribution
       background: http://api.gbif.org/v1/image/unsafe/1200x627/http%3A%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F4Cip47B5jpFReaam6nTN5A%2F740546b07759afd8e8f605e6438e4103%2Fimage.png
       href: https://www.gbif.org/data-use/2NcRzaklrkf5X1mvyOvg5V/environmental-and-physiological-drivers-of-global-lichen-distribution
 
