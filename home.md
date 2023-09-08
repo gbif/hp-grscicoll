@@ -79,9 +79,9 @@ imageLicense: "{{ site.data.images.calcinus.caption }}"
 permalink: /
 height: 85vh
 composition:
+  - type: heroImage # the block type
   - type: stats
     data: navCards.stats
-  - type: heroImage # the block type
   - type: features
     data: navCards.shortcuts
   - type: split
