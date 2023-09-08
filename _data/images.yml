@@ -49,11 +49,11 @@ teloschistes:
 lepidotes:
   src: /assets/images/Lepidotes.jpg
   caption: |
-    [*Lepidotes elvensis* Blainville, 1818](https://www.gbif.org/occurrence/4143270415) from the [Palaeontology collections MnhnL](https://www.gbif.org/grscicoll/collection/855f343c-93d6-4333-95c8-3bdc58d9e95c) collected in Luxembourg by the National Museum of Natural History, Luxembourg (licensed under https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+    [*Lepidotes elvensis* Blainville, 1818](https://www.gbif.org/occurrence/4143270415) from the [Palaeontology collections MnhnL](/collection/855f343c-93d6-4333-95c8-3bdc58d9e95c) collected in Luxembourg by the National Museum of Natural History, Luxembourg (licensed under https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 costatrochus:
   src: /assets/images/Costatrochus.JPG
   caption: |
-    [*Costatrochus subduplicatus* (d'Orbigny, 1850)](https://www.gbif.org/occurrence/1891380528) from the [Palaeontology collections MnhnL](https://www.gbif.org/grscicoll/collection/855f343c-93d6-4333-95c8-3bdc58d9e95c) collected in Luxembourg by the National Museum of Natural History, Luxembourg (licensed under https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+    [*Costatrochus subduplicatus* (d'Orbigny, 1850)](https://www.gbif.org/occurrence/1891380528) from the [Palaeontology collections MnhnL](/collection/855f343c-93d6-4333-95c8-3bdc58d9e95c) collected in Luxembourg by the National Museum of Natural History, Luxembourg (licensed under https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 clibanarius:
   src: /assets/images/Clibanarius.jpeg
   caption: |
