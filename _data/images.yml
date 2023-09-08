@@ -46,3 +46,7 @@ teloschistes:
   src: /assets/images/Teloschistes_chrysopthalmus.jpg
   caption: |
     [*Teloschistes chrysophthalmus* (L.) Th.Fr.](https://www.gbif.org/occurrence/4101503324) from the [Herbarium - University of North Carolina at Chapel Hill](https://www.gbif.org/grscicoll/collection/a7e21e07-4d7a-4ace-b2ce-11c39809bb5b) collected in United States of America by University of North Carolina at Chapel Hill Herbarium: Lichens (NCU-Lichens) (licensed under http://creativecommons.org/licenses/by-nc/3.0/)
+lepidotes:
+  src: /assets/images/Lepidotes.jpg
+  caption: |
+    [*Lepidotes elvensis* Blainville, 1818](https://www.gbif.org/occurrence/4143270415) from the [Palaeontology collections MnhnL](https://www.gbif.org/grscicoll/collection/855f343c-93d6-4333-95c8-3bdc58d9e95c) collected in Luxembourg by the National Museum of Natural History, Luxembourg (licensed under https://creativecommons.org/publicdomain/zero/1.0/legalcode)
