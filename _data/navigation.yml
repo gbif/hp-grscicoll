@@ -18,11 +18,11 @@
     href: /api
   - text: Reports
     href: /reports
-- text: Help
+- text: How-to
   menu:
-  - text: How-to add
+  - text: Add entries
     href: how-to#how-to-add-a-collection-or-an-institution-to-grscicoll
-  - text: How-to edit
+  - text: Edit entries
     href: /how-to#how-to-edit-a-grscicoll-collection-or-institution
   - text: FAQ
     href: /faq
