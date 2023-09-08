@@ -3,8 +3,8 @@ lang-ref: get-involved
 title: How to get involved
 description: |
     There are several ways to help us improve GRSciColl.
-background:  "{{ site.data.images.clibanarius.src }}"
-imageLicense: "{{ site.data.images.clibanarius.caption }}"
+background:  "{{ site.data.images.costatrochus.src }}"
+imageLicense: "{{ site.data.images.costatrochus.caption }}"
 height: 70vh
 # layout: documentation
 # sideNavigation: about.about
