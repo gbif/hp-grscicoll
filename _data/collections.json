@@ -1,13 +1,5 @@
 {
-  "title": "Collections",
-  "description": "<span data-ajax-url='https://api.gbif.org/v1/grscicoll/collection?limit=0'>6,795</span> collections from ...\n\nwe could highlight a few collections and possibly specimens. Possibly making it semi dynamic by having a list of 50 preselected ones we choose from",
-  "cta": [
-    {
-      "text": "Explore collections",
-      "isPrimary": true,
-      "href": "/collection/search"
-    }
-  ],
+  "title": "Featured collections and specimens",
   "features": [
     {
       "title": "Entomology (USNM)",
@@ -3676,6 +3668,18 @@
           "href": "/collection/edd81c9d-6df0-4473-8cca-1b2519facd14"
         }
       ]
+    }
+  ],
+  "cta": [
+    {
+      "text": "Explore collections",
+      "isPrimary": true,
+      "href": "/collection/search"
+    },
+    {
+      "text": "Explore specimens",
+      "isPrimary": true,
+      "href": "/specimen/search"
     }
   ]
 }
