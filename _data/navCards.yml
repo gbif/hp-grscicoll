@@ -25,16 +25,17 @@ news:
   title: Stories
   description: Here are some scientific collections news.
   features:
+    - title: GBIF provides new home for the Global Registry of Scientific Collections
+      background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2FkbUm56gvv6gA8knbtWoDk%2F4754a89f96fe27d83bf20c7991a80564%2F23379056635_110b6808fe-crop.jpg
+      href: https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections
     - preTitle:  # optional
       title: Digitization of mycological collections in Nepal # required
       background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F1iRymXEY7n7S70Rwk1gbmm%2F866689c5f7ec2a8dafa17fa1d580f6e7%2Ffungus_np.jpg
       href: https://www.gbif.org/project/1oof3bltISyNanpvIWQYwz/digitization-of-mycological-collections-in-nepal
     - title: Digitization and mobilization of specimen data from Indonesia's Herbarium Bogoriense
-      background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F4vOLAJPYeoJQMUhPL1qW8h%2F244840cd4283f670639a250b161f50e7%2FType_of_Lobelia_epilobioides_small.jpg
-      href: https://www.gbif.org/project/BIFA6_014/digitization-and-mobilization-of-specimen-data-from-indonesias-herbarium-bogoriense
-    - title: GBIF provides new home for the Global Registry of Scientific Collections
-      background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2FkbUm56gvv6gA8knbtWoDk%2F4754a89f96fe27d83bf20c7991a80564%2F23379056635_110b6808fe-crop.jpg
-      href: https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections
+      background: http://api.gbif.org/v1/image/unsafe/1200x627/http%3A%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F4Cip47B5jpFReaam6nTN5A%2F740546b07759afd8e8f605e6438e4103%2Fimage.png
+      href: https://www.gbif.org/data-use/2NcRzaklrkf5X1mvyOvg5V/environmental-and-physiological-drivers-of-global-lichen-distribution
+
 # typespecimens: 
 #   reverse: false
 #   title: "Building a complete catalogue of all type specimens"
@@ -60,15 +61,15 @@ video-intro:
   description: |      # required
     Learn about the Global Registry of Scientific Collections. What it is, who is it for and how to get involved.
   # img required
-  background:  "{{ site.data.images.irpex.src }}"
-  imageLicense: "{{ site.data.images.irpex.caption }}"
+  background:  "{{ site.data.images.sepioteuthis.src }}"
+  imageLicense: "{{ site.data.images.sepioteuthis.caption }}"
   href: https://vimeo.com/649977729
   cta:
   - text: Read more
-    href: http://example.com
+    href: /about
     isPrimary: true
   - text: Explore
-    href: http://example.com
+    href: /institution
 
 stats:
   klass: contentTypesStat
