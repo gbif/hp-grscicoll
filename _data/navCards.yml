@@ -5,16 +5,16 @@ shortcuts:
       description: |      # required
         Read more about the history of GRSciColl.
       # img required
-      background:  "{{ site.data.images.costatrochus.src }}"
-      imageLicense: "{{ site.data.images.costatrochus.caption }}"
+      background:  "{{ site.data.images.kanakia.src }}"
+      imageLicense: "{{ site.data.images.kanakia.caption }}"
       href: /about
     - preTitle:  # optional
       title: Help us improve GRSciColl # required
       description: |      # required
         Add your institution and collections, become an editor, follow our roadmap.
       # img required
-      background: "{{ site.data.images.clibanarius.src }}"
-      imageLicense: "{{ site.data.images.clibanarius.caption }}"
+      background: "{{ site.data.images.costatrochus.src }}"
+      imageLicense: "{{ site.data.images.costatrochus.caption }}"
       href: /get-involved
     - preTitle:  # optional
       title: Connected systems
