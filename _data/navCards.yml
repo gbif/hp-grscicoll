@@ -82,7 +82,7 @@ stats:
   features:
     - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution?displayOnNHCPortal=true">642</span>
       description: Institutions
-      background: /assets/images/institutions_small.jpg
+      background: /assets/images/institutions.gif
       href: /institution/search
     - title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?displayOnNHCPortal=true">45</span>
       description: Collections
