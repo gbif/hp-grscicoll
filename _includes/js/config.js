@@ -1,6 +1,7 @@
 var siteTheme = gbifReactComponents.themeBuilder.extend({
   baseTheme: 'light', extendWith: {
     primary: themeStyle.colors.primary,
+    linkColor: themeStyle.colors.links,
     fontSize: '16px'
   }
 });
