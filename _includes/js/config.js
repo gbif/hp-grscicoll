@@ -9,6 +9,7 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({
 var siteConfig = {
   version: 2,
   routes: {
+    // alwaysUseHrefs: true, // since the site isn't translated we can use push for now. if true, then we will always use hrefs, if false we will use onClick events and push state to the history. I've added this because I just realize that the language picker doesn't work with pushState as the url of the translated site is not updated with the new url
     enabledRoutes: ['occurrenceSearch', 'collectionSearch', 'collectionKey', 'institutionSearch', 'institutionKey'],
     occurrenceSearch: {
       route: '/specimen/search'
@@ -60,13 +61,11 @@ var siteConfig = {
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
   collection: {
-    availableCatalogues: ['INSTITUTION', 'COLLECTION', 'OCCURRENCE'],
     rootFilter: {
       displayOnNHCPortal: true
     }
   },
   institution: {
-    availableCatalogues: ['INSTITUTION', 'COLLECTION', 'OCCURRENCE'],
     rootFilter: {
       displayOnNHCPortal: true,
       active: true
