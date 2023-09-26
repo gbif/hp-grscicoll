@@ -97,4 +97,10 @@ You will notice that you cannot edit fields that come from external sources. The
 In order for your specimens to be displayed on the GRSciColl, they mus be published on GBIF.org and linked to at least one GRSciColl entry.
 See how to publish data on GBIF.org [here](https://www.gbif.org/publishing-data) and how to link the occurrences to GRSciColl below:
 
+The recommended and most declarative way to link data to institutions or collection entities in GRSciColl is to use the full URL for the entity. For example, when using Darwin Core:
+* dwc:institutionID: https://www.gbif.org/grscicoll/institution/e3d4dcc4-81e2-444c-8a5c-41d1044b5381
+* dwc:collectionID: https://www.gbif.org/grscicoll/collection/772f9e37-4643-452b-82b4-a06550283096
+
+It is also possible to use additional related identifiers. See this blog post for more details.
+
 [Link occurrences](https://data-blog.gbif.org/post/grscicoll-flags/){: .button .is-primary}
