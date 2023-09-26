@@ -22,10 +22,10 @@ calcinus:
   src: /assets/images/calcinus-tubularis2.jpg
   caption: |
     *Calcinus tubularis* (Linnaeus, 1767). [The crustaceans collection (IU) of the Muséum national d'Histoire naturelle (MNHN - Paris)](/collection/0641bf3b-29ad-42c9-b3c7-ffb5a76f6954) Photo 2019. Licensed under [CC BY 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-orhomalus:
-  src: /assets/images/fossil_orhomalus.jpeg
+crioceras:
+  src: /assets/images/crioceras.jpeg
   caption: |
-    [_Orhomalus pidanceti_ Étallon, 1861](https://www.gbif.org/occurrence/419424965) from the [The fossil collection (F) of the Muséum national d'Histoire naturelle (MNHN - Paris)](/collection/23fbece0-6e07-4a9c-ac86-7aa8e041ac9e) collected in France (licensed under http://creativecommons.org/licenses/by/4.0/)
+    [Crioceras sornayi SARKAR, 1955](https://www.gbif.org/occurrence/417138876) from the [The fossil collection (F) of the Muséum national d'Histoire naturelle (MNHN - Paris)](/collection/23fbece0-6e07-4a9c-ac86-7aa8e041ac9e) collected in France (licensed under http://creativecommons.org/licenses/by/4.0/)
 kanakia:
   src: /assets/images/kanakia_salesnii_1265025121.jpeg
   caption: |
