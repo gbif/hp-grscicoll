@@ -141,14 +141,22 @@ html {
 }
 
 .pretitle-pagenotfound {
-  font-size: 4rem;
+  font-size: 1rem;
+  color: $gold;
+  font-weight:
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+
+.title-pagenotfound {
+  font-size: 3rem;
   color: $gold;
   padding-top: 30px;
   padding-bottom: 20px;
 }
 
-.title-pagenotfound {
-  font-size: 3rem;
+.pagenotfound {
+  font-size: 1rem;
   color: $gold;
   padding-top: 30px;
   padding-bottom: 20px;
