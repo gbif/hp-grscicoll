@@ -2,7 +2,7 @@
 lang-ref: about
 title: GRSciColl
 description: |
-    The _G_lobal _R_egistry of _Sci_entific _Coll_ections (GRSciColl) is a comprehensive, community-curated clearing house of information on scientific collections, which builds on previous efforts developed by the Consortium of the Barcode of Life (CBOL).
+    The **G**lobal **R**egistry of **Sci**entific **Coll**ections (GRSciColl) is a comprehensive, community-curated clearing house of information on scientific collections, which builds on previous efforts developed by the Consortium of the Barcode of Life (CBOL).
     
 background:  "{{ site.data.images.kanakia.src }}"
 imageLicense: "{{ site.data.images.kanakia.caption }}"
