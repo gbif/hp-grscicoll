@@ -162,3 +162,8 @@ html {
   color: $gold;
   padding-bottom: 30px;
 }
+
+.toc a.active {
+  border-left: 3px solid #05a8fa;
+}
+
