@@ -3,3 +3,6 @@ en:
   icon:  # optional
 da:
   label: Dansk
+es:
+  label: Español
+  
