@@ -50,4 +50,4 @@ We also work with national organizations to import data from their collection re
 
 ### What is next
 
-Please check our current roadmap here.
+Please check our current roadmap [here](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll.md).
