@@ -6,7 +6,7 @@ description: |
 background:  "{{ site.data.images.octopus-eggs.src }}"
 imageLicense: "{{ site.data.images.octopus-eggs.caption }}"
 height: 70vh
-lang: en
+lang: es
 # layout: documentation
 # sideNavigation: about.about
 # composition: # you can extend the documentation layout with a custom composition
