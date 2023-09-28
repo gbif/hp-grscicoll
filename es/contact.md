@@ -17,7 +17,7 @@ toc: true
 
 ## Actualizar o añadir un registro
 
-Consulte nuestra página soobre [cómo hacerlo](/how-to).
+Consulte nuestra página sobre [cómo hacerlo](/how-to).
 
 ## Publicar en nuestro foro
 
@@ -27,9 +27,9 @@ Puede escribir sus preguntas y seguir las actividades de GRSciColl en nuestro fo
 
 ## Suscríbase y utilice nuestra lista de correo
 
-Le invitamos a utilizar la lista de correo de GRSciColl para debatir sobre asuntos, preguntas y sugerenciasa relacionadas con el Registro Mundial de Colecciones Científicas.
+Le invitamos a utilizar la lista de correo de GRSciColl para debatir sobre asuntos, preguntas y sugerencias relacionadas con el Registro Mundial de Colecciones Científicas.
 
-[Subscríbase a nuestra lista de correo](https://lists.gbif.org/mailman/listinfo/scientific-collections){: .button .is-primary}
+[Suscríbase a nuestra lista de correo](https://lists.gbif.org/mailman/listinfo/scientific-collections){: .button .is-primary}
 
 ## Envíenos un correo electrónico 
 

@@ -32,11 +32,11 @@ GRSciColl fue desarrollado originalmente por el [Consorcio del Código de Barras
 
 > Schindel DE, Miller SE, Trizna MG, Graham E, Crane AE. The Global Registry of Biodiversity Repositories: A Call for Community Curation. Biodivers Data J. 2016 Aug 26;(4):e10293. doi: 10.3897/BDJ.4.e10293. PMID: 27660523; PMCID: PMC5018115.
 
-En 2018, GRSciColl fue adoptado por el regsitro del Sistema Global de Información sobre Biodiversidad (GBIF) (revisa [este artículo](https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections).
+En 2018, GRSciColl fue adoptado por el registro del Sistema Global de Información sobre Biodiversidad (GBIF) (revisa [este artículo](https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections).
 
 Luego,
 
-* [Se desarrolloó un API para GRSciColl](/api)
+* [Se desarrolló un API para GRSciColl](/api)
 * GBIF trabajó con el [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) para establecer sincronizaciones semanales de la información en GRSciColl.
 * La información de las colecciones se importó desde [iDigBio](https://www.idigbio.org).
 * Se habilitó la vinculación de las ocurrencias relacionadas con especímenes publicadas en GBIF con las entradas de GRSciColl..
@@ -47,9 +47,10 @@ Puede leer más sobre la historia de GRSciColl en [este artículo del blog](http
 ###  Dónde estamos ahora
 
 GRSciColl cuenta ahora con un sistema de sugerencias, así como con editores que revisan dichas sugerencias. Este sistema permite la curación comunitaria, cualquiera puede contribuir actualizando, añadiendo o fusionando registros.
+
 También trabajamos con organizaciones nacionales para importar datos de sus registros de colecciones a GRSciColl.
 
-Un subconjunto de GRSciColl puede ser parte de los [portales alojados por GBIF](https://www.gbif.org/hosted-portals). Mire por ejemploe [el Portal de Colecciones de Ciencias Naturales de Reuno Unido](https://data.dissco-uk.org).
+Un subconjunto de GRSciColl puede ser parte de los [portales alojados por GBIF](https://www.gbif.org/hosted-portals). Mire por ejemplo [el Portal de Colecciones de Ciencias Naturales de Reino Unido](https://data.dissco-uk.org).
 
 ### próximos pasos
 
