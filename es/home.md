@@ -4,10 +4,10 @@ layout: home
 klass: home
 title: |
   <div>
-    <div><span>R</span>egistro</div>
     <div><span>G</span>lobal</div>
-    <div id="headline-offset-wrapper"><span id="headline-offset">de </span><span>C</span>olecciones</div>
-    <div><span>C</span>ientíficas</div>
+    <div><span>R</span>egistry</div>
+    <div id="headline-offset-wrapper"><span id="headline-offset">of </span><span>Sci</span>entific</div>
+    <div><span>Coll</span>ections</div>
   </div>
 description: |
   <p class="tagLine">Un catálogo mundial de colecciones científicas</p>
