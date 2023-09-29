@@ -54,4 +54,5 @@ Un subconjunto de GRSciColl puede ser parte de los [portales alojados por GBIF](
 
 ### próximos pasos
 
-Consulte aquí nuestra hoja de ruta actual.
+Consulte aquí nuestra hoja de ruta [aquí](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll.md).
+.
