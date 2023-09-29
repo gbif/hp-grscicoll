@@ -4,8 +4,8 @@ lang-ref: how-to
 title: How to
 description: |
     How to navigate the Global Registry of Scientific Collections and update its content
-background:  "{{ site.data.images.catocala.src }}"
-imageLicense: "{{ site.data.images.catocala.caption }}"
+background:  "{{ site.data.images.pagurus.src }}"
+imageLicense: "{{ site.data.images.pagurus.caption }}"
 height: 70vh
 # layout: documentation
 # sideNavigation: about.about
