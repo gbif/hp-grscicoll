@@ -1,8 +1,8 @@
 en:
   label: English
   icon:  # optional
-da:
-  label: Dansk
+  archive_permalink: /post/
 es:
   label: Español
+  archive_permalink: /es/post/
   
