@@ -25,7 +25,7 @@ If you would like to nominate your collection or specimen to be featured on the 
 * Some the occurrences available on GBIF must be linked to the GRSciColl entry
 * Some of the occurrences available on GBIF must have images
 
-and then fill in [the nomination form](mailto:scientific-collections@gbif.org?subject=GRSciColl%20website%20-%20Collection%Nomination&body=Collection%20name:\nCollection%20link:\Link%20to%20image%20that%20you%20wish%20to%20show%20on%20the%homepage%20(optional):\nSubmiter%20name%20and%20affiliation:\n).
+and then fill in [the nomination form](mailto:scientific-collections@gbif.org?subject=GRSciColl%20website%20-%20Collection%20Nomination&body=Collection%20name:%20<br>Collection%20link:%20<br>Submiter%20name%20and%20affiliation:%20<br>Link%20to%20image%20that%20you%20wish%20to%20show%20on%20the%homepage%20(optional):%20).
 
 ## Can I export GRSciColl into a spreadsheet?
 
