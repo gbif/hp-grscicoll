@@ -25,12 +25,18 @@ You can suggest or add a collection or an institution to GRSciColl here:
 
 When creating a new entry in GRSciColl, very few fields are mandatory. However, we really appreciate if you could provide the address for the entry you created (especially the country).
 
+See also this short video tutorial:
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/649977782?h=fb1d926798" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 ## How to edit a GRSciColl collection or institution
 
 There are three ways to update information on GRSciColl:
 * you can suggest a change
 * you can become an editor
 * you can import data
+
+See also this short video tutorial:
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/649977825?h=a0068cfcd8" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 ### Suggest a change
 
