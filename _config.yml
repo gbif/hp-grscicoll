@@ -89,6 +89,8 @@ exclude:
   - .LICENSE
   - .netlify.toml
   - .README.md
+  - es/
+  - _posts/es
 
 permalink: pretty # will strip extensions like .html from urls
 
