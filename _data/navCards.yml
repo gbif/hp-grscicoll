@@ -60,6 +60,7 @@ news:
 
 video-intro: 
   id: video-intro
+  klass: video-block
   reverse: false
   title: "Watch our video introduction to GRSciColl"
   description: |      # required
