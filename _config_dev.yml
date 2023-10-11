@@ -1,1 +1,2 @@
 url: "https://grscicoll.hp.gbif-dev.org" # the base hostname & protocol for your staging site, e.g. https://hp-example.gbif-uat.org
+testSite: true #style the site to show that it is a test site
