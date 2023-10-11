@@ -24,7 +24,7 @@ email: info@gbif.org
 description: >- # this means to ignore newlines (until baseurl:)
   An ever growing catalogue of the world’s natural history collections and the material they hold
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://grscicoll.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://scientific-collections.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gbif # if you have an account you want to link to. Else comment this line out
 github_username:  gbif # if you have an account you want to link to. Else comment this line out
 
