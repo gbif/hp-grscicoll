@@ -96,7 +96,7 @@ Every week, GRSciColl synchronizes with the [Index Herbariorum](https://sweetgum
 By default, one Index Herbariorum entry correspond to an institution entry as well as a collection entry in GRSciColl. This is because Herbaria are often botany collections within other institutions. You can read more about the rationale in [this GitHub issue](https://github.com/gbif/registry/issues/167).
 The synchronization process might generate duplicate institution entries as several herbaria can belong to the same university. See our [how-to page](/how-to#how-to-use-the-grscicoll-editing-interface) to handle these cases.
 
-Editors can disconnect institutions entries from Index Herbariorum and choose to edit the institution directly in the GRSciColl editing interface. See our [how-to page](/how-to#how-to-use-the-grscicoll-editing-interface).
+Editors can disconnect institutions entries from Index Herbariorum and choose to edit the institution directly in the GRSciColl editing interface. See our [FAQ](/faq#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
 
 ### GBIF dataset metadata and GBIF publisher pages
 

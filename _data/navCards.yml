@@ -59,14 +59,16 @@ news:
 
 
 video-intro: 
+  id: video-intro
+  klass: video-block
   reverse: false
   title: "Watch our video introduction to GRSciColl"
   description: |      # required
-    Learn about the Global Registry of Scientific Collections. What it is, who is it for and how to get involved.
+    Learn about the Global Registry of Scientific Collections and how to navigate the website.
   # img required
-  background:  "{{ site.data.images.sepioteuthis.src }}"
-  imageLicense: "{{ site.data.images.sepioteuthis.caption }}"
-  href: https://vimeo.com/649977729
+  background:  "{{ site.data.images.play-squid.src }}"
+  imageLicense: "{{ site.data.images.play-squid.caption }}"
+  href: https://vimeo.com/872824009
   cta:
   - text: Read more
     href: /about

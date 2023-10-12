@@ -19,13 +19,13 @@ toc: true
 
 ## How to get my collection or specimen featured on the homepage?
 
-If you would like your collection or specimen to be featured on the GRSciColl homepage, it must fulfill the following criteria:
+If you would like to nominate your collection or specimen to be featured on the GRSciColl homepage, confirm that it meets the following criteria:
 * There must be an entry for the collection and associated institution in GRSciColl
-* The collection must have some digitized specimens available on GBIF:
-     * The occurrences available on GBIF must be linked to the GRSciColl entry
-     * Some of the occurrences available on GBIF must have images
+* The collection must have some digitized specimens available on GBIF.
+* Some the occurrences available on GBIF must be linked to the GRSciColl entry
+* Some of the occurrences available on GBIF must have images
 
-If you want to submit your collection, please fill the following form.
+and then fill in and send [the nomination template](mailto:scientific-collections@gbif.org?subject=GRSciColl%20website%20-%20Collection%20Nomination&body=Collection%20name:%20%0ACollection%20link%20(on%20GRSciColl):%20%0ASubmiter%20name%20and%20affiliation:%20%0ALink%20to%20image%20that%20you%20wish%20to%20show%20on%20the%20homepage%20(optional):%20).
 
 ## Can I export GRSciColl into a spreadsheet?
 

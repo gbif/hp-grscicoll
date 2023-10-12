@@ -10,7 +10,7 @@ title: |
     <div><span>Coll</span>ections</div>
   </div>
 description: |
-  <p class="tagLine">A worldwide Catalogue of scientific collections</p>
+  <p class="tagLine">A worldwide catalogue of scientific collections</p>
 
   <div class="searchWrapper">
     <!-- Tab links -->
@@ -73,7 +73,7 @@ description: |
   </script>
 
   {: .gettingStarted}
-  Not sure how to get started? <a href="/about/#what-is-this">Watch our Getting started video</a>
+  Not sure how to get started? <a href="/#video-intro">Watch our Getting started video</a>
 background:  "{{ site.data.images.calcinus.src }}"
 imageLicense: "{{ site.data.images.calcinus.caption }}"
 permalink: /
