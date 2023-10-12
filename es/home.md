@@ -73,7 +73,7 @@ description: |
   </script>
 
   {: .gettingStarted}
-  ¿No está seguro de cómo empezar? <a href="/about/#what-is-this">Mire este video</a>
+  ¿No está seguro de cómo empezar? <a href="/#video-intro">Mire este video</a>
 background:  "{{ site.data.images.calcinus.src }}"
 imageLicense: "{{ site.data.images.calcinus.caption }}"
 permalink: /es

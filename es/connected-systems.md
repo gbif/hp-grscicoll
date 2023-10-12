@@ -96,7 +96,7 @@ Cada semana, GRSciColl se sincroniza con la API del [Index Herbariorum](https://
 Por defecto, una entrada del Index Herbariorum corresponde a una entrada de institución así como a una entrada de colección en GRSciColl. Esto se debe a que los Herbarios son a menudo colecciones de botánica dentro de otras instituciones. Puede leer más sobre la justificación en [este tema de GitHub](https://github.com/gbif/registry/issues/167).
 El proceso de sincronización puede generar entradas de instituciones duplicadas, ya que varios herbarios pueden pertenecer a la misma universidad. Consulte nuestra página [how-to](/es/how-to#how-to-use-the-grscicoll-editing-interface) para tratar estos casos.
 
-Los editores pueden desconectar las entradas de instituciones del Index Herbariorum y elegir editar la institución directamente en la interfaz de edición de GRSciColl. Consulte nuestra página [how-to](/es/how-to#how-to-use-the-grscicoll-editing-interface).
+Los editores pueden desconectar las entradas de instituciones del Index Herbariorum y elegir editar la institución directamente en la interfaz de edición de GRSciColl. Consulte nuestra página [FAQ](/es/faq#Cómo-vincular-ocurrencias-relacionadas-con-especímenes-publicadas-en-GBIF-con-entradas-de-GRSciColl).
 
 ### Metadatos de conjuntos de datos de GBIF y páginas de publicadores de GBIF
 
@@ -108,12 +108,12 @@ Del mismo modo, la información sobre publicadores disponible en GBIF puede util
 
 ## GRSciColl as content for other websites
 
-The [GRSciColl API](/api) makes it possible for other applications to access the GRSciColl data programmatically. This means that other website are able to display the GRSciColl conten, which remains centrally curated. Anyone can use the API to include the GRSciColl data in their systems. Below are two documented examples.
+La [API de GRSciColl](/api) permite a otras aplicaciones acceder a los datos de GRSciColl mediante programación. Esto significa que otros sitios web pueden mostrar el contenido de GRSciColl, que permanece centralizado. Cualquiera puede utilizar la API para incluir los datos de GRSciColl en sus sistemas. A continuación se muestran dos ejemplos documentados.
 
 ### iDigBio
 
-The data displayed on the [iDigBio Collections website](https://www.idigbio.org/portal/collections) is maintained in GRSciColl. iDigBio is part of our team of editors and review update suggestions for US institutions.
+Los datos que aparecen en el [sitio web de iDigBio](https://www.idigbio.org/portal/collections) se mantienen en GRSciColl. iDigBio forma parte de nuestro equipo de editores y revisa las sugerencias de actualización para las instituciones estadounidenses.
 
 ### GBIF Hosted portals
 
-The current GRSciColl website is in fact one of the [GBIF Hosted Portals](https://www.gbif.org/hosted-portals). Any GBIF Hosted portal can display the GRSciColl data. See for example [the UK Natural Sciences Collections Portal](https://data.dissco-uk.org). 
+El actual sitio web de GRSciColl es de hecho uno de los [Portales alojados de GBIF](https://www.gbif.org/hosted-portals). Cualquier portal alojado en GBIF puede mostrar los datos de GRSciColl. Véase por ejemplo [Portal de Colecciones de Ciencias Naturales del Reino Unido](https://data.dissco-uk.org).

@@ -22,10 +22,10 @@ toc: true
 Si desea que su colección o espécimen aparezca en la página de inicio de GRSciColl, debe cumplir los siguientes criterios:
 * Debe haber una entrada para la colección y la institución asociada en GRSciColl.
 * La colección debe tener algunos especímenes digitalizados disponibles en GBIF:
-     * Las ocurrencias disponibles en GBIF deben estar vinculadas a la entrada de GRSciColl.
-     * Algunas de las ocurrencias disponibles en GBIF deben tener imágenes
+* Algunas ocurrencias disponibles en GBIF deben estar vinculadas a la entrada de GRSciColl.
+* Algunas de las ocurrencias disponibles en GBIF deben tener imágenes
 
-Si desea enviar su colección, rellene el siguiente formulario.
+y luego ¨[complete y envíe el siguiente formulario](mailto:scientific-collections@gbif.org?subject=GRSciColl%20website%20-%20Collection%20Nomination&body=Collection%20name:%20%0ACollection%20link%20(on%20GRSciColl):%20%0ASubmiter%20name%20and%20affiliation:%20%0ALink%20to%20image%20that%20you%20wish%20to%20show%20on%20the%20homepage%20(optional):%20).
 
 ### ¿Puedo exportar los resultados de GRSciColl a una hoja de cálculo?
 
