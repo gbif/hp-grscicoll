@@ -25,6 +25,9 @@ Usted puede sugerir o añadir ya sea una colección o institución aquí:
 
 Al crear una nueva entrada en GRSciColl, muy pocos campos son obligatorios. Sin embargo, le agradeceríamos que nos facilitara la dirección de la entrada que ha creado (especialmente el país).
 
+Mire también este video tutorial:
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/649977782?h=fb1d926798" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 ## Como editar una colección o institución en GRSciColl
 
 Hay tres formas de actualizar la información en GRSciColl:

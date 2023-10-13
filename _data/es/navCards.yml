@@ -59,13 +59,15 @@ news:
 
 
 video-intro: 
+  id: video-intro
+  klass: video-block
   reverse: false
   title: "Vea nuestro vídeo de presentación de GRSciColl"
   description: |      # required
-    Conozca el Registro Mundial de Colecciones Científicas. Qué es, a quién va dirigido y cómo participar.
+    Conozca el Registro Mundial de Colecciones Científicasy como navegar por el sitio web.
   # img required
-  background:  "{{ site.data.images.sepioteuthis.src }}"
-  imageLicense: "{{ site.data.images.sepioteuthis.caption }}"
+  background:  "{{ site.data.images.play-squid.src }}"
+  imageLicense: "{{ site.data.images.play-squid.caption }}"
   href: https://vimeo.com/649977729
   cta:
   - text: Lea más

@@ -4,8 +4,8 @@ title: Documentación de la API
 description: |
     Todos los datos están disponibles libremente a través de nuestras API
 cta: 
-- text: Documentation
-  href: /sdf
+- text: Documentación del API de GBIF
+  href: https://www.gbif.org/developer/summary
   isPrimary: true
 background:  "{{ site.data.images.acalypha.src }}"
 imageLicense: "{{ site.data.images.acalypha.caption }}"
@@ -32,7 +32,7 @@ El [Club de Uso de Datos de GBIF](https://www.gbif.org/data-use-club) organiza r
 
 ## Documentación técnica
 
-La API está documentada en detalle aquí.
+La API de GRSciColl está documentada en detalle aquí.
 
 [Documentación](https://gbif.org/developer/registry#collections){: .button .is-primary}
 
