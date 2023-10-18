@@ -58,6 +58,10 @@ An entry can be associated with external identifiers such as: wikidata, ROR, DOI
 Only editors can add identifiers to entries.
 Note that GRSciColl identifiers are used to match occurrences published on GBIF to GRSciColl entries.
 
+#### What format should be my ROR identifier?
+
+The preferred form of a ROR identifier is the entire URL: https://ror.org/02mhbdp94. See [this ROR FAQ](https://ror.org/about/faqs/#what-is-a-ror-identifier).
+
 ### How to handle duplicates
 
 If you find duplicate entries in GRSciColl, there are two way to handle them.
