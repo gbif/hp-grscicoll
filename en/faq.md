@@ -1,6 +1,6 @@
 ---
+permalink: /faq
 lang-ref: faq
-
 title: Frequently Asked Questions
 description: |
     Here you will find the answers to the most frequently asked questions.

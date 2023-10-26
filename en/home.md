@@ -1,4 +1,5 @@
 ---
+permalink: /
 lang-ref: home
 layout: home
 klass: home
@@ -76,7 +77,6 @@ description: |
   Not sure how to get started? <a href="/#video-intro">Watch our Getting started video</a>
 background:  "{{ site.data.images.calcinus.src }}"
 imageLicense: "{{ site.data.images.calcinus.caption }}"
-permalink: /
 height: 85vh
 composition:
   - type: heroImage # the block type

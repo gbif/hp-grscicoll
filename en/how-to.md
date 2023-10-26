@@ -1,6 +1,6 @@
 ---
+permalink: /how-to
 lang-ref: how-to
-
 title: How to
 description: |
     How to navigate the Global Registry of Scientific Collections and update its content

@@ -1,6 +1,6 @@
 ---
+permalink: /collection/_key_
 title: Data
 description: We publish open data
-permalink: /institution/_key_
-layout: institution-key
+layout: collection-key
 ---

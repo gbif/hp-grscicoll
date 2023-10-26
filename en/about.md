@@ -1,4 +1,5 @@
 ---
+permalink: about
 lang-ref: about
 title: GRSciColl
 description: |

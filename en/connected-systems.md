@@ -1,4 +1,5 @@
 ---
+permalink: /connected-systems
 lang-ref: connected-systems
 title: Connected systems
 description: |

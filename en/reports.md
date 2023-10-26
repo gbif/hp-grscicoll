@@ -1,4 +1,5 @@
 ---
+permalink: /reports
 lang-ref: reports
 title: Download reports
 description: |

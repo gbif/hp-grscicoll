@@ -1,4 +1,5 @@
 ---
+permalink: /contact
 lang-ref: contact
 title: Contact
 description: |
