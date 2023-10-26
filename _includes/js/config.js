@@ -68,8 +68,7 @@ var siteConfig = {
   },
   institution: {
     rootFilter: {
-      displayOnNHCPortal: true,
-      active: true
+      displayOnNHCPortal: true
     },
     mapSettings: {
       enabled: true,
