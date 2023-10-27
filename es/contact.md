@@ -1,9 +1,9 @@
 ---
-permalink: /contact
+permalink: es
 lang-ref: contact
-title: Contact
+title: Contacto
 description: |
-  Contact us if you would like to contribute to the Global Registry of Scientific Collections, enounter any issue or have any question.
+  Póngase en contacto con nosotros si desea contribuir al Registro Mundial de Colecciones Científicas, encuentra algún problema o tiene alguna pregunta.
 background: "{{ site.data.images.octopus-eggs.src }}"
 imageLicense: "{{ site.data.images.octopus-eggs.caption }}"
 height: 70vh
@@ -15,21 +15,21 @@ height: 70vh
 toc: true
 ---
 
-## Update or add a record
+## Actualizar o añadir un registro
 
-See our [how-to page](/how-to).
+Consulte nuestra página sobre [cómo hacerlo](/how-to).
 
-## Post on our forum
+## Publicar en nuestro foro
 
-You can write your questions and follow the GRSciColl activities on our forum
+Puede escribir sus preguntas y seguir las actividades de GRSciColl en nuestro foro
 
-[GRSciColl forum](https://discourse.gbif.org/c/grscicoll){: .button .is-primary}
-## Subscribe and use our mailing list
+[Foro de GRSciColl](https://discourse.gbif.org/c/grscicoll){: .button .is-primary}
+## Suscríbase y utilice nuestra lista de correo
 
-You are very welcome to use the GRSciColl list to discuss issues, questions and wishes concerning the Global Registry of Scientific Collections.
+Le invitamos a utilizar la lista de correo de GRSciColl para debatir sobre asuntos, preguntas y sugerencias relacionadas con el Registro Mundial de Colecciones Científicas.
 
-[Subscribe to our mailing list](https://lists.gbif.org/mailman/listinfo/scientific-collections){: .button .is-primary}
+[Suscríbase a nuestra lista de correo](https://lists.gbif.org/mailman/listinfo/scientific-collections){: .button .is-primary}
 
-## Send us an email
+## Envíenos un correo electrónico
 
-You can send us an email at `scientific-collections@gbif.org`
+Puede enviarnos un correo electrónico a `scientific-collections@gbif.org`
