@@ -15,41 +15,41 @@ height: 70vh
 toc: true
 ---
 
-## Como añadir una colección o institución a GRSciColl
+## How to add a collection or an institution to GRSciColl
 
-Usted puede sugerir o añadir ya sea una colección o institución aquí:
+You can suggest or add a collection or an institution to GRSciColl here:
 
-[Añadir una nueva Institución](https://registry.gbif.org/institution/create){: .button .is-primary}
+[Add New Institution](https://registry.gbif.org/institution/create){: .button .is-primary}
 
-[Añadir una nueva Colección](https://registry.gbif.org/collection/create){: .button .is-primary}
+[Add New Collection](https://registry.gbif.org/collection/create){: .button .is-primary}
 
-Al crear una nueva entrada en GRSciColl, muy pocos campos son obligatorios. Sin embargo, le agradeceríamos que nos facilitara la dirección de la entrada que ha creado (especialmente el país).
+When creating a new entry in GRSciColl, very few fields are mandatory. However, we really appreciate if you could provide the address for the entry you created (especially the country).
 
 See also this short video tutorial:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977782?h=fb1d926798" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-## Como editar una colección o institución en GRSciColl
+## How to edit a GRSciColl collection or institution
 
-Hay tres formas de actualizar la información en GRSciColl:
-* puede sugerir un cambio
-* convertirse en editor
-* puede importar datos
+There are three ways to update information on GRSciColl:
+* you can suggest a change
+* you can become an editor
+* you can import data
 
 See also this short video tutorial:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977825?h=a0068cfcd8" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-### Sugerir un cambio
+### Suggest a change
 
-Cualquiera puede sugerir cambios haciendo clic en cualquier entrada de GRSciColl y, a continuación:
-* Haga clic en "Editar
+Anyone can suggest changes by clicking on any GRSciColl entry, then:
+* Click on `Edit`
 * Click on the `Suggest` toggle button
-* Haga su sugerencia y deje su dirección de correo electrónico y un comentario.
+* Make your suggestion and leave your email address and a comment
 
-También puede sugerir la adición de nuevas entradas, la fusión de duplicados y la transformación de entradas institucionales en colecciones.
+You can also suggest adding new entries, merging duplicates and transforming institution entries into collections.
 
-La sugerencia será revisada por editores institucionales, editores de país o personal de GBIF dependiendo de la entrada editada.
+The suggestion will be reviewed by institutional editors, country editors or GBIF Staff depending on the entry edited.
 
-### Convertirse en editor
+### Become editor
 
 There are two types of editors in GRSciColl: editors and mediators. Both can edit data on GRSciColl and review changes but only mediators can delete, merge and transform entries. An editor (or mediator) can be given the permissions to edit:
 * one or several collections
@@ -58,7 +58,7 @@ There are two types of editors in GRSciColl: editors and mediators. Both can edi
 
 To become a GRSciColl editor, you will need to have a [GBIF user account](https://www.gbif.org/user/profile) associated with your institutional email address. Please send us an email at scientific-collections@gbif.org to notify us that you would like to become an editor.
 
-### Importar datos
+### Import data
 
 The [GBIF Collections API](https://www.gbif.org/developer/registry#collections) allows for editing without going through the web interface. The API also has an experimental feature to upload batches of collection and institutions. See the documentation [here](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
 
