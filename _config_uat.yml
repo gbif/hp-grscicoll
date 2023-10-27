@@ -1,7 +1,7 @@
 url: "https://grscicoll.hp.gbif-uat.org" # the base hostname & protocol for your staging site, e.g. https://hp-example.gbif-uat.org
 testSite: true #style the site to show that it is a test site
 
-exclude:
+exclude: # this exclude is repeated only to NOT exclude translations, so that they are visible in UAT
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
