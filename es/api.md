@@ -1,20 +1,22 @@
 ---
+permalink: api
 lang-ref: api
 title: Documentación de la API
 description: |
-    Todos los datos están disponibles libremente a través de nuestras API
-cta: 
-- text: Documentación del API de GBIF
-  href: https://www.gbif.org/developer/summary
-  isPrimary: true
-background:  "{{ site.data.images.acalypha.src }}"
+  Todos los datos están disponibles libremente a través de nuestras API
+cta:
+  - 
+    text: Documentación del API de GBIF
+    href: https://www.gbif.org/developer/summary
+    isPrimary: true
+background: "{{ site.data.images.acalypha.src }}"
 imageLicense: "{{ site.data.images.acalypha.caption }}"
 height: 70vh
-# layout: documentation
-# sideNavigation: about.about
-# composition: # you can extend the documentation layout with a custom composition
-#  - type: postHeader
-#  - type: pageMarkdown
+#layout: documentation
+#sideNavigation: about.about
+#composition: # you can extend the documentation layout with a custom composition
+#- type: postHeader
+#- type: pageMarkdown
 toc: true
 ---
 
