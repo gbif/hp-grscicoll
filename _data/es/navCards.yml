@@ -1,0 +1,106 @@
+shortcuts:
+  features:
+    - 
+      preTitle: [ ] #optional
+      title: What is GRSciColl? #required
+      #required
+      description: |
+        Read more about the history of GRSciColl.
+      #img required
+      background: "{{ site.data.images.kanakia.src }}"
+      imageLicense: "{{ site.data.images.kanakia.caption }}"
+      href: /about
+    - 
+      preTitle: [ ] #optional
+      title: Help us improve GRSciColl #required
+      #required
+      description: |
+        Add your institution and collections, become an editor, follow our roadmap.
+      #img required
+      background: "{{ site.data.images.costatrochus.src }}"
+      imageLicense: "{{ site.data.images.costatrochus.caption }}"
+      href: /get-involved
+    - 
+      preTitle: [ ] #optional
+      title: Connected systems
+      #required
+      description: |
+        Learn how GRSciColl is connected to other system such as Index Herbariorum and GBIF Hosted portals.
+      #img required
+      background: "{{ site.data.images.echinometra.src }}"
+      imageLicense: "{{ site.data.images.echinometra.caption }}"
+      href: /connected-systems
+news:
+  title: Stories
+  description: Here are some scientific collections news.
+  features:
+    - 
+      title: GBIF provides new home for the Global Registry of Scientific Collections
+      background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2FkbUm56gvv6gA8knbtWoDk%2F4754a89f96fe27d83bf20c7991a80564%2F23379056635_110b6808fe-crop.jpg
+      href: https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections
+    - 
+      preTitle: [ ] #optional
+      title: Digitization of mycological collections in Nepal #required
+      background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F1iRymXEY7n7S70Rwk1gbmm%2F866689c5f7ec2a8dafa17fa1d580f6e7%2Ffungus_np.jpg
+      href: https://www.gbif.org/project/1oof3bltISyNanpvIWQYwz/digitization-of-mycological-collections-in-nepal
+    - 
+      title: Environmental and physiological drivers of global lichen distribution
+      background: http://api.gbif.org/v1/image/unsafe/1200x627/http%3A%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F4Cip47B5jpFReaam6nTN5A%2F740546b07759afd8e8f605e6438e4103%2Fimage.png
+      href: https://www.gbif.org/data-use/2NcRzaklrkf5X1mvyOvg5V/environmental-and-physiological-drivers-of-global-lichen-distribution
+#typespecimens:
+#reverse: false
+#title: "Building a complete catalogue of all type specimens"
+#description: |      # required
+#Our community faces a noteworthy challenge: providing the records of the type specimens for every described species. With 2.1 million recorded species according to the Catalogue of Life, we can locate holotypes for ~680 thousand of them in GBIF.org (from 925k occurrence records). However, we can overcome this discrepancy by fostering collaboration and dedication. By uniting our knowledge and resources, we can strive towards identifying where all type specimens for the remaining species are located. Let us be motivated by the significance of our mission, as we work together to enhance our understanding and preservation of the incredible biodiversity that surrounds us. Together, we can make a lasting impact.
+#[Placeholder text for a loose idea floating around. Generated with ChatGPT assistance]
+## img required
+#background:  "{{ site.data.images.irpex.src }}"
+#imageLicense: "{{ site.data.images.irpex.caption }}"
+#href: /species/search
+#cta:
+#- text: Read more
+#href: http://example.com
+#isPrimary: true
+#- text: Explore
+#href: http://example.com
+video-intro:
+  id: video-intro
+  klass: video-block
+  reverse: false
+  title: "Watch our video introduction to GRSciColl"
+  #required
+  description: |
+    Learn about the Global Registry of Scientific Collections and how to navigate the website.
+  #img required
+  background: "{{ site.data.images.play-squid.src }}"
+  imageLicense: "{{ site.data.images.play-squid.caption }}"
+  href: https://vimeo.com/872824009
+  cta:
+    - 
+      text: Read more
+      href: /about
+      isPrimary: true
+    - 
+      text: Explore
+      href: /institution
+stats:
+  klass: contentTypesStat
+  #title: "type: stats"
+  #description: |      # required
+  #See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
+  features:
+    - 
+      title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution?displayOnNHCPortal=true">642</span>
+      description: Institutions
+      background: /assets/images/institutions.gif
+      href: /institution/search
+    - 
+      title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?displayOnNHCPortal=true">45</span>
+      description: Collections
+      background: /assets/images/collections.gif
+      href: /collection/search
+    - 
+      title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=%0Aquery%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7B%0A%20%20%20%20type%3A%20and%2C%20%0A%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20type%3A%20or%2C%20%0A%20%20%20%20%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%7Btype%3A%20isNotNull%2C%20key%3A%20%22institutionKey%22%7D%2C%20%0A%20%20%20%20%20%20%20%20%20%20%7Btype%3A%20isNotNull%2C%20key%3A%20%22collectionKey%22%7D%0A%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%7D%2C%20%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20type%3A%20in%2C%20%0A%20%20%20%20%20%20%20%20key%3A%20%22basisOfRecord%22%2C%20%0A%20%20%20%20%20%20%20%20values%3A%20%5B%22PRESERVED_SPECIMEN%22%2C%20%22FOSSIL_SPECIMEN%22%2C%20%22MATERIAL_SAMPLE%22%2C%20%22LIVING_SPECIMEN%22%5D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%5D%0A%20%20%7D%29%20%7B%0A%20%20%20%20documents%28size%3A%200%29%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A&variables=%7B%22predicate%22%3A%7B%22type%22%3A%22and%22%2C%22predicates%22%3A%5B%7B%22type%22%3A%22and%22%2C%22predicates%22%3A%5B%7B%22type%22%3A%22or%22%2C%22predicates%22%3A%5B%7B%22type%22%3A%22isNotNull%22%2C%22key%22%3A%22institutionKey%22%7D%2C%7B%22type%22%3A%22isNotNull%22%2C%22key%22%3A%22collectionKey%22%7D%5D%7D%2C%7B%22type%22%3A%22in%22%2C%22key%22%3A%22basisOfRecord%22%2C%22values%22%3A%5B%22PRESERVED_SPECIMEN%22%2C%22FOSSIL_SPECIMEN%22%2C%22MATERIAL_SAMPLE%22%2C%22LIVING_SPECIMEN%22%5D%7D%2C%7B%22type%22%3A%22equals%22%2C%22key%22%3A%22publishingCountry%22%2C%22value%22%3A%22US%22%7D%5D%7D%2C%7B%22type%22%3A%22and%22%2C%22predicates%22%3A%5B%5D%7D%5D%7D%2C%22size%22%3A50%2C%22from%22%3A0%7D">45</span>
+      description: Digitized specimens
+      background: /assets/images/specimens.gif
+      href: /specimen/search
