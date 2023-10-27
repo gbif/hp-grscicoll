@@ -28,7 +28,7 @@ files:
         zh-CN: zh
         zh-TW: zh-tw
         en: en-GB-oxendict
-  - source: /_data/*.yml
+  - source: /_data/[^(?!translations$|languages$).*$].yml
     translation: /_data/%locale%/%original_file_name%
     update_option: update_as_unapproved
     languages_mapping:
