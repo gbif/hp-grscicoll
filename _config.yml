@@ -115,3 +115,69 @@ defaults:
       layout: "post"
       permalink: "/es/post/:year/:slug/"   # Use /es/post/yyyy/{filename}/ as permalink for all posts
       lang: es # And have the default language in that folder be spanish
+  
+  - scope:
+      path: "fr/"
+    values:
+      lang: fr
+  - scope:
+      path: "_posts/fr"
+    values:
+      layout: "post"
+      permalink: "/fr/post/:year/:slug/"
+      lang: fr
+
+  - scope:
+      path: "ar/"
+    values:
+      lang: ar
+  - scope:
+      path: "_posts/ar"
+    values:
+      layout: "post"
+      permalink: "/ar/post/:year/:slug/"
+      lang: ar
+  
+  - scope:
+      path: "ja/"
+    values:
+      lang: ja
+  - scope:
+      path: "_posts/ja"
+    values:
+      layout: "post"
+      permalink: "/ja/post/:year/:slug/"
+      lang: ja
+
+  - scope:
+      path: "ru/"
+    values:
+      lang: ru
+  - scope:
+      path: "_posts/ru"
+    values:
+      layout: "post"
+      permalink: "/ru/post/:year/:slug/"
+      lang: ru
+
+  - scope:
+      path: "zh/"
+    values:
+      lang: zh
+  - scope:
+      path: "_posts/zh"
+    values:
+      layout: "post"
+      permalink: "/zh/post/:year/:slug/"
+      lang: zh
+
+  - scope:
+      path: "it/"
+    values:
+      lang: it
+  - scope:
+      path: "_posts/it"
+    values:
+      layout: "post"
+      permalink: "/it/post/:year/:slug/"
+      lang: it
