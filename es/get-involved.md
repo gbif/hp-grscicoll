@@ -1,16 +1,17 @@
 ---
+permalink: /get-involved
 lang-ref: get-involved
-title: ¿Cómo involucrarse?
+title: '¿Cómo involucrarse?'
 description: |
-    There are several ways to help us improve GRSciColl.
-background:  "{{ site.data.images.costatrochus.src }}"
+  There are several ways to help us improve GRSciColl.
+background: "{{ site.data.images.costatrochus.src }}"
 imageLicense: "{{ site.data.images.costatrochus.caption }}"
 height: 70vh
-# layout: documentation
-# sideNavigation: about.about
-# composition: # you can extend the documentation layout with a custom composition
-#  - type: postHeader
-#  - type: pageMarkdown
+#layout: documentation
+#sideNavigation: about.about
+#composition: # you can extend the documentation layout with a custom composition
+#- type: postHeader
+#- type: pageMarkdown
 toc: true
 ---
 
