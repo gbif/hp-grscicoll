@@ -29,7 +29,7 @@ files:
         zh-CN: zh
         zh-TW: zh-tw
         en: en-GB-oxendict
-  - source: /_data/*.yml
+  - source: /_data/*.*
     ignore:
       - /_data/translations.yml
       - /_data/languages.yml
