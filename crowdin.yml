@@ -33,6 +33,7 @@ files:
     ignore:
       - /_data/translations.yml
       - /_data/languages.yml
+      - /_data/images.yml
     translation: /_data/%locale%/%original_file_name%
     update_option: update_as_unapproved
     languages_mapping:
