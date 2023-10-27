@@ -1,0 +1,72 @@
+irpex:
+  src: /assets/images/irpex_spiculifer_1135723338.jpg
+  caption: |
+    [Isotype of _Irpex spiculifer_ G.Cunn.](https://www.gbif.org/occurrence/1135723338) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
+puccinia:
+  src: /assets/images/puccinia-grahamii-1135811910.jpg
+  caption: |
+    [Holotype of _Puccinia grahamii_ G.Cunn.](https://www.gbif.org/occurrence/1135811910) from [Manaaki Whenua - Landcare Research](/collection/034e128e-ee23-42d4-989d-cbe406c04fdb)
+garcinia:
+  src: /assets/images/garcinia_2563424903.jpg
+  caption: |
+    [Isotype of _Garcinia urceolata_ Munzinger, Bruy & M. Pignal](https://www.gbif.org/occurrence/2563424903)
+acalypha:
+  src: /assets/images/acalypha_gillespieae_1258001892.jpg
+  caption: |
+    [Holotype of _Acalypha gillespieae_ G.A.Levin & I.Montero, 2020](https://www.gbif.org/occurrence/1258001892) from [Missouri Botanical Garden](/institution/1be3aa67-8f90-4309-92f4-bd55426a8c09)
+catocala:
+  src: /assets/images/catocala_ilia_cramer_2365571744_cropped.jpg
+  caption: |
+    [_Catocala ilia_ Cramer, 1779](https://www.gbif.org/occurrence/2365571744) from [Peabody Museum of Natural History](/institution/75f50140-830d-4630-a290-3d6e951a7c29)
+calcinus:
+  src: /assets/images/calcinus-tubularis2.jpg
+  caption: |
+    *Calcinus tubularis* (Linnaeus, 1767). [The crustaceans collection (IU) of the Muséum national d'Histoire naturelle (MNHN - Paris)](/collection/0641bf3b-29ad-42c9-b3c7-ffb5a76f6954) Photo 2019. Licensed under [CC BY 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+crioceras:
+  src: /assets/images/crioceras.jpg
+  caption: |
+    [Crioceras sornayi SARKAR, 1955](https://www.gbif.org/occurrence/417138876) from the [The fossil collection (F) of the Muséum national d'Histoire naturelle (MNHN - Paris)](/collection/23fbece0-6e07-4a9c-ac86-7aa8e041ac9e) collected in France (licensed under http://creativecommons.org/licenses/by/4.0/)
+kanakia:
+  src: /assets/images/kanakia_salesnii_1265025121.jpeg
+  caption: |
+    *Kanakia salesnii* Delorme, 2016. [The Hemiptera collection (EH) of the Muséum national d'Histoire naturelle (MNHN - Paris)](/collection/3c5b0472-7e93-44f9-b2e4-793adccf6072) Photo 2019. Licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+octopus-eggs:
+  src: /assets/images/Octopus_eggs.jpeg
+  caption: |
+    [*Octopus rubescens* S.S.Berry, 1953](https://www.gbif.org/occurrence/2532968646) from the [Malacology and Invertebrate Zoology](/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in United States of America by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+sepioteuthis:
+  src: /assets/images/sepioteuthis.jpeg
+  caption: |
+    ("Sepioteuthis HAW01" - *Sepioteuthis* Blainville, 1824)[https://www.gbif.org/occurrence/1699631546] from the [Malacology and Invertebrate Zoology](/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in United States of America by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+play-squid:
+  src: /assets/images/play-squid.jpg
+  caption: |
+    ("Sepioteuthis HAW01" - *Sepioteuthis* Blainville, 1824)[https://www.gbif.org/occurrence/1699631546] from the [Malacology and Invertebrate Zoology](/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in United States of America by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+bombus-rufocinctus:
+  src: /assets/images/Bombus_rufocinctus-3.jpg
+  caption: |
+    [*Bombus rufocinctus* Cresson, 1863](https://www.gbif.org/occurrence/4041655307) from the [Luther Entomological Research Collection](/collection/1e832809-d74d-4527-ad12-4cd698c713f8collected) in United States of America by Luther College (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+teloschistes:
+  src: /assets/images/Teloschistes_chrysopthalmus.jpg
+  caption: |
+    [*Teloschistes chrysophthalmus* (L.) Th.Fr.](https://www.gbif.org/occurrence/4101503324) from the [Herbarium - University of North Carolina at Chapel Hill](https://www.gbif.org/grscicoll/collection/a7e21e07-4d7a-4ace-b2ce-11c39809bb5b) collected in United States of America by University of North Carolina at Chapel Hill Herbarium: Lichens (NCU-Lichens) (licensed under http://creativecommons.org/licenses/by-nc/3.0/)
+lepidotes:
+  src: /assets/images/Lepidotes.jpg
+  caption: |
+    [*Lepidotes elvensis* Blainville, 1818](https://www.gbif.org/occurrence/4143270415) from the [Palaeontology collections MnhnL](/collection/855f343c-93d6-4333-95c8-3bdc58d9e95c) collected in Luxembourg by the National Museum of Natural History, Luxembourg (licensed under https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+costatrochus:
+  src: /assets/images/Costatrochus.JPG
+  caption: |
+    [*Costatrochus subduplicatus* (d'Orbigny, 1850)](https://www.gbif.org/occurrence/1891380528) from the [Palaeontology collections MnhnL](/collection/855f343c-93d6-4333-95c8-3bdc58d9e95c) collected in Luxembourg by the National Museum of Natural History, Luxembourg (licensed under https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+clibanarius:
+  src: /assets/images/Clibanarius.jpeg
+  caption: |
+    ("Clibanarius ARA02" - *Clibanarius Dana*, 1852)(https://www.gbif.org/occurrence/3382943303) from the [Malacology and Invertebrate Zoology](/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in Oman by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+echinometra:
+  src: /assets/images/Echinometra.jpeg
+  caption: |
+    ("Echinometra" - *Echinometra* Gray, 1825)(https://www.gbif.org/occurrence/3382938310) from the [Malacology and Invertebrate Zoology](/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in Oman by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+pagurus:
+  src: /assets/images/Pagurus.jpeg
+  caption: |
+    ("Pagurus" - *Pagurus* Fabricius, 1775)(https://www.gbif.org/occurrence/2532968686) from the [Malacology and Invertebrate Zoology](/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in the United States of America by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)

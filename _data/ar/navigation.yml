@@ -1,0 +1,40 @@
+- 
+  #Links listed below will be included in your site's navbar (navigation at the top)
+  text: Institutions
+  href: /institution/search
+- 
+  text: Collections
+  href: /collection/search
+- 
+  text: Specimens
+  href: /specimen/search
+- 
+  text: About
+  menu:
+    - 
+      text: GRSciColl
+      href: /about
+    - 
+      text: Get involved
+      href: /get-involved
+    - 
+      text: Connected systems
+      href: /connected-systems
+    - 
+      text: API
+      href: /api
+- 
+  text: How-to
+  menu:
+    - 
+      text: Add entries
+      href: 'how-to#how-to-add-a-collection-or-an-institution-to-grscicoll'
+    - 
+      text: Edit entries
+      href: '/how-to#how-to-edit-a-grscicoll-collection-or-institution'
+    - 
+      text: FAQ
+      href: /faq
+- 
+  text: Contact
+  href: /contact

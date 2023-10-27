@@ -1,17 +1,17 @@
 ---
+permalink: /how-to
 lang-ref: how-to
-
 title: How to
 description: |
-    How to navigate the Global Registry of Scientific Collections and update its content
-background:  "{{ site.data.images.pagurus.src }}"
+  How to navigate the Global Registry of Scientific Collections and update its content
+background: "{{ site.data.images.pagurus.src }}"
 imageLicense: "{{ site.data.images.pagurus.caption }}"
 height: 70vh
-# layout: documentation
-# sideNavigation: about.about
-# composition: # you can extend the documentation layout with a custom composition
-#  - type: postHeader
-#  - type: pageMarkdown
+#layout: documentation
+#sideNavigation: about.about
+#composition: # you can extend the documentation layout with a custom composition
+#- type: postHeader
+#- type: pageMarkdown
 toc: true
 ---
 
@@ -35,11 +35,14 @@ Hay tres formas de actualizar la información en GRSciColl:
 * convertirse en editor
 * puede importar datos
 
+See also this short video tutorial:
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/649977825?h=a0068cfcd8" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 ### Sugerir un cambio
 
 Cualquiera puede sugerir cambios haciendo clic en cualquier entrada de GRSciColl y, a continuación:
 * Haga clic en "Editar
-* Haga clic en el botón "Sugerir".
+* Click on the `Suggest` toggle button
 * Haga su sugerencia y deje su dirección de correo electrónico y un comentario.
 
 También puede sugerir la adición de nuevas entradas, la fusión de duplicados y la transformación de entradas institucionales en colecciones.
@@ -48,8 +51,7 @@ La sugerencia será revisada por editores institucionales, editores de país o p
 
 ### Convertirse en editor
 
-There are two types of editors in GRSciColl: editors and mediators. Both can edit data on GRSciColl and review changes but only mediators can delete, merge and transform entries.
-An editor (or mediator) can be given the permissions to edit:
+There are two types of editors in GRSciColl: editors and mediators. Both can edit data on GRSciColl and review changes but only mediators can delete, merge and transform entries. An editor (or mediator) can be given the permissions to edit:
 * one or several collections
 * one or several institutions (and their associated collections)
 * one or several countries (and their associated institutions and collections)
