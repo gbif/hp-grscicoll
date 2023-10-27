@@ -26,3 +26,7 @@ To learn how you can contribute to the GRSciColl content, see our how-to page.
 You can ask questions and contribute to our work by subscribing to our mailing list or check our forum.
 
 [Contact us](/contact){: .button .is-primary}
+
+## Help us translate the website
+
+You can help us translate this website to other languages by joining the GBIF translator community. You can read more [here](https://www.gbif.org/translators).
