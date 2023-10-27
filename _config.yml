@@ -89,8 +89,14 @@ exclude:
   - .LICENSE
   - .netlify.toml
   - .README.md
+  # - _posts/es # if we start adding posts this should be added until they are ready
   - es/
-  - _posts/es
+  - fr/
+  - it/
+  - ru/
+  - ja/
+  - zh/
+  - ar/
 
 permalink: pretty # will strip extensions like .html from urls
 
