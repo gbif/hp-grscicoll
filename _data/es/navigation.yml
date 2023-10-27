@@ -1,24 +1,24 @@
 - 
   #Links listed below will be included in your site's navbar (navigation at the top)
-  text: Institutions
+  text: Instituciones
   href: /institution/search
 - 
-  text: Collections
+  text: Colecciones
   href: /collection/search
 - 
-  text: Specimens
+  text: Especímenes
   href: /specimen/search
 - 
-  text: About
+  text: Acerca de
   menu:
     - 
       text: GRSciColl
       href: /about
     - 
-      text: Get involved
+      text: Involucrarse
       href: /get-involved
     - 
-      text: Connected systems
+      text: Interconexión
       href: /connected-systems
     - 
       text: API
@@ -36,5 +36,5 @@
       text: FAQ
       href: /faq
 - 
-  text: Contact
+  text: Contacto
   href: /contact
