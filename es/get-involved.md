@@ -1,7 +1,7 @@
 ---
 permalink: /get-involved
 lang-ref: get-involved
-title: How to get involved
+title: '¿Cómo involucrarse?'
 description: |
   There are several ways to help us improve GRSciColl.
 background: "{{ site.data.images.costatrochus.src }}"
@@ -15,15 +15,15 @@ height: 70vh
 toc: true
 ---
 
-## Help us improve the data
+## Ayúdenos a mejorar los datos
 
-To learn how you can contribute to the GRSciColl content, see our how-to page.
+Para saber cómo puede contribuir al contenido de GRSciColl, consulte nuestra página how-to.
 
 [How-to](/how-to){: .button .is-primary}
 
-## Help us improve the system
+## Ayúdenos a mejorar el sistema
 
-You can ask questions and contribute to our work by subscribing to our mailing list or check our forum.
+Puede hacer preguntas y contribuir a nuestro trabajo suscribiéndose a nuestra lista de correo o consultando nuestro foro.
 
 [Contact us](/contact){: .button .is-primary}
 

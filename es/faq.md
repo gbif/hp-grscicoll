@@ -1,9 +1,9 @@
 ---
 permalink: /faq
 lang-ref: faq
-title: Frequently Asked Questions
+title: Preguntas frecuentes
 description: |
-  Here you will find the answers to the most frequently asked questions.
+  Aquí encontrará las respuestas a las preguntas más frecuentes.
 background: "{{ site.data.images.bombus-rufocinctus.src }}"
 imageLicense: "{{ site.data.images.bombus-rufocinctus.caption }}"
 height: 70vh
@@ -15,90 +15,90 @@ height: 70vh
 toc: true
 ---
 
-## GRSciColl website
+## Sitio web de GRSciColl
 
-## How to get my collection or specimen featured on the homepage?
+## ¿Cómo conseguir que mi colección o espécimen aparezca en la página de inicio?
 
-If you would like to nominate your collection or specimen to be featured on the GRSciColl homepage, confirm that it meets the following criteria:
-* There must be an entry for the collection and associated institution in GRSciColl
-* The collection must have some digitized specimens available on GBIF.
-* Some the occurrences available on GBIF must be linked to the GRSciColl entry
-* Some of the occurrences available on GBIF must have images
+Si desea que su colección o espécimen aparezca en la página de inicio de GRSciColl, debe cumplir los siguientes criterios:
+* Debe haber una entrada para la colección y la institución asociada en GRSciColl.
+* La colección debe tener algunos especímenes digitalizados disponibles en GBIF:
+* Algunas ocurrencias disponibles en GBIF deben estar vinculadas a la entrada de GRSciColl.
+* Algunas de las ocurrencias disponibles en GBIF deben tener imágenes
 
-and then fill in and send [the nomination template](mailto:scientific-collections@gbif.org?subject=GRSciColl%20website%20-%20Collection%20Nomination&body=Collection%20name:%20%0ACollection%20link%20(on%20GRSciColl):%20%0ASubmiter%20name%20and%20affiliation:%20%0ALink%20to%20image%20that%20you%20wish%20to%20show%20on%20the%20homepage%20(optional):%20).
+y luego ¨[complete y envíe el siguiente formulario](mailto:scientific-collections@gbif.org?subject=GRSciColl%20website%20-%20Collection%20Nomination&body=Collection%20name:%20%0ACollection%20link%20(on%20GRSciColl):%20%0ASubmiter%20name%20and%20affiliation:%20%0ALink%20to%20image%20that%20you%20wish%20to%20show%20on%20the%20homepage%20(optional):%20).
 
-## Can I export GRSciColl into a spreadsheet?
+## ¿Puedo exportar los resultados de GRSciColl a una hoja de cálculo?
 
-The result of a collection or institution search can be downloaded from the website by clicking on this button:
+El resultado de la búsqueda de una colección o institución puede descargarse del sitio web pulsando este botón:
 <img width="1664" alt="download_as_csv" src="https://github.com/gbif/hp-grscicoll/assets/7677271/0ed58648-4efc-4755-876f-29677f6be975" />
 
-## Editing guidelines
+## Directrices para la edición
 
-### How to represent my institution and collections?
+### ¿Cómo representar mi institución y mis colecciones?
 
-There is no hierarchy between collection entries nor between institution entries. Institutions decide the level of granularity you want to use to represent their collections. For examples, an institution could have an entry for a bird collection and another for a mammal collection while another institution would have only one entry for their vertebrate collection.
+No existe jerarquía entre las entradas de las colecciones ni entre las entradas de las instituciones. Las instituciones deciden el nivel de granularidad que desean utilizar para representar sus colecciones. Por ejemplo, una institución podría tener una entrada para una colección de aves y otra para una colección de mamíferos, mientras que otra institución sólo tendría una entrada para su colección de vertebrados.
 
-In doubt, you can follow these practical guidelines:
-* Make one institution entry per physical locations (the campus, building where the collections are hosted).
-* Make one collection entry for each group of specimen with same point of contact (the person who can tell more about the collection, possibly arrange a loan).
+En caso de duda, puede seguir estas directrices prácticas:
+* Haga una entrada de institución por ubicación física (el campus, el edificio donde se alojan las colecciones).
+* Haga una entrada para cada grupo de especímenes con el mismo punto de contacto (la persona que puede dar más información sobre la colección, posiblemente organizar un préstamo).
 
-### What information should I put in GRSciColl?
+### ¿Qué información debo introducir en GRSciColl?
 
-Although very few fields are mandatory, we recommend to provide as much information as possible. For institutions, it is important to provide a name, code and address (or at least country). For collections, don't forget to add an associated institution.
+Aunque muy pocos campos son obligatorios, recomendamos facilitar la mayor cantidad de información posible. En el caso de las instituciones, es importante indicar el nombre, el código y la dirección (o al menos el país). Para las colecciones, no olvide añadir una institución asociada.
 
-### What should be my collection/institution code?
+### ¿Cuál debe ser el código de mi colección/institución?
 
-Codes don’t have to be unique in GRSciColl and an entry can have several codes. The codes should reflect what is used in practice (what is on the labels). Note that GRSciColl codes are used to match occurrences published on GBIF to GRSciColl entries.
+Los códigos no tienen por qué ser únicos en GRSciColl y una entrada puede tener varios códigos. Los códigos deben reflejar lo que se utiliza en la práctica (lo que aparece en las etiquetas). Tenga en cuenta que los códigos GRSciColl se utilizan para emparejar las ocurrencias publicadas en GBIF con las entradas GRSciColl.
 
-### What should be my collection/institution identifiers?
+### ¿Cuáles deben ser los identificadores de mi colección/institución?
 
-An entry can be associated with external identifiers such as: wikidata, ROR, DOI etc. Only editors can add identifiers to entries. Note that GRSciColl identifiers are used to match occurrences published on GBIF to GRSciColl entries.
+Una entrada puede asociarse a identificadores externos como: wikidata, ROR, DOI, etc. Sólo los editores pueden añadir identificadores a las entradas. Tenga en cuenta que los identificadores de GRSciColl se usan para emparejar ocurrencias publicadas en GBIF con entradas de GRSciColl.
 
-#### What format should be my ROR identifier?
+#### ¿Qué formato debe tener mi identificador ROR?
 
-The preferred form of a ROR identifier is the entire URL: https://ror.org/02mhbdp94. See [this ROR FAQ](https://ror.org/about/faqs/#what-is-a-ror-identifier).
+El formato recomendado para un identificador ROR es la url completa: https://ror.org/02mhbdp94. Revise [estas preguntas frecuentes](https://ror.org/about/faqs/#what-is-a-ror-identifier).
 
-### How to handle duplicates
+### Cómo gestionar duplicados
 
-If you find duplicate entries in GRSciColl, there are two way to handle them.
-* You might want to keep both entries and label one as `inactive` by uncheckling the `active` box.
-* You might want to merge the entries by using the editing interface.
+Si encuentra entradas duplicadas en GRSciColl, hay dos maneras de gestionarlas.
+* Puede que quiera mantener ambas entradas y etiquetar una como `inactiva` desmarcando la casilla `activa`.
+* Puede fusionar las entradas utilizando la interfaz de edición.
 
-Merging entries will delete one and transfert all the identifiers, codes and collections (if it is an institution) to the remaining entry. In additiont to that, the information from the entry deleted will be transferred to empty fields in the remaining entry. We recommend merging entry rather than deleting them to conserve the identifiers. So if someone references one of the "old" identifiers, they will be redirected to the remaining entry.
+La fusión de entradas eliminará una y transferirá todos los identificadores, códigos y colecciones (si se trata de una institución) a la entrada restante. Además, la información de la entrada eliminada se transferirá a los campos vacíos de la entrada restante. Recomendamos fusionar las entradas en lugar de borrarlas para conservar los identificadores. Así, si alguien hace referencia a uno de los identificadores "antiguos", será redirigido a la entrada restante.
 
-## Editing interface - Technical questions
+## Interfaz de edición - Cuestiones técnicas
 
-The GRSciColl editing interface lives in the [GBIF Registry](https://registry.gbif.org). You can access it from any institution or collection page by clicking on the `Edit` button. You don't need an account to suggest changes. For direct updates and for adding or removing primary sources and identifiers, you will need to [be an editor](/how-to#become-editor).
+La interfaz de edición de GRSciColl se encuentra en el [Registro de GBIF](https://registry.gbif.org). Puede acceder a ella desde cualquier página de institución o colección pulsando el botón `Editar`. No necesita una cuenta para sugerir cambios. Para actualizaciones directas y para añadir o eliminar fuentes primarias e identificadores, necesitará [ser editor](/es/how-to#convertirse-en-editor).
 
-### My collection is a dataset on GBIF: how to make GBIF dataset metadata and GBIF publisher pages primary sources for GRSciColl
+### Mi colección es un conjunto de datos en GBIF: cómo hacer que los metadatos del conjunto de datos de GBIF y las páginas del editor de GBIF sean fuentes primarias para GRSciColl
 
-1. Log in the registry interface, you must be an editor for the GRSciColl entry you would like to work with.
-2. Click on the `Master source` tab.
-3. Click on the `Create new` button (in the upper rigth corner).
-4. Select the source type (`GBIF dataset` if you are working with a collection or `GBIF publisher` if it is an institution).
-5. Add the UUID of the dataset or publisher that you would like to use. The UUID can be found in the dataset or publisher URL. For example, the UUID for `https://www.gbif.org/dataset/b275a4c1-9859-4f3c-8ead-d86dde820fbc` is `b275a4c1-9859-4f3c-8ead-d86dde820fbc`.
-6. Click on the `Create` button.
+1. Inicie sesión en la [interfaz del registro](https://registry.gbif.org/), debe ser editor de la entrada de GRSciColl con la que desea trabajar.
+2. Haga clic en la pestaña `Master Source`.
+3. Haga clic en el botón `Crear nuevo` (en la esquina superior derecha).
+4. Seleccione el tipo de fuente (`conjunto de datos de GBIF` si trabaja con una colección o `Publicador de GBIF` si se trata de una institución).
+5. Añada el UUID del conjunto de datos o del publicador que desea utilizar. El UUID se encuentra en la URL del conjunto de datos o del publicador. Por ejemplo, el UUID de `https://www.gbif.org/dataset/b275a4c1-9859-4f3c-8ead-d86dde820fbc` es `b275a4c1-9859-4f3c-8ead-d86dde820fbc`.
+6. De click en el botón `Crear`.
 
-### How to edit entries connected to external sources
+### Cómo editar entradas conectadas a fuentes externas
 
-You will notice that you cannot edit fields that come from external sources. The only way to do so is to edit the entry at the source (a link to the source is provided) or disconnect the entry from the source.
+Observará que no puede editar los campos que proceden de fuentes externas. La única forma de hacerlo es editar la entrada en la fuente (se proporciona un enlace a la fuente) o desconectar la entrada de la fuente.
 
-### How to disconnect an entry from an external source
+### Cómo desconectar una entrada de una fuente externa
 
-1. Log in the registry interface, you must be an editor for the GRSciColl entry you would like to work with.
-2. Click on the `Master source` tab.
-3. Click on the `Delete` button (on the same line as the source).
+1. Inicie sesión en la interfaz del registro de GBIF, debe ser editor de la entrada GRSciColl con la que desea trabajar.
+2. Haga clic en la pestaña `Master source`.
+3. Haga clic en el botón `Eliminar` (en la misma línea que la fuente).
 
-> NB: if you would like to disconnect an collection from Index Herbariorum, please contact us.
+> Nota: si desea desconectar una colección del Index Herbariorum, póngase en contacto con nosotros.
 
-### How to link specimen-related occurrences published on GBIF to GRSciColl entries
+### Cómo vincular ocurrencias relacionadas con especímenes publicadas en GBIF con entradas de GRSciColl
 
-In order for your specimens to be displayed on the GRSciColl, they mus be published on GBIF.org and linked to at least one GRSciColl entry. See how to publish data on GBIF.org [here](https://www.gbif.org/publishing-data) and how to link the occurrences to GRSciColl below:
+Para que sus especímenes aparezcan en el GRSciColl, deben estar publicados en GBIF.org y enlazados con al menos una entrada del GRSciColl. Vea cómo publicar datos en GBIF.org [aquí](https://www.gbif.org/es/publishing-data) y cómo enlazar las ocurrencias a GRSciColl más abajo:
 
-The recommended and most declarative way to link data to institutions or collection entities in GRSciColl is to use the full URL for the entity. For example, when using Darwin Core:
+La forma recomendada y más declarativa de vincular datos a instituciones o entidades de colección en GRSciColl es utilizar la URL completa de la entidad. Por ejemplo, cuando se utiliza el estándar Darwin Core:
 * dwc:institutionID: https://www.gbif.org/grscicoll/institution/e3d4dcc4-81e2-444c-8a5c-41d1044b5381
 * dwc:collectionID: https://www.gbif.org/grscicoll/collection/772f9e37-4643-452b-82b4-a06550283096
 
-It is also possible to use additional related identifiers. See this blog post for more details.
+También es posible utilizar identificadores relacionados adicionales. Consulte esta entrada del blog para obtener más detalles.
 
-[Link occurrences](https://data-blog.gbif.org/post/grscicoll-flags/){: .button .is-primary}
+[Vincular ocurrencias](https://data-blog.gbif.org/post/grscicoll-flags/){: .button .is-primary}
