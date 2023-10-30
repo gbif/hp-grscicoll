@@ -19,7 +19,7 @@ toc: true
 
 Identifiers and reference codes are essential to enable interoperbility.
 
-Each GRSciColl entry has a Universally Unique IDentifier (UUID) and associated URLs. [Editors](/how-to#become-editor) can also add a number of external identifiers to their collections and institution entries. Here is current the list of identifier types available:
+Each GRSciColl entry has a Universally Unique IDentifier (UUID) and associated URLs. [Editors](/how-to#become-editor) can also add a number of external identifiers to their collections and institution entries. Here is the current list of identifier types available:
 
 <ul id="identifierEnums"></ul>
 
@@ -96,11 +96,11 @@ Editors can disconnect institutions entries from Index Herbariorum and choose to
 
 The metadata of datasets published on GBIF can be used as primary sources for collection entries in GRSciColl. Unlike with the Index Herbariorum synchronization, there is no weekly schedule and new entries aren't automatically created. Instead, editors must link GRSciColl collections to their sources manually. This is because the scope of GBIF includes data beyond the scope of GRSciColl. Note that there is also an option to create a collection entry from a dataset. See our [how-to page](/how-to#how-to-use-the-grscicoll-editing-interface). When the metadata of a dataset is updated, the corresponding collection entry is updated immediately.
 
-Similarly, the publisher information available on GBIF can be used as primary source for institution entries in GRSciColl.
+Similarly, the publisher information available on GBIF can be used as a primary source for institution entries in GRSciColl.
 
 ## GRSciColl as content for other websites
 
-The [GRSciColl API](/api) makes it possible for other applications to access the GRSciColl data programmatically. This means that other website are able to display the GRSciColl conten, which remains centrally curated. Anyone can use the API to include the GRSciColl data in their systems. Below are two documented examples.
+The [GRSciColl API](/api) makes it possible for other applications to access the GRSciColl data programmatically. This means that other website are able to display the GRSciColl content, which remains centrally curated. Anyone can use the API to include the GRSciColl data in their systems. Below are two documented examples.
 
 ### iDigBio
 
