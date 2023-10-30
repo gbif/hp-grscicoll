@@ -24,7 +24,7 @@ La información de GRSciColl es mantenida por una comunidad de editores, que inc
 
 ## Historia de los datos
 
-Los datos de GrsciColl se han ido creando a lo largo de los años. Gran parte de la información sobre instituciones y colecciones ha sido introducida por un equipo de conservadores y miembros de la comunidad. Algunos datos proceden de fuentes externas como [el Index Herbariorum](https://sweetgum.nybg.org/science/ih/), el [Integrated Digitized Biocollections](https://www.idigbio.org/) (iDigBio) y registros nacionales.
+Gran parte de la información sobre instituciones y colecciones ha sido introducida por un equipo de conservadores y miembros de la comunidad. Algunos datos proceden de fuentes externas como [el Index Herbariorum](https://sweetgum.nybg.org/science/ih/), el [Integrated Digitized Biocollections](https://www.idigbio.org/) (iDigBio) y registros nacionales.
 
 ### Cómo empezó todo
 
