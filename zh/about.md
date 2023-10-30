@@ -3,7 +3,7 @@ permalink: about
 lang-ref: about
 title: GRSciColl
 description: |
-  The **G**lobal **R**egistry of **Sci**entific **Coll**ections (GRSciColl) is a comprehensive repository of information about scientific collections. It is a community-driven initiative that builds upon prior work by the Consortium of the Barcode of Life (CBOL). It is a community-driven initiative that builds upon prior work by the Consortium of the Barcode of Life (CBOL). It is a community-driven initiative that builds upon prior work by the Consortium of the Barcode of Life (CBOL). It is a community-driven initiative that builds upon prior work by the Consortium of the Barcode of Life (CBOL).
+  **全球科学收藏品注册表**（GRSciColl）是有关科学收藏品的信息的综合存储库。 这是一个由“生命条形码联盟”（CBOL）的合作机构之前的工作构建而成的社区驱动的倡议项目。
 background: "{{ site.data.images.kanakia.src }}"
 imageLicense: "{{ site.data.images.kanakia.caption }}"
 height: 70vh
@@ -15,37 +15,37 @@ height: 70vh
 toc: true
 ---
 
-## What is the Global Registry of Scientific Collections?
+## 什么是全球科学收藏品注册表？
 
-The Global Registry of Scientific Collections (GRSciColl) is a comprehensive and community-curated clearinghouse of collection information hosted in the [Global Biodiversity Information Facility](https://www.gbif.org/) (GBIF) registry. It serves as a valuable resource for researchers, institutions and the scientific community at large. GRSciColl provides information about physical scientific collections, including their content, location, contacts, and associated institutions. It also serves as a reference for institution and collection codes and identifiers. It serves as a valuable resource for researchers, institutions and the scientific community at large. GRSciColl provides information about physical scientific collections, including their content, location, contacts, and associated institutions. It also serves as a reference for institution and collection codes and identifiers. It serves as a valuable resource for researchers, institutions and the scientific community at large. GRSciColl provides information about physical scientific collections, including their content, location, contacts, and associated institutions. It also serves as a reference for institution and collection codes and identifiers. It serves as a valuable resource for researchers, institutions and the scientific community at large. GRSciColl provides information about physical scientific collections, including their content, location, contacts, and associated institutions. It also serves as a reference for institution and collection codes and identifiers.
+全球科学收藏品注册表（GRSciColl）是一个综合和社区策划的收藏品信息清单，托管在[全球生物多样性信息设施](https://www.gbif.org/)（GBIF）注册表中。 它是研究人员、机构和整个科学界的宝贵资源。 GRSciColl提供有关物理科学收藏品的信息，包括其内容、位置、联系人以及相关机构。 它还作为机构和收藏品代码和标识符的参考。
 
-A community of editors–including representatives from registered institutions and national editors–maintain the information in GRSciColl up to date. The suggestion system enables anyone to contribute by updating, adding, or merging records, which relevant individuals review. GRSciColl regularly synchronizes with external sources such as Index Herbariorum, ensuring up-to-date and reliable information. The suggestion system enables anyone to contribute by updating, adding, or merging records, which relevant individuals review. GRSciColl regularly synchronizes with external sources such as Index Herbariorum, ensuring up-to-date and reliable information.
+编辑社区 - 包括来自注册机构和国家编辑的代表 - 维护GRSciColl中的信息以保持最新。 建议系统使任何人都可以通过更新、添加或合并记录来做出贡献，相关个体将进行审查。 GRSciColl定期与外部来源同步，例如标本标本目录，以确保信息是最新且可靠的。
 
 
-## Data history
+## 数据历史
 
-Built over the years, most of the information about institutions and collections comes from a dedicated team of curators and community members. Built over the years, most of the information about institutions and collections comes from a dedicated team of curators and community members. Some data comes from external sources such as [Index Herbariorum](https://sweetgum.nybg.org/science/ih/), the [Integrated Digitized Biocollections](https://www.idigbio.org/) (iDigBio) and national registries.
+多年来，有关机构和收藏品的大部分信息都来自一组专门的策展人和社区成员。 一些数据来自外部来源，如[标本标本目录](https://sweetgum.nybg.org/science/ih/)，[综合数字化生物收藏品](https://www.idigbio.org/)（iDigBio）和国家注册表。
 
-### How it all started
+### 一切是如何开始的
 
-GRSciColl was originally developed by the [Consortium of the Barcode of Life (CBOL)](https://www.gbif.org/participant/287) and hosted by [the Smithsonian Institution](https://www.si.edu) until 2018.
+GRSciColl最初由“生命条形码联盟”（CBOL）开发，并由[史密森尼学会](https://www.si.edu)托管，直到2018年。
 
-> Schindel DE, Miller SE, Trizna MG, Graham E, Crane AE. The Global Registry of Biodiversity Repositories: A Call for Community Curation. Biodivers Data J. 2016 Aug 26;(4):e10293. doi: 10.3897/BDJ.4.e10293. PMID: 27660523; PMCID: PMC5018115.
+> Schindel DE, Miller SE, Trizna MG, Graham E, Crane AE. 生物多样性资源库全球注册表：呼吁社区策划。 The Global Registry of Biodiversity Repositories: A Call for Community Curation. 生物多样性数据期刊. 2016年8月26日；（4）：e10293。 doi：10.3897/BDJ.4.e10293。 PMID：27660523；PMCID：PMC5018115。
 
-In 2018, GRSciColl was adopted by the Global Biodiversity Information Facility (GBIF) registry (see [this news item](https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections).
+2018年，全球生物多样性信息设施（GBIF）注册表接管了GRSciColl，详情请见[此新闻报道](https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections)。
 
-The following years,
-* An [API was developed for GRSciColl](/api)
-* GBIF worked with [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) to set up weekly synchronizations of the information in GRSciColl.
-* Collection information was imported from [iDigBio](https://www.idigbio.org).
-* The linking of specimen-related occurrences published on GBIF to GRSciColl entries was enabled.
-* The metadata of datasets published on GBIF became a possible source of information for collections.
+在接下来的几年中，
+* 为GRSciColl开发了[API](/zh/api)
+* GBIF与[标本标本目录](https://sweetgum.nybg.org/science/ih/)合作，每周同步GRSciColl中的信息。
+* 从[iDigBio](https://www.idigbio.org)导入了收藏品信息。
+* 可以将发布在GBIF上的标本相关事件与GRSciColl条目链接起来。
+* 在GBIF上发布的数据集的元数据成为收藏品信息的可能来源。
 
-You can read more about some of the history of GRSciColl in [this blog article](https://data-blog.gbif.org/post/grscicoll-2021/).
+您可以在[此博客文章](https://data-blog.gbif.org/post/grscicoll-2021/)中详细了解GRSciColl的历史。
 
 ### Where are we now
 
-GRSciColl now has a suggestion system and editors reviewing them. This system enables community curation, enabling anyone to contribute by updating, adding, or merging records. We also work with national organizations to import data from their collection registries in GRSciColl. A Subset of GRSciColl can be part of [GBIF-Hosted Portals](https://www.gbif.org/hosted-portals). See, for example [the UK Natural Sciences Collections Portal](https://data.dissco-uk.org).
+GRSciColl现在拥有建议系统和编辑进行审核。 此系统使社区策划成为可能，任何人都可以通过更新、添加或合并记录来做出贡献。 我们还与国家组织合作，从其收藏品注册表中导入数据到GRSciColl。 GRSciColl的一部分可以成为[GBIF托管门户](https://www.gbif.org/hosted-portals)的一部分。 例如，查看[英国自然科学收藏品门户](https://data.dissco-uk.org)。
 
 ### What is next
 
