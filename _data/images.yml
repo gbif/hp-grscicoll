@@ -65,8 +65,12 @@ clibanarius:
 echinometra:
   src: /assets/images/Echinometra.jpeg
   caption: |
-    ("Echinometra" - *Echinometra* Gray, 1825)(https://www.gbif.org/occurrence/3382938310) from the [Malacology and Invertebrate Zoology](/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in Oman by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+    ["Echinometra" - *Echinometra* Gray, 1825](https://www.gbif.org/occurrence/3382938310) from the [Malacology and Invertebrate Zoology](/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in Oman by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
 pagurus:
   src: /assets/images/Pagurus.jpeg
   caption: |
-    ("Pagurus" - *Pagurus* Fabricius, 1775)(https://www.gbif.org/occurrence/2532968686) from the [Malacology and Invertebrate Zoology](/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in the United States of America by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+    ["Pagurus" - *Pagurus* Fabricius, 1775](https://www.gbif.org/occurrence/2532968686) from the [Malacology and Invertebrate Zoology](/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445) collected in the United States of America by Florida Museum of Natural History Invertebrate Zoology (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+pandeleteius:
+  src: /assets/images/Pandeleteius.jpg
+  caption: |
+    [*Pandeleteius* Schoenherr, 1834](https://www.gbif.org/occurrence/4134485311) from the [Invertebrate Zoology collection](collection/d81e398d-05ac-4143-b452-4e4b9c6a4e7a) collected in United States of America by Museum of Texas Tech University (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
