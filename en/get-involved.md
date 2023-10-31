@@ -23,7 +23,7 @@ To learn how you can contribute to the GRSciColl content, see our how-to page.
 
 ## Help us improve the system
 
-You can ask questions and contribute to our work by subscribing to our mailing list or check our forum.
+You can ask questions and contribute to our work by [joining and commenting via the GRSciColl mailing list](https://lists.gbif.org/mailman/listinfo/scientific-collections) or [posting to the GRSciColl forum](https://discourse.gbif.org/c/grscicoll/29).
 
 [Contact us](/contact){: .button .is-primary}
 
