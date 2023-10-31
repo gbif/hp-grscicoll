@@ -32,6 +32,27 @@ and then fill in and send [the nomination template](mailto:scientific-collection
 The result of a collection or institution search can be downloaded from the website by clicking on this button:
 <img width="1664" alt="download_as_csv" src="https://github.com/gbif/hp-grscicoll/assets/7677271/0ed58648-4efc-4755-876f-29677f6be975" />
 
+## What is the difference between [GBIF datasets](https://www.gbif.org/dataset/search?q=) and [GRSciColl collections](collection/search)?
+
+GRSciColl originated independently from GBIF, it has [its own history](/about#data-history). Many datasets published on GBIF contain records for specimens that belong to collections registered in GRSciColl. The content between GBIF and GRSciColl can overlap. However, there are a few differences:
+* A GRSciColl collection entry must correspond to a physical collection while GBIF datasets can contain other types of records like observations.
+* A GRSciColl collection entry can refer to a historical collection that was lost or split.
+* Datasets published on GBIF contain biodiversity data while collection entries on GRSciColl can describe geological or archeological collections for example.
+
+GBIF publishers may choose to publish all their records in one dataset but describe their holdings with several collection entries in GRSciColl. Alternatively, several datasets can contain records corresponding to specimens belonging to the same collection.
+
+See how occurrences published on GBIF are linked to GRSciColl entries [here](/connected-systems#occurrences-published-on-gbif). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+
+## What is the difference between [GBIF publishers](https://www.gbif.org/publisher/search?q=) and [GRSciColl institutions](institution/search)?
+
+GRSciColl originated independently from GBIF, it has [its own history](/about#data-history). Many datasets published on GBIF contain records for specimens that belong to collections registered in GRSciColl. The content between GBIF and GRSciColl can overlap. See [the question above](what-is-the-difference-between-GBIF-datasets-and-GRSciColl-collections). However, they are some differences:
+* GBIF publishers are registered organizations that actively share data on GBIF. They use [publishing tools](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) in order to share datasets on GBIF. Some publishers are museums and herbaria but others are citizen science initiatives, journals or research facilities which might only be sharing observations, taxa descriptions or DNA-derived data.
+* GRSciColl institutions were registered because they are known to hold physical scientific collections. GRSciColl institution entries can be added by GRSciColl editors (based on information found in publications or online) or by the institutions themselves.
+
+A large administrative entity like a university can register as a GBIF publisher and describe its departments as GRSciColl institutions. Alternatively, some GBIF publishers can correspond to smaller entities and have they institution represented as one entry in GRSciColl.
+
+See how occurrences published on GBIF are linked to GRSciColl entries [here](/connected-systems#occurrences-published-on-gbif). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+
 ## Editing guidelines
 
 ### How to represent my institution and collections?
