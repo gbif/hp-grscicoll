@@ -17,7 +17,7 @@ toc: true
 
 ## Ayúdenos a mejorar los datos
 
-Para saber cómo puede contribuir al contenido de GRSciColl, consulte nuestra página how-to.
+The information available through GRSciColl is the result of collective efforts by a community of curators and editors. Learn how you can contribute on our [how-to page](/how-to).
 
 [How-to](/how-to){: .button .is-primary}
 
@@ -29,4 +29,4 @@ Puede hacer preguntas y contribuir a nuestro trabajo suscribiéndose a nuestra l
 
 ## Help us translate the website
 
-You can help us translate this website to other languages by joining the GBIF translator community. You can read more [here](https://www.gbif.org/translators).
+GBIF manages translations via [CrowdIn](https://www.crowdin.com), which provides our [active community of translators](https://www.gbif.org/translators) with critical support through a free licence for their service. Interested in becoming volunteer? Sign up on CrowdIn and join the [GRSciColl project](https://crowdin.com/project/grscicoll) or our [other projects](https://crowdin.com/profile/gbif-informatics).
