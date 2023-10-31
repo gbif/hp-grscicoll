@@ -29,4 +29,4 @@ You can ask questions and contribute to our work by subscribing to our mailing l
 
 ## Help us translate the website
 
-You can help us translate this website to other languages by joining the GBIF translator community. You can read more [here](https://www.gbif.org/translators). You can read more [here](https://www.gbif.org/translators). You can read more [here](https://www.gbif.org/translators). You can read more [here](https://www.gbif.org/translators). You can read more [here](https://www.gbif.org/translators). You can read more [here](https://www.gbif.org/translators).
+You can help us translate this website to other languages by joining the GBIF translator community. You can read more [here](https://www.gbif.org/translators). You can read more [here](https://www.gbif.org/translators). You can read more [here](https://www.gbif.org/translators). You can read more [here](https://www.gbif.org/translators). You can read more [here](https://www.gbif.org/translators). You can read more [here](https://www.gbif.org/translators). You can read more [here](https://www.gbif.org/translators).
