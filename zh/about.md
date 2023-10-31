@@ -48,6 +48,6 @@ GRSciColl现在拥有建议系统和编辑进行审核。 此系统使社区策�
 
 我们还与国家组织合作，从其收藏品注册表中导入数据到GRSciColl。 GRSciColl的一部分可以成为[GBIF托管门户](https://www.gbif.org/hosted-portals)的一部分。 例如，查看[英国自然科学收藏品门户](https://data.dissco-uk.org)。
 
-### What is next
+### What's next
 
 Please check our current roadmap [here](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll.md).
