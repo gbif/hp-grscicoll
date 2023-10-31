@@ -29,7 +29,7 @@ Gran parte de la información sobre instituciones y colecciones ha sido introduc
 
 GRSciColl fue desarrollado originalmente por el [Consorcio del Código de Barras de la Vida (CBOL)](https://www.gbif.org/participant/287)  y alojado por  [el Instituto Smithsoniano hasta 2018.](https://www.si.edu)
 
-> Schindel DE, Miller SE, Trizna MG, Graham E, Crane AE. The Global Registry of Biodiversity Repositories: A Call for Community Curation. Biodivers Data J. 2016 Aug 26;(4):e10293.
+> Schindel DE, Miller SE, Trizna MG, Graham E, Crane AE. The Global Registry of Biodiversity Repositories: A Call for Community Curation. Biodivers Data J. 2016 Aug 26;(4):e10293. Biodivers Data J. 2016 Aug 26;(4):e10293.
 
 En 2018, GRSciColl fue adoptado por el registro del Sistema Global de Información sobre Biodiversidad (GBIF) (revisa [este artículo](https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections).
 
