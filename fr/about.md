@@ -17,23 +17,23 @@ toc: true
 
 ## What is the Global Registry of Scientific Collections?
 
-The Global Registry of Scientific Collections, or GRSciColl, is a comprehensive and community-curated clearing house of information about scientific collections in the [GBIF](https://www.gbif.org/) registry. By providing information about physical scientific collections—including their content, location, contacts and associated institutions—as well as a reference for institution and collection codes and identifiers, GRSciColl serves a wide audience of experts, researchers and members of broader society.
+The Global Registry of Scientific Collections, or GRSciColl, is a comprehensive and community-curated clearing house of information about scientific collections in the [GBIF](https://www.gbif.org/) registry. By providing information about physical scientific collections—their content, location, contacts, associated institutions, and collection codes and identifiers—GRSciColl offers a resource for a wide range of uses by experts, researchers and members of broader society.
 
-A community of editors comprised of national editors and representatives from registered institutions keeps the information in GRSciColl up to date. Any user can recommend updates, additions or mergers of records through a suggestion system that prompts editors to review the proposed changes. GBIF regularly synchronizes GRSciColl with external sources such as [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) to further ensure that the information it provides is up-to-date and reliable.
+A community comprised of national editors and representatives from registered institutions keeps the information in GRSciColl up to date. [Any user can suggest updates, additions or mergers of records](/how-to#suggest-a-change), prompting editors to review the proposed changes. GBIF regularly synchronizes GRSciColl with external sources such as [Index Herbariorum](https://sweetgum.nybg.org/science/ih/), further ensuring that its information is up-to-date and reliable.
 
 ## Data history
 
-Most of the information about institutions and collections contained in GRSciColl has come from years of contributions by curators and community members. Some data comes from external sources such as Index Herbariorum, the [Integrated Digitized Biocollections](https://www.idigbio.org/) (iDigBio) and national registries.
+Most of the information about institutions and collections contained in GRSciColl has come from years of contributions by curators and community members. Other data comes from external sources such as Index Herbariorum, the [Integrated Digitized Biocollections](https://www.idigbio.org/) (iDigBio) and national registries.
 
 ### How it all started
 
-GRSciColl was originally developed by the [Consortium of the Barcode of Life (CBOL)](https://www.gbif.org/participant/287) and hosted by [the Smithsonian Institution](https://www.si.edu) until 2018.
+GRSciColl, originially conceived (like GBIF) under the auspices of the [OECD Global Science Forum](http://www.oecd.org/sti/sci-tech/oecdglobalscienceforum.htm), was initially developed by the [Consortium of the Barcode of Life (CBOL)](https://www.gbif.org/participant/287) and hosted until 2018 by [the Smithsonian Institution](https://www.si.edu).
 
 > Schindel DE, Miller SE, Trizna MG, Graham E, Crane AE (2016) The Global Registry of Biodiversity Repositories: A Call for Community Curation. Biodiversity Data Journal 26(4): e10293. https://doi.org/10.3897/BDJ.4.e10293
 
 In 2018, GRSciColl was adopted GBIF and merged into its registry (see [this news item](https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/)).
 
-Subsequent improvements include:
+Recent improvements include:
 * Development of an [API for GRSciColl](/api)
 * Establishment of weekly synchronization between GBIF and Index Herbariorum
 * Import of collection information from [iDigBio](https://www.idigbio.org)
@@ -48,6 +48,6 @@ GRSciColl now has a suggestion system that editors use to review proposed change
 
 We also work with national organizations to import data from their collection registries in GRSciColl. Subsets of GRSciColl can also be used to organize [GBIF hosted portals](https://www.gbif.org/hosted-portals) like [the UK Natural Sciences Collections Portal](https://data.dissco-uk.org).
 
-### What is next
+### What's next
 
 Please check our current road map [here](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll.md).
