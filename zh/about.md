@@ -30,7 +30,7 @@ toc: true
 
 GRSciColl最初由“生命条形码联盟”（CBOL）开发，并由[史密森尼学会](https://www.si.edu)托管，直到2018年。
 
-> Schindel DE, Miller SE, Trizna MG, Graham E, Crane AE. 生物多样性资源库全球注册表：呼吁社区策划。 The Global Registry of Biodiversity Repositories: A Call for Community Curation. 生物多样性数据期刊. 2016年8月26日；（4）：e10293。 doi：10.3897/BDJ.4.e10293。 PMID：27660523；PMCID：PMC5018115。
+> Schindel DE, Miller SE, Trizna MG, Graham E, Crane AE. 生物多样性资源库全球注册表：呼吁社区策划。 The Global Registry of Biodiversity Repositories: A Call for Community Curation. 生物多样性数据期刊. 2016年8月26日；（4）：e10293。 生物多样性数据期刊. 2016年8月26日；（4）：e10293。 doi：10.3897/BDJ.4.e10293。 PMID：27660523；PMCID：PMC5018115。
 
 2018年，全球生物多样性信息设施（GBIF）注册表接管了GRSciColl，详情请见[此新闻报道](https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections)。
 
