@@ -50,4 +50,4 @@ También trabajamos con organizaciones nacionales para importar datos de sus reg
 
 ### Próximos pasos
 
-Please check our current road map [here](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll.md).
+Please check our current road map [here](/road-map).
