@@ -86,7 +86,7 @@ Actualmente, las dos posibles fuentes de información para las entradas GRSciCol
 
 Every week, GRSciColl synchronizes with the [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) API, updating information for existing entries whose source is Index Herbariorum and creating new entries as needed.
 
-Cada semana, GRSciColl se sincroniza con la API del [Index Herbariorum](https://sweetgum.nybg.org/science/ih/). Puede leer más sobre la justificación en este tema [de GitHub](https://github.com/gbif/registry/issues/167). The synchronization process can generate duplicate institution entries when a single institution is home to several herbaria collections. See our [how-to page](/how-to#how-to-use-the-grscicoll-editing-interface) and [FAQs](/faq/#how-to-handle-duplicates) for suggestions on how to handle these cases.
+Cada semana, GRSciColl se sincroniza con la API del [Index Herbariorum](https://sweetgum.nybg.org/science/ih/). Puede leer más sobre la justificación en este tema [de GitHub](https://github.com/gbif/registry/issues/167). The synchronization process can generate duplicate institution entries when a single institution is home to several herbaria collections. See our [how-to page](/how-to#how-to-edit-a-grscicoll-collection-or-institution) and [FAQs](/faq/#how-to-handle-duplicates) for suggestions on how to handle these cases.
 
 Editors can disconnect institutions entries from Index Herbariorum and choose to edit the institution directly in the GRSciColl editing interface as described in [this FAQ](/faq#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
 
