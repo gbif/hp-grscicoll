@@ -72,9 +72,9 @@ While processing and interpreting newly published occurrences, GBIF seeks to mat
 * `institutionID`
 * `collectionID`
 
-El [servicio de búsqueda de GRSciColl](https://www.gbif.org/developer/registry#lookup) intenta encontrar qué entradas de GRSciColl coinciden con los códigos e identificadores dados como entrada. Durante la interpretación de la ocurrencia, el sistema utilizará el país del editor para ayudar a elegir una coincidencia en GRSciColl en los casos en que haya más de un candidato.
-
 Por ejemplo, si una ocurrencia hace referencia al código de institución `RBINS` y al identificador de institución `https://ror.org/02y22ws83`, se vinculará al [Real Instituto Belga de Ciencias Naturales](http://grscicoll.org/institution/royal-belgian-institute-natural-sciences). Puede aprender más sobre cómo vincular ocurrencias de GBIF a GRSciColl [aquí](/how-to#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
+
+Durante la interpretación de la ocurrencia, el sistema utilizará el país del editor para ayudar a elegir una coincidencia en GRSciColl en los casos en que haya más de un candidato. Puede aprender más sobre cómo vincular ocurrencias de GBIF a GRSciColl [aquí](/how-to#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
 
 ## Datos de GRSciColl procedentes de otras fuentes
 
