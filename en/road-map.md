@@ -73,7 +73,7 @@ Given the feedback received, we will also explore how to make GRSciColl a place 
 
 ## 4. A new user interface for GRSciColl
 
-The public interface of GRSciColl is limited in capabilities, offering less than both the management interface and what is possible using the GBIF Hosted Portal software like the DiSSCo UK site. We intend to replace the existing GRSciColl site with a hosted portal deployment enhanced with new features, such as maps for institutions and clear explanatory text for users and data managers. Work on this has begun and can be seen `on the development site` [ADD LINK TO NEW SITE?].
+The public interface of GRSciColl is limited in capabilities, offering less than both the management interface and what is possible using the GBIF Hosted Portal software like the DiSSCo UK site. We intend to replace the existing GRSciColl site with a hosted portal deployment enhanced with new features, such as maps for institutions and clear explanatory text for users and data managers. Work on this has begun and can be seen this webiste current.
 
 ## 5. Establish mechanism for regular community updates
 
