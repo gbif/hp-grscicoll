@@ -74,7 +74,7 @@ description: |
   </script>
 
   {: .gettingStarted}
-  Not sure how to get started? <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a>
+  Not sure how to get started? <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a> <a href="/#video-intro">Watch our Getting started video</a>
 background: "{{ site.data.images.calcinus.src }}"
 imageLicense: "{{ site.data.images.calcinus.caption }}"
 height: 85vh
@@ -104,7 +104,7 @@ navbar:
 
 Ideas for the home page and content more broadly
 
-pages: API + download, reports About (history, roadmap) How to (register, edit, use) A metrics page? Contact Contact Contact Contact Contact Contact Contact Contact Contact Contact Contact Contact Contact Contact
+pages: API + download, reports About (history, roadmap) How to (register, edit, use) A metrics page? Contact Contact Contact Contact Contact Contact Contact Contact Contact Contact Contact Contact Contact Contact Contact
 
 homepage shortcut Map of institutions Register new institution about api download reports GRSciColl visualized grscicoll related news stories from contentful
 
