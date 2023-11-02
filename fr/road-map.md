@@ -1,5 +1,5 @@
 ---
-permalink: /road-map
+permalink: /fr/road-map
 lang-ref: road-map
 title: GRSciColl 2023-2024 road map
 description: |
