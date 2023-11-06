@@ -35,14 +35,14 @@ Hay tres formas de actualizar la información en GRSciColl:
 * convertirse en editor
 * puede importar datos
 
-See also this short video tutorial:
+También puede ver este breve video tutorial:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977825?h=a0068cfcd8" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 ### Sugerir un cambio
 
 Cualquiera puede sugerir cambios haciendo clic en cualquier entrada de GRSciColl y, a continuación:
 * Haga clic en "Editar
-* Click on the `Suggest` toggle button
+* Haga clic en el botón `Sugerir`
 * Haga su sugerencia y deje su dirección de correo electrónico y un comentario.
 
 También puede sugerir la adición de nuevas entradas, la fusión de duplicados y la transformación de entradas institucionales en colecciones.
