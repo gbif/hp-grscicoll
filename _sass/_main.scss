@@ -7,7 +7,6 @@ $homepageActiveTabColor: $blue;
 @import "_home";
 @import "_stats";
 
-
 // BoxHero layout overwrites
 .boxHero {
   .feature-img-license {
@@ -104,6 +103,12 @@ html {
   .gettingStarted {
     margin-top: 1em;
     font-size: 14px; 
+    a {
+      text-decoration: none;
+    }
+  }
+  .gettingStarted-video {
+    margin-right: 24px;
   }
 }
 

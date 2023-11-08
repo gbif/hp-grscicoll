@@ -1,3 +1,13 @@
+/* Basic utility class */
+.hidden {
+  display: none;
+}
+.gettingStarted {
+  p {
+    display: inline;
+  }
+}
+
 /* Style the tab */
 .tab {
   display: flex;
