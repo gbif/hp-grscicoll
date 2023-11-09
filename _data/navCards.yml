@@ -35,9 +35,9 @@ news:
       title: Digitization of mycological collections in Nepal # required
       background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F1iRymXEY7n7S70Rwk1gbmm%2F866689c5f7ec2a8dafa17fa1d580f6e7%2Ffungus_np.jpg
       href: https://www.gbif.org/project/1oof3bltISyNanpvIWQYwz/digitization-of-mycological-collections-in-nepal
-    - title: Environmental and physiological drivers of global lichen distribution
-      background: http://api.gbif.org/v1/image/unsafe/1200x627/http%3A%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F4Cip47B5jpFReaam6nTN5A%2F740546b07759afd8e8f605e6438e4103%2Fimage.png
-      href: https://www.gbif.org/data-use/2NcRzaklrkf5X1mvyOvg5V/environmental-and-physiological-drivers-of-global-lichen-distribution
+    - title: Community review of data schema for GRSciColl opens
+      background: http://api.gbif.org/v1/image/unsafe/1200x627/http%3A%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F20LXAvZuwbw3S9oEMzYFBC%2F8f401acf7f3b80cea6b112b0ab363caf%2Fbg-news-collections.jpg
+      href: https://www.gbif.org/news/6QmgDWnOORMkZIG9xvZAD/community-review-of-data-schema-for-grscicoll-opens
 
 # typespecimens: 
 #   reverse: false
