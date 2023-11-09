@@ -53,7 +53,8 @@ var siteConfig = {
             "PRESERVED_SPECIMEN",
             "FOSSIL_SPECIMEN",
             "MATERIAL_SAMPLE",
-            "LIVING_SPECIMEN"
+            "LIVING_SPECIMEN",
+            "MATERIAL_CITATION"
           ]
         }
       ]
