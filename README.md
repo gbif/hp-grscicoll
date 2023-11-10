@@ -8,4 +8,6 @@ This Jekyll website, **[GRSciColl](https://grscicoll.hp.gbif-staging.org/)**, ma
 
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 
+More documentation is available here: https://hp-theme.gbif-staging.org/documentation-intro
+
 > Powered by [GBIF](https://www.gbif.org/)
