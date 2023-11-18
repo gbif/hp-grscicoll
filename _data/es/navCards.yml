@@ -2,51 +2,51 @@ shortcuts:
   features:
     - 
       preTitle: [ ] #optional
-      title: What is GRSciColl? #required
+      title: '¿Qué es GRSciColl?' #required
       #required
       description: |
-        Read more about the history of GRSciColl.
+        Lea más acerca de la historia de GRSciColl.
       #img required
       background: "{{ site.data.images.kanakia.src }}"
       imageLicense: "{{ site.data.images.kanakia.caption }}"
-      href: /about
+      href: es/about
     - 
       preTitle: [ ] #optional
-      title: Help us improve GRSciColl #required
+      title: Ayúdenos a mejorar GRSciColl #required
       #required
       description: |
-        Add your institution and collections, become an editor, follow our roadmap.
+        Añada su institución y sus colecciones, conviértase en editor, siga nuestra hoja de ruta.
       #img required
       background: "{{ site.data.images.costatrochus.src }}"
       imageLicense: "{{ site.data.images.costatrochus.caption }}"
-      href: /get-involved
+      href: es/get-involved
     - 
       preTitle: [ ] #optional
-      title: Connected systems
+      title: Sistemas conectados
       #required
       description: |
-        Learn how GRSciColl is connected to other system such as Index Herbariorum and GBIF Hosted portals.
+        Aprenda cómo GRSciColl está conectado a otros sistemas como el Index Herbariorum y los portales alojados de GBIF.
       #img required
       background: "{{ site.data.images.echinometra.src }}"
       imageLicense: "{{ site.data.images.echinometra.caption }}"
-      href: /connected-systems
+      href: es/connected-systems
 news:
-  title: Stories
-  description: Here are some scientific collections news.
+  title: Noticias
+  description: Revise aquí algunas noticias sobre colecciones científicas.
   features:
     - 
-      title: GBIF provides new home for the Global Registry of Scientific Collections
+      title: GBIF proporciona un nuevo hogar al Registro Mundial de Colecciones Científicas
       background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2FkbUm56gvv6gA8knbtWoDk%2F4754a89f96fe27d83bf20c7991a80564%2F23379056635_110b6808fe-crop.jpg
-      href: https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections
+      href: https://www.gbif.org/es/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections
     - 
       preTitle: [ ] #optional
-      title: Digitization of mycological collections in Nepal #required
+      title: Digitalización de colecciones micológicas en Nepal #required
       background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F1iRymXEY7n7S70Rwk1gbmm%2F866689c5f7ec2a8dafa17fa1d580f6e7%2Ffungus_np.jpg
-      href: https://www.gbif.org/project/1oof3bltISyNanpvIWQYwz/digitization-of-mycological-collections-in-nepal
+      href: https://www.gbif.org/es/project/1oof3bltISyNanpvIWQYwz/digitization-of-mycological-collections-in-nepal
     - 
       title: Community review of data schema for GRSciColl opens
       background: http://api.gbif.org/v1/image/unsafe/1200x627/http%3A%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F20LXAvZuwbw3S9oEMzYFBC%2F8f401acf7f3b80cea6b112b0ab363caf%2Fbg-news-collections.jpg
-      href: https://www.gbif.org/news/6QmgDWnOORMkZIG9xvZAD/community-review-of-data-schema-for-grscicoll-opens
+      href: https://www.gbif.org/es/news/6QmgDWnOORMkZIG9xvZAD/se-abre-la-revision-comunitaria-del-esquema-de-datos-para-grscicoll
 #typespecimens:
 #reverse: false
 #title: "Building a complete catalogue of all type specimens"
@@ -67,22 +67,22 @@ video-intro:
   id: video-intro
   klass: video-block
   reverse: false
-  title: "Watch our video introduction to GRSciColl"
+  title: "Vea nuestro vídeo de introductorio de GRSciColl"
   #required
   description: |
-    Learn about the Global Registry of Scientific Collections and how to navigate the website.
+    Aprenda acerca del Registro Mundial de Colecciones Científicas y como navegar por el sitio web.
   #img required
   background: "{{ site.data.images.play-squid.src }}"
   imageLicense: "{{ site.data.images.play-squid.caption }}"
   href: https://vimeo.com/872824009
   cta:
     - 
-      text: Read more
-      href: /about
+      text: Saber más
+      href: /es/about
       isPrimary: true
     - 
       text: Explore
-      href: /institution
+      href: /es/institution
 stats:
   klass: contentTypesStat
   #title: "type: stats"
@@ -91,12 +91,12 @@ stats:
   features:
     - 
       title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution?displayOnNHCPortal=true">642</span>
-      description: Institutions
+      description: Instituciones
       background: /assets/images/institutions.gif
-      href: /institution/search
+      href: /es/institution/search
     - 
       title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?displayOnNHCPortal=true">45</span>
-      description: Collections
+      description: Colecciones
       background: /assets/images/collections.gif
       href: /collection/search
     - 
