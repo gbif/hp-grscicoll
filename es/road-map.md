@@ -17,7 +17,7 @@ toc: true
 
 ## 1. Review data schema
 
-The data model for GRSciColl has evolved over time to accommodate the data sources being connected, such as iDigBio, Index Herbariorum and the original databases that were integrated. At the same time, there has been extensive work by the TDWG Collections Descriptions Interest Group to standardise approaches and vocabularies that are of relevance - this is emerging as a framework called Latimer Core.
+El modelo de datos para GRSciColl ha evolucionado a través del tiempo para ajustar las fuentes de datos interconectadas, tales como iDigBio, Index Herbariorum y las bases de datos originales que fueron integradas. At the same time, there has been extensive work by the TDWG Collections Descriptions Interest Group to standardise approaches and vocabularies that are of relevance - this is emerging as a framework called Latimer Core.
 
 We will review all the fields in the data schema and their content to ensure they are intuitive, documented and where possible, aligned to Latimer Core. As examples of what this might entail, GRSciColl currently has:
 
