@@ -17,7 +17,7 @@ toc: true
 
 ## Ayúdenos a mejorar los datos
 
-The information available through GRSciColl is the result of collective efforts by a community of curators and editors. Learn how you can contribute on our [how-to page](/how-to).
+La información disponible en GRSciColl es el resultado del esfuerzo de una comunidad de administradores y editores. Learn how you can contribute on our [how-to page](/how-to).
 
 [How-to](/how-to){: .button .is-primary}
 
