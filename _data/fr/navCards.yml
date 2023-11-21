@@ -9,7 +9,7 @@ shortcuts:
       #img required
       background: "{{ site.data.images.kanakia.src }}"
       imageLicense: "{{ site.data.images.kanakia.caption }}"
-      href: /à propos de
+      href: /about
     - 
       preTitle: [ ] #optional
       title: Aidez-nous à améliorer GRSciColl #required
@@ -19,7 +19,7 @@ shortcuts:
       #img required
       background: "{{ site.data.images.costatrochus.src }}"
       imageLicense: "{{ site.data.images.costatrochus.caption }}"
-      href: /impliquez-vous
+      href: /get-involved
     - 
       preTitle: [ ] #optional
       title: Systèmes connectés
