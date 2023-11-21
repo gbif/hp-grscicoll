@@ -2,49 +2,49 @@ shortcuts:
   features:
     - 
       preTitle: [ ] #optional
-      title: What is GRSciColl? #required
+      title: Qu'est-ce que GRSciColl? #required
       #required
       description: |
-        Read more about the history of GRSciColl.
+        En savoir plus sur l'histoire de GRSciColl.
       #img required
       background: "{{ site.data.images.kanakia.src }}"
       imageLicense: "{{ site.data.images.kanakia.caption }}"
-      href: /about
+      href: /à propos de
     - 
       preTitle: [ ] #optional
-      title: Help us improve GRSciColl #required
+      title: Aidez-nous à améliorer GRSciColl #required
       #required
       description: |
-        Add your institution and collections, become an editor, follow our roadmap.
+        Ajoutez votre institution et vos collections, devenez éditeur, suivez notre feuille de route.
       #img required
       background: "{{ site.data.images.costatrochus.src }}"
       imageLicense: "{{ site.data.images.costatrochus.caption }}"
-      href: /get-involved
+      href: /impliquez-vous
     - 
       preTitle: [ ] #optional
-      title: Connected systems
+      title: Systèmes connectés
       #required
       description: |
-        Learn how GRSciColl is connected to other system such as Index Herbariorum and GBIF Hosted portals.
+        Découvrez comment GRSciColl est connecté à d'autres systèmes tels que les portails Index Herbariorum et GBIF hébergés.
       #img required
       background: "{{ site.data.images.echinometra.src }}"
       imageLicense: "{{ site.data.images.echinometra.caption }}"
       href: /connected-systems
 news:
-  title: Stories
-  description: Here are some scientific collections news.
+  title: Histoires
+  description: Voici quelques nouvelles sur les collections scientifiques.
   features:
     - 
-      title: GBIF provides new home for the Global Registry of Scientific Collections
+      title: Le GBIF fournit un nouvel endroit pour le Registre Mondial des Collections Scientifiques
       background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2FkbUm56gvv6gA8knbtWoDk%2F4754a89f96fe27d83bf20c7991a80564%2F23379056635_110b6808fe-crop.jpg
       href: https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections
     - 
       preTitle: [ ] #optional
-      title: Digitization of mycological collections in Nepal #required
+      title: Numérisation des collections mycologiques au Népal #required
       background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F1iRymXEY7n7S70Rwk1gbmm%2F866689c5f7ec2a8dafa17fa1d580f6e7%2Ffungus_np.jpg
       href: https://www.gbif.org/project/1oof3bltISyNanpvIWQYwz/digitization-of-mycological-collections-in-nepal
     - 
-      title: Community review of data schema for GRSciColl opens
+      title: L'examen communautaire du schéma de données pour GRSciColl s'ouvre
       background: http://api.gbif.org/v1/image/unsafe/1200x627/http%3A%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F20LXAvZuwbw3S9oEMzYFBC%2F8f401acf7f3b80cea6b112b0ab363caf%2Fbg-news-collections.jpg
       href: https://www.gbif.org/news/6QmgDWnOORMkZIG9xvZAD/community-review-of-data-schema-for-grscicoll-opens
 #typespecimens:
@@ -64,24 +64,24 @@ news:
 #- text: Explore
 #href: http://example.com
 video-intro:
-  id: video-intro
-  klass: video-block
+  id: vidéo d'intro
+  klass: bloc vidéo
   reverse: false
-  title: "Watch our video introduction to GRSciColl"
+  title: "Regardez notre vidéo d'introduction de GRSciColl"
   #required
   description: |
-    Learn about the Global Registry of Scientific Collections and how to navigate the website.
+    Renseignez-vous sur le Registre mondial des collections scientifiques et sur la façon de naviguer sur le site Web.
   #img required
   background: "{{ site.data.images.play-squid.src }}"
   imageLicense: "{{ site.data.images.play-squid.caption }}"
   href: https://vimeo.com/872824009
   cta:
     - 
-      text: Read more
+      text: En savoir plus
       href: /about
       isPrimary: true
     - 
-      text: Explore
+      text: Explorez
       href: /institution
 stats:
   klass: contentTypesStat
@@ -101,6 +101,6 @@ stats:
       href: /collection/search
     - 
       title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=%0Aquery%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7B%0A%20%20%20%20type%3A%20and%2C%20%0A%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20type%3A%20or%2C%20%0A%20%20%20%20%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%7Btype%3A%20isNotNull%2C%20key%3A%20%22institutionKey%22%7D%2C%20%0A%20%20%20%20%20%20%20%20%20%20%7Btype%3A%20isNotNull%2C%20key%3A%20%22collectionKey%22%7D%0A%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%7D%2C%20%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20type%3A%20in%2C%20%0A%20%20%20%20%20%20%20%20key%3A%20%22basisOfRecord%22%2C%20%0A%20%20%20%20%20%20%20%20values%3A%20%5B%22PRESERVED_SPECIMEN%22%2C%20%22FOSSIL_SPECIMEN%22%2C%20%22MATERIAL_SAMPLE%22%2C%20%22LIVING_SPECIMEN%22%5D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%5D%0A%20%20%7D%29%20%7B%0A%20%20%20%20documents%28size%3A%200%29%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A&variables=%7B%22predicate%22%3A%7B%22type%22%3A%22and%22%2C%22predicates%22%3A%5B%7B%22type%22%3A%22and%22%2C%22predicates%22%3A%5B%7B%22type%22%3A%22or%22%2C%22predicates%22%3A%5B%7B%22type%22%3A%22isNotNull%22%2C%22key%22%3A%22institutionKey%22%7D%2C%7B%22type%22%3A%22isNotNull%22%2C%22key%22%3A%22collectionKey%22%7D%5D%7D%2C%7B%22type%22%3A%22in%22%2C%22key%22%3A%22basisOfRecord%22%2C%22values%22%3A%5B%22PRESERVED_SPECIMEN%22%2C%22FOSSIL_SPECIMEN%22%2C%22MATERIAL_SAMPLE%22%2C%22LIVING_SPECIMEN%22%5D%7D%2C%7B%22type%22%3A%22equals%22%2C%22key%22%3A%22publishingCountry%22%2C%22value%22%3A%22US%22%7D%5D%7D%2C%7B%22type%22%3A%22and%22%2C%22predicates%22%3A%5B%5D%7D%5D%7D%2C%22size%22%3A50%2C%22from%22%3A0%7D">45</span>
-      description: Digitized specimens
+      description: Spécimens numérisés
       background: /assets/images/specimens.gif
       href: /specimen/search
