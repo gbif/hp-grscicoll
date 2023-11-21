@@ -6,34 +6,34 @@
   text: Collections
   href: /collection/search
 - 
-  text: Specimens
+  text: Spécimens
   href: /specimen/search
 - 
-  text: About
+  text: À propos
   menu:
     - 
       text: GRSciColl
       href: /fr/about
     - 
-      text: Get involved
+      text: Impliquez-vous
       href: /get-involved
     - 
-      text: Connected systems
+      text: Systèmes connectés
       href: /connected-systems
     - 
       text: API
       href: /api
     - 
-      text: Road map
+      text: Feuille de route
       href: /road-map
 - 
-  text: How-to
+  text: Comment faire
   menu:
     - 
-      text: Add entries
+      text: Ajouter des entrées
       href: 'how-to#how-to-add-a-collection-or-an-institution-to-grscicoll'
     - 
-      text: Edit entries
+      text: Modifier les entrées
       href: '/how-to#how-to-edit-a-grscicoll-collection-or-institution'
     - 
       text: FAQ
