@@ -27,16 +27,16 @@
       text: Road map
       href: /road-map
 - 
-  text: How-to
+  text: Guías básicas
   menu:
     - 
-      text: Add entries
+      text: Añadir registros
       href: 'how-to#how-to-add-a-collection-or-an-institution-to-grscicoll'
     - 
-      text: Edit entries
+      text: Editar registros
       href: '/how-to#how-to-edit-a-grscicoll-collection-or-institution'
     - 
-      text: FAQ
+      text: Preguntas frecuentes
       href: /faq
 - 
   text: Contacto
