@@ -6,10 +6,10 @@ columns:
     name: GBIF.org
     #Can be Markdown
     description: |
-      This site is affiliated to [GBIF.org](https://www.gbif.org).
+      Ce site est affilié à [GBIF.org](https://www.gbif.org).
     links:
       - 
-        text: Cookie and privacy policy
+        text: Cookie et politique de confidentialité
         href: https://www.gbif.org/terms/privacy-policy
     connectIcons: true
 #EXAMPLE
