@@ -3,7 +3,7 @@ permalink: /fr/about
 lang-ref: /fr/about
 title: GRSciColl
 description: |
-  The Global Registry of Scientific Collections, or GRSciColl, is a comprehensive, community-curated repository of information about scientific collections that extends work initially started by the Consortium of the Barcode of Life (CBOL).
+  Le Registre Global de Collections Scientifiques - Global Registry of Scientific Collections ou GRSciColl en anglais, est un référentiel maintenu par une communauté active qui s'appuit sur le travail du Consortium of the Barcode of Life (CBOL).
 background: "{{ site.data.images.kanakia.src }}"
 imageLicense: "{{ site.data.images.kanakia.caption }}"
 height: 70vh
@@ -15,39 +15,39 @@ height: 70vh
 toc: true
 ---
 
-## What is the Global Registry of Scientific Collections?
+## Qu'est que le Registre Global the Collections Scientifiques (GRSciColl)?
 
-The Global Registry of Scientific Collections, or GRSciColl, is a comprehensive and community-curated clearing house of information about scientific collections in the [GBIF](https://www.gbif.org/) registry. By providing information about physical scientific collections—their content, location, contacts, associated institutions, and collection codes and identifiers—GRSciColl offers a resource for a wide range of uses by experts, researchers and members of broader society.
+Le Registre Global de Collections Scientifiques - Global Registry of Scientific Collections ou GRSciColl en anglais, est un centre d'information sur les collections scientifiques maintenu par la communauté et hébergé dans le registry du [GBIF](https://www.gbif.org/). Il permet de se renseigner sur les collections scientifiques physiques : leur contenu, leur emplacement, leurs contacts, les institutions associées, ainsi que les codes et identifiants des collections.
 
-A community comprised of national editors and representatives from registered institutions keeps the information in GRSciColl up to date. [Any user can suggest updates, additions or mergers of records](/how-to#suggest-a-change), prompting editors to review the proposed changes. GBIF regularly synchronizes GRSciColl with external sources such as [Index Herbariorum](https://sweetgum.nybg.org/science/ih/), further ensuring that its information is up-to-date and reliable.
+Une communauté d'éditeurs nationaux et de représentants d'institutions enrgistrées est en charge de mettre a jours les données du GRSciColl. [Tout le monde peut suggérer des mises à jour, addition ou fusion des entrés](/how-to#suggest-a-change), ces suggestions sont ensuite évaluées par les éditeurs du registre. GBIF synchronise régulièrement GRSciColl avec des sources externes telles qu'[Index Herbariorum](https://sweetgum.nybg.org/science/ih/), dans le but de maintenir les information à jour.
 
-## Data history
+## Histoire des données
 
-Most of the information about institutions and collections contained in GRSciColl has come from years of contributions by curators and community members. Other data comes from external sources such as Index Herbariorum, the [Integrated Digitized Biocollections](https://www.idigbio.org/) (iDigBio) and national registries.
+La plupart des informations sur les institutions et les collections contenues dans GRSciColl proviennent d'années de contributions d'éditeurs et de membres de la communauté. Certaines données proviennet de sources externes comme Index Herbariorum, l'[Integrated Digitized Biocollections](https://www.idigbio.org/) (iDigBio) et certains registres nationaux.
 
-### How it all started
+### Comment tout à commencé
 
-GRSciColl, originially conceived (like GBIF) under the auspices of the [OECD Global Science Forum](http://www.oecd.org/sti/sci-tech/oecdglobalscienceforum.htm), was initially developed by the [Consortium of the Barcode of Life (CBOL)](https://www.gbif.org/participant/287) and hosted until 2018 by [the Smithsonian Institution](https://www.si.edu).
+GRSciColl, initialement conçu (comme le GBIF) sous les auspices du [Forum scientifique mondial de l'OCDE](http://www.oecd.org/sti/sci-tech/oecdglobalscienceforum.htm), a été initialement développé par le [Consortium of the Barcode of Life (CBOL)](https://www.gbif.org/participant/287) et hébergé jusqu'en 2028 par [l'Institution Smithsonian](https://www.si.edu).
 
 > Schindel DE, Miller SE, Trizna MG, Graham E, Crane AE (2016) The Global Registry of Biodiversity Repositories: A Call for Community Curation. Biodiversity Data Journal 26(4): e10293. https://doi.org/10.3897/BDJ.4.e10293
 
-In 2018, GRSciColl was adopted GBIF and merged into its registry (see [this news item](https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/)).
+En 2018, GRSciColl est adopté par le GBIF et integré dans son registre (voir [cet article](https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/)).
 
-Recent improvements include:
-* Development of an [API for GRSciColl](/api)
-* Establishment of weekly synchronization between GBIF and Index Herbariorum
-* Import of collection information from [iDigBio](https://www.idigbio.org)
-* Linking of specimen-related occurrences published on GBIF to GRSciColl entries
-* Inclusion of metadata from datasets published on GBIF as a potential source of collections information
+Les améliorations récentes incluent :
+* Le développement d'une [API pour GRSciColl](/api)
+* La mise en place d'une synchronization hebdomadaire de GRSciColl avec Index Herbariorum
+* L'import d'information sur les collections d'[iDigBio](https://www.idigbio.org)
+* La liaison des spécimens publiées sur GBIF aux entrées de GRSciColl
+* L'inclusion des métadonnées des jeux de données publiées sur GBIF comme possible source d'information pour les collections
 
-[Read more about some of the history of GRSciColl](https://data-blog.gbif.org/post/grscicoll-2021/).
+[Lisez l'histoire de GRSciColl ici](https://data-blog.gbif.org/post/grscicoll-2021/).
 
-### Where are we now
+### Où nous en sommmes
 
-GRSciColl now has a suggestion system that editors use to review proposed changes. This system enables community curation and allows anyone to contribute by updating, adding, or merging records.
+GRSciColl a maintentant un système de suggestion que les éditeurs utilisent pour évaluer les mises à jour proposées. Ce système permet une curation communautaire et permet à quiconque de contribuer en mettant à jour, en ajoutant ou en fusionnant des entrées.
 
-We also work with national organizations to import data from their collection registries in GRSciColl. Subsets of GRSciColl can also be used to organize [GBIF hosted portals](https://www.gbif.org/hosted-portals) like [the UK Natural Sciences Collections Portal](https://data.dissco-uk.org).
+De plus, nous travaillons avec certaines organisations nationales sur l'import des données de leurs registres dans GRSciColl. GRSciColl peut également être utilisé dans le contexte des [GBIF hosted portals](https://www.gbif.org/hosted-portals) comme [le portail des Sciences Naturelles Britannique](https://data.dissco-uk.org).
 
 ### What's next
 
-Please check our current road map [here](/road-map).
+Veuillez consulter notre feuille de route actuelle [ici](/road-map).
