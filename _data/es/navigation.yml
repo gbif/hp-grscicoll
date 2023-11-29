@@ -25,19 +25,19 @@
       href: /api
     - 
       text: Hoja de ruta
-      href: /hoja-de-ruta
+      href: /road-map
 - 
   text: Guías básicas
   menu:
     - 
       text: Añadir registros
-      href: 'cómo#Cómo añadir-a-colección-o-una-institución-a-grscicoll'
+      href: 'how-to#how-to-add-a-collection-or-an-institution-to-grscicoll'
     - 
       text: Editar registros
-      href: '/cómo#como-editar-una-collección-o-institución-de-grscicoll'
+      href: '/how-to#how-to-edit-a-grscicoll-collection-or-institution'
     - 
       text: Preguntas frecuentes
-      href: /preguntas-frecuentes
+      href: /faq
 - 
   text: Contacto
   href: /contact
