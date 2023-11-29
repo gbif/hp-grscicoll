@@ -1,9 +1,9 @@
 ---
-permalink: about
-lang-ref: about
+permalink: acerca de
+lang-ref: acerca de
 title: GRSciColl
 description: |
-  The Global Registry of Scientific Collections, or GRSciColl, is a comprehensive, community-curated repository of information about scientific collections that extends work initially started by the Consortium of the Barcode of Life (CBOL).
+  El Registro Global de Colecciones Científicas, o GRSciColl (por sus siglas en inglés), es un repositorio comisariado y comprendido por una comunidad, de información sobre colecciones científicas que extiende el trabajo iniciado por el Consorcio para Códigos de Barra de la Vida (CBOL).
 background: "{{ site.data.images.kanakia.src }}"
 imageLicense: "{{ site.data.images.kanakia.caption }}"
 height: 70vh
@@ -46,7 +46,7 @@ Puede leer más sobre la historia de GRSciColl en [este artículo del blog](http
 
 GRSciColl cuenta ahora con un sistema de sugerencias, así como con editores que revisan dichas sugerencias. Este sistema permite la curación comunitaria, cualquiera puede contribuir actualizando, añadiendo o fusionando registros.
 
-También trabajamos con organizaciones nacionales para importar datos de sus registros de colecciones a GRSciColl. Subsets of GRSciColl can also be used to organize [GBIF hosted portals](https://www.gbif.org/hosted-portals) like [the UK Natural Sciences Collections Portal](https://data.dissco-uk.org).
+También trabajamos con organizaciones nacionales para importar datos de sus registros de colecciones a GRSciColl. Sub-grupos de GRSciColl también pueden ser utilizados para organizar [puertas alojadas del GBIF ](https://www.gbif.org/hosted-portals)como[el Portal de Colecciones de Ciencias Naturales del Reino Unido](https://data.dissco-uk.org).
 
 ### Próximos pasos
 
