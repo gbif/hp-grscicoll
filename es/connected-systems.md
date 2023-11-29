@@ -106,4 +106,4 @@ Los datos que aparecen en [el sitio web de iDigBio](https://www.idigbio.org/port
 
 ### GBIF Hosted portals
 
-El sitio actual de GRSciColl utiliza el marco del [portal anfitrión de GBIF](https://www.gbif.org/hosted-portals) y cualquier portal anfitrión de GBIF puede ilustrar datos de GRSciColl. Vea por ejemplo, el [Portal de Colecciones de Ciencias Naturales del Reino Unido](https://data.dissco-uk.org). 
+El sitio actual de GRSciColl utiliza el marco del [portal anfitrión de GBIF](https://www.gbif.org/hosted-portals) y cualquier portal anfitrión de GBIF puede ilustrar datos de GRSciColl. 
