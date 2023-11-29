@@ -1,7 +1,7 @@
 ---
-permalink: /connected-systems
-lang-ref: connected-systems
-title: Connected systems
+permalink: /sistemas-conectados
+lang-ref: sistemas-conectados
+title: Sistemas conectados
 description: |
   El Registro Mundial de Colecciones Científicas (GRSciColl) pretende mejorar la interoperabilidad e interactúa con otros sistemas.
 background: "{{ site.data.images.echinometra.src }}"
@@ -53,12 +53,12 @@ Cada entrada de GRSciColl tiene un Identificador Único Universal (UUID) y URLs 
     fetchAndDisplayIdentifiers();
 </script>
 
-Además del trabajo de los editores de GRSciCOll, se importaron de forma automática o semiautomática una serie de identificadores para varias instituciones.
+Además del trabajo de los editores de GRSciColl, se importaron de forma automática o semiautomática una serie de identificadores para varias instituciones.
 * Todas las entradas conectadas al Index Herbariorum reciben un identificador Index Herbariorum. Revise [cómo funciona la sincronización con el Index Herbariorum](/about#index-herbariorum).
 * Muchos identificadores `CITES` también proceden del Index Herbariorum. Revise [cómo funciona la sincronización con el Index Herbariorum](/about#index-herbariorum).
 * Vinculamos tantas entradas de instituciones GRSciColl como fue posible con [Wikidata](https://www.wikidata.org/) con su herramienta de resolución [OpenRefine](https://openrefine.org) e importamos los identificadores de wikidata.
 * Vinculamos tantas entradas de instituciones GRSciColl como fue posible con el [Research Organization Registry (ROR)](https://ror.org) con su herramienta de resolución [OpenRefine](https://openrefine.org) e importamos los identificadores ROR.
-* We are working with the [NCBI BioCollection](https://www.ncbi.nlm.nih.gov/biocollections) team to import their identifiers in GRSciColl.
+* Estamos trabajando con el equipo de la [ Bio-colección del Centro Nacional para la Información Biotecnológica (NCBI, por sus siglas en inglés)](https://www.ncbi.nlm.nih.gov/biocollections) para añadir sus identificadores en GRSciColl.
 
 Las instituciones y colecciones pueden buscarse por identificadores tanto en nuestro sitio web como con [nuestro servicio de búsqueda API](https://www.gbif.org/developer/registry#lookup).
 
@@ -66,11 +66,11 @@ Los identificadores también se utilizan para vincular las ocurrencias relaciona
 
 ## Occurrencias publicadas en GBIF
 
-While processing and interpreting newly published occurrences, GBIF seeks to match records that include values for any of the following terms to the corresponding GRSciColl entry through the [GRSciColl lookup service](https://www.gbif.org/developer/registry#lookup):
-* `institutionCode`
-* `collectionCode`
-* `institutionID`
-* `collectionID`
+Al procesar e interpretar ocurrencias recientemente publicadas, el GBIF busca empatar los registros que incluyen valores para cualquiera de los siguientes términos correspondientes a la entrada de GRSciColl a través de los [servicios de búsqueda de GRSciColl](https://www.gbif.org/developer/registry#lookup):
+* `Código Institucional`
+* `Código de Colección`
+* `Identificación de institución`
+* `Identificación de Colección`
 
 Por ejemplo, si una ocurrencia hace referencia al código de institución `RBINS` y al identificador de institución `https://ror.org/02y22ws83`, se vinculará al [Real Instituto Belga de Ciencias Naturales](http://grscicoll.org/institution/royal-belgian-institute-natural-sciences). Puede aprender más sobre cómo vincular ocurrencias de GBIF a GRSciColl [aquí](/how-to#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
 
@@ -78,17 +78,17 @@ Durante la interpretación de la ocurrencia, el sistema utilizará el país del 
 
 ## Datos de GRSciColl procedentes de otras fuentes
 
-The GRSciColl institution and collection entries can have external primary sources of information that comes from another registry or website. Edits to such primary sources prompt updates to corresponding GRSciColl entries, eliminating the need to manage information across multiple registries.
+Las entradas de colección e institución de GRSciColl pueden tener fuentes primarias externas que llegan a través de otro registro o sitio web. Cambios a tales indicaciones de fuentes primarias para las correspondientes entradas de GRSciColl, eliminan la necesidad de manejar información a través de múltiples registros.
 
 Actualmente, las dos posibles fuentes de información para las entradas GRSciColl son el [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) y los conjuntos de datos de [GBIF](https://www.gbif.org) y los metadatos de los publicadores. En otras palabras, la información disponible en GRSciColl puede proceder de otro registro o sitio web. Cada vez que se edita la fuente primaria, se actualiza también la entrada GRSciColl correspondiente.
 
 ### Index Herbariorum
 
-Every week, GRSciColl synchronizes with the [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) API, updating information for existing entries whose source is Index Herbariorum and creating new entries as needed.
+Semanalmente, GRSciColl se sincroniza con el API de [Index Herbariorum](https://sweetgum.nybg.org/science/ih/), actualizando información para registros existentes, cuya fuente es el Index Herbarorium y creado un nuevo registro según sea necesario.
 
-Cada semana, GRSciColl se sincroniza con la API del [Index Herbariorum](https://sweetgum.nybg.org/science/ih/). Puede leer más sobre la justificación en este tema [de GitHub](https://github.com/gbif/registry/issues/167). The synchronization process can generate duplicate institution entries when a single institution is home to several herbaria collections. See our [how-to page](/how-to#how-to-edit-a-grscicoll-collection-or-institution) and [FAQs](/faq/#how-to-handle-duplicates) for suggestions on how to handle these cases.
+Por defecto, un registro del Index Herbarorium corresponde a un registro institucional así como a un registro de colección en GRSciColl ya que herbaria son usualmente colecciones botánicas con otras instituciones. Puede leer más sobre la justificación en este tema [de GitHub](https://github.com/gbif/registry/issues/167). El proceso de sincronización puede generar registros duplicados cuando una sola institución es sede de diversas colecciones de herbaria. Vea nuestra página de [cómo hacerlo ](/how-to#how-to-edit-a-grscicoll-collection-or-institution) y [ Preguntas frecuentes](/faq/#how-to-handle-duplicates) para sugerencias sobre cómo manejar estos casos.
 
-Editors can disconnect institutions entries from Index Herbariorum and choose to edit the institution directly in the GRSciColl editing interface as described in [this FAQ](/faq#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
+Los editores pueden desconectar registros institucionales del Index Herbariorum y escoger el cambio de la institución directamente en la interface de edición de GRSciColl en[ esta pregunta frecuente](/faq#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
 
 ### Metadatos de conjuntos de datos de GBIF y páginas de publicadores de GBIF
 
@@ -106,4 +106,4 @@ Los datos que aparecen en [el sitio web de iDigBio](https://www.idigbio.org/port
 
 ### GBIF Hosted portals
 
-The current GRSciColl website uses the [GBIF hosted portal](https://www.gbif.org/hosted-portals) framework, and any GBIF hosted portal can display data from GRSciColl—see, for example, the [UK Natural Sciences Collections Portal](https://data.dissco-uk.org). 
+El sitio actual de GRSciColl utiliza el marco del [portal anfitrión de GBIF](https://www.gbif.org/hosted-portals) y cualquier portal anfitrión de GBIF puede ilustrar datos de GRSciColl. Vea por ejemplo, el [Portal de Colecciones de Ciencias Naturales del Reino Unido](https://data.dissco-uk.org). 
