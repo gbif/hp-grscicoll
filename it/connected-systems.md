@@ -72,7 +72,7 @@ While processing and interpreting newly published occurrences, GBIF seeks to mat
 * `institutionID`
 * `collectionID`
 
-For example, if an occurrence references the institution code `RBINS` and the institution identifier `https://ror.org/02y22ws83`, they will be linked to the [Royal Belgian Institute of Natural Sciences](/institution/royal-belgian-institute-natural-sciences). Occurrences matched to GRSciColl entries are used in generating dashboards and metrics as shown in this example.
+For example, if an occurrence references the institution code `RBINS` and the institution identifier `https://ror.org/02y22ws83`, they will be linked to the [Royal Belgian Institute of Natural Sciences](/institution/c2bfdeef-9c03-435e-8465-c483dadd6995). Occurrences matched to GRSciColl entries are used in generating dashboards and metrics as shown in this example.
 
 In cases with more than one possible match, the system uses the publisher country to help select a GRSciColl match. [Learn more about how to link GBIF occurrences to GRSciColl](/faq#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
 
