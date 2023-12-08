@@ -32,9 +32,9 @@ y luego ¨[complete y envíe el siguiente formulario](mailto:scientific-collecti
 El resultado de la búsqueda de una colección o institución puede descargarse del sitio web pulsando este botón:
 <img width="1664" alt="download_as_csv" src="https://github.com/gbif/hp-grscicoll/assets/7677271/0ed58648-4efc-4755-876f-29677f6be975" />
 
-## What is the difference between GBIF datasets and GRSciColl collections?
+## ¿Cuál es la diferencia entre los conjuntos de datos de GBIF y las colecciones de GRSciColl?
 
-GRSciColl originated independently from GBIF, it has [its own history](/about#data-history). Many datasets published on GBIF contain records for specimens that belong to collections registered in GRSciColl. The content between GBIF and GRSciColl can overlap. However, there are a few differences:
+GRSciColl se originó independientemente de GBIF, tiene [ su propia historia](/about#data-history). Many datasets published on GBIF contain records for specimens that belong to collections registered in GRSciColl. The content between GBIF and GRSciColl can overlap. However, there are a few differences:
 * A GRSciColl collection entry must correspond to a physical collection while GBIF datasets can contain other types of records like observations.
 * A GRSciColl collection entry can refer to a historical collection that was lost or split.
 * Datasets published on GBIF contain biodiversity data while collection entries on GRSciColl can describe geological or archeological collections for example.
