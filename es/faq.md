@@ -32,14 +32,14 @@ y luego ¨[complete y envíe el siguiente formulario](mailto:scientific-collecti
 El resultado de la búsqueda de una colección o institución puede descargarse del sitio web pulsando este botón:
 <img width="1664" alt="download_as_csv" src="https://github.com/gbif/hp-grscicoll/assets/7677271/0ed58648-4efc-4755-876f-29677f6be975" />
 
-## What is the difference between GBIF datasets and GRSciColl collections?
+## ¿Cuál es la diferencia entre los conjuntos de datos de GBIF y las colecciones de GRSciColl?
 
-GRSciColl originated independently from GBIF, it has [its own history](/about#data-history). Many datasets published on GBIF contain records for specimens that belong to collections registered in GRSciColl. The content between GBIF and GRSciColl can overlap. However, there are a few differences:
-* A GRSciColl collection entry must correspond to a physical collection while GBIF datasets can contain other types of records like observations.
-* A GRSciColl collection entry can refer to a historical collection that was lost or split.
-* Datasets published on GBIF contain biodiversity data while collection entries on GRSciColl can describe geological or archeological collections for example.
+GRSciColl se originó independientemente de GBIF, tiene [ su propia historia](/about#data-history). Algunos conjuntos de datos publicados en GBIF contienen registros de especímenes que pertenecen a colecciones registradas en GRSciColl. El contenido entre GBIF y GRSciColl puede sobreponerse. Sin embargo, existen algunas diferencias:
+* Una colección GRSciColl debe corresponder con una colección física, mientras que los conjuntos de datos de GBIF pueden contener otros tipos de registros, como observaciones.
+* Un registro de colección de GRSciColl puede referirse a una colección histórica que está perdida o fue dividida.
+* Los conjuntos de datos publicados en GBIF contienen datos de biodiversidad mientras que los registros de colección en GRSciColl pueden describir colecciones geológicas o arqueológicas, por ejemplo.
 
-GBIF publishers may choose to publish all their records in one dataset but describe their holdings with several collection entries in GRSciColl. Alternatively, several datasets can contain records corresponding to specimens belonging to the same collection.
+Los publicistas de GBIF pueden publicar todos sus registros en un solo conjunto de datos pero describir sus participaciones con algunos registros de colecciones en GRSciColl. Alternativamente, algunos conjuntos de datos pueden contener registros correspondientes a especímenes que pertenecen a la misma colección.
 
 See how occurrences published on GBIF are linked to GRSciColl entries [here](/connected-systems#occurrences-published-on-gbif). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
