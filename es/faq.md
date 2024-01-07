@@ -57,11 +57,11 @@ Mira cómo las ocurrencias publicadas en GBIF están vinculadas a las entradas G
 
 ### ¿Cómo representar mi institución y mis colecciones?
 
-No existe jerarquía entre las entradas de las colecciones ni entre las entradas de las instituciones. Las instituciones deciden el nivel de granularidad que desean utilizar para representar sus colecciones. Por ejemplo, una institución podría tener una entrada para una colección de aves y otra para una colección de mamíferos, mientras que otra institución sólo tendría una entrada para su colección de vertebrados.
+No existe jerarquía entre las entradas de las colecciones ni entre las entradas de las instituciones. Las instituciones deciden el nivel de granularidad que desean utilizar para representar sus colecciones. Por ejemplo, una institución podría tener una entrada para una colección de aves y otra para una colección de mamíferos, mientras que otra institución tendría sólo una entrada para su colección de vertebrados.
 
 En caso de duda, puede seguir estas directrices prácticas:
 * Haga una entrada de institución por ubicación física (el campus, el edificio donde se alojan las colecciones).
-* Haga una entrada para cada grupo de especímenes con el mismo punto de contacto (la persona que puede dar más información sobre la colección, posiblemente organizar un préstamo).
+* Haga una entrada para cada grupo de especímenes con el mismo punto de contacto (la persona que puede dar más información sobre la colección, posiblemente pueda organizar un préstamo).
 
 ### ¿Qué información debo introducir en GRSciColl?
 
