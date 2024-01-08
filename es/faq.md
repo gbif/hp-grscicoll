@@ -41,7 +41,7 @@ GRSciColl se originó independientemente de GBIF, tiene [ su propia historia](/a
 
 Los publicistas de GBIF pueden publicar todos sus registros en un solo conjunto de datos pero describir sus participaciones con algunos registros de colecciones en GRSciColl. Alternativamente, algunos conjuntos de datos pueden contener registros correspondientes a especímenes que pertenecen a la misma colección.
 
-Revise como las ocurrencias publicadas en GBIF están vinculadas con entradas de GRSciColl [aquí](/connected-systems#occurrences-published-on-gbif). Revise como los conjuntos de datos de GBIF pueden vincularse a entradas de colecciones de GRSciColl [aquí](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+Mira cómo las ocurrencias publicadas en GBIF están vinculadas a las entradas GRSciColl [aquí](/connected-systems#occurrences-published-on-gbif). Vea cómo los conjuntos de datos GBIF pueden ser enlazados a las entradas de colección GRSciColl [aquí](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
 ## ¿Cuál es la diferencia entre los autores de GBIF y las instituciones de GRSciColl?
 
@@ -51,7 +51,7 @@ GRSciColl se originó independientemente de GBIF, tiene [su propia historia](/ab
 
 Una gran entidad administrativa como una universidad puede registrarse como editora de GBIF y describir sus departamentos como instituciones GRSciColl. Alternativamente, algunos editores de GBIF pueden corresponder a entidades más pequeñas y tener representada la institución como una entrada en GRSciColl.
 
-Mira cómo las ocurrencias publicadas en GBIF están vinculadas a las entradas GRSciColl [aquí](/connected-systems#occurrences-published-on-gbif). Vea cómo los conjuntos de datos GBIF pueden ser enlazados a las entradas de colección GRSciColl [aquí](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+Revise como las ocurrencias publicadas en GBIF están vinculadas con entradas de GRSciColl [aquí](/connected-systems#occurrences-published-on-gbif). Revise como los conjuntos de datos de GBIF pueden vincularse a entradas de colecciones de GRSciColl [aquí](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
 ## Directrices para la edición
 
