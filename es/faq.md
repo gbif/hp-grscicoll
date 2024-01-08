@@ -41,27 +41,27 @@ GRSciColl se originó independientemente de GBIF, tiene [ su propia historia](/a
 
 Los publicistas de GBIF pueden publicar todos sus registros en un solo conjunto de datos pero describir sus participaciones con algunos registros de colecciones en GRSciColl. Alternativamente, algunos conjuntos de datos pueden contener registros correspondientes a especímenes que pertenecen a la misma colección.
 
-See how occurrences published on GBIF are linked to GRSciColl entries [here](/connected-systems#occurrences-published-on-gbif). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+Revise como las ocurrencias publicadas en GBIF están vinculadas con entradas de GRSciColl [aquí](/connected-systems#occurrences-published-on-gbif). Revise como los conjuntos de datos de GBIF pueden vincularse a entradas de colecciones de GRSciColl [aquí](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
-## What is the difference between GBIF publishers and GRSciColl institutions?
+## ¿Cuál es la diferencia entre los autores de GBIF y las instituciones de GRSciColl?
 
-GRSciColl originated independently from GBIF, it has [its own history](/about#data-history). Many datasets published on GBIF contain records for specimens that belong to collections registered in GRSciColl. The content between GBIF and GRSciColl can overlap. See [the question above](/faq#what-is-the-difference-between-gbif-datasets-and-grscicoll-collections). However, there are some differences:
-* GBIF publishers are registered organizations that actively share data on GBIF. They use [publishing tools](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) in order to share datasets on GBIF. Some publishers are museums and herbaria but others are citizen science initiatives, journals or research facilities which might only be sharing observations, taxa descriptions or DNA-derived data.
-* GRSciColl institutions were registered because they are known to hold physical scientific collections. GRSciColl institution entries can be added by GRSciColl editors (based on information found in publications or online) or by the institutions themselves.
+GRSciColl se originó independientemente de GBIF, tiene [su propia historia](/about#data-history). Muchos conjuntos de datos publicados en GBIF contienen registros para especímenes que pertenecen a colecciones registradas en GRSciColl. El contenido entre GBIF y GRSciColl puede sobreponerse. Vea [la pregunta anterior](/faq#what-is-the-difference-between-gbif-datasets-and-grscicoll-collections). Sin embargo, hay algunas diferencias:
+* Los autores de GBIF son organizaciones registradas que comparten datos activamente en GBIF. Utilizan [herramientas de publicación](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) para poder compartir conjuntos de datos en GBIF. Algunos autores son museos o herbarios pero otros son iniciativas científicas ciudadanas, revistas o facilidades de investigación que pueden estar solamente compartiendo observaciones, descripción de taxones o datos derivados de ADN.
+* Las instituciones GRSciColl fueron registradas porque se sabe que tienen colecciones científicas físicas. Las entradas de la institución GRSciColl pueden ser añadidas por los autores de GRSciColl (basándose en la información encontrada en publicaciones o en línea) o por las propias instituciones.
 
-A large administrative entity like a university can register as a GBIF publisher and describe its departments as GRSciColl institutions. Alternatively, some GBIF publishers can correspond to smaller entities and have they institution represented as one entry in GRSciColl.
+Una gran entidad administrativa como una universidad puede registrarse como editora de GBIF y describir sus departamentos como instituciones GRSciColl. Alternativamente, algunos editores de GBIF pueden corresponder a entidades más pequeñas y tener representada la institución como una entrada en GRSciColl.
 
-See how occurrences published on GBIF are linked to GRSciColl entries [here](/connected-systems#occurrences-published-on-gbif). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+Mira cómo las ocurrencias publicadas en GBIF están vinculadas a las entradas GRSciColl [aquí](/connected-systems#occurrences-published-on-gbif). Vea cómo los conjuntos de datos GBIF pueden ser enlazados a las entradas de colección GRSciColl [aquí](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
 ## Directrices para la edición
 
 ### ¿Cómo representar mi institución y mis colecciones?
 
-No existe jerarquía entre las entradas de las colecciones ni entre las entradas de las instituciones. Las instituciones deciden el nivel de granularidad que desean utilizar para representar sus colecciones. Por ejemplo, una institución podría tener una entrada para una colección de aves y otra para una colección de mamíferos, mientras que otra institución sólo tendría una entrada para su colección de vertebrados.
+No existe jerarquía entre las entradas de las colecciones ni entre las entradas de las instituciones. Las instituciones deciden el nivel de granularidad que desean utilizar para representar sus colecciones. Por ejemplo, una institución podría tener una entrada para una colección de aves y otra para una colección de mamíferos, mientras que otra institución tendría sólo una entrada para su colección de vertebrados.
 
 En caso de duda, puede seguir estas directrices prácticas:
 * Haga una entrada de institución por ubicación física (el campus, el edificio donde se alojan las colecciones).
-* Haga una entrada para cada grupo de especímenes con el mismo punto de contacto (la persona que puede dar más información sobre la colección, posiblemente organizar un préstamo).
+* Haga una entrada para cada grupo de especímenes con el mismo punto de contacto (la persona que puede dar más información sobre la colección, posiblemente pueda organizar un préstamo).
 
 ### ¿Qué información debo introducir en GRSciColl?
 
