@@ -50,6 +50,9 @@ siteMeasurements:
   GA_ID: "G-XXXXXXXX" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
   termsVersion: "2021-07-06" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
 
+plausible:
+  enabled: true
+  dataDomain: "scientific-collections.gbif.org"
 
 algae:
   rootLang: en
