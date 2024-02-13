@@ -39,7 +39,7 @@ GRSciColl se originó independientemente de GBIF, tiene [ su propia historia](/a
 * Un registro de colección de GRSciColl puede referirse a una colección histórica que está perdida o fue dividida.
 * Los conjuntos de datos publicados en GBIF contienen datos de biodiversidad mientras que los registros de colección en GRSciColl pueden describir colecciones geológicas o arqueológicas, por ejemplo.
 
-Los publicistas de GBIF pueden publicar todos sus registros en un solo conjunto de datos pero describir sus participaciones con algunos registros de colecciones en GRSciColl. Alternativamente, algunos conjuntos de datos pueden contener registros correspondientes a especímenes que pertenecen a la misma colección.
+Las organizaciones participantes en GBIF pueden publicar todos sus registros en un solo conjunto de datos, pero describir su material preservado con varios registros de colecciones en GRSciColl. Alternativamente, algunos conjuntos de datos pueden contener registros correspondientes a especímenes que pertenecen a la misma colección.
 
 Mira cómo las ocurrencias publicadas en GBIF están vinculadas a las entradas GRSciColl [aquí](/connected-systems#occurrences-published-on-gbif). Vea cómo los conjuntos de datos GBIF pueden ser enlazados a las entradas de colección GRSciColl [aquí](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
