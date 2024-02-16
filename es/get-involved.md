@@ -1,5 +1,5 @@
 ---
-permalink: /get-involved
+permalink: es/get-involved
 lang-ref: involúcrate
 title: '¿Cómo involucrarse?'
 description: |
@@ -29,4 +29,4 @@ Puede hacer preguntas y contribuir a nuestro trabajo suscribiéndose a nuestra l
 
 ## Ayúdanos a traducir el sitio
 
-GBIF manages translations via [CrowdIn](https://www.crowdin.com), which provides our [active community of translators](https://www.gbif.org/translators) with critical support through a free licence for their service. Interested in becoming volunteer? Sign up on CrowdIn and join the [GRSciColl project](https://crowdin.com/project/grscicoll) or our [other projects](https://crowdin.com/profile/gbif-informatics).
+GBIF realiza las traducciones a través de [CrowdIn](https://www.crowdin.com), que proporciona a nuestra activa [comunidad de traductores](https://www.gbif.org/translators) soporte para realizar este proceso a través de una licencia gratuita utilizar CrowdIn. ¿Interesado en convertirse en voluntario? Regístrate en CrowdIn y únete al proyecto [GRSciColl](https://crowdin.com/project/grscicoll) o a nuestros [otros proyectos](https://crowdin.com/profile/gbif-informatics).
