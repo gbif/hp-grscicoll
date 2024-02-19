@@ -1,14 +1,14 @@
 {
-  "title": "Featured collections and specimens",
+  "title": "Colecciones y especímenes destacados",
   "features": [
     {
-      "title": "Entomology (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Entomología (USNM)",
+      "description": "Del Museo de Historia Natural, del Instituto Smithsoniano",
       "background": "http://n2t.net/ark:/65665/m3410a0071-af64-422f-9aa6-a6a893dc718b",
       "imageLicense": "[Hylocurosoma adustus Eggers, 1943](/specimen/search?entity=1320615198)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Más",
           "href": "/collection/ac7b18e8-e231-4e03-bea6-575fc6023ac4"
         }
       ],

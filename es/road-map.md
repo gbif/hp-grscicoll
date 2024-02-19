@@ -1,7 +1,7 @@
 ---
 permalink: /road-map
-lang-ref: road-map
-title: GRSciColl 2023-2024 road map
+lang-ref: /es/road-map
+title: Hoja de ruta de GRSciColl 2023-2024
 description: |
   This road map builds in the [2021 roadmap](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2021.md) as well as the efforts in 2022 to build a community of editors an mediators.
 background: "{{ site.data.images.pandeleteius.src }}"
@@ -15,7 +15,7 @@ height: 70vh
 toc: true
 ---
 
-## 1. Review data schema
+## 1. Revisar el esquema de datos
 
 El modelo de datos para GRSciColl ha evolucionado a través del tiempo para ajustar las fuentes de datos interconectadas, tales como iDigBio, Index Herbariorum y las bases de datos originales que fueron integradas. At the same time, there has been extensive work by the TDWG Collections Descriptions Interest Group to standardise approaches and vocabularies that are of relevance - this is emerging as a framework called Latimer Core.
 
@@ -71,7 +71,7 @@ Given the feedback received, we will also explore how to make GRSciColl a place 
 - Should/can we and how to make surveys editable? Answering those questions will help shape the roadmap for the following year.
 - Answering those questions will help shape the road map for the following year.
 
-## 4. A new user interface for GRSciColl
+## 4. Una nueva interfaz de usuario para GRSciColl
 
 The public interface of GRSciColl is limited in capabilities, offering less than the management interface and what is possible using the GBIF Hosted Portal software, such as the DiSSCo UK site. We intend to replace the existing GRSciColl site with a deployment of a hosted portal, enhanced with new features, such as maps for institutions, and clear explanatory text for users and data managers. Work on this has begun and can be seen on the development site.
 
