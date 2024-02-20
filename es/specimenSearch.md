@@ -1,5 +1,5 @@
 ---
-permalink: specimen/search
+permalink: es/specimen/search
 lang-ref: specimen/search
 title: Specimen search
 description: Search all specimens
