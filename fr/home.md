@@ -1,6 +1,6 @@
 ---
-lang: en
-permalink: /
+lang: fr
+permalink: /fr/
 lang-ref: home
 layout: home
 klass: home

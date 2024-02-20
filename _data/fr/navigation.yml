@@ -1,13 +1,13 @@
 - 
   #Links listed below will be included in your site's navbar (navigation at the top)
   text: Institutions
-  href: /institution/search
+  href: /fr/institution/search
 - 
   text: Collections
-  href: /collection/search
+  href: /fr/collection/search
 - 
   text: Spécimens
-  href: /specimen/search
+  href: /fr/specimen/search
 - 
   text: À propos
   menu:
@@ -16,28 +16,28 @@
       href: /fr/about
     - 
       text: Impliquez-vous
-      href: /get-involved
+      href: /fr/get-involved
     - 
       text: Systèmes connectés
-      href: /connected-systems
+      href: /fr/connected-systems
     - 
       text: API
-      href: /api
+      href: /fr/api
     - 
       text: Feuille de route
-      href: /road-map
+      href: /fr/road-map
 - 
   text: Comment faire
   menu:
     - 
       text: Ajouter des entrées
-      href: 'how-to#how-to-add-a-collection-or-an-institution-to-grscicoll'
+      href: 'fr/how-to#how-to-add-a-collection-or-an-institution-to-grscicoll'
     - 
       text: Modifier les entrées
-      href: '/how-to#how-to-edit-a-grscicoll-collection-or-institution'
+      href: '/fr/how-to#how-to-edit-a-grscicoll-collection-or-institution'
     - 
       text: FAQ
-      href: /faq
+      href: /fr/faq
 - 
   text: Contact
-  href: /contact
+  href: /fr/contact
