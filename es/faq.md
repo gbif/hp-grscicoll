@@ -1,5 +1,5 @@
 ---
-permalink: /faq
+permalink: es/faq
 lang-ref: faq
 title: Preguntas frecuentes
 description: |
