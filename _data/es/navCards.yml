@@ -29,7 +29,7 @@ shortcuts:
       #img required
       background: "{{ site.data.images.echinometra.src }}"
       imageLicense: "{{ site.data.images.echinometra.caption }}"
-      href: es/connected-systems
+      href: /es/connected-systems
 news:
   title: Noticias
   description: Revise aquí algunas noticias sobre colecciones científicas.
