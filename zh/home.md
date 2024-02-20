@@ -1,6 +1,6 @@
 ---
-lang: zh-cn
-permalink: /zh-cn/
+lang: zh
+permalink: /zh/
 lang-ref: home
 layout: home
 klass: home
