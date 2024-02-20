@@ -1,5 +1,5 @@
 ---
-permalink: api
+permalink: es/api
 lang-ref: api
 title: Documentación de la API
 description: |
