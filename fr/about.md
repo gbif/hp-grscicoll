@@ -48,6 +48,6 @@ GRSciColl a maintentant un système de suggestion que les éditeurs utilisent po
 
 De plus, nous travaillons avec certaines organisations nationales sur l'import des données de leurs registres dans GRSciColl. GRSciColl peut également être utilisé dans le contexte des [GBIF hosted portals](https://www.gbif.org/hosted-portals) comme [le portail des Sciences Naturelles Britannique](https://data.dissco-uk.org).
 
-### What's next
+### Les prochaines étapes
 
 Veuillez consulter notre feuille de route actuelle [ici](/road-map).
