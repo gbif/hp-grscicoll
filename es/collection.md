@@ -1,5 +1,5 @@
 ---
-permalink: /collection/search
+permalink: /es/collection/search
 title: Data
 description: We publish open data
 layout: collection-search

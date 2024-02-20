@@ -1,5 +1,5 @@
 ---
-permalink: /how-to
+permalink: /es/how-to
 lang-ref: how-to
 title: How to
 description: |

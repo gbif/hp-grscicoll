@@ -1,6 +1,6 @@
 ---
 permalink: /fr/about
-lang-ref: /fr/about
+lang-ref: about
 title: GRSciColl
 description: |
   Le Registre Global de Collections Scientifiques - Global Registry of Scientific Collections ou GRSciColl en anglais, est un référentiel maintenu par une communauté active qui s'appuit sur le travail du Consortium of the Barcode of Life (CBOL).

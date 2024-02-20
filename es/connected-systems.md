@@ -1,6 +1,6 @@
 ---
-permalink: /sistemas-conectados
-lang-ref: sistemas-conectados
+permalink: es/connected-systems
+lang-ref: connected-systems
 title: Sistemas conectados
 description: |
   El Registro Mundial de Colecciones Científicas (GRSciColl) pretende mejorar la interoperabilidad e interactúa con otros sistemas.

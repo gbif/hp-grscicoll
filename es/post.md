@@ -1,5 +1,5 @@
 ---
-permalink: /post
+permalink: /es/post
 lang-ref: archive
 layout: archive
 title: Noticias
