@@ -1,6 +1,6 @@
 ---
-permalink: /road-map
-lang-ref: /es/road-map
+permalink: /es/road-map
+lang-ref: road-map
 title: Hoja de ruta de GRSciColl 2023-2024
 description: |
   This road map builds in the [2021 roadmap](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2021.md) as well as the efforts in 2022 to build a community of editors an mediators.
