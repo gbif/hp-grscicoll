@@ -31,7 +31,7 @@
   menu:
     - 
       text: Añadir registros
-      href: 'how-to#how-to-add-a-collection-or-an-institution-to-grscicoll'
+      href: '/es/how-to#how-to-add-a-collection-or-an-institution-to-grscicoll'
     - 
       text: Editar registros
       href: '/es/how-to#how-to-edit-a-grscicoll-collection-or-institution'
