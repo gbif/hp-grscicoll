@@ -1,5 +1,5 @@
 ---
-permalink: es
+permalink: es/contact
 lang-ref: contact
 title: Contacto
 description: |
