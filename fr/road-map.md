@@ -17,14 +17,14 @@ toc: true
 
 ## 1. Review data schema
 
-The data model for GRSciColl has evolved over time to accommodate the data sources being connected, such as iDigBio, Index Herbariorum and the original databases that were integrated. At the same time, there has been extensive work by the TDWG Collections Descriptions Interest Group to standardise approaches and vocabularies that are of relevance - this is emerging as a framework called Latimer Core.
+The data model for GRSciColl has evolved over time to accommodate the data sources being connected, such as iDigBio, Index Herbariorum and the original databases that were integrated. At the same time, there has been extensive work by the [TDWG Collections Descriptions Interest Group](https://www.tdwg.org/community/cd/) to standardize relevant approaches and vocabularies emerging from a framework called [Latimer Core](https://doi.org/10.3897/biss.6.91159).
 
-We will review all the fields in the data schema and their content to ensure they are intuitive, documented and where possible, aligned to Latimer Core. As examples of what this might entail, GRSciColl currently has:
+We will review all the fields in the data schema and their content to ensure they are intuitive, thoroughly documented and, where possible, aligned to Latimer Core. As examples of what this might entail, GRSciColl currently has:
 
 - “ContentType” uses a controlled vocabulary that has caused confusion for editors. This should be reviewed and aligned to Latimer Core.
 - “Discipline” with a controlled vocabulary that could be aligned to the Latimer Core Discipline
 
-“Discipline” with a controlled vocabulary that could be aligned to the Latimer Core Discipline It is sometimes unclear when and how the fields “inactive”, and “isHerbarium” should be used and might
+It is sometimes unclear when and how the fields “inactive” and “isHerbarium” should and might be used.
 
 ## 2. Support structured collection descriptors
 
