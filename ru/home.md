@@ -1,6 +1,6 @@
 ---
-lang: en
-permalink: /
+lang: ru
+permalink: /ru/
 lang-ref: home
 layout: home
 klass: home
