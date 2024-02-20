@@ -64,7 +64,7 @@ news:
 #- text: Explore
 #href: http://example.com
 video-intro:
-  id: video-intro
+  id: /es/video-intro
   klass: video-block
   reverse: false
   title: "Vea nuestro vídeo de introductorio de GRSciColl"
