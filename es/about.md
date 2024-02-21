@@ -1,5 +1,5 @@
 ---
-permalink: es/about
+permalink: /es/about
 lang-ref: about
 title: GRSciColl
 description: |

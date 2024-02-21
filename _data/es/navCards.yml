@@ -29,7 +29,7 @@ shortcuts:
       #img required
       background: "{{ site.data.images.echinometra.src }}"
       imageLicense: "{{ site.data.images.echinometra.caption }}"
-      href: es/connected-systems
+      href: /es/connected-systems
 news:
   title: Noticias
   description: Revise aquí algunas noticias sobre colecciones científicas.
@@ -64,7 +64,7 @@ news:
 #- text: Explore
 #href: http://example.com
 video-intro:
-  id: video-intro
+  id: /es/video-intro
   klass: video-block
   reverse: false
   title: "Vea nuestro vídeo de introductorio de GRSciColl"

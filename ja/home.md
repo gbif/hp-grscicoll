@@ -1,6 +1,6 @@
 ---
-lang: jp
-permalink: /jp/
+lang: ja
+permalink: /ja/
 lang-ref: home
 layout: home
 klass: home

@@ -1,5 +1,5 @@
 ---
-permalink: es/get-involved
+permalink: /es/get-involved
 lang-ref: get-involved
 title: '¿Cómo involucrarse?'
 description: |
