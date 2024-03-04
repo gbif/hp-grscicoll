@@ -2,17 +2,17 @@
   "title": "Featured collections and specimens",
   "features": [
     {
-      "title": "Entomology (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
-      "background": "http://n2t.net/ark:/65665/m3410a0071-af64-422f-9aa6-a6a893dc718b",
-      "imageLicense": "[Hylocurosoma adustus Eggers, 1943](/specimen/search?entity=1320615198)",
+      "title": "Herbario Jardín Botánico de Cartagena",
+      "description": "From the Botanical Garden of Cartagena “Guillermo Piñeres”",
+      "background": "https://ia802608.us.archive.org/13/items/JBGP-HERBARIO_VIRTUAL/JBGP-011193.jpg",
+      "imageLicense": " [Microchilus madrinanii Ormerod](https://scientific-collections.gbif.org/specimen/search?entity=4139006064&taxonKey=5315085&view=TABLE) collected in Colombia by Jardín Botánico de Cartagena (licensed under http://creativecommons.org/licenses/by-nd/4.0/)",
       "xcta": [
         {
           "text": "More",
-          "href": "/collection/ac7b18e8-e231-4e03-bea6-575fc6023ac4"
+          "href": "/collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889"
         }
       ],
-      "href": "/collection/ac7b18e8-e231-4e03-bea6-575fc6023ac4"
+      "href": "/collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889"
     },
     {
       "title": "The Coleoptera collection",
@@ -54,17 +54,17 @@
       "href": "/collection/1caa6488-5c47-4bed-8258-23155b269bd3"
     },
     {
-      "title": "Mycological Collections",
-      "description": "From Estonian Museum of Natural History",
-      "background": "https://files.plutof.ut.ee/public/large/EA/A3/EAA311CBACE476A88D288C8E8DE7D9B2A13CFE4AAF8046127C7F54665BCBFF3F.jpg",
-      "imageLicense": "[Nephroma arcticum (L.) Torss.](/specimen/search?entity=3001047951)",
+      "title": "Entomology (USNM)",
+      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "background": "http://n2t.net/ark:/65665/m3410a0071-af64-422f-9aa6-a6a893dc718b",
+      "imageLicense": "[Hylocurosoma adustus Eggers, 1943](/specimen/search?entity=1320615198)",
       "xcta": [
         {
           "text": "More",
-          "href": "/collection/16c3a4d3-144b-49ca-8533-79561e7884f3"
+          "href": "/collection/ac7b18e8-e231-4e03-bea6-575fc6023ac4"
         }
       ],
-      "href": "/collection/16c3a4d3-144b-49ca-8533-79561e7884f3"
+      "href": "/collection/ac7b18e8-e231-4e03-bea6-575fc6023ac4"
     },
     {
       "title": "Herbarium",
