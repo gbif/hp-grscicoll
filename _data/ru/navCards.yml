@@ -74,7 +74,7 @@ video-intro:
   #img required
   background: "{{ site.data.images.play-squid.src }}"
   imageLicense: "{{ site.data.images.play-squid.caption }}"
-  href: https://vimeo.com/872824009
+  href: https://vimeo.com/showcase/10709937/video/872824009
   cta:
     - 
       text: Read more
