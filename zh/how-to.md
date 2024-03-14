@@ -28,6 +28,8 @@ When creating a new entry in GRSciColl, very few fields are mandatory. When crea
 See also this short video tutorial:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977782?h=fb1d926798" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
+If you can't access Vimeo in your country, [here](https://www.youtube.com/watch?v=R6ftJ61oOn4) is the YouTube video
+
 ## How to edit a GRSciColl collection or institution
 
 There are three ways to update information on GRSciColl:
@@ -37,6 +39,8 @@ There are three ways to update information on GRSciColl:
 
 See also this short video tutorial:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977825?h=a0068cfcd8" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
+If you can't access Vimeo in your country, [here](https://www.youtube.com/watch?v=rgMQK9qFVfs) is the YouTube video
 
 ### Suggest a change
 
