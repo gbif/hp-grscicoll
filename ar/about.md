@@ -31,7 +31,7 @@ GRSciColl, originially conceived (like GBIF) under the auspices of the [OECD Glo
 
 > Schindel DE, Miller SE, Trizna MG, Graham E, Crane AE (2016) The Global Registry of Biodiversity Repositories: A Call for Community Curation. Biodiversity Data Journal 26(4): e10293. https://doi.org/10.3897/BDJ.4.e10293
 
-In 2018, GRSciColl was adopted GBIF and merged into its registry (see [this news item](https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/)).
+In 2018, GRSciColl was adopted by GBIF and merged into its registry (see [this news item](https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/)).
 
 Recent improvements include:
 * Development of an [API for GRSciColl](/api)
