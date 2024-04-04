@@ -15,7 +15,7 @@ shortcuts:
       title: Ayúdenos a mejorar GRSciColl #required
       #required
       description: |
-        Añada su institución y sus colecciones, conviértase en editor, siga nuestra hoja de ruta.
+        Incluya su institución y sus colecciones, conviértase en editor, siga nuestra hoja de ruta.
       #img required
       background: "{{ site.data.images.costatrochus.src }}"
       imageLicense: "{{ site.data.images.costatrochus.caption }}"
@@ -25,7 +25,7 @@ shortcuts:
       title: Sistemas conectados
       #required
       description: |
-        Aprenda cómo GRSciColl está conectado a otros sistemas como el Index Herbariorum y los portales alojados de GBIF.
+        Aprenda cómo GRSciColl está conectado a otros sistemas como el Índice Herbariorum y los Portales alojados de GBIF.
       #img required
       background: "{{ site.data.images.echinometra.src }}"
       imageLicense: "{{ site.data.images.echinometra.caption }}"
@@ -44,9 +44,9 @@ news:
       background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F1iRymXEY7n7S70Rwk1gbmm%2F866689c5f7ec2a8dafa17fa1d580f6e7%2Ffungus_np.jpg
       href: https://www.gbif.org/es/project/1oof3bltISyNanpvIWQYwz/digitization-of-mycological-collections-in-nepal
     - 
-      title: Se abre la revisión comunitaria del esquema de datos para GRSciColl
-      background: http://api.gbif.org/v1/image/unsafe/1200x627/http%3A%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F20LXAvZuwbw3S9oEMzYFBC%2F8f401acf7f3b80cea6b112b0ab363caf%2Fbg-news-collections.jpg
-      href: https://www.gbif.org/es/news/6QmgDWnOORMkZIG9xvZAD/se-abre-la-revision-comunitaria-del-esquema-de-datos-para-grscicoll
+      title: El legado colonial de los herbarios
+      background: http://api.gbif.org/v1/image/unsafe/1200x627/http%3A%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F1ZLEusKyYJelIF6vc5KU7T%2F3785dc8bf6f738c4b6bbd07552167484%2FNMNH-Acevedo16519__1_.jpg
+      href: https://www.gbif.org/data-use/401Jup5tkSfJyDbh7xxHNn/the-colonial-legacy-of-herbaria
 #typespecimens:
 #reverse: false
 #title: "Building a complete catalogue of all type specimens"
@@ -67,14 +67,14 @@ video-intro:
   id: /es/video-intro
   klass: video-block
   reverse: false
-  title: "Vea nuestro vídeo de introductorio de GRSciColl"
+  title: "Vea nuestro vídeo introductorio a GRSciColl"
   #required
   description: |
-    Aprenda acerca del Registro Mundial de Colecciones Científicas y como navegar por el sitio web.
+    Aprenda acerca del Registro Mundial de Colecciones Científicas y cómo navegar por el sitio web.
   #img required
   background: "{{ site.data.images.play-squid.src }}"
   imageLicense: "{{ site.data.images.play-squid.caption }}"
-  href: https://vimeo.com/872824009
+  href: https://vimeo.com/showcase/10709937/video/872824009
   cta:
     - 
       text: Saber más
