@@ -28,7 +28,7 @@ Al crear una nueva entrada en GRSciColl, muy pocos campos son obligatorios. Sin 
 Mire también este video tutorial:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977782?h=fb1d926798" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-If you can't access Vimeo in your country, [here](https://www.youtube.com/watch?v=R6ftJ61oOn4) is the YouTube video
+Si no puedes acceder a Vimeo en tu país, [aquí](https://www.youtube.com/watch?v=R6ftJ61oOn4) está el vídeo en YouTube
 
 ## Como editar una colección o institución en GRSciColl
 
@@ -40,7 +40,7 @@ Hay tres formas de actualizar la información en GRSciColl:
 También puede ver este breve video tutorial:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977825?h=a0068cfcd8" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-If you can't access Vimeo in your country, [here](https://www.youtube.com/watch?v=rgMQK9qFVfs) is the YouTube video
+Si no puedes acceder a Vimeo en tu país, [aquí](https://www.youtube.com/watch?v=rgMQK9qFVfs)  está el vídeo en YouTube
 
 ### Sugerir un cambio
 
@@ -55,15 +55,15 @@ La sugerencia será revisada por editores institucionales, editores de país o p
 
 ### Convertirse en editor
 
-There are two types of editors in GRSciColl: editors and mediators. Both can edit data on GRSciColl and review changes but only mediators can delete, merge and transform entries. An editor (or mediator) can be given the permissions to edit:
-* one or several collections
-* one or several institutions (and their associated collections)
-* one or several countries (and their associated institutions and collections)
+Hay dos tipos de editores en GRSciColl: editores y mediadores. Ambos pueden editar datos en GRSciColl y revisar cambios pero únicamente los mediadores pueden eliminar, combinar y transformar entradas. Un editor (o mediador) puede tener permisos para editar:
+* una o varias colecciones
+* una o varias instituciones (y sus colecciones asociadas)
+* uno o varios países (y sus instituciones y colecciones asociadas)
 
-To become a GRSciColl editor, you will need to have a [GBIF user account](https://www.gbif.org/user/profile) associated with your institutional email address. Please send us an email at scientific-collections@gbif.org to notify us that you would like to become an editor.
+Para convertirse en un editor de GRSciColl, necesitará tener una cuenta de usuario [GBIF](https://www.gbif.org/user/profile) asociada con su dirección de correo electrónico institucional. Por favor envíenos un correo electrónico a scientific-collections@gbif.org para notificarnos que desea convertirse en un editor.
 
 ### Importar datos
 
-The [GBIF Collections API](https://www.gbif.org/developer/registry#collections) allows for editing without going through the web interface. The API also has an experimental feature to upload batches of collection and institutions. See the documentation [here](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
+La [API de colecciones de GBIF](https://www.gbif.org/developer/registry#collections) permite ediciones sin pasar por la interfaz web. La API también tiene una característica experimental para subir lotes de colección e instituciones. Vea la documentación [aquí](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
 
-If you are interested in using the API for editing GRSciColl, the permission system and requirements are the same as for becoming an editor.
+Si usted está interesado en usar la API para editar GRSciColl, el sistema de permisos y los requisitos son los mismos que para convertirse en un editor.
