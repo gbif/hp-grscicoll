@@ -17,7 +17,7 @@ toc: true
 
 ## ¿Qué es el Registro Global de Colecciones Científicas?
 
-El Registro Mundial de Colecciones Científicas (GRSciColl) es un centro de intercambio de información exhaustivo y elaborado por la comunidad sobre colecciones, alojado en el registro del [Sistema Global de Información sobre Biodiversidad](https://www.gbif.org/) (GBIF). Constituye un valioso recurso para investigadores, instituciones y la comunidad científica en general.
+El Registro Mundial de Colecciones Científicas (GRSciColl) es un centro de intercambio de información exhaustivo y elaborado por la comunidad sobre colecciones científicas, alojado en el registro del [Sistema Global de Información sobre Biodiversidad](https://www.gbif.org/) (GBIF). Proporcionando información sobre colecciones científicas físicas—su contenido, ubicación, contactos, instituciones asociadas y códigos e identificadores de colección—GRSciColl ofrece un recurso para una amplia gama de usos por parte de expertos, investigadores y miembros de la sociedad en general.
 
 La información de GRSciColl es mantenida por una comunidad de editores, que incluye representantes de instituciones registradas y editores nacionales. El sistema de sugerencias permite a cualquier persona contribuir actualizando, añadiendo o fusionando registros, que posteriormente son revisados por las personas pertinentes. GRSciColl también se sincroniza periódicamente con fuentes externas como el Index Herbariorum, lo que garantiza una información actualizada y fiable.
 
@@ -50,4 +50,4 @@ También trabajamos con organizaciones nacionales para importar datos de sus reg
 
 ### Próximos pasos
 
-Por favor, consulta nuestra hoja de ruta [aquí](/road-map).
+Por favor, consulte nuestra hoja de ruta [aquí](/road-map).
