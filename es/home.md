@@ -5,15 +5,15 @@ lang-ref: home
 layout: home
 klass: home
 title: Global Registry of Scientific Collections #should not be translated
-gettingStartedVideoTitle: Getting started?
+gettingStartedVideoTitle: Primeros pasos
 institutionsInCountryTemplate: |
-  Institutions in <span id="users-country-name"></span>
-description: A worldwide catalogue of scientific collections #a descripton for the head element
-tagline: A worldwide catalogue of scientific collections
-tabInstitutions: Institution name
-tabSpecimens: Digitized specimens
-placeholderInstitutions: Search institutions
-placeholderSpecimens: Search for digitized specimens
+  Instituciones en <span id="users-country-name"></span>
+description: Un catálogo mundial de colecciones científicas #a descripton for the head element
+tagline: Un catálogo mundial de colecciones científicas
+tabInstitutions: Nombre de la institución
+tabSpecimens: Especímenes digitalizados
+placeholderInstitutions: Buscar instituciones
+placeholderSpecimens: Buscar especímenes digitalizados
 background: "{{ site.data.images.calcinus.src }}"
 imageLicense: "{{ site.data.images.calcinus.caption }}"
 height: 85vh
