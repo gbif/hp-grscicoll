@@ -15,36 +15,36 @@ height: 70vh
 toc: true
 ---
 
-## Como añadir una colección o institución a GRSciColl
+## Cómo añadir una colección o institución a GRSciColl
 
-Usted puede sugerir o añadir ya sea una colección o institución aquí:
+Usted puede sugerir o agregar una colección o institución aquí:
 
-[Añadir una nueva Institución](https://registry.gbif.org/institution/create){: .button .is-primary}
+[Agregar una nueva Institución](https://registry.gbif.org/institution/create){: .button .is-primary}
 
-[Añadir una nueva Colección](https://registry.gbif.org/collection/create){: .button .is-primary}
+[Agregar una nueva Colección](https://registry.gbif.org/collection/create){: .button .is-primary}
 
 Al crear una nueva entrada en GRSciColl, muy pocos campos son obligatorios. Sin embargo, le agradeceríamos que nos facilitara la dirección de la entrada que ha creado (especialmente el país).
 
-Mire también este video tutorial:
+También puede ver este breve video tutorial:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977782?h=fb1d926798" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-Si no puedes acceder a Vimeo en tu país, [aquí](https://www.youtube.com/watch?v=R6ftJ61oOn4) está el vídeo en YouTube
+Si no puede acceder a Vimeo en su país, [aquí](https://www.youtube.com/watch?v=R6ftJ61oOn4) está el vídeo en YouTube
 
-## Como editar una colección o institución en GRSciColl
+## Cómo editar una colección o institución de GRSciColl
 
 Hay tres formas de actualizar la información en GRSciColl:
 * puede sugerir un cambio
-* convertirse en editor
+* puede convertirse en editor
 * puede importar datos
 
 También puede ver este breve video tutorial:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977825?h=a0068cfcd8" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-Si no puedes acceder a Vimeo en tu país, [aquí](https://www.youtube.com/watch?v=rgMQK9qFVfs)  está el vídeo en YouTube
+Si no puede acceder a Vimeo en su país, [aquí](https://www.youtube.com/watch?v=rgMQK9qFVfs)  está el vídeo en YouTube
 
 ### Sugerir un cambio
 
-Cualquiera puede sugerir cambios haciendo clic en cualquier entrada de GRSciColl y, a continuación:
+Cualquiera puede sugerir cambios haciendo clic en cualquier entrada de GRSciColl:
 * Haga clic en "Editar
 * Haga clic en el botón `Sugerir`
 * Haga su sugerencia y deje su dirección de correo electrónico y un comentario.
