@@ -15,7 +15,7 @@ height: 70vh
 toc: true
 ---
 
-## Actualizar o añadir un registro
+## Actualizar o agregar un registro
 
 Consulte nuestra página sobre [cómo hacerlo](/how-to).
 
@@ -26,7 +26,7 @@ Puede escribir sus preguntas y seguir las actividades de GRSciColl en nuestro fo
 [Foro de GRSciColl](https://discourse.gbif.org/c/grscicoll){: .button .is-primary}
 ## Suscríbase y utilice nuestra lista de correo
 
-Le invitamos a utilizar la lista de correo de GRSciColl para debatir sobre asuntos, preguntas y sugerencias relacionadas con el Registro Mundial de Colecciones Científicas.
+Le invitamos a utilizar la lista de correo de GRSciColl para debatir sobre asuntos, preguntas y sugerencias relacionadas con el Registro Global de Colecciones Científicas.
 
 [Suscríbase a nuestra lista de correo](https://lists.gbif.org/mailman/listinfo/scientific-collections){: .button .is-primary}
 
