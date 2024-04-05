@@ -55,7 +55,7 @@ Each GRSciColl entry has a Universally Unique IDentifier (UUID) and associated U
 
 In addition to contributions of the GRSciColl editors, identifiers for some institutions are imported automatically or semi-automatically.
 * All the entries connected to Index Herbariorum are given an Index Herbariorum identifier. See [how the syncronization with Index Herbariorum works](/about#index-herbariorum).
-* Many `CITES` identifiers also come from Index Herbariorum. See [how the syncronization with Index Herbariorum works](/about#index-herbariorum).
+* Many `CITES` identifiers also come from Index Herbariorum. See [how the syncronization with Index Herbariorum works](/connected-systems#index-herbariorum).
 * We matched as many GRSciColl institution entries as possible with [Wikidata](https://www.wikidata.org/) with their [OpenRefine](https://openrefine.org) Resolution tool and imported the wikidata identifiers.
 * We matched as many GRSciColl institution entries as possible with the [Research Organization Registry (ROR)](https://ror.org) using their [OpenRefine](https://openrefine.org) Resolution tool and imported the ROR identifiers.
 * We are working with the [NCBI BioCollection](https://www.ncbi.nlm.nih.gov/biocollections) team to import their identifiers in GRSciColl.
