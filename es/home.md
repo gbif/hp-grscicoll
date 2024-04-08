@@ -22,19 +22,19 @@ composition:
     type: grscicollHeader #the block type
   - 
     type: stats
-    data: navCards.stats
+    data: es.navCards.stats
   - 
     type: features
-    data: navCards.shortcuts
+    data: es.navCards.shortcuts
   - 
     type: split
-    data: navCards.video-intro
+    data: es.navCards.video-intro
   - 
     type: features
-    data: navCards.news
+    data: es.navCards.news
   - 
     type: features
-    data: collections
+    data: es.collections
 navbar:
   color: transparent!important
   hasWhiteText: true
