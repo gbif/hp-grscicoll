@@ -44,7 +44,7 @@ El Índice de Herbariorum tiene tablas de descriptores (Vea, por ejemplo, la pes
 
 Una API que expone a los descriptores como un documento Latimer Core que representa la colección estará disponible (probablemente en formato JSON).
 
-## 3. Institutional surveys
+## 3. Encuestas institucionales
 
 While the collection descriptors above aim to help taxonomists discover where specimens of a particular species are preserved, institutional surveys are concerned with assessment and comparison across institutions. There are many approaches to assess the composition and size of collections held by institutions, with a view to generate aggregate views at higher scales (e.g. nationally) and to draw comparisons across them. These are often in the form of a survey or structured database and in many cases use a different set of categories than how the institution has registered its collections within GRSciColl. The application of consistent categories across collections are necessary to draw consistent comparisons across them.
 
