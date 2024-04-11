@@ -28,21 +28,21 @@ Aveces no está claro cuándo y cómo los campos "inactivo" e "isHerbarium" debe
 
 ## 2. Soporte estructurado de descriptores de colección
 
-GRSciColl no está actualmente estructurado para permitir descubrimiento de colecciones o especímenes individuales, lo cual puede ser crítico para los investigadores. Support for describing a registered collection in GRSciColl is at present limited to single fields that capture broad statements of taxonomic coverage, geographic coverage and, for example, important collectors. This enhancement is intended to support richer, structured descriptions as well as the ability to upload an inventory of the species represented or a table representing the “species, sex, object count”. This approach aims both to facilitate discovery of collections (“who holds preserved material of a specific species”) and to allow a more accurate description of a collections holding, whether digitized or not.
+GRSciColl no está actualmente estructurado para permitir descubrimiento de colecciones o especímenes individuales, lo cual puede ser crítico para los investigadores. El soporte para describir una colección registrada en GRSciColl estpa actualmente limitado a campos individuales que capturan amplias declaraciones de cobertura taxonómica, geográfica y; por ejemplo, coleccionistas importantes. Esta mejora tiene como objetivo apoyar descripciones mejor estructuradas y más ricas así como la habilidad de subir un inventario de las especies representadas o una tabla representando "especies, sexo, conteo de objetos". Este enfoque tiene como objetivo facilitar el descubrimiento de colecciones (“quién tiene material conservado de una especie específica”) y permitir una descripción más precisa del contenido de una colección, sea digitalizado o no.
 
-We anticipate supporting multiple descriptors for a collection, with a descriptor containing a title, textual explanation and a table of data edited inline or uploaded as a spreadsheet.
+Anticipamos el soporte de múltiples descriptores para una colección, con un descriptor que contiene un título, explicación textual y tabla de datos editados en línea o subidos como hoja de cálculo.
 
-A simple example is illustrated.
+Se ilustra un ejemplo sencillo.
 
 <img width="420" alt="Screenshot 2023-09-28 at 16 43 46" src="https://github.com/gbif/registry/assets/7677271/459e7d2a-2ddb-4307-9e8f-fef88db96ace" />
 
-We envisage the system would be flexible enough to accommodate differing levels of detail, from simple lists to detailed representations of the collection that exist for some collections. By supporting multiple descriptors for a collection, the system would support varied levels of documenting detailed aspects of a collection, and indexing the contents will improve their discoverability. For example, we aim to index scientific names using the [GBIF Backbone Taxonomy](https://doi.org/10.15468/39omei) in order to facilitate collection discovery by taxa.
+Prevemos que el sistema sea lo suficientemente flexible para adaptarse a diferentes niveles de detalle, de listas simples a representaciones detalladas de la colección que existe para algunas colecciones. Al tolerar múltiples descriptores para una colección, el sistema toleraría diversos niveles de documentación de aspectos detallados de una colección, e indexar los contenidos mejorará su capacidad de descubrimiento. Por ejemplo, apuntamos a indexar nombres científicos utilizando la [Estructura principal de Taxonomía de GBIF](https://doi.org/10.15468/39omei) con la intención de facilitar el descubrimiento de colecciones a través de taxa.
 
-It should be noted that this approach would mean that one may not be able to aggregate counts across descriptors, as objects may be included in multiple places and thus double-counted. However, the primary focus is to support the needs of taxonomists looking to discover collections of interest or identify locations where individual specimens may reside.
+Cabe señalar que este enfoque significaría que uno podría no ser capaz de añadir recuentos entre descriptores, ya que los objetos pueden ser incluidos en múltiples lugares y así contar dos veces. Sin embargo, el foco principal es apoyar las necesidades de los taxonómicos que buscan descubrir colecciones de interés o identificar lugares donde pueden residir especímenes individuales.
 
-The Index Herbariorum has descriptor tables (See for example the `collections summary` tab on this [Index Herbariorum page](https://sweetgum.nybg.org/science/ih/herbarium-details/?irn=125976)), which would be automatically incorporated during the synchronization process.
+El Índice de Herbariorum tiene tablas de descriptores (Vea, por ejemplo, la pestaña de `resumen de colecciones` en esta [página Índice de Herbariorum](https://sweetgum.nybg.org/science/ih/herbarium-details/?irn=125976)), que se incorporará automáticamente durante el proceso de sincronización.
 
-An API that exposes the descriptors as a Latimer Core document representing the collection will be available (likely in JSON format).
+Una API que expone a los descriptores como un documento Latimer Core que representa la colección estará disponible (probablemente en formato JSON).
 
 ## 3. Institutional surveys
 
