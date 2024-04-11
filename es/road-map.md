@@ -17,18 +17,18 @@ toc: true
 
 ## 1. Revisar el esquema de datos
 
-El modelo de datos para GRSciColl ha evolucionado a través del tiempo para ajustar las fuentes de datos interconectadas, tales como iDigBio, Index Herbariorum y las bases de datos originales que fueron integradas. At the same time, there has been extensive work by the TDWG Collections Descriptions Interest Group to standardise approaches and vocabularies that are of relevance - this is emerging as a framework called Latimer Core.
+El modelo de datos para GRSciColl ha evolucionado a través del tiempo para ajustar las fuentes de datos interconectadas, tales como iDigBio, Index Herbariorum y las bases de datos originales que fueron integradas. Al mismo tiempo, ha habido un extenso trabajo a mano de [El grupo de Interés de Colecciones Descriptivas](https://www.tdwg.org/community/cd/) para estandarizar acercamientos relevantes y vocabularios emergentes de un marco llamado [Latimer Core (Núcleo Latimer)](https://doi.org/10.3897/biss.6.91159).
 
-We will review all the fields in the data schema and their content to ensure they are intuitive, documented and where possible, aligned to Latimer Core. As examples of what this might entail, GRSciColl currently has:
+Vamos a revisar todos los campos en el esquema de dato y su contenido para asegurar que son intuitivos, totalmente documentado y, en la medida de lo posible, alineados con el Latimer Core. Como ejemplos de lo que esto podría implicar, GRSciColl actualmente tiene:
 
-- “ContentType” uses a controlled vocabulary that has caused confusion for editors. This should be reviewed and aligned to Latimer Core.
-- “Discipline” with a controlled vocabulary that could be aligned to the Latimer Core Discipline
+- "Tipo de contenido" utiliza un vocabulario controlado que ha causado confusión a los editores. Esto debería ser revisado y alineado a Latimer Core.
+- "Disciplina" con un vocabulario controlado que pueda ser alineado a la Disciplina del Latimer Core
 
-“Discipline” with a controlled vocabulary that could be aligned to the Latimer Core Discipline It is sometimes unclear when and how the fields “inactive”, and “isHerbarium” should be used and might
+Aveces no está claro cuándo y cómo los campos "inactivo" e "isHerbarium" deberian y pueden ser utilizados.
 
-## 2. Support structured collection descriptors
+## 2. Soporte estructurado de descriptores de colección
 
-GRSciColl is not currently structured to allow discovery of collections or individual specimens, which could be critical for researchers. Support for describing a registered collection in GRSciColl is at present limited to single fields that capture broad statements of taxonomic coverage, geographic coverage and, for example, important collectors. This enhancement is intended to support richer, structured descriptions as well as the ability to upload an inventory of the species represented or a table representing the “species, sex, object count”. This approach aims both to facilitate discovery of collections (“who holds preserved material of a specific species”) and to allow a more accurate description of a collections holding, whether digitized or not.
+GRSciColl no está actualmente estructurado para permitir descubrimiento de colecciones o especímenes individuales, lo cual puede ser crítico para los investigadores. Support for describing a registered collection in GRSciColl is at present limited to single fields that capture broad statements of taxonomic coverage, geographic coverage and, for example, important collectors. This enhancement is intended to support richer, structured descriptions as well as the ability to upload an inventory of the species represented or a table representing the “species, sex, object count”. This approach aims both to facilitate discovery of collections (“who holds preserved material of a specific species”) and to allow a more accurate description of a collections holding, whether digitized or not.
 
 We anticipate supporting multiple descriptors for a collection, with a descriptor containing a title, textual explanation and a table of data edited inline or uploaded as a spreadsheet.
 
