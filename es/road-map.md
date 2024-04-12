@@ -17,64 +17,64 @@ toc: true
 
 ## 1. Revisar el esquema de datos
 
-El modelo de datos para GRSciColl ha evolucionado a través del tiempo para ajustar las fuentes de datos interconectadas, tales como iDigBio, Index Herbariorum y las bases de datos originales que fueron integradas. At the same time, there has been extensive work by the TDWG Collections Descriptions Interest Group to standardise approaches and vocabularies that are of relevance - this is emerging as a framework called Latimer Core.
+El modelo de datos para GRSciColl ha evolucionado a través del tiempo para ajustar las fuentes de datos interconectadas, tales como iDigBio, Index Herbariorum y las bases de datos originales que fueron integradas. Al mismo tiempo, ha habido un extenso trabajo a mano de [El grupo de Interés de Colecciones Descriptivas](https://www.tdwg.org/community/cd/) para estandarizar acercamientos relevantes y vocabularios emergentes de un marco llamado [Latimer Core (Núcleo Latimer)](https://doi.org/10.3897/biss.6.91159).
 
-We will review all the fields in the data schema and their content to ensure they are intuitive, documented and where possible, aligned to Latimer Core. As examples of what this might entail, GRSciColl currently has:
+Vamos a revisar todos los campos en el esquema de dato y su contenido para asegurar que son intuitivos, totalmente documentado y, en la medida de lo posible, alineados con el Latimer Core. Como ejemplos de lo que esto podría implicar, GRSciColl actualmente tiene:
 
-- “ContentType” uses a controlled vocabulary that has caused confusion for editors. This should be reviewed and aligned to Latimer Core.
-- “Discipline” with a controlled vocabulary that could be aligned to the Latimer Core Discipline
+- "Tipo de contenido" utiliza un vocabulario controlado que ha causado confusión a los editores. Esto debería ser revisado y alineado a Latimer Core.
+- "Disciplina" con un vocabulario controlado que pueda ser alineado a la Disciplina del Latimer Core
 
-“Discipline” with a controlled vocabulary that could be aligned to the Latimer Core Discipline It is sometimes unclear when and how the fields “inactive”, and “isHerbarium” should be used and might
+Aveces no está claro cuándo y cómo los campos "inactivo" e "isHerbarium" deberian y pueden ser utilizados.
 
-## 2. Support structured collection descriptors
+## 2. Soporte estructurado de descriptores de colección
 
-GRSciColl is not currently structured to allow discovery of collections or individual specimens, which could be critical for researchers. Support for describing a registered collection in GRSciColl is at present limited to single fields that capture broad statements of taxonomic coverage, geographic coverage and, for example, important collectors. This enhancement is intended to support richer, structured descriptions as well as the ability to upload an inventory of the species represented or a table representing the “species, sex, object count”. This approach aims both to facilitate discovery of collections (“who holds preserved material of a specific species”) and to allow a more accurate description of a collections holding, whether digitized or not.
+GRSciColl no está actualmente estructurado para permitir descubrimiento de colecciones o especímenes individuales, lo cual puede ser crítico para los investigadores. El soporte para describir una colección registrada en GRSciColl estpa actualmente limitado a campos individuales que capturan amplias declaraciones de cobertura taxonómica, geográfica y; por ejemplo, coleccionistas importantes. Esta mejora tiene como objetivo apoyar descripciones mejor estructuradas y más ricas así como la habilidad de subir un inventario de las especies representadas o una tabla representando "especies, sexo, conteo de objetos". Este enfoque tiene como objetivo facilitar el descubrimiento de colecciones (“quién tiene material conservado de una especie específica”) y permitir una descripción más precisa del contenido de una colección, sea digitalizado o no.
 
-We anticipate supporting multiple descriptors for a collection, with a descriptor containing a title, textual explanation and a table of data edited inline or uploaded as a spreadsheet.
+Anticipamos el soporte de múltiples descriptores para una colección, con un descriptor que contiene un título, explicación textual y tabla de datos editados en línea o subidos como hoja de cálculo.
 
-A simple example is illustrated.
+Se ilustra un ejemplo sencillo.
 
-<img width="420" alt="Screenshot 2023-09-28 at 16 43 46" src="https://github.com/gbif/registry/assets/7677271/459e7d2a-2ddb-4307-9e8f-fef88db96ace" />
+<img width="420" alt="Captura de pantalla 2023-09-28 a 16 43 46" src="https://github.com/gbif/registry/assets/7677271/459e7d2a-2ddb-4307-9e8f-fef88db96ace" />
 
-We envisage the system would be flexible enough to accommodate differing levels of detail, from simple lists to detailed representations of the collection that exist for some collections. By supporting multiple descriptors for a collection, the system would support varied levels of documenting detailed aspects of a collection, and indexing the contents will improve their discoverability. For example, we aim to index scientific names using the [GBIF Backbone Taxonomy](https://doi.org/10.15468/39omei) in order to facilitate collection discovery by taxa.
+Prevemos que el sistema sea lo suficientemente flexible para adaptarse a diferentes niveles de detalle, de listas simples a representaciones detalladas de la colección que existe para algunas colecciones. Al tolerar múltiples descriptores para una colección, el sistema toleraría diversos niveles de documentación de aspectos detallados de una colección, e indexar los contenidos mejorará su capacidad de descubrimiento. Por ejemplo, apuntamos a indexar nombres científicos utilizando la [Estructura principal de Taxonomía de GBIF](https://doi.org/10.15468/39omei) con la intención de facilitar el descubrimiento de colecciones a través de taxa.
 
-It should be noted that this approach would mean that one may not be able to aggregate counts across descriptors, as objects may be included in multiple places and thus double-counted. However, the primary focus is to support the needs of taxonomists looking to discover collections of interest or identify locations where individual specimens may reside.
+Cabe señalar que este enfoque significaría que uno podría no ser capaz de añadir recuentos entre descriptores, ya que los objetos pueden ser incluidos en múltiples lugares y así contar dos veces. Sin embargo, el foco principal es apoyar las necesidades de los taxonómicos que buscan descubrir colecciones de interés o identificar lugares donde pueden residir especímenes individuales.
 
-The Index Herbariorum has descriptor tables (See for example the `collections summary` tab on this [Index Herbariorum page](https://sweetgum.nybg.org/science/ih/herbarium-details/?irn=125976)), which would be automatically incorporated during the synchronization process.
+El Índice de Herbariorum tiene tablas de descriptores (Vea, por ejemplo, la pestaña de `resumen de colecciones` en esta [página Índice de Herbariorum](https://sweetgum.nybg.org/science/ih/herbarium-details/?irn=125976)), que se incorporará automáticamente durante el proceso de sincronización.
 
-An API that exposes the descriptors as a Latimer Core document representing the collection will be available (likely in JSON format).
+Una API que expone a los descriptores como un documento Latimer Core que representa la colección estará disponible (probablemente en formato JSON).
 
-## 3. Institutional surveys
+## 3. Encuestas institucionales
 
-While the collection descriptors above aim to help taxonomists discover where specimens of a particular species are preserved, institutional surveys are concerned with assessment and comparison across institutions. There are many approaches to assess the composition and size of collections held by institutions, with a view to generate aggregate views at higher scales (e.g. nationally) and to draw comparisons across them. These are often in the form of a survey or structured database and in many cases use a different set of categories than how the institution has registered its collections within GRSciColl. The application of consistent categories across collections are necessary to draw consistent comparisons across them.
+Mientras que los descriptores de la colección antes mencionados apuntan a ayudar a los taxonomistas a descubrir dónde los especímenes de una especie en particular se encuentran preservados, las encuestas institucionales están enfocadas en la evaluación y comparación entre instituciones. Existen muchos enfoques para evaluar la composición y el tamaño de las colecciones en poder de las instituciones, con una vista para generar vistas agregadas a escalas más altas (e.g. nacionalmente) y para hacer comparaciones entre ellos. Estas son, comúnmente, en el estilo de una encuesta o una base de datos estructurada y en muchos casos, utilizan un difrente conjunto de categorias de como la institución ha registrado sus colecciones en GRSciColl. La aplicación de categorías consistentes entre las colecciones son necesarias para atraer comparaciones consistentes entre estas.
 
-Survey results would be clearly labeled and not be editable as they represent a particular assessment in a defined context.
+Los resultados de las encuestas quedarían claramente etiquetados y no serían editables, ya que representan una evaluación particular en un contexto definido.
 
-We intend to explore adding the ability to archive the outputs of such surveys when they have produced data that can be expressed within the framework of Latimer Core. As an example, the Global Collection Survey assessed institutions against a survey scheme that included:
+Pretendemos explorar la posibilidad de archivar los resultados de dichas encuestas cuando hayan producido datos que puedan ser expresados en el marco de Latimer Core. Como ejemplo, la Encuesta Global de Colección evaluó a las instituciones contra un esquema de encuesta que incluye:
 
-- The type of the collections categorised to a specific list (e.g. amphibians, birds, molluscs, human biology)
-- The geographic region categorized to a specific list (e.g. Australasia, Pacific, Europe)
-- The number of objects held for the combination of the collection type and region grouped by ranges (1-10, 11-100, etc.)
-- The number of staff years of experience per region and separately per collection type
+- El tipo de las colecciones clasificadas en una lista específica (por ejemplo, anfibios, aves, moluscos, biología humana)
+- La región geográfica categorizada en una lista específica (p. ej., Australia, Asia, el Pacífico, Europa)
+- El número de objetos retenidos para la combinación del tipo de colección y región agrupados por rangos (1-10, 11-100, etc.)
+- El número de años de experiencia del personal por región y por separado por tipo de colección
 
-The outputs of these data can likely be structured as Latimer Core and held as a survey response against the specific survey protocol for the institution.
+Los resultados de estos datos se pueden estructurar como Latimer Core y sostener como una respuesta de encuesta frente al protocolo de encuesta específico para la institución.
 
-We foresee that archiving these may bring benefits:
+Nosotros prevemos que archivar estos puede traer beneficios:
 
-- GRSciColl can help provide services that drive dashboards and reports
-- Survey protocols may be shared with other initiatives, helping increase the range of institutions that can be compared in a consistent manner
-- The results of previous surveys become more visible and may reduce effort spent, or the need for more surveys to be conducted
+- GRSciColl puede ayudar a proporcionar servicios que controlan los paneles de control e informes
+- Los protocolos de las encuestas pueden ser compartidos con otras iniciativas, ayudando a aumentar la gama de instituciones que se pueden comparar de forma consistente
+- Los resultados de encuestas anteriores se hacen más visibles y pueden reducir el esfuerzo invertido, o la necesidad de realizar más encuestas
 
-Given the feedback received, we will also explore how to make GRSciColl a place where surveys can converge and be updated. For example, we will try to answers questions like:
+Dada la retroalimentación recibida, también exploraremos cómo hacer de GRSciColl un lugar donde las encuestas pueden converger y ser actualizadas. Por ejemplo, intentaremos responder a preguntas como:
 
-- Can we make GRSciColl a place to collect survey results by combining the data schema review and the upload of collection descriptors?
-- Should/can we and how to make surveys editable? Answering those questions will help shape the roadmap for the following year.
-- Answering those questions will help shape the road map for the following year.
+- ¿Podemos hacer de GRSciColl un lugar para recoger los resultados de las encuestas combinando la revisión del esquema de datos y la carga de los descriptores de la colección?
+- ¿Debemos / podemos y de qué forma hacemos las encuestas editables?
+- Contestar esas preguntas ayudará a dar forma al camino a seguir por el siguiente año.
 
 ## 4. Una nueva interfaz de usuario para GRSciColl
 
-The public interface of GRSciColl is limited in capabilities, offering less than both the management interface and what is possible using the GBIF Hosted Portal software like the DiSSCo UK site. We intend to replace the existing GRSciColl site with a hosted portal deployment enhanced with new features, such as maps for institutions and clear explanatory text for users and data managers. Work on this has begun and can be seen at https://scientific-collections.gbif.org.
+La interfaz pública de GRSciColl está limitada en capacidades, ofreciendo menos de la interfaz de gestión y lo que es posible utilizando el software del Portal Hosted GBIF como el sitio de DiSCo Reino Unido. Pretendemos reemplazar el sitio existente de GRSciColl por un despliegue de portal alojado mejorado con nuevas características, tales como mapas para instituciones y texto explicativo claro para usuarios y gestores de datos. El trabajo en esto ha comenzado y se puede ver en https://scientific-collections.gbif.org.
 
-## 5. Establish mechanism for regular community updates
+## 5. Mecanismo establecido para actualizaciones regulares de la comunidad
 
-As the community of GRSciColl editors and users is growing, we want to offer a place where we can communicate updates, provide feedback and discuss improvements for the system. There is already an informal mailing list for GRSciColl mediators and other interested parties. We think that regular virtual meetups would be a great way to exchange more interactively. We aim to have meetings every four months for a year and assess whether the frequency and format of those meetings is adequate.
+A medida que la comunidad de usuarios y editores de GRSciColl crece, queremos ofrecer un lugar donde podamos comunicar actualizaciones, brindar retroalimentación y discutir mejoras para el sistema. Ya existe una lista de correo informal para los mediadores de GRSciColl y otras partes interesadas. Creemos que las reuniones virtuales periódicas serían una gran manera de intercambiar de forma más interactiva. Nuestro objetivo es celebrar reuniones cada cuatro meses durante un año y evaluar si la frecuencia y el formato de esas reuniones son suficientes.
