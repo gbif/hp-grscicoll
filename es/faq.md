@@ -91,14 +91,14 @@ La fusión de entradas eliminará una y transferirá todos los identificadores, 
 
 La interfaz de edición de GRSciColl se encuentra en el [Registro de GBIF](https://registry.gbif.org). Puede acceder a ella desde cualquier página de institución o colección pulsando el botón `Editar`. No necesita una cuenta para sugerir cambios. Para actualizaciones directas y para añadir o eliminar fuentes primarias e identificadores, necesitará [ser editor](/es/how-to#convertirse-en-editor).
 
-### Mi colección es un conjunto de datos en GBIF: cómo hacer que los metadatos del conjunto de datos de GBIF y las páginas del editor de GBIF sean fuentes primarias para GRSciColl
+### Mi colección es un conjunto de datos en GBIF: cómo hacer que los metadatos de los conjuntos de datos de GBIF y las páginas de publicador de GBIF sean fuentes primarias para GRSciColl
 
 1. Inicie sesión en la [interfaz del registro](https://registry.gbif.org/), debe ser editor de la entrada de GRSciColl con la que desea trabajar.
 2. Haga clic en la pestaña `Master Source`.
 3. Haga clic en el botón `Crear nuevo` (en la esquina superior derecha).
 4. Seleccione el tipo de fuente (`conjunto de datos de GBIF` si trabaja con una colección o `Publicador de GBIF` si se trata de una institución).
 5. Añada el UUID del conjunto de datos o del publicador que desea utilizar. El UUID se encuentra en la URL del conjunto de datos o del publicador. Por ejemplo, el UUID de `https://www.gbif.org/dataset/b275a4c1-9859-4f3c-8ead-d86dde820fbc` es `b275a4c1-9859-4f3c-8ead-d86dde820fbc`.
-6. De click en el botón `Crear`.
+6. Pulse el botón `Crear`.
 
 ### Cómo editar entradas conectadas a fuentes externas
 
@@ -112,9 +112,9 @@ Observará que no puede editar los campos que proceden de fuentes externas. La �
 
 > Nota: si desea desconectar una colección del Index Herbariorum, póngase en contacto con nosotros.
 
-### Cómo vincular ocurrencias relacionadas con especímenes publicadas en GBIF con entradas de GRSciColl
+### Cómo vincular registros biológicos relacionados con especímenes publicados en GBIF con entradas de GRSciColl
 
-Para que sus especímenes aparezcan en el GRSciColl, deben estar publicados en GBIF.org y enlazados con al menos una entrada del GRSciColl. Vea cómo publicar datos en GBIF.org [aquí](https://www.gbif.org/es/publishing-data) y cómo enlazar las ocurrencias a GRSciColl más abajo:
+Para que sus especímenes aparezcan en el GRSciColl, deben estar publicados en GBIF.org y enlazados con al menos una entrada del GRSciColl. Vea cómo publicar datos en GBIF.org [aquí](https://www.gbif.org/es/publishing-data) y cómo enlazar los registros biológicos con GRSciColl a continuación:
 
 La forma recomendada y más declarativa de vincular datos a instituciones o entidades de colección en GRSciColl es utilizar la URL completa de la entidad. Por ejemplo, cuando se utiliza el estándar Darwin Core:
 * dwc:institutionID: https://www.gbif.org/grscicoll/institution/e3d4dcc4-81e2-444c-8a5c-41d1044b5381
@@ -122,4 +122,4 @@ La forma recomendada y más declarativa de vincular datos a instituciones o enti
 
 También es posible utilizar identificadores relacionados adicionales. Consulte esta entrada del blog para obtener más detalles.
 
-[Vincular ocurrencias](https://data-blog.gbif.org/post/grscicoll-flags/){: .button .is-primary}
+[Vincular registros biológicos](https://data-blog.gbif.org/post/grscicoll-flags/){: .button .is-primary}
