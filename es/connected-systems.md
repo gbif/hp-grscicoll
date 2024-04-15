@@ -66,7 +66,7 @@ Los identificadores también se utilizan para vincular los registros relacionado
 
 ## Registros publicados en GBIF
 
-Al procesar e interpretar registros biológicos recientemente publicados, GBIF busca empatar los registros que incluyen valores para cualquiera de los siguientes términos correspondientes a la entrada de GRSciColl a través de los [servicios de búsqueda de GRSciColl](https://www.gbif.org/developer/registry#lookup):
+Al procesar e interpretar registros biológicos recientemente publicados, GBIF busca emparejar los registros que incluyen valores para cualquiera de los siguientes términos correspondientes a la entrada de GRSciColl a través de los [servicios de búsqueda de GRSciColl](https://www.gbif.org/developer/registry#lookup):
 * `institutionCode`
 * `collectionCode`
 * `institutionID`
@@ -74,11 +74,11 @@ Al procesar e interpretar registros biológicos recientemente publicados, GBIF b
 
 Por ejemplo, si un registro hace referencia al código de institución `RBINS` y al identificador de institución `https://ror.org/02y22ws83`, se vinculará al [*Royal Belgian Institute of Natural Sciences*](http://grscicoll.org/institution/royal-belgian-institute-natural-sciences). Los registros biológicos que coinciden con las entradas GRSciColl se utilizan en la generación de paneles y métricas como se muestra en este ejemplo.
 
-En casos con más de una posible coincidencia, el sistema utiliza el país editor para ayudar a seleccionar una partida GRSciColl. Puede aprender más sobre cómo vincular registros de GBIF a GRSciColl [aquí](/how-to#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
+En los casos con más de una coincidencia posible, el sistema utiliza el país del editor para ayudar a seleccionar una coincidencia en GRSciColl. Puede aprender más sobre cómo vincular registros de GBIF a GRSciColl [aquí](/how-to#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
 
 ## Datos de GRSciColl procedentes de otras fuentes
 
-Las entradas de colección e institución de GRSciColl pueden tener fuentes primarias externas que llegan a través de otro registro o sitio web. Las modificaciones de estas fuentes primarias provocan actualizaciones de las entradas GRSciColl correspondientes, lo que elimina la necesidad de gestionar la información en múltiples registros.
+Las entradas de instituciones y colecciones de GRSciColl pueden tener fuentes primarias externas de información que procedan de otro registro o sitio web. Las modificaciones de estas fuentes primarias provocan actualizaciones de las entradas GRSciColl correspondientes, lo que elimina la necesidad de gestionar la información en múltiples registros.
 
 Actualmente, las dos posibles fuentes de información para las entradas GRSciColl son el [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) y los metadatos asociados a los conjuntos de datos de datos y a los publicadores en [GBIF](https://www.gbif.org) . Los datos de las entradas extraídas de estas fuentes deben editarse en la fuente. En la práctica, la interfaz de edición de GRSciColl no permite a los usuarios actualizar los campos que utilizan información de una fuente externa.
 
@@ -92,7 +92,7 @@ Los editores pueden desconectar entradas institucionales del Index Herbariorum y
 
 ### Metadatos de conjuntos de datos y páginas de publicadores de GBIF
 
-Los metadatos de los conjuntos de datos publicados en GBIF pueden usarse como fuentes primarias para las entradas de las colecciones en GRSciColl. A diferencia de la sincronización con el *Index Herbariorum*, no hay programación semanal y no se crean automáticamente nuevas entradas. En su lugar, los editores deben vincular manualmente las colecciones de GRSciColl con sus fuentes. Esto se debe a que el alcance GBIF incluye datos más allá del alcance de GRSciColl. Tenga en cuenta que también existe la opción de crear una entrada de colección a partir de un conjunto de datos. Vea nuestra página [how-to](/how-to#how-to-use-the-grscicoll-editing-interface). Cuando se actualizan los metadatos de un conjunto de datos, la entrada de colección correspondiente se actualiza inmediatamente.
+Los metadatos de los conjuntos de datos publicados en GBIF pueden usarse como fuentes primarias para las entradas de las colecciones en GRSciColl. A diferencia de la sincronización con el *Index Herbariorum*, no hay programación semanal y no se crean automáticamente nuevas entradas. En su lugar, los editores deben vincular manualmente las colecciones de GRSciColl con sus fuentes. Esto se debe a que el alcance de GBIF incluye datos más allá del alcance de GRSciColl. Tenga en cuenta que también existe la opción de crear una entrada de colección a partir de un conjunto de datos. Vea nuestra página [how-to](/how-to#how-to-use-the-grscicoll-editing-interface). Cuando se actualizan los metadatos de un conjunto de datos, la entrada de colección correspondiente se actualiza inmediatamente.
 
 Del mismo modo, la información sobre publicadores disponible en GBIF puede utilizarse como fuente primaria para las entradas de instituciones en GRSciColl.
 
