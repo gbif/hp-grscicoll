@@ -3,7 +3,7 @@ permalink: /es/get-involved
 lang-ref: get-involved
 title: '¿Cómo involucrarse?'
 description: |
-  There are several ways to help us improve GRSciColl.
+  Hay varias maneras de ayudarnos a mejorar GRSciColl.
 background: "{{ site.data.images.costatrochus.src }}"
 imageLicense: "{{ site.data.images.costatrochus.caption }}"
 height: 70vh
