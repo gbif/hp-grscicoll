@@ -47,37 +47,37 @@ Vea cómo los registros biológicos publicados en GBIF están vinculados a las e
 
 GRSciColl se originó independientemente de GBIF, tiene [su propia historia](/es/about#data-history). Muchos conjuntos de datos publicados en GBIF contienen registros para especímenes que pertenecen a colecciones registradas en GRSciColl. El contenido entre GBIF y GRSciColl puede solaparse. Vea [la pregunta anterior](/es/faq#what-is-the-difference-between-gbif-datasets-and-grscicoll-collections). Sin embargo, hay algunas diferencias:
 * Los publicadores de GBIF son organizaciones registradas que comparten datos activamente en GBIF. Utilizan [herramientas de publicación](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) para poder compartir conjuntos de datos en GBIF. Algunos publicadores son museos o herbarios pero otros son iniciativas de ciencia participativa, revistas o centros de investigación que podrían compartir solamente observaciones, descripciones de taxones o datos derivados de ADN.
-* Las instituciones GRSciColl fueron registradas porque se sabe que tienen colecciones científicas físicas. Las entradas de la institución GRSciColl pueden ser añadidas por los autores de GRSciColl (basándose en la información encontrada en publicaciones o en línea) o por las propias instituciones.
+* Las instituciones GRSciColl fueron registradas porque se sabe que tienen colecciones científicas físicas. Las entradas sobre instituciones en GRSciColl pueden ser añadidas por los editores de GRSciColl (basándose en la información encontrada en publicaciones o en línea) o por las propias instituciones.
 
-Una gran entidad administrativa como una universidad puede registrarse como editora de GBIF y describir sus departamentos como instituciones GRSciColl. Alternativamente, algunos editores de GBIF pueden corresponder a entidades más pequeñas y tener representada la institución como una entrada en GRSciColl.
+Una gran entidad administrativa como una universidad puede registrarse como publicador GBIF y describir sus departamentos como instituciones GRSciColl. Alternativamente, algunos publicadores de GBIF pueden corresponder a entidades más pequeñas y tener su institución representada como una entrada en GRSciColl.
 
-Revise como las ocurrencias publicadas en GBIF están vinculadas con entradas de GRSciColl [aquí](/connected-systems#occurrences-published-on-gbif). Revise como los conjuntos de datos de GBIF pueden vincularse a entradas de colecciones de GRSciColl [aquí](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+Vea cómo los registros biológicos publicados en GBIF están vinculados con entradas de GRSciColl [aquí](/es/connected-systems#occurrences-published-on-gbif). Vea cómo los conjuntos de datos GBIF pueden enlazarse con las entradas de colección GRSciColl [aquí](/es/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
 ## Directrices para la edición
 
 ### ¿Cómo representar mi institución y mis colecciones?
 
-No existe jerarquía entre las entradas de las colecciones ni entre las entradas de las instituciones. Las instituciones deciden el nivel de granularidad que desean utilizar para representar sus colecciones. Por ejemplo, una institución podría tener una entrada para una colección de aves y otra para una colección de mamíferos, mientras que otra institución tendría sólo una entrada para su colección de vertebrados.
+No existe jerarquía entre las entradas de las colecciones ni entre las entradas de las instituciones. Las instituciones deciden el nivel de granularidad que desean utilizar para representar sus colecciones. Por ejemplo, una institución podría tener una entrada para una colección de aves y otra para una colección de mamíferos, mientras que otra institución sólo tendría una entrada para su colección de vertebrados.
 
 En caso de duda, puede seguir estas directrices prácticas:
 * Haga una entrada de institución por ubicación física (el campus, el edificio donde se alojan las colecciones).
-* Haga una entrada para cada grupo de especímenes con el mismo punto de contacto (la persona que puede dar más información sobre la colección, posiblemente pueda organizar un préstamo).
+* Haga una entrada de colección para cada grupo de especímenes con el mismo punto de contacto (la persona que puede dar más información sobre la colección, posiblemente organizar un préstamo).
 
-### ¿Qué información debo introducir en GRSciColl?
+### ¿Qué información debería incluir en GRSciColl?
 
 Aunque muy pocos campos son obligatorios, recomendamos facilitar la mayor cantidad de información posible. En el caso de las instituciones, es importante indicar el nombre, el código y la dirección (o al menos el país). Para las colecciones, no olvide añadir una institución asociada.
 
-### ¿Cuál debe ser el código de mi colección/institución?
+### ¿Cuál debería ser el código de mi colección/institución?
 
-Los códigos no tienen por qué ser únicos en GRSciColl y una entrada puede tener varios códigos. Los códigos deben reflejar lo que se utiliza en la práctica (lo que aparece en las etiquetas). Tenga en cuenta que los códigos GRSciColl se utilizan para emparejar las ocurrencias publicadas en GBIF con las entradas GRSciColl.
+Los códigos no tienen por qué ser únicos en GRSciColl y una entrada puede tener varios códigos. Los códigos deben reflejar lo que se utiliza en la práctica (lo que aparece en las etiquetas). Tenga en cuenta que los códigos GRSciColl se utilizan para emparejar los registros biológicos publicados en GBIF con las entradas GRSciColl.
 
-### ¿Cuáles deben ser los identificadores de mi colección/institución?
+### ¿Cuáles deberían ser los identificadores de mi colección/institución?
 
-Una entrada puede asociarse a identificadores externos como: wikidata, ROR, DOI, etc. Sólo los editores pueden añadir identificadores a las entradas. Tenga en cuenta que los identificadores de GRSciColl se usan para emparejar ocurrencias publicadas en GBIF con entradas de GRSciColl.
+Una entrada puede asociarse a identificadores externos como: wikidata, ROR, DOI, etc. Sólo los editores pueden añadir identificadores a las entradas. Tenga en cuenta que los identificadores de GRSciColl se usan para emparejar registros biológicos publicados en GBIF con entradas de GRSciColl.
 
-#### ¿Qué formato debe tener mi identificador ROR?
+#### ¿Qué formato debería tener mi identificador ROR?
 
-El formato recomendado para un identificador ROR es la url completa: https://ror.org/02mhbdp94. Revise [estas preguntas frecuentes](https://ror.org/about/faqs/#what-is-a-ror-identifier).
+El formato recomendado para un identificador ROR es la url completa: https://ror.org/02mhbdp94. Consulte [estas preguntas frecuentes](https://ror.org/about/faqs/#what-is-a-ror-identifier).
 
 ### Cómo gestionar duplicados
 
