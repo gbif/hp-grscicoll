@@ -37,7 +37,7 @@ Mejoras recientes incluyen:
 * Se desarrolló una [API para GRSciColl](/api)
 * GBIF trabajó con el [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) para establecer sincronizaciones semanales de la información en GRSciColl.
 * La información de las colecciones se importó desde [iDigBio](https://www.idigbio.org).
-* Se habilitó la vinculación de las ocurrencias relacionadas con especímenes publicadas en GBIF con las entradas de GRSciColl.
+* Se vincularon los registros biológicos relacionadas con especímenes publicados en GBIF con las entradas de GRSciColl.
 * Inclusión de los metadatos de conjuntos de datos publicados en GBIF como una fuente potencial de información sobre colecciones
 
 Puede leer más sobre la historia de GRSciColl en [este artículo del blog](https://data-blog.gbif.org/post/grscicoll-2021/).
