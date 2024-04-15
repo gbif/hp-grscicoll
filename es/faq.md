@@ -19,11 +19,11 @@ toc: true
 
 ## ¿Cómo conseguir que mi colección o espécimen aparezca en la página de inicio?
 
-Si desea que su colección o espécimen aparezca en la página de inicio de GRSciColl, debe cumplir los siguientes criterios:
+Si desea nominar su colección o espécimen para que aparezca en la página de inicio de GRSciColl, confirme que cumple con los siguientes criterios:
 * Debe haber una entrada para la colección y la institución asociada en GRSciColl.
-* La colección debe tener algunos especímenes digitalizados disponibles en GBIF:
-* Algunas ocurrencias disponibles en GBIF deben estar vinculadas a la entrada de GRSciColl.
-* Algunas de las ocurrencias disponibles en GBIF deben tener imágenes
+* La colección debe tener algunos especímenes digitalizados disponibles en GBIF.
+* Algunos de los registros biológicos disponibles en GBIF deben estar vinculados a la entrada de GRSciColl
+* Algunos de los registros biológicos en GBIF deben tener imágenes
 
 y luego ¨[complete y envíe el siguiente formulario](mailto:scientific-collections@gbif.org?subject=GRSciColl%20website%20-%20Collection%20Nomination&body=Collection%20name:%20%0ACollection%20link%20(on%20GRSciColl):%20%0ASubmiter%20name%20and%20affiliation:%20%0ALink%20to%20image%20that%20you%20wish%20to%20show%20on%20the%20homepage%20(optional):%20).
 
@@ -34,19 +34,19 @@ El resultado de la búsqueda de una colección o institución puede descargarse 
 
 ## ¿Cuál es la diferencia entre los conjuntos de datos de GBIF y las colecciones de GRSciColl?
 
-GRSciColl se originó independientemente de GBIF, tiene [ su propia historia](/about#data-history). Algunos conjuntos de datos publicados en GBIF contienen registros de especímenes que pertenecen a colecciones registradas en GRSciColl. El contenido entre GBIF y GRSciColl puede sobreponerse. Sin embargo, existen algunas diferencias:
-* Una colección GRSciColl debe corresponder con una colección física, mientras que los conjuntos de datos de GBIF pueden contener otros tipos de registros, como observaciones.
-* Un registro de colección de GRSciColl puede referirse a una colección histórica que está perdida o fue dividida.
-* Los conjuntos de datos publicados en GBIF contienen datos de biodiversidad mientras que los registros de colección en GRSciColl pueden describir colecciones geológicas o arqueológicas, por ejemplo.
+GRSciColl se originó independientemente de GBIF, tiene [ su propia historia](/es/about#data-history). Muchos conjuntos de datos publicados en GBIF contienen registros para especímenes que pertenecen a colecciones registradas en GRSciColl. El contenido entre GBIF y GRSciColl puede solaparse. Sin embargo, existen algunas diferencias:
+* Una entrada de colección GRSciColl debe corresponder a una colección física mientras que los conjuntos de datos GBIF pueden contener otros tipos de registros como observaciones.
+* Una entrada de colección en GRSciColl puede referirse a una colección histórica que se perdió o que se dividió.
+* Los conjuntos de datos publicados en GBIF contienen datos sobre biodiversidad mientras que los registros de colección en GRSciColl pueden describir colecciones geológicas o arqueológicas, por ejemplo.
 
-Las organizaciones participantes en GBIF pueden publicar todos sus registros en un solo conjunto de datos, pero describir su material preservado con varios registros de colecciones en GRSciColl. Alternativamente, algunos conjuntos de datos pueden contener registros correspondientes a especímenes que pertenecen a la misma colección.
+Los publicadores de GBIF pueden elegir publicar todos sus registros en un conjunto de datos, pero describir sus existencias con varias entradas de colección en GRSciColl. Alternativamente, varios conjuntos de datos pueden contener registros correspondientes a especímenes que pertenecen a la misma colección.
 
-Mira cómo las ocurrencias publicadas en GBIF están vinculadas a las entradas GRSciColl [aquí](/connected-systems#occurrences-published-on-gbif). Vea cómo los conjuntos de datos GBIF pueden ser enlazados a las entradas de colección GRSciColl [aquí](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+Vea cómo los registros biológicos publicados en GBIF están vinculados a las entradas de GRSciColl [aquí](/connected-systems#occurrences-published-on-gbif). Vea cómo los conjuntos de datos GBIF pueden vincularse a las entradas de colecciones en GRSciColl [aquí](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
-## ¿Cuál es la diferencia entre los autores de GBIF y las instituciones de GRSciColl?
+## ¿Cuál es la diferencia entre los publicadores de GBIF y las instituciones GRSciColl?
 
-GRSciColl se originó independientemente de GBIF, tiene [su propia historia](/about#data-history). Muchos conjuntos de datos publicados en GBIF contienen registros para especímenes que pertenecen a colecciones registradas en GRSciColl. El contenido entre GBIF y GRSciColl puede sobreponerse. Vea [la pregunta anterior](/faq#what-is-the-difference-between-gbif-datasets-and-grscicoll-collections). Sin embargo, hay algunas diferencias:
-* Los autores de GBIF son organizaciones registradas que comparten datos activamente en GBIF. Utilizan [herramientas de publicación](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) para poder compartir conjuntos de datos en GBIF. Algunos autores son museos o herbarios pero otros son iniciativas científicas ciudadanas, revistas o facilidades de investigación que pueden estar solamente compartiendo observaciones, descripción de taxones o datos derivados de ADN.
+GRSciColl se originó independientemente de GBIF, tiene [su propia historia](/es/about#data-history). Muchos conjuntos de datos publicados en GBIF contienen registros para especímenes que pertenecen a colecciones registradas en GRSciColl. El contenido entre GBIF y GRSciColl puede solaparse. Vea [la pregunta anterior](/es/faq#what-is-the-difference-between-gbif-datasets-and-grscicoll-collections). Sin embargo, hay algunas diferencias:
+* Los publicadores de GBIF son organizaciones registradas que comparten datos activamente en GBIF. Utilizan [herramientas de publicación](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) para poder compartir conjuntos de datos en GBIF. Algunos publicadores son museos o herbarios pero otros son iniciativas de ciencia participativa, revistas o centros de investigación que podrían compartir solamente observaciones, descripciones de taxones o datos derivados de ADN.
 * Las instituciones GRSciColl fueron registradas porque se sabe que tienen colecciones científicas físicas. Las entradas de la institución GRSciColl pueden ser añadidas por los autores de GRSciColl (basándose en la información encontrada en publicaciones o en línea) o por las propias instituciones.
 
 Una gran entidad administrativa como una universidad puede registrarse como editora de GBIF y describir sus departamentos como instituciones GRSciColl. Alternativamente, algunos editores de GBIF pueden corresponder a entidades más pequeñas y tener representada la institución como una entrada en GRSciColl.
