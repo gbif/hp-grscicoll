@@ -94,7 +94,6 @@ exclude:
   - .netlify.toml
   - .README.md
   # - _posts/es # if we start adding posts this should be added until they are ready
-  - es/
   - fr/
   - it/
   - ru/
