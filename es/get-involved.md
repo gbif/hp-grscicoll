@@ -17,16 +17,16 @@ toc: true
 
 ## Ayúdenos a mejorar los datos
 
-La información disponible en GRSciColl es el resultado del esfuerzo de una comunidad de administradores y editores. Aprenda como contribuir en nuestra página de [¿Cómo hacer..?](/how-to)
+La información disponible en GRSciColl es el resultado del esfuerzo de una comunidad de administradores y editores. Aprenda cómo puede contribuir en nuestra página de [ guías básicasr](/how-to).
 
-[¿Cómo hacer..?](/how-to){: .button .is-primary}
+[Guías básicas](/how-to){: .button .is-primary}
 
 ## Ayúdenos a mejorar el sistema
 
-Puede hacer preguntas y contribuir a nuestro trabajo suscribiéndose a nuestra lista de correo o consultando nuestro foro.
+Puede hacer preguntas y contribuir a nuestro trabajo a través de[ la lista de correo GRSciColl](https://lists.gbif.org/mailman/listinfo/scientific-collections) o [publicando en el foro GRSciColl](https://discourse.gbif.org/c/grscicoll/29).
 
 [Contáctenos](/contact){: .button .is-primary}
 
 ## Ayúdanos a traducir el sitio
 
-GBIF realiza las traducciones a través de [CrowdIn](https://www.crowdin.com), que proporciona a nuestra activa [comunidad de traductores](https://www.gbif.org/translators) soporte para realizar este proceso a través de una licencia gratuita utilizar CrowdIn. ¿Interesado en convertirse en voluntario? Regístrate en CrowdIn y únete al proyecto [GRSciColl](https://crowdin.com/project/grscicoll) o a nuestros [otros proyectos](https://crowdin.com/profile/gbif-informatics).
+GBIF administra traducciones a través de [CrowdIn](https://www.crowdin.com), que proporciona a nuestra comunidad [activa de traductores](https://www.gbif.org/translators) con soporte crítico a través de una licencia gratuita para su servicio. ¿Interesado en convertirse en voluntario? Regístrese en CrowdIn y únase al proyecto [GRSciColl](https://crowdin.com/project/grscicoll) o a nuestros [otros proyectos](https://crowdin.com/profile/gbif-informatics).
