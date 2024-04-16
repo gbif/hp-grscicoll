@@ -3,7 +3,7 @@ permalink: /es/road-map
 lang-ref: road-map
 title: Hoja de ruta de GRSciColl 2023-2024
 description: |
-  This road map builds in the [2021 roadmap](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2021.md) as well as the efforts in 2022 to build a community of editors an mediators.
+  Esta hoja de ruta se construye sobre la [hoja de ruta 2021](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2021.md) así como los esfuerzos en 2022 para construir una comunidad de editores y mediadores.
 background: "{{ site.data.images.pandeleteius.src }}"
 imageLicense: "{{ site.data.images.pandeleteius.caption }}"
 height: 70vh
@@ -17,9 +17,9 @@ toc: true
 
 ## 1. Revisar el esquema de datos
 
-El modelo de datos para GRSciColl ha evolucionado a través del tiempo para ajustar las fuentes de datos interconectadas, tales como iDigBio, Index Herbariorum y las bases de datos originales que fueron integradas. Al mismo tiempo, ha habido un extenso trabajo a mano de [El grupo de Interés de Colecciones Descriptivas](https://www.tdwg.org/community/cd/) para estandarizar acercamientos relevantes y vocabularios emergentes de un marco llamado [Latimer Core (Núcleo Latimer)](https://doi.org/10.3897/biss.6.91159).
+El modelo de datos para GRSciColl ha evolucionado con el tiempo para acomodar las fuentes de datos conectadas, como iDigBio, Index Herbariorum y las bases de datos originales que fueron integradas. Al mismo tiempo, ha habido un extenso trabajo del [TDWG Collections Descriptions Interest Group](https://www.tdwg.org/community/cd/) para estandarizar enfoques y vocabularios relevantes surgidos de un marco llamado [Latimer Core](https://doi.org/10.3897/biss.6.91159).
 
-Vamos a revisar todos los campos en el esquema de dato y su contenido para asegurar que son intuitivos, totalmente documentado y, en la medida de lo posible, alineados con el Latimer Core. Como ejemplos de lo que esto podría implicar, GRSciColl actualmente tiene:
+Revisaremos todos los campos del esquema de datos y su contenido para garantizar que sean intuitivos, totalmente documentado y, en la medida de lo posible, alineado a Latimer Core. Como ejemplos de lo que esto podría implicar, GRSciColl actualmente tiene:
 
 - "Tipo de contenido" utiliza un vocabulario controlado que ha causado confusión a los editores. Esto debería ser revisado y alineado a Latimer Core.
 - "Disciplina" con un vocabulario controlado que pueda ser alineado a la Disciplina del Latimer Core
