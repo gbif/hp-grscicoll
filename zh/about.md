@@ -21,6 +21,8 @@ toc: true
 
 编辑社区 - 包括来自注册机构和国家编辑的代表 - 维护GRSciColl中的信息以保持最新。 建议系统使任何人都可以通过更新、添加或合并记录来做出贡献，相关个体将进行审查。 GRSciColl定期与外部来源同步，例如标本标本目录，以确保信息是最新且可靠的。
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/872824009?h=c3aaa082e3" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 ## 数据历史
 
 多年来，有关机构和收藏品的大部分信息都来自一组专门的策展人和社区成员。 一些数据来自外部来源，如[标本标本目录](https://sweetgum.nybg.org/science/ih/)，[综合数字化生物收藏品](https://www.idigbio.org/)（iDigBio）和国家注册表。

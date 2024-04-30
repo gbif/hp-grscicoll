@@ -21,6 +21,8 @@ Le Registre Global de Collections Scientifiques - Global Registry of Scientific 
 
 Une communauté d'éditeurs nationaux et de représentants d'institutions enrgistrées est en charge de mettre a jours les données du GRSciColl. [Tout le monde peut suggérer des mises à jour, addition ou fusion des entrés](/how-to#suggest-a-change), ces suggestions sont ensuite évaluées par les éditeurs du registre. GBIF synchronise régulièrement GRSciColl avec des sources externes telles qu'[Index Herbariorum](https://sweetgum.nybg.org/science/ih/), dans le but de maintenir les information à jour.
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/872824009?h=c3aaa082e3" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 ## Histoire des données
 
 La plupart des informations sur les institutions et les collections contenues dans GRSciColl proviennent d'années de contributions d'éditeurs et de membres de la communauté. Certaines données proviennet de sources externes comme Index Herbariorum, l'[Integrated Digitized Biocollections](https://www.idigbio.org/) (iDigBio) et certains registres nationaux.

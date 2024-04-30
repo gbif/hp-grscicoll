@@ -21,6 +21,8 @@ El Registro Mundial de Colecciones Científicas (GRSciColl) es un centro de inte
 
 La información de GRSciColl es mantenida por una comunidad de editores, que incluye representantes de instituciones registradas y editores nacionales. [Cualquier usuario puede sugerir actualizaciones, adiciones o fusiones de registros](/how-to#sugerir-un-cambio), lo que lleva a los editores a revisar los cambios propuestos. GRSciColl también se sincroniza periódicamente con fuentes externas como el [Index Herbariorum](https://sweetgum.nybg.org/science/ih/), lo que garantiza una información actualizada y fiable.
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/872824009?h=c3aaa082e3" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 ## Historia de los datos
 
 La mayor parte de la información sobre instituciones y colecciones contenidas en GRSciColl proviene de años de contribuciones de curadores y miembros de la comunidad. Algunos datos proceden de fuentes externas como [el Index Herbariorum](https://sweetgum.nybg.org/science/ih/), el [Integrated Digitized Biocollections](https://www.idigbio.org/) (iDigBio) y registros nacionales.
