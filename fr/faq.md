@@ -27,9 +27,9 @@ If you would like to nominate your collection or specimen to be featured on the 
 
 and then fill in and send [the nomination template](mailto:scientific-collections@gbif.org?subject=GRSciColl%20website%20-%20Collection%20Nomination&body=Collection%20name:%20%0ACollection%20link%20(on%20GRSciColl):%20%0ASubmiter%20name%20and%20affiliation:%20%0ALink%20to%20image%20that%20you%20wish%20to%20show%20on%20the%20homepage%20(optional):%20).
 
-## Can I export GRSciColl into a spreadsheet?
+## Puis-je exporter GRSciColl dans une feuille de calcul ?
 
-The result of a collection or institution search can be downloaded from the website by clicking on this button:
+Le résultat d'une recherche de collection ou d'institution peut être téléchargé à partir du site Web en cliquant sur ce bouton:
 <img width="1664" alt="download_as_csv" src="https://github.com/gbif/hp-grscicoll/assets/7677271/0ed58648-4efc-4755-876f-29677f6be975" />
 
 ## What is the difference between GBIF datasets and GRSciColl collections?
