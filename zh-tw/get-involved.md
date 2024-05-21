@@ -17,7 +17,7 @@ toc: true
 
 ## Help us improve the data
 
-The information available through GRSciColl is the result of collective efforts by a community of curators and editors. Learn how you can contribute on our [how-to page](/how-to). Learn how you can contribute on our [how-to page](/how-to).
+The information available through GRSciColl is the result of collective efforts by a community of curators and editors. Learn how you can contribute on our [how-to page](/how-to). Learn how you can contribute on our [how-to page](/how-to). Learn how you can contribute on our [how-to page](/how-to).
 
 [How-to](/how-to){: .button .is-primary}
 
@@ -29,4 +29,4 @@ You can ask questions and contribute to our work by [joining and commenting via 
 
 ## Help us translate the website
 
-GBIF manages translations via [CrowdIn](https://www.crowdin.com), which provides our [active community of translators](https://www.gbif.org/translators) with critical support through a free licence for their service. Interested in becoming volunteer? Sign up on CrowdIn and join the [GRSciColl project](https://crowdin.com/project/grscicoll) or our [other projects](https://crowdin.com/profile/gbif-informatics). Interested in becoming volunteer? Sign up on CrowdIn and join the [GRSciColl project](https://crowdin.com/project/grscicoll) or our [other projects](https://crowdin.com/profile/gbif-informatics).
+GBIF manages translations via [CrowdIn](https://www.crowdin.com), which provides our [active community of translators](https://www.gbif.org/translators) with critical support through a free licence for their service. Interested in becoming volunteer? Sign up on CrowdIn and join the [GRSciColl project](https://crowdin.com/project/grscicoll) or our [other projects](https://crowdin.com/profile/gbif-informatics). Interested in becoming volunteer? Sign up on CrowdIn and join the [GRSciColl project](https://crowdin.com/project/grscicoll) or our [other projects](https://crowdin.com/profile/gbif-informatics). Interested in becoming volunteer? Sign up on CrowdIn and join the [GRSciColl project](https://crowdin.com/project/grscicoll) or our [other projects](https://crowdin.com/profile/gbif-informatics).
