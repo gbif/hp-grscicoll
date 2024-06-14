@@ -3,7 +3,7 @@ permalink: /contact
 lang-ref: contact
 title: Contact
 description: |
-    Contact us if you would like to contribute to the Global Registry of Scientific Collections, enounter any issue or have any question.
+    Contact us if you would like to contribute to the Global Registry of Scientific Collections, enounter any issue or have any question. For contacting specific collections or institutions please refer to the contact information on their respective pages.
 background:  "{{ site.data.images.octopus-eggs.src }}"
 imageLicense: "{{ site.data.images.octopus-eggs.caption }}"
 height: 70vh
@@ -32,4 +32,6 @@ You are very welcome to use the GRSciColl list to discuss issues, questions and 
 
 ## Send us an email 
 
-You can send us an email at `scientific-collections@gbif.org`
+You can send us an email at `scientific-collections@gbif.org`.
+
+For contacting specific collections or institutions please refer to the contact information on their respective pages.
