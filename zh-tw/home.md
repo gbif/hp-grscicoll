@@ -43,7 +43,7 @@ navbar:
 
 Ideas for the home page and content more broadly
 
-pages: API + download, reports About (history, roadmap) How to (register, edit, use) A metrics page? Contact Contact Contact Contact Contact Contact
+pages: API + download, reports About (history, roadmap) How to (register, edit, use) A metrics page? Contact Contact Contact Contact Contact Contact Contact
 
 homepage shortcut Map of institutions Register new institution about api download reports GRSciColl visualized grscicoll related news stories from contentful
 
