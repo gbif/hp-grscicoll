@@ -59,7 +59,7 @@ var siteConfig = {
         }
       ]
     },
-    occurrenceSearchTabs: ['TABLE', 'GALLERY', 'MAP', 'CLUSTERS'] // what tabs should be shown
+    occurrenceSearchTabs: ['TABLE', 'GALLERY', 'MAP', 'CLUSTERS', 'DASHBOARD'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
   collection: {
