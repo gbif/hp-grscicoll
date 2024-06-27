@@ -36,11 +36,11 @@ A simple example is illustrated.
 
 <img width="420" alt="Screenshot 2023-09-28 at 16 43 46" src="https://github.com/gbif/registry/assets/7677271/459e7d2a-2ddb-4307-9e8f-fef88db96ace">
 
-We envisage the system would be flexible enough to accommodate differing levels of detail, from simple lists to detailed representations of the collection that exist for some collections. By supporting multiple descriptors for a collection, the system would support varied levels of documenting detailed aspects of a collection, and indexing the contents will improve their discoverability. For example, we aim to index scientific names using the [GBIF Backbone Taxonomy](https://doi.org/10.15468/39omei) in order to facilitate collection discovery by taxa.
+We envisage the system would be flexible enough to accommodate differing levels of detail, from simple lists to detailed representations of the collection that exist for some collections. By supporting multiple descriptors for a collection, the system would support varied levels of documenting detailed aspects of a collection, and indexing the contents would improve their discoverability. For example, we aim to index scientific names using the [GBIF Backbone Taxonomy](https://doi.org/10.15468/39omei) in order to facilitate collection discovery by taxa.
 
 It should be noted that this approach would mean that one may not be able to aggregate counts across descriptors, as objects may be included in multiple places and thus double-counted. However, the primary focus is to support the needs of taxonomists looking to discover collections of interest or identify locations where individual specimens may reside.
 
-The Index Herbariorum has descriptor tables (See for example the `collections summary` tab on this [Index Herbariorum page](https://sweetgum.nybg.org/science/ih/herbarium-details/?irn=125976)), which would be automatically incorporated during the synchronization process. 
+The Index Herbariorum has descriptor tables (see, for example, the `collections summary` tab on this [Index Herbariorum page](https://sweetgum.nybg.org/science/ih/herbarium-details/?irn=125976)), which would be automatically incorporated during the synchronization process. 
 
 An API that exposes the descriptors as a Latimer Core document representing the collection will be available (likely in JSON format). 
 
