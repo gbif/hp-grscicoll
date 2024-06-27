@@ -26,7 +26,7 @@ We will review all the fields in the data schema and their content to ensure the
 
 It is sometimes unclear when and how the fields “inactive” and “isHerbarium” should and might be used.
 
-## 2. 2. 2. 2. 2. 2. 2. 2. 2. Support structured collection descriptors
+## 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. Support structured collection descriptors
 
 GRSciColl is not currently structured to allow discovery of collections or individual specimens, which could be critical for researchers. Support for describing a registered collection in GRSciColl is at present limited to single fields that capture broad statements of taxonomic coverage, geographic coverage and, for example, important collectors. This enhancement is intended to support richer, structured descriptions as well as the ability to upload an inventory of the species represented or a table representing the “species, sex, object count”. This approach aims both to facilitate discovery of collections (“who holds preserved material of a specific species”) and to allow a more accurate description of a collections holding, whether digitized or not.
 
@@ -36,7 +36,7 @@ A simple example is illustrated.
 
 <img width="420" alt="Screenshot 2023-09-28 at 16 43 46" src="https://github.com/gbif/registry/assets/7677271/459e7d2a-2ddb-4307-9e8f-fef88db96ace" />
 
-We envisage the system would be flexible enough to accommodate differing levels of detail, from simple lists to detailed representations of the collection that exist for some collections. By supporting multiple descriptors for a collection, the system would support varied levels of documenting detailed aspects of a collection, and indexing the contents will improve their discoverability. For example, we aim to index scientific names using the [GBIF Backbone Taxonomy](https://doi.org/10.15468/39omei) in order to facilitate collection discovery by taxa.
+We envisage the system would be flexible enough to accommodate differing levels of detail, from simple lists to detailed representations of the collection that exist for some collections. By supporting multiple descriptors for a collection, the system would support varied levels of documenting detailed aspects of a collection, and indexing the contents would improve their discoverability. For example, we aim to index scientific names using the [GBIF Backbone Taxonomy](https://doi.org/10.15468/39omei) in order to facilitate collection discovery by taxa.
 
 It should be noted that this approach would mean that one may not be able to aggregate counts across descriptors, as objects may be included in multiple places and thus double-counted. However, the primary focus is to support the needs of taxonomists looking to discover collections of interest or identify locations where individual specimens may reside. However, the primary focus is to support the needs of taxonomists looking to discover collections of interest or identify locations where individual specimens may reside.
 
@@ -65,16 +65,16 @@ We foresee that archiving these may bring benefits:
 - Survey protocols may be shared with other initiatives, helping increase the range of institutions that can be compared in a consistent manner
 - The results of previous surveys become more visible and may reduce effort spent, or the need for more surveys to be conducted
 
-Given the feedback received, we will also explore how to make GRSciColl a place where surveys can converge and be updated. For example, we will try to answers questions like: For example, we will try to answers questions like: For example, we will try to answers questions like: For example, we will try to answers questions like: For example, we will try to answers questions like: For example, we will try to answers questions like: For example, we will try to answers questions like: For example, we will try to answers questions like: For example, we will try to answers questions like:
+Given the feedback received, we will also explore how to make GRSciColl a place where surveys can converge and be updated. For example, we will try to answers questions like: For example, we will try to answers questions like: For example, we will try to answers questions like: For example, we will try to answers questions like: For example, we will try to answers questions like: For example, we will try to answers questions like: For example, we will try to answers questions like: For example, we will try to answers questions like: For example, we will try to answers questions like: For example, we will try to answers questions like:
 
 - Can we make GRSciColl a place to collect survey results by combining the data schema review and the upload of collection descriptors?
 - Should/can we and how to make surveys editable?
 - Answering those questions will help shape the road map for the following year.
 
-## 4. 4. 4. 4. 4. 4. 4. 4. 4. A new user interface for GRSciColl
+## 4. 4. 4. 4. 4. 4. 4. 4. 4. 4. A new user interface for GRSciColl
 
 The public interface of GRSciColl is limited in capabilities, offering less than both the management interface and what is possible using the GBIF Hosted Portal software like the DiSSCo UK site. We intend to replace the existing GRSciColl site with a hosted portal deployment enhanced with new features, such as maps for institutions and clear explanatory text for users and data managers. Work on this has begun and can be seen at https://scientific-collections.gbif.org. We intend to replace the existing GRSciColl site with a hosted portal deployment enhanced with new features, such as maps for institutions and clear explanatory text for users and data managers. Work on this has begun and can be seen at https://scientific-collections.gbif.org. We intend to replace the existing GRSciColl site with a hosted portal deployment enhanced with new features, such as maps for institutions and clear explanatory text for users and data managers. Work on this has begun and can be seen at https://scientific-collections.gbif.org. We intend to replace the existing GRSciColl site with a hosted portal deployment enhanced with new features, such as maps for institutions and clear explanatory text for users and data managers. Work on this has begun and can be seen at https://scientific-collections.gbif.org. We intend to replace the existing GRSciColl site with a hosted portal deployment enhanced with new features, such as maps for institutions and clear explanatory text for users and data managers. Work on this has begun and can be seen at https://scientific-collections.gbif.org.
 
-## 5. 5. 5. 5. 5. 5. 5. 5. 5. Establish mechanism for regular community updates
+## 5. 5. 5. 5. 5. 5. 5. 5. 5. 5. Establish mechanism for regular community updates
 
 As the community of GRSciColl editors and users is growing, we want to offer a place where we can communicate updates, provide feedback and discuss improvements for the system. There is already an informal mailing list for GRSciColl mediators and other interested parties. We think that regular virtual meetups would be a great way to exchange more interactively. We aim to have meetings every four months for a year and assess whether the frequency and format of those meetings is adequate. There is already an informal mailing list for GRSciColl mediators and other interested parties. We think that regular virtual meetups would be a great way to exchange more interactively. We aim to have meetings every four months for a year and assess whether the frequency and format of those meetings is adequate.
