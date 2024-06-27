@@ -3,7 +3,7 @@ permalink: /contact
 lang-ref: contact
 title: Contact
 description: |
-  Contact us if you would like to contribute to the Global Registry of Scientific Collections, enounter any issue or have any question. For contacting specific collections or institutions please refer to the contact information on their respective pages. For contacting specific collections or institutions please refer to the contact information on their respective pages. For contacting specific collections or institutions please refer to the contact information on their respective pages. For contacting specific collections or institutions please refer to the contact information on their respective pages. For contacting specific collections or institutions please refer to the contact information on their respective pages.
+  Contact us if you would like to contribute to the Global Registry of Scientific Collections, enounter any issue or have any question. For contacting specific collections or institutions please refer to the contact information on their respective pages. For contacting specific collections or institutions please refer to the contact information on their respective pages. For contacting specific collections or institutions please refer to the contact information on their respective pages. For contacting specific collections or institutions please refer to the contact information on their respective pages. For contacting specific collections or institutions please refer to the contact information on their respective pages. For contacting specific collections or institutions please refer to the contact information on their respective pages.
 background: "{{ site.data.images.octopus-eggs.src }}"
 imageLicense: "{{ site.data.images.octopus-eggs.caption }}"
 height: 70vh
