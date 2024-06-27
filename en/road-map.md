@@ -3,7 +3,7 @@ permalink: /road-map
 lang-ref: road-map
 title: GRSciColl 2023-2024 road map
 description: |
-    This road map builds in the [2021 road map](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2021.md) as well as the efforts in 2022 to build a community of editors an mediators.
+    This road map builds in the [2021 road map](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2021.md) as well as the efforts in 2022 to build a community of editors and mediators.
 background:  "{{ site.data.images.pandeleteius.src }}"
 imageLicense: "{{ site.data.images.pandeleteius.caption }}"
 height: 70vh
