@@ -181,6 +181,18 @@ defaults:
       permalink: "/zh/post/:year/:slug/"
       lang: zh
 
+      
+    - scope:
+      path: "zh-tw/"
+    values:
+      lang: zh-tw
+  - scope:
+      path: "_posts/zh-tw"
+    values:
+      layout: "post"
+      permalink: "/zh-tw/post/:year/:slug/"
+      lang: zh-tw
+
   - scope:
       path: "it/"
     values:
