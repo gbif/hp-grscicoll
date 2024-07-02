@@ -182,7 +182,7 @@ defaults:
       lang: zh
 
       
-    - scope:
+  - scope:
       path: "zh-tw/"
     values:
       lang: zh-tw
