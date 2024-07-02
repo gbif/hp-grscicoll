@@ -21,6 +21,9 @@ fr:
 zh:
   label: 中文
   archive_permalink: /zh/post/
+zh-tw:
+  label: 繁體中文
+  archive_permalink: /zh-tw/post/
 ja:
   label: 日本語
   archive_permalink: /ja/post/
