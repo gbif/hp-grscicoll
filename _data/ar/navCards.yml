@@ -40,9 +40,9 @@ news:
       href: https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections
     - 
       preTitle: [ ] #optional
-      title: Digitization of mycological collections in Nepal #required
-      background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F1iRymXEY7n7S70Rwk1gbmm%2F866689c5f7ec2a8dafa17fa1d580f6e7%2Ffungus_np.jpg
-      href: https://www.gbif.org/project/1oof3bltISyNanpvIWQYwz/digitization-of-mycological-collections-in-nepal
+      title: Join our next community call #required
+      background: http://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F3U3ekkW0a4HeZo6nx82emV%2F84e7f2e384943df3f74f8a89328696f4%2Ffairy-web.png
+      href: https://www.gbif.org/event/1FoDQu5gWlZzTVrqCsN7D1/global-registry-of-scientific-collections-grscicoll-community-call
     - 
       title: The colonial legacy of herbaria
       background: http://api.gbif.org/v1/image/unsafe/1200x627/http%3A%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F1ZLEusKyYJelIF6vc5KU7T%2F3785dc8bf6f738c4b6bbd07552167484%2FNMNH-Acevedo16519__1_.jpg
