@@ -53,6 +53,21 @@ A large administrative entity like a university can register as a GBIF publisher
 
 See how occurrences published on GBIF are linked to GRSciColl entries [here](/connected-systems#occurrences-published-on-gbif). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages). See how occurrences published on GBIF are linked to GRSciColl entries [here](/connected-systems#occurrences-published-on-gbif). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages). GRSciColl originated independently from GBIF, it has [its own history](/about#data-history). Many datasets published on GBIF contain records for specimens that belong to collections registered in GRSciColl. The content between GBIF and GRSciColl can overlap. However, there are a few differences: Many datasets published on GBIF contain records for specimens that belong to collections registered in GRSciColl. The content between GBIF and GRSciColl can overlap. See [the question above](/faq#what-is-the-difference-between-gbif-datasets-and-grscicoll-collections). However, there are some differences:
 
+## What are collection descriptors in GRSciColl?
+
+Collection descriptors are meant to share structured information about collections. They can contain relevant details about collections and sub-collections as well as quantitative data which cannot be shared on collection pages (for example, the number of type specimens for a particular taxon). Some collection descriptors are used for indexing collections. This means that they improve collection discoverability. For example, a collection associated with dragonfly species names will be found by users looking for “Odonata” in the scientific name field of the collection search.
+
+Collection descriptors are particularly relevant for collections that aren’t fully digitized and/or where the specimen records aren’t available on GBIF.org.
+
+Collection descriptors are uploaded to GRSciColl as tables with associated titles and descriptions.
+
+* Each line corresponds to a group of specimens described and each column is a descriptor.
+* When possible, these descriptors should be mapped to [Darwin Core](https://dwc.tdwg.org/terms/) and/or [Latimer core](https://ltc.tdwg.org) terms.
+* A table can contain information about a specific aspect or subset of the collection. Tables might contain overlapping information or different descriptions for the same subset of specimens.
+
+Learn how to share collection descriptors on our [how-to page](/how-to).
+
+
 ## Editing guidelines
 
 ### How to represent my institution and collections?
