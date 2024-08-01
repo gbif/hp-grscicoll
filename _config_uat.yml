@@ -5,4 +5,4 @@ webApi: "https://graphql.gbif-uat.org"
 include: # this include is only to NOT exclude translations, so that they are visible in UAT
   - es/
 
-useSharedLibrary: true
+useSharedLibrary: false
