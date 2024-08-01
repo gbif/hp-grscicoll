@@ -53,6 +53,21 @@ Una gran entidad administrativa como una universidad puede registrarse como publ
 
 Vea cómo los registros biológicos publicados en GBIF están vinculados con entradas de GRSciColl [aquí](/es/connected-systems#occurrences-published-on-gbif). Vea cómo los conjuntos de datos GBIF pueden enlazarse con las entradas de colección GRSciColl [aquí](/es/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
+## What are collection descriptors in GRSciColl?
+
+Collection descriptors are meant to share structured information about collections. They can contain relevant details about collections and sub-collections as well as quantitative data which cannot be shared on collection pages (for example, the number of type specimens for a particular taxon). Some collection descriptors are used for indexing collections. This means that they improve collection discoverability. For example, a collection associated with dragonfly species names will be found by users looking for “Odonata” in the scientific name field of the collection search.
+
+Collection descriptors are particularly relevant for collections that aren’t fully digitized and/or where the specimen records aren’t available on GBIF.org.
+
+Collection descriptors are uploaded to GRSciColl as tables with associated titles and descriptions.
+
+* Each line corresponds to a group of specimens described and each column is a descriptor.
+* When possible, these descriptors should be mapped to [Darwin Core](https://dwc.tdwg.org/terms/) and/or [Latimer core](https://ltc.tdwg.org) terms.
+* A table can contain information about a specific aspect or subset of the collection. Tables might contain overlapping information or different descriptions for the same subset of specimens.
+
+Learn how to share collection descriptors on our [how-to page](/how-to).
+
+
 ## Directrices para la edición
 
 ### ¿Cómo representar mi institución y mis colecciones?
