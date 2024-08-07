@@ -1,8 +1,8 @@
 ---
-permalink: /institution/search
+permalink: /fr/institution/search
 lang-ref: /institution/search
-title: Data
-description: We publish open data
+title: Données
+description: Nous publions des données ouvertes
 layout: institution-search
 ---
 
