@@ -1,9 +1,9 @@
 ---
-permalink: /faq
+permalink: /fr/faq
 lang-ref: faq
-title: Frequently Asked Questions
+title: Foire aux questions
 description: |
-  Here you will find the answers to the most frequently asked questions.
+  Vous trouverez ici les questions les plus fréquemment posées.
 background: "{{ site.data.images.bombus-rufocinctus.src }}"
 imageLicense: "{{ site.data.images.bombus-rufocinctus.caption }}"
 height: 70vh
@@ -15,19 +15,19 @@ height: 70vh
 toc: true
 ---
 
-## GRSciColl website
+## Site web GRSciColl
 
-## How to get my collection or specimen featured on the homepage?
+## Comment puis-je mettre ma collection ou mon spécimen affiché sur la page d'accueil ?
 
-If you would like to nominate your collection or specimen to be featured on the GRSciColl homepage, confirm that it meets the following criteria:
-* There must be an entry for the collection and associated institution in GRSciColl
-* The collection must have some digitized specimens available on GBIF.
-* Some the occurrences available on GBIF must be linked to the GRSciColl entry
-* Some of the occurrences available on GBIF must have images
+Si vous souhaitez déclarer votre collection ou spécimen pour être afficher sur la page d'accueil de GRSciColl, veuillez vérifier que les critères suivants sont remplis:
+* La collection et l'institution correspondante doivent être enregistrées dans GRSciColl
+* La collection doit avoir plusieurs spécimens digitalisés disponibles sur GBIF.
+* Plusieurs occurrences disponibles sur GBIF doivent être liées à l'enregistrement GRSciColl
+* Plusieurs occurrences disponibles sur GBIF doivent avoir des images associées
 
-and then fill in and send [the nomination template](mailto:scientific-collections@gbif.org?subject=GRSciColl%20website%20-%20Collection%20Nomination&body=Collection%20name:%20%0ACollection%20link%20(on%20GRSciColl):%20%0ASubmiter%20name%20and%20affiliation:%20%0ALink%20to%20image%20that%20you%20wish%20to%20show%20on%20the%20homepage%20(optional):%20).
+puis remplir et envoyer le [modèle de nomination](mailto:scientific-collections@gbif.org?subject=GRSciColl%20website%20-%20Collection%20Nomination&body=Collection%20name:%20%0ACollection%20link%20(on%20GRSciColl):%20%0ASubmiter%20name%20and%20affiliation:%20%0ALink%20to%20image%20that%20you%20wish%20to%20show%20on%20the%20homepage%20(optional):%20).
 
-## Puis-je exporter GRSciColl dans une feuille de calcul ?
+## Puis-je exporter des données GRSciColl dans une feuille de calcul ?
 
 Le résultat d'une recherche de collection ou d'institution peut être téléchargé à partir du site Web en cliquant sur ce bouton:
 <img width="1664" alt="download_as_csv" src="https://github.com/gbif/hp-grscicoll/assets/7677271/0ed58648-4efc-4755-876f-29677f6be975" />
@@ -52,6 +52,21 @@ GRSciColl originated independently from GBIF, it has [its own history](/about#da
 A large administrative entity like a university can register as a GBIF publisher and describe its departments as GRSciColl institutions. Alternatively, some GBIF publishers can correspond to smaller entities and have they institution represented as one entry in GRSciColl.
 
 See how occurrences published on GBIF are linked to GRSciColl entries [here](/connected-systems#occurrences-published-on-gbif). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+
+## What are collection descriptors in GRSciColl?
+
+Collection descriptors are meant to share structured information about collections. They can contain relevant details about collections and sub-collections as well as quantitative data which cannot be shared on collection pages (for example, the number of type specimens for a particular taxon). Some collection descriptors are used for indexing collections. This means that they improve collection discoverability. For example, a collection associated with dragonfly species names will be found by users looking for “Odonata” in the scientific name field of the collection search.
+
+Collection descriptors are particularly relevant for collections that aren’t fully digitized and/or where the specimen records aren’t available on GBIF.org.
+
+Collection descriptors are uploaded to GRSciColl as tables with associated titles and descriptions.
+
+* Each line corresponds to a group of specimens described and each column is a descriptor.
+* When possible, these descriptors should be mapped to [Darwin Core](https://dwc.tdwg.org/terms/) and/or [Latimer core](https://ltc.tdwg.org) terms.
+* A table can contain information about a specific aspect or subset of the collection. Tables might contain overlapping information or different descriptions for the same subset of specimens.
+
+Learn how to share collection descriptors on our [how-to page](/how-to).
+
 
 ## Editing guidelines
 

@@ -1,9 +1,9 @@
 ---
-permalink: /contact
+permalink: /fr/contact
 lang-ref: contact
 title: Contact
 description: |
-  Contact us if you would like to contribute to the Global Registry of Scientific Collections, enounter any issue or have any question. For contacting specific collections or institutions please refer to the contact information on their respective pages.
+  Contacter nous si vous souhaitez pouvoir contribuer au Registre Global des Collections Scientifiques, si vous faites face à un problème ou si vous avez la moindre question. Pour prendre contact avec des collections ou institutions spécifiques, merci de vous référer à leurs informations de contact sur leurs pages respectives.
 background: "{{ site.data.images.octopus-eggs.src }}"
 imageLicense: "{{ site.data.images.octopus-eggs.caption }}"
 height: 70vh
@@ -15,23 +15,23 @@ height: 70vh
 toc: true
 ---
 
-## Update or add a record
+## Mise à jour ou ajout d'un enregistrement
 
-See our [how-to page](/how-to).
+Voir notre page [marche à suivre](/how-to).
 
-## Post on our forum
+## Publier sur notre forum
 
-You can write your questions and follow the GRSciColl activities on our forum
+Vous pouvez écrire vos questions et suivre les activités de GRSciColl sur notre forum
 
-[GRSciColl forum](https://discourse.gbif.org/c/grscicoll){: .button .is-primary}
-## Subscribe and use our mailing list
+[Forum GRSciColl](https://discourse.gbif.org/c/grscicoll){: .button .is-primary}
+## Abonnez-vous à notre liste de diffusion
 
-You are very welcome to use the GRSciColl list to discuss issues, questions and wishes concerning the Global Registry of Scientific Collections.
+N'hésitez pas à faire usage de la liste GRSciColl pour échanger sur les problèmes rencontrés, les questions et souhaits concernant le Registre Global des Collections Scientifiques.
 
-[Subscribe to our mailing list](https://lists.gbif.org/mailman/listinfo/scientific-collections){: .button .is-primary}
+[Abonnement à notre liste de diffusion](https://lists.gbif.org/mailman/listinfo/scientific-collections){: .button .is-primary}
 
-## Send us an email
+## Nous écrire un e-mail
 
-You can send us an email at `scientific-collections@gbif.org`.
+Vous pouvez nous écrire à `scientific-collections@gbif.org`.
 
-For contacting specific collections or institutions please refer to the contact information on their respective pages.
+Pour prendre contact avec des collections ou institutions spécifiques, merci de vous référer à leurs informations de contact sur leurs pages respectives.
