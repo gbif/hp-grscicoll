@@ -1,11 +1,11 @@
 ---
-permalink: /post
+permalink: /fr/post
 lang-ref: archive
 layout: archive
-title: News
-description: News and events
+title: Actualités
+description: Actualités et événements
 ---
 
 {% comment %}
-  No content here. The layout will insert a card for each post in your _posts folder
+  Pas encore de contenu ici. Cette mise en page intégrera une carte pour chaque publication présente dans votre dossier _posts
 {% endcomment %}
