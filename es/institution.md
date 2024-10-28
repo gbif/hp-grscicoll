@@ -3,6 +3,6 @@ permalink: es/institution/search
 lang-ref: /institution/search
 title: Datos
 description: Publicamos datos abiertos
-layout: búsqueda-institucional
+layout: institution-search
 ---
 
