@@ -62,6 +62,10 @@ Hay dos tipos de editores en GRSciColl: editores y mediadores. Ambos pueden edit
 
 Para convertirse en un editor de GRSciColl, necesitará tener una cuenta de usuario [GBIF](https://www.gbif.org/user/profile) asociada con su dirección de correo electrónico institucional. Por favor envíenos un correo electrónico a scientific-collections@gbif.org para notificarnos que desea convertirse en un editor.
 
+## How to share collection descriptors
+
+We are working on improving the documentation. In the meantime, please refer to this tutorial here: https://data-blog.gbif.org/post/grscicoll-collection-descriptors/
+
 ### Importar datos
 
 La [API de colecciones de GBIF](https://www.gbif.org/developer/registry#collections) permite ediciones sin pasar por la interfaz web. La API también tiene una característica experimental para subir lotes de colección e instituciones. Vea la documentación [aquí](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
