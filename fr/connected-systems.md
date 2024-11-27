@@ -1,9 +1,9 @@
 ---
 permalink: /connected-systems
 lang-ref: connected-systems
-title: Connected systems
+title: Systèmes connectés
 description: |
-  GRSciColl supports interoperability and interacts with a number of other systems.
+  GRSciColl supporte l'interopérabilité et interagit avec un grand nombre d'autres systèmes.
 background: "{{ site.data.images.echinometra.src }}"
 imageLicense: "{{ site.data.images.echinometra.caption }}"
 height: 70vh
@@ -15,11 +15,11 @@ height: 70vh
 toc: true
 ---
 
-## Identifiers
+## Identifiants
 
-Identifiers and reference codes are essential to enable interoperbility.
+Les identifiants et les codes de référence sont essentiels pour permettre l'interopérabilité.
 
-Each GRSciColl entry has a Universally Unique IDentifier (UUID) and associated URLs. [Editors](/how-to#become-editor) can also add a number of external identifiers to their collections and institution entries. Currently available identifier types include:
+Chaque entrée GRSciColl a un Identifiant Unique Universel (UUID) et est associée à des URLs. Les [éditeurs](/how-to#become-editor) peuvent également ajouter un certain nombre d'identifiants externes aux entrées de leurs collections et de leur institution. Actuellement, les types d'identifiants disponibles incluent:
 
 <ul id="identifierEnums"></ul>
 
@@ -53,8 +53,8 @@ Each GRSciColl entry has a Universally Unique IDentifier (UUID) and associated U
     fetchAndDisplayIdentifiers();
 </script>
 
-In addition to contributions of the GRSciColl editors, identifiers for some institutions are imported automatically or semi-automatically.
-* All the entries connected to Index Herbariorum are given an Index Herbariorum identifier. See [how the syncronization with Index Herbariorum works](/about#index-herbariorum).
+En plus des contributions des éditeurs GRSciColl. les identifiants de certaines institutions sont importés automatiquement ou semi-automatiquement.
+* À toutes les entrées liées à l'Index Herbariorum sont attribuéesun identifiant propre à l'Index Herbariorum. Voir [comment la synchronisation avec l'Index Herbariorum fonctionne](/about#index-herbariorum).
 * Many `CITES` identifiers also come from Index Herbariorum. See [how the syncronization with Index Herbariorum works](/connected-systems#index-herbariorum).
 * We matched as many GRSciColl institution entries as possible with [Wikidata](https://www.wikidata.org/) with their [OpenRefine](https://openrefine.org) Resolution tool and imported the wikidata identifiers.
 * We matched as many GRSciColl institution entries as possible with the [Research Organization Registry (ROR)](https://ror.org) using their [OpenRefine](https://openrefine.org) Resolution tool and imported the ROR identifiers.
