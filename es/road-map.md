@@ -24,7 +24,7 @@ Some of the work with existing platforms may include:
 - Set up connection so an external platform can become a master source for GRSciColl entries,
 - Help with bulk import and update of GRSciColl data based on these sources.
 
-## 2.   Soporte estructurado de descriptores de colección
+## 4.   Una nueva interfaz de usuario para GRSciColl
 
 The GBIF Secretariat, in collaboration with our community, is developing a training module for GRSciColl editors. This module aims to cover everything a National GRSciColl editor might need to curate and edit GRSciColl content.
 
@@ -32,7 +32,7 @@ The goal is to organize at least one online training event in 2025.
 
 Anticipamos el soporte de múltiples descriptores para una colección, con un descriptor que contiene un título, explicación textual y tabla de datos editados en línea o subidos como hoja de cálculo.
 
-## 3.   Encuestas institucionales
+## 3.   Soporte estructurado de descriptores de colección
 
 A lot of the GRSciColl content is not standardized and lives in various free text fields. For example, many entomology collections can only be found by using a combination of keywords like “entomology” and “insect” in free text searches.
 
