@@ -3,7 +3,7 @@ permalink: /es/road-map
 lang-ref: road-map
 title: Hoja de ruta de GRSciColl 2023-2024
 description: |
-  Esta hoja de ruta se construye sobre la [hoja de ruta 2021](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2021.md) así como los esfuerzos en 2022 para construir una comunidad de editores y mediadores.
+  Esta hoja de ruta se construye sobre la [hoja de ruta 2023/2024](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2023-2024.md).
 background: "{{ site.data.images.pandeleteius.src }}"
 imageLicense: "{{ site.data.images.pandeleteius.caption }}"
 height: 70vh
@@ -15,7 +15,7 @@ height: 70vh
 toc: true
 ---
 
-## 1.   Revisar el esquema de datos
+## 1.   Continue work with the community as well as exiting platforms to update and grow data and improve interoperability
 
 We aim to keep supporting our community of editors, train and welcome new editors as well as work with other data holding platforms (such as CETAF and ALA) to improve the data available in GRSciColl.
 
@@ -24,7 +24,7 @@ Some of the work with existing platforms may include:
 - Set up connection so an external platform can become a master source for GRSciColl entries,
 - Help with bulk import and update of GRSciColl data based on these sources.
 
-## 4.   Una nueva interfaz de usuario para GRSciColl
+## 4.   Create and run a GRSciColl training module for editors
 
 The GBIF Secretariat, in collaboration with our community, is developing a training module for GRSciColl editors. This module aims to cover everything a National GRSciColl editor might need to curate and edit GRSciColl content.
 
@@ -32,7 +32,7 @@ The goal is to organize at least one online training event in 2025.
 
 Anticipamos el soporte de múltiples descriptores para una colección, con un descriptor que contiene un título, explicación textual y tabla de datos editados en línea o subidos como hoja de cálculo.
 
-## 3.   Soporte estructurado de descriptores de colección
+## 3.   Improve discoverability and representation of collections by topic
 
 A lot of the GRSciColl content is not standardized and lives in various free text fields. For example, many entomology collections can only be found by using a combination of keywords like “entomology” and “insect” in free text searches.
 
@@ -42,7 +42,7 @@ One avenue to explore to improve the representation of these collections is to e
 
 Alongside this work, we would implement a vocabulary for the Latimer Core term objectClassificationName most likely based on the topics developed by DISSCO (see also this GitHub issue: https://github.com/gbif/vocabulary/issues/157).
 
-## 4.   Una nueva interfaz de usuario para GRSciColl
+## 4.   Facilitate linking literature to GRSciColl
 
 Collections are often cited in publications but not always in a standardized manner. It might later be difficult to link a collection to its citation.
 
