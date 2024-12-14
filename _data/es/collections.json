@@ -989,72 +989,72 @@
     },
     {
       "title": "Herbario",
-      "description": "From Berea College",
+      "description": "Desde Berea College",
       "background": "https://bisque.cyverse.org/image_service/image/00-wsDEmsSkKPjDMeSVcD9cFA/resize:4000/format:jpeg",
       "imageLicense": "[Thlaspi alliaceum L.](/specimen/search?entity=1977817221)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Más",
           "href": "/es/colección/52d829a3-404f-4203-9b23-a9bec0c28538"
         }
       ]
     },
     {
-      "title": "Vertebrates",
-      "description": "From University of California Museum of Paleontology",
+      "title": "Vertebrados",
+      "description": "Del Museo de Paleontología de la Universidad de California",
       "background": "http://calphotos.berkeley.edu/imgs/512x768/0000_2222/4008/3977.jpeg",
       "imageLicense": "[Mammalia](/specimen/search?entity=1287033819)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Más",
           "href": "/es/colección/b1f320d4-fc46-465f-866f-d2d8acc17f4e"
         }
       ]
     },
     {
-      "title": "Specimen collection of the Natural History Museum Rotterdam",
-      "description": "From Natural History Museum Rotterdam",
+      "title": "Colección de especímenes del Museo de Historia Natural de Rotterdam",
+      "description": "Desde el Museo de Historia Natural de Róterdam",
       "background": "https://www.nmr-pics.nl/PICTURES/NMR993000042753A.jpg",
       "imageLicense": "[Cinysca dunkeri (Philippi, 1853)](/specimen/search?entity=2570115310)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Más",
           "href": "/es/collection/187a8a55-7de6-4230-8250-7d4ee274004f"
         }
       ]
     },
     {
-      "title": "Vertebrate Zoology",
-      "description": "From Peabody Museum of Natural History",
+      "title": "Zoología de Vertebrados",
+      "description": "Del Museo de Historia Natural Peabody",
       "background": "https://images.collections.yale.edu/iiif/2/ypm:069147c4-624f-4f55-8b2e-dbc43820af7c/full/!1920,1920/0/default.jpg",
       "imageLicense": "[Gadus morhua Linnaeus, 1758](/specimen/search?entity=2013057692)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Más",
           "href": "/es/collection/d3dd565a-9094-409d-bc41-cff9e7fbd23a"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From University of Lethbridge",
+      "title": "Herbario",
+      "description": "Desde la Universidad de Lethbridge",
       "background": "https://digitallibrary.uleth.ca/digital/api/singleitem/image/herbarium/12371/default.jpg",
       "imageLicense": "[Atriplex patula L.](/specimen/search?entity=894985850)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Más",
           "href": "/es/colección/281693a5-fba9-4040-82c3-cc6a4116e186"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From University of Manitoba",
+      "title": "Herbario",
+      "description": "De la Universidad de Manitoba",
       "background": "http://herbarium.cc.umanitoba.ca/Trichophorum%20cespitosum/54696.jpg",
       "imageLicense": "[Trichophorum cespitosum (L.) Hartm.](/specimen/search?entity=1703291145)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Más",
           "href": "/es/collection/21920808-da3b-426b-a542-846906bcd2d2"
         }
       ]
@@ -1180,104 +1180,104 @@
       ]
     },
     {
-      "title": "Arthropods",
-      "description": "From C.P. Gillette Museum of Arthropod Diversity",
+      "title": "Artrópodos",
+      "description": "Del C.P. Museo Gillette de la Diversidad de Artrópodos",
       "background": "https://scan-bugs.org:443/imglib/scan/CSU_CSUC/CSU_ENT1155/CSU_ENT1155834_1-2_1603389423_lg.jpg",
       "imageLicense": "[Macaria guenearia (Packard, 1876)](/specimen/search?entity=3031014315)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Más",
           "href": "/es/collection/4c112bb3-9a68-473f-8b3e-e17d42527620"
         }
       ]
     },
     {
-      "title": "MVZ Egg and Nest Specimens",
-      "description": "From Museum of Vertebrate Zoology, University of California Berkeley",
+      "title": "Muestras de Huevos y Nidos MVZ",
+      "description": "Del Museo de Zoología de Vertebrados, Universidad de California Berkeley",
       "background": "http://arctos.database.museum/media/10204257?open",
       "imageLicense": "[Turdus migratorius propinquus Ridgway, 1877](/specimen/search?entity=896555540)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Más",
           "href": "/es/collection/c1613ee4-0696-4f7c-8cd7-ee0a53e71134"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Manaaki Whenua - Landcare Research",
+      "title": "Herbario",
+      "description": "De Manaaki Whenua - Landcare Research",
       "background": "http://data.landcareresearch.co.nz/Image/22KB/NZVH",
       "imageLicense": "[Tolpis barbata (L.) Gaertn.](/specimen/search?entity=1091106468)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Más",
           "href": "/es/collection/f656e84f-12b2-461a-b128-dd58fb9104d8"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Muséum des Volcans",
+      "title": "Herbario",
+      "description": "Desde el Museo de los Volcanes",
       "background": "http://mediaphoto.mnhn.fr/media/1473087122663TlFJbEX0CLKEBwhC",
       "imageLicense": "[Glyceria distans (Jacq.) Wahlenb.](/specimen/search?entity=3427413189)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Más",
           "href": "/es/collection/b0eb4194-e1a0-4199-9376-9c5cccab3cff"
         }
       ]
     },
     {
-      "title": "Bird collection",
-      "description": "From University of Oslo",
+      "title": "Colección de aves",
+      "description": "De la Universidad de Oslo",
       "background": "http://www.unimus.no/felles/bilder/web_hent_bilde.php?id=13909458&type=jpeg",
       "imageLicense": "[Campephilus guatemalensis (Hartlaub, 1844)](/specimen/search?entity=1208923787)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Más",
           "href": "/es/collection/5f096916-26ab-4927-ae0b-b6f0f6db55ed"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Texas Tech University",
+      "title": "Herbario",
+      "description": "De la Universidad Tecnológica de Texas",
       "background": "https://bisque.cyverse.org/image_service/image/00-zJ5iy7rKCb6SgGKwZMJxRo/resize:4000/format:jpeg",
       "imageLicense": "[Carex intumescens Rudge](/specimen/search?entity=3340057473)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Más",
           "href": "/es/collection/5e81f250-673d-457a-9997-ffcdcc2e3afc"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From University of Melbourne",
+      "title": "Herbario",
+      "description": "De la Universidad de Melbourne",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=9342b119-9a07-433b-a91a-595dff0dc8b5",
       "imageLicense": "[Tetratheca pilosa Labill.](/specimen/search?entity=2419528381)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Más",
           "href": "/es/collection/7f754c09-2987-48ed-a41f-d98a31146a8e"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Royal Ontario Museum",
+      "title": "Herbario",
+      "description": "Desde el Museo Real de Ontario",
       "background": "https://crataegus.library.utoronto.ca/TRT00002080.JPG",
       "imageLicense": "[Crataegus viridis L.](/specimen/search?entity=1899304029)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Más",
           "href": "/es/collection/86529302-2a9e-4fed-9c73-059c87ef944e"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Muséum d'Histoire naturelle de Besançon",
+      "title": "Herbario",
+      "description": "Del Museo de Historia Natural de Besançon",
       "background": "http://mediaphoto.mnhn.fr/media/14676700771958tUy6k3pmQ43tlUF",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1806622164)",
       "xcta": [
