@@ -3,7 +3,7 @@ permalink: es/contact
 lang-ref: contact
 title: Contacto
 description: |
-  Contact us if you would like to contribute to the Global Registry of Scientific Collections, enounter any issue or have any question. For contacting specific collections or institutions please refer to the contact information on their respective pages.
+  Contáctenos si desea contribuir al Registro Global de Colecciones Científicas, tiene algún problema o tiene alguna pregunta. Para ponerse en contacto con colecciones o instituciones específicas, consulte la información de contacto en sus respectivas páginas.
 background: "{{ site.data.images.octopus-eggs.src }}"
 imageLicense: "{{ site.data.images.octopus-eggs.caption }}"
 height: 70vh
@@ -34,4 +34,4 @@ Le invitamos a utilizar la lista de correo de GRSciColl para debatir sobre asunt
 
 Puede enviarnos un correo electrónico a `scientific-collections@gbif.org`
 
-For contacting specific collections or institutions please refer to the contact information on their respective pages.
+Para ponerse en contacto con colecciones o instituciones específicas, consulte la información de contacto en sus respectivas páginas.
