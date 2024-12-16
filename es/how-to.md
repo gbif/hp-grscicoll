@@ -68,6 +68,6 @@ La [API de colecciones de GBIF](https://www.gbif.org/developer/registry#collecti
 
 Si usted está interesado en usar la API para editar GRSciColl, el sistema de permisos y los requisitos son los mismos que para convertirse en un editor.
 
-## How to share collection descriptors
+## Cómo compartir descriptores de colección
 
-We are working on improving the documentation. In the meantime, please refer to this tutorial here: https://data-blog.gbif.org/post/grscicoll-collection-descriptors/
+Estamos trabajando para mejorar la documentación. Mientras tanto, consulte este tutorial aquí: https://data-blog.gbif.org/post/grscicoll-collection-descriptors/

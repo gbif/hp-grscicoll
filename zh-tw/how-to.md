@@ -70,4 +70,4 @@ If you are interested in using the API for editing GRSciColl, the permission sys
 
 ## How to share collection descriptors
 
-We are working on improving the documentation. We are working on improving the documentation. We are working on improving the documentation. We are working on improving the documentation. We are working on improving the documentation. In the meantime, please refer to this tutorial here: https://data-blog.gbif.org/post/grscicoll-collection-descriptors/
+We are working on improving the documentation. We are working on improving the documentation. We are working on improving the documentation. We are working on improving the documentation. We are working on improving the documentation. We are working on improving the documentation. In the meantime, please refer to this tutorial here: https://data-blog.gbif.org/post/grscicoll-collection-descriptors/
