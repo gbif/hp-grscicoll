@@ -62,7 +62,7 @@ Los descriptores de colecciones son particularmente relevantes para colecciones 
 Los descriptores de colección se cargan en GRSciColl como tablas con títulos y descripciones asociados.
 
 * Cada línea corresponde a un grupo de especímenes descritos y cada columna es un descriptor.
-* Cuando sea posible, estos descriptores deben asignarse a [Darwin Core](https://dwc.tdwg.org/terms/) y/o [términos básicos de Latimer](https://ltc.tdwg. org).
+* Cuando sea posible, estos descriptores deben asignarse a [Darwin Core](https://dwc.tdwg.org/terms/) y/o \[términos básicos de Latimer\](https://ltc.tdwg.
 * Una tabla puede contener información sobre un aspecto o subconjunto específico de la colección. Las tablas pueden contener información superpuesta o descripciones diferentes para el mismo subconjunto de especímenes.
 
 Aprenda a compartir descriptores de colecciones en nuestra [página de instrucciones](/how-to).
