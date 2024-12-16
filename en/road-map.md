@@ -15,7 +15,7 @@ height: 70vh
 toc: true
 ---
 
-## 1.	Continue work with the community as well as exiting platforms to update and grow data and improve interoperability
+## 1.	Continue work with the community as well as existing platforms to update and grow data and improve interoperability
 
 We aim to keep supporting our community of editors, train and welcome new editors as well as work with other data holding platforms (such as CETAF and ALA) to improve the data available in GRSciColl.
 
