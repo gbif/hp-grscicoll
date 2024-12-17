@@ -30,9 +30,9 @@ El Secretariado de GBIF, en colaboración con nuestra comunidad, está desarroll
 
 El objetivo es organizar al menos un evento de formación online en 2025.
 
-Anticipamos el soporte de múltiples descriptores para una colección, con un descriptor que contiene un título, explicación textual y tabla de datos editados en línea o subidos como hoja de cálculo.
+También brindaríamos apoyo a cualquier persona interesada en organizar sesiones de capacitación o curación de GRSciColl basadas en el contenido del módulo.
 
-## 3.   Mejorar la visibilidad y la representación de colecciones por tema
+## 3.   Mejorar la visibilidad y la representación de colecciones por temática
 
 Gran parte del contenido de GRSciColl no está estandarizado y se encuentra en varios campos de texto libre. Por ejemplo, muchas colecciones de entomología sólo se pueden encontrar utilizando una combinación de palabras clave como “entomología” e “insecto” en búsquedas de texto libre.
 
