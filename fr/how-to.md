@@ -1,11 +1,11 @@
 ---
-permalink: /how-to
+permalink: /fr/how-to
 lang-ref: how-to
 title: How to
 description: |
-  How to navigate the Global Registry of Scientific Collections and update its content
-background: "{{ site.data.images.pagurus.src }}"
-imageLicense: "{{ site.data.images.pagurus.caption }}"
+  Comment naviguer le Registre Mondial des collections scientifiques et mettre à jour son contenu
+background: ""
+imageLicense: ""
 height: 70vh
 #layout: documentation
 #sideNavigation: about.about
@@ -15,15 +15,15 @@ height: 70vh
 toc: true
 ---
 
-## How to add a collection or an institution to GRSciColl
+## Comment ajouter une collection ou une institution à GRSciColl
 
-You can suggest or add a collection or an institution to GRSciColl here:
+Vous pouvez suggérer ou ajouter une collection ou institution ici:
 
-[Add New Institution](https://registry.gbif.org/institution/create){: .button .is-primary}
+[Ajouter Nouvelle Institution](https://registry.gbif.org/institution/create){: .button .is-primary}
 
-[Add New Collection](https://registry.gbif.org/collection/create){: .button .is-primary}
+[Ajouter Nouvelle Collection](https://registry.gbif.org/collection/create){: .button .is-primary}
 
-When creating a new entry in GRSciColl, very few fields are mandatory. However, we really appreciate if you could provide the address for the entry you created (especially the country).
+Peu de champs sont obligatoires lors de la création de nouvelles entrées dans GRSciColl. However, we really appreciate if you could provide the address for the entry you created (especially the country).
 
 See also this short video tutorial:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977782?h=fb1d926798" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
