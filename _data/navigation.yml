@@ -18,6 +18,8 @@
     href: /api
   - text: Road map
     href: /road-map
+  - text: Contact
+    href: /contact
 - text: How-to
   menu:
   - text: Add entries
@@ -26,5 +28,3 @@
     href: /how-to#how-to-edit-a-grscicoll-collection-or-institution
   - text: FAQ
     href: /faq
-- text: Contact
-  href: /contact
