@@ -26,6 +26,9 @@
     - 
       text: Hoja de ruta
       href: /es/road-map
+    - 
+      text: Contact
+      href: /contact
 - 
   text: Guías básicas
   menu:
@@ -38,6 +41,3 @@
     - 
       text: Preguntas frecuentes
       href: /es/faq
-- 
-  text: Contacto
-  href: /es/contact
