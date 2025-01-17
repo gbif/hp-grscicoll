@@ -63,6 +63,7 @@ var siteConfig = {
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
   collection: {
+    excludedFilters: ['typeStatus'],
     rootFilter: {
       displayOnNHCPortal: true
     }
