@@ -26,6 +26,9 @@
     - 
       text: Road map
       href: /road-map
+    - 
+      text: Contact
+      href: /contact
 - 
   text: How-to
   menu:
@@ -38,6 +41,3 @@
     - 
       text: FAQ
       href: /faq
-- 
-  text: Contact
-  href: /contact
