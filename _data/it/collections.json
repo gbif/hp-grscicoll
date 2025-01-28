@@ -1,9 +1,9 @@
 {
-  "title": "Featured collections and specimens",
+  "title": "Collezioni ed esemplari in evidenza",
   "features": [
     {
-      "title": "Herbario Jardín Botánico de Cartagena",
-      "description": "From the Botanical Garden of Cartagena “Guillermo Piñeres”",
+      "title": "Erbario del Giardino Botanico di Cartagena",
+      "description": "Dal Giardino Botanico di Cartagena \"Guillermo Piñeres”",
       "background": "/assets/images/cropped_mircochilus.jpg",
       "imageLicense": " [Microchilus madrinanii Ormerod](https://scientific-collections.gbif.org/specimen/search?entity=4139006064&taxonKey=5315085&view=TABLE) collected in Colombia by Jardín Botánico de Cartagena (licensed under http://creativecommons.org/licenses/by-nd/4.0/)",
       "xcta": [
