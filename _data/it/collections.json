@@ -5,14 +5,14 @@
       "title": "Erbario del Giardino Botanico di Cartagena",
       "description": "Dal Giardino Botanico di Cartagena \"Guillermo Piñeres”",
       "background": "/assets/images/cropped_mircochilus.jpg",
-      "imageLicense": " [Microchilus madrinanii Ormerod](https://scientific-collections.gbif.org/specimen/search?entity=4139006064&taxonKey=5315085&view=TABLE) collected in Colombia by Jardín Botánico de Cartagena (licensed under http://creativecommons.org/licenses/by-nd/4.0/)",
+      "imageLicense": " [Microchilus madrinanii Ormerod](https://scientific-collections.gbif.org/specimen/search?entity=4139006064&taxonKey=5315085&view=TABLE) collezionato presso il Giardino Botanico di Cartagena (con licenza http://creativecommons.org/licenses/by-nd/4.0/)",
       "xcta": [
         {
-          "text": "More",
-          "href": "/collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889"
+          "text": "Altro",
+          "href": "/it/collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889"
         }
       ],
-      "href": "/collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889"
+      "href": "/it/collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889"
     },
     {
       "title": "The Coleoptera collection",
