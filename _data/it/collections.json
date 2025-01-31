@@ -1036,49 +1036,49 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From University of Lethbridge",
+      "title": "Erbario",
+      "description": "Dall'Università di Lethbridge",
       "background": "https://digitallibrary.uleth.ca/digital/api/singleitem/image/herbarium/12371/default.jpg",
       "imageLicense": "[Atriplex patula L.](/specimen/search?entity=894985850)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/281693a5-fba9-4040-82c3-cc6a4116e186"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From University of Manitoba",
+      "title": "Erbario",
+      "description": "Dall'Università di Manitoba",
       "background": "http://herbarium.cc.umanitoba.ca/Trichophorum%20cespitosum/54696.jpg",
       "imageLicense": "[Trichophorum cespitosum (L.) Hartm.](/specimen/search?entity=1703291145)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/21920808-da3b-426b-a542-846906bcd2d2"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Millersville University",
+      "title": "Erbario",
+      "description": "Dall'Università di Millersville",
       "background": "https://s3.us-east-2.amazonaws.com/natureatlas.org/specimens/398098.jpg",
       "imageLicense": "[Pinus strobus L.](/specimen/search?entity=3331181304)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/9c062a7e-1d9b-47bd-afba-79f7605ccb1e"
         }
       ]
     },
     {
-      "title": "The birds collection (ZO) of the Muséum national d'Histoire Naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "title": "La collezione degli uccelli (ZO del Museo Nazionale di Storia Naturale (MNHN - Parigi)",
+      "description": "Dal Museo Nazionale di Storia Naturale - MNHN",
       "background": "http://mediaphoto.mnhn.fr/media/15217079555065Mb3k9lCbpORAyI8",
       "imageLicense": "[Poecile palustris (Linnaeus, 1758)](/specimen/search?entity=1837434994)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/baea350b-20d9-4324-b9d0-07e41e9fe0c5"
         }
       ]
