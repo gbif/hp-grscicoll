@@ -1,7 +1,7 @@
 ---
 permalink: /faq
 lang-ref: faq
-title: Frequently Asked Questions
+title: Domande Frequenti
 description: |
   Here you will find the answers to the most frequently asked questions.
 background: "{{ site.data.images.bombus-rufocinctus.src }}"

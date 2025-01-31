@@ -1,157 +1,157 @@
 {
-  "title": "Featured collections and specimens",
+  "title": "Collezioni ed esemplari in evidenza",
   "features": [
     {
-      "title": "Herbario Jardín Botánico de Cartagena",
-      "description": "From the Botanical Garden of Cartagena “Guillermo Piñeres”",
+      "title": "Erbario del Giardino Botanico di Cartagena",
+      "description": "Dal Giardino Botanico di Cartagena \"Guillermo Piñeres”",
       "background": "/assets/images/cropped_mircochilus.jpg",
-      "imageLicense": " [Microchilus madrinanii Ormerod](https://scientific-collections.gbif.org/specimen/search?entity=4139006064&taxonKey=5315085&view=TABLE) collected in Colombia by Jardín Botánico de Cartagena (licensed under http://creativecommons.org/licenses/by-nd/4.0/)",
+      "imageLicense": " [Microchilus madrinanii Ormerod](https://scientific-collections.gbif.org/specimen/search?entity=4139006064&taxonKey=5315085&view=TABLE) collezionato presso il Giardino Botanico di Cartagena (con licenza http://creativecommons.org/licenses/by-nd/4.0/)",
       "xcta": [
         {
-          "text": "More",
-          "href": "/collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889"
+          "text": "Altro",
+          "href": "/it/collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889"
         }
       ],
-      "href": "/collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889"
+      "href": "/it/collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889"
     },
     {
-      "title": "The Coleoptera collection",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "title": "Collezione di coleotteri",
+      "description": "Dal Museo Nazionale di Storia Naturale - MNHN",
       "background": "https://mediaphoto.mnhn.fr/media/1637846993177lDX4RVPIoTgOc0GX",
       "imageLicense": "[Strategus aloeus (Linnaeus, 1758)](/specimen/search?entity=3411207309)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/1f542e62-4800-4d7a-b393-399487b72929"
         }
       ],
       "href": "/collection/1f542e62-4800-4d7a-b393-399487b72929"
     },
     {
-      "title": "Herbarium",
-      "description": "From Quaid-I-Azam University",
+      "title": "Erbario",
+      "description": "Dall'Università Quaid-I-Azam",
       "background": "https://openherbarium.org:443/imglib/openmuseum/QAU_ISL/ISL0000/ISL0000005_1523068157_lg.jpg",
       "imageLicense": "[Ochthochloa compressa (Forssk.) Hilu](/specimen/search?entity=1890156002)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/af8d2bb1-08c0-401b-8ed0-01a3f7da3f41"
         }
       ],
       "href": "/collection/af8d2bb1-08c0-401b-8ed0-01a3f7da3f41"
     },
     {
-      "title": "NHMD Entomology",
-      "description": "From Natural History Museum of Denmark",
+      "title": "Entomologia NHMD",
+      "description": "Dal Museo di Storia Naturale della Danimarca",
       "background": "https://specify-attachments.science.ku.dk/static/NHMD_Entomology/originals/sp64882253855935359653.att.jpg",
       "imageLicense": "[Cephalops argutus (Hardy, 1968)](/specimen/search?entity=3458627549)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/1caa6488-5c47-4bed-8258-23155b269bd3"
         }
       ],
       "href": "/collection/1caa6488-5c47-4bed-8258-23155b269bd3"
     },
     {
-      "title": "Entomology (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Entomologia (USNM)",
+      "description": "Dal Museo Nazionale di Storia Naturale \"Smithsonian Institution\"",
       "background": "http://n2t.net/ark:/65665/m3410a0071-af64-422f-9aa6-a6a893dc718b",
       "imageLicense": "[Hylocurosoma adustus Eggers, 1943](/specimen/search?entity=1320615198)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/ac7b18e8-e231-4e03-bea6-575fc6023ac4"
         }
       ],
       "href": "/collection/ac7b18e8-e231-4e03-bea6-575fc6023ac4"
     },
     {
-      "title": "Herbarium",
-      "description": "From Anton de Kom University of Suriname",
+      "title": "Erbario",
+      "description": "Dall'Università Anton de Kom del Suriname",
       "background": "https://ia801503.us.archive.org/15/items/bbs-dataset202201/BBS0002048.jpg",
       "imageLicense": "[Tabernaemontana heterophylla Vahl](/specimen/search?entity=3699023535)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/02bec4e3-2cd7-46f3-955e-46f9b802643d"
         }
       ],
       "href": "/collection/02bec4e3-2cd7-46f3-955e-46f9b802643d"
     },
     {
-      "title": "Mycology Herbarium",
-      "description": "From University of Oslo",
+      "title": "Erbario di micologia",
+      "description": "Dall'Università di Oslo",
       "background": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=14321350&type=jpeg",
-      "imageLicense": "[Omphalina Quél., 1886](/specimen/search?entity=2332452285)",
+      "imageLicense": "[Omphalina Quél., 1886](/specimen/search?entity=2332452285)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/a879e8a7-604a-4c7f-b40f-efb2dfc22be2"
         }
       ],
       "href": "/collection/a879e8a7-604a-4c7f-b40f-efb2dfc22be2"
     },
     {
-      "title": "Kathryn Kalmbach Herbarium",
-      "description": "From Denver Botanic Gardens",
+      "title": "Erbario Kathryn Kalmbach",
+      "description": "Dai giardini botanici di Denver",
       "background": "https://intermountainbiota.org/imglib/storage/portals/seinet/arizona/DBG_KHD/KHD00069/KHD00069333_lg.jpg",
       "imageLicense": "[Chenopodium glaucum subsp. salinum (Standl.) Aellen](/specimen/search?entity=2242357388)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/ecc505c5-cadd-4cb5-b0b6-b83b9eca4848"
         }
       ],
       "href": "/collection/ecc505c5-cadd-4cb5-b0b6-b83b9eca4848"
     },
     {
-      "title": "The fossil collection",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "title": "La collezione di fossili",
+      "description": "Dal Museo Nazionale di Storia Naturale - MNHN",
       "background": "http://mediaphoto.mnhn.fr/media/1441979344668pH8hGx5a2JWkVRyS",
       "imageLicense": "[Athleta intercrenatus Cossmann & Pissarro, 1909](/specimen/search?entity=1019802686)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/23fbece0-6e07-4a9c-ac86-7aa8e041ac9e"
         }
       ],
       "href": "/collection/23fbece0-6e07-4a9c-ac86-7aa8e041ac9e"
     },
     {
-      "title": "Herbarium - Algae",
-      "description": "From UiT The Arctic University of Norway",
+      "title": "Erbario - Alghe",
+      "description": "Dall' UiT The Artic University della Norvegia",
       "background": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=15404327&type=jpeg",
       "imageLicense": "[Furcellaria lumbricalis (Hudson) J.V.Lamouroux](/specimen/search?entity=3855869054)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/5aa589e3-ee5a-4cf8-848d-1b19b1f1af71"
         }
       ],
       "href": "/collection/5aa589e3-ee5a-4cf8-848d-1b19b1f1af71"
     },
     {
-      "title": "Mollusc Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Collezione di molluschi",
+      "description": "Dal Museo canadese di storia naturale",
       "background": "http://ipt.nature.ca/multimedia/0/917/CMNML003054exts.jpg",
-      "imageLicense": "[Planogyra asteriscus (Morse, 1857)](/specimen/search?entity=1804271823)",
+      "imageLicense": "[Planogyra asterisco (Morse, 1857)](/specimen/search?entity=1804271823)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/778fb16d-8e62-4c72-87d2-8e83ce8af189"
         }
       ],
       "href": "/collection/778fb16d-8e62-4c72-87d2-8e83ce8af189"
     },
     {
-      "title": "Corals",
-      "description": "From Queensland Museum",
+      "title": "Coralli",
+      "description": "Dal Museo del Queensland",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=c881351c-1048-401c-8522-c23b52f11fcc",
       "imageLicense": "[Acropora austera (Dana, 1846)](/specimen/search?entity=1066238009)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/f18b77b5-87b1-415b-add9-6da489da61ee"
         }
       ],
@@ -160,85 +160,85 @@
   ],
   "other": [
     {
-      "title": "Herbarium",
-      "description": "From Embrapa",
+      "title": "Erbario",
+      "description": "Dall' Embrapa",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=e/ect/ECT-output_112018/ECT0004045_02.JPG",
       "imageLicense": "[Butia exilata Deble & Marchiori](/specimen/search?entity=2302317770)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/c44f9167-bb82-4c72-a522-5a7e553dfeb0"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade do Estado de Santa Catarina",
+      "title": "Erbario",
+      "description": "Dall'Università dello Stato di Santa Catarina",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=l/lusc/0-5000/LUSC005645.jpg",
-      "imageLicense": "[Paspalum pumilum Nees](/specimen/search?entity=2995985072)",
+      "imageLicense": "[Neas de pumilio paspalum](/specimen/search?entity=2995985072)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/9f1371e9-b913-48b6-8a97-5d3b6bb236a5"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
-      "background": "http://mediaphoto.mnhn.fr/media/1441446146812wLrrt8fL7OZjCmst",
+      "title": "Erbario",
+      "description": "Dal Museo Nazionale di Storia Naturale - MNHN",
+      "background": "http://mediaphoto.mnhn.fr/media/1441446146812wLrt8fL7OZjCmst",
       "imageLicense": "[Euonymus europaeus L.](/specimen/search?entity=731395725)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/bc3d39fd-a7d4-4763-b951-2bdeddd8a5d2"
         }
       ]
     },
     {
       "title": "Herbarium",
-      "description": "From Smithsonian Institution",
+      "description": "Dalla Smithsonian Institution",
       "background": "http://n2t.net/ark:/65665/m3470ce0e5-a75d-4a46-ba7a-3a587c552747",
       "imageLicense": "[Rytidosperma setifolium (Hook.f.) Connor & Edgar](/specimen/search?entity=3062077374)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/151c91ba-a521-4735-8c11-5abf8db7fb67"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From The New York Botanical Garden",
+      "title": "Erbario",
+      "description": "Dal Giardino Botanico di New York",
       "background": "http://sweetgum.nybg.org/images3/2806/156/01213223.jpg",
       "imageLicense": "[Eriogonum rupinum Reveal](/specimen/search?entity=1928447997)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/b2190553-4505-4fdd-8fff-065c8ca26f72"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Meise Botanic Garden",
+      "title": "Erbario",
+      "description": "Dal Giardino Botanico di Meise",
       "background": "https://oxalis.br.fgov.be/images/BR0/000/025/155/761/BR0000025155761.jpg",
       "imageLicense": "[Eragrostis prolifera (Sw.) Steud.](/specimen/search?entity=2243286271)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/6416a67f-3c3e-495c-8998-568f64249178"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Royal Botanic Gardens",
+      "title": "Erbario",
+      "description": "Dai Giardini botanici Reali",
       "background": "http://www.kew.org/herbcatimg/724432.jpg",
       "imageLicense": "[Chloris pilosa Schumach.](/specimen/search?entity=912080028)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/dceb8d52-094c-4c2c-8960-75e0097c6861"
         }
       ]
