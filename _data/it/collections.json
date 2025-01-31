@@ -857,84 +857,84 @@
     },
     {
       "title": "Erbario",
-      "description": "From Museu Paraense Emílio Goeldi",
+      "description": "Dal Museo Paraense Emílio Goeldi",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=mg/herbario/2/48/99/MG024899.JPG",
       "imageLicense": "[Rhabdadenia macrostoma (Benth.) Müll.Arg.](/specimen/search?entity=2998376112)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/4ca8e139-d28a-4822-a368-385f524bc5bc"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade Federal do Ceará",
+      "title": "Erbario",
+      "description": "Dall'Università Federale del Cearà",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=e/eac/4/13/38/EAC0041338.JPG",
       "imageLicense": "[Jacquemontia agrestis (C.Mart. ex Choisy) Meisn.](/specimen/search?entity=2995950398)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/d39f1646-81bc-4da3-a095-76072303bf7d"
         }
       ]
     },
     {
-      "title": "Entomology",
-      "description": "From Peabody Museum of Natural History",
+      "title": "Entomologia",
+      "description": "Dal Museo di Storia Naturale Peabody",
       "background": "https://images.collections.yale.edu/iiif/2/ypm:47ffc537-5bd7-429f-9713-314651dc355e/full/!1920,1920/0/default.jpg",
       "imageLicense": "[Catocala residua Grote, 1874](/specimen/search?entity=1060795705)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/21d86f42-73e7-4864-838d-a7aaa1cf27d0"
         }
       ]
     },
     {
-      "title": "Malacology and Invertebrate Zoology",
-      "description": "From Florida Museum of Natural History- Zoology, Paleontology & Paleobotany",
+      "title": "Malacologia e zoologia degli invertebrati",
+      "description": "Dal Museo di Storia Naturale della Florida - zoologia, paleontologia e paleobotanica",
       "background": "https://cdn.floridamuseum.ufl.edu/IZ/f1e9a573-c7fb-4bc1-af6f-1f9b90148579",
       "imageLicense": "[Clibanarius signatus Heller, 1861](/specimen/search?entity=3382933339)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Aix-Marseille Université",
+      "title": "Erbario",
+      "description": "Dall'Università Aix-Marseille",
       "background": "http://mediaphoto.mnhn.fr/media/1530728268246qx1HCQCZfQzqHXyc",
       "imageLicense": "[Parietaria judaica L.](/specimen/search?entity=1803903219)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/e723656e-ff6c-4680-bc94-f155964b7064"
         }
       ]
     },
     {
-      "title": "Fossil Invertebrate Collection",
-      "description": "From Field Museum of Natural History",
+      "title": "Collezione dei fossili d'invertebrati",
+      "description": "Dal Field Museum of Natural History",
       "background": "https://fm-digital-assets.fieldmuseum.org/1529/694/pe83102a-p.JPG",
       "imageLicense": "[Tullimonstrum gregarium Richardson, 1966](/specimen/search?entity=2286106134)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/4f6c16ec-aa8a-464f-829b-7ccf9954589d"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Central Siberian Botanical Garden SB RAS",
+      "title": "Erbario",
+      "description": "Dal giardino botanico siberiano centrale (SB RAS)",
       "background": "http://herb.csbg.nsc.ru:8081/backend/herbarium/view/23337",
       "imageLicense": "[Geranium sylvaticum L.](/specimen/search?entity=2562051977)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/f330c1c9-4034-4288-832c-89e0ecb28ecd"
         }
       ]
