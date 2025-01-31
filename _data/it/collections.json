@@ -244,97 +244,97 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Harvard University",
+      "title": "Erbario",
+      "description": "Dall'Università di Harvard",
       "background": "http://data.huh.harvard.edu/3d90c55b-9127-4533-8d47-13f5f66f0a04/image",
       "imageLicense": "[Rumex maritimus subsp. fueginus (Phil.) Dusén](/specimen/search?entity=3414381324)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/c8d73979-1d24-4e24-92c4-ed8702cb06cf"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From University of Michigan",
+      "title": "Erbario",
+      "description": "Dall'Università del Michigan",
       "background": "https://quod.lib.umich.edu/cgi/i/image/api/image/herb00ic:1382126:MICH-V-1382126/full/res:0/0/native.jpg",
-      "imageLicense": "[Carex pauciflora Lightf.](/specimen/search?entity=1988815740)",
+      "imageLicense": "[Luz de la pauciflora Carex.](/specimen/search?entity=1988815740)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/62289b33-ae4f-438c-8574-bd27b348c1fb"
         }
       ]
     },
     {
-      "title": "Vertebrate Zoology, Mammals (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Zoologia dei vertebrati, mammiferi (USNM)",
+      "description": "Dal Museo Nazionale di Storia Naturale \"Smithsonian Institution\"",
       "background": "http://n2t.net/ark:/65665/m333459927-c900-410c-a22a-9a2331852408",
       "imageLicense": "[Gerbillus Desmarest, 1804](/specimen/search?entity=1320811643)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/c0e59491-e319-4822-90bf-3e3c6fbd4a13"
         }
       ]
     },
     {
-      "title": "Vertebrate Zoology, Birds (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Zoologia dei vertebrati, uccelli (USNM)",
+      "description": "Dal Museo Nazionale di Storia Naturale \"Smithsonian Institution\"",
       "background": "http://n2t.net/ark:/65665/m3e0f5930e-5724-4b11-82c4-63febadd7b78",
       "imageLicense": "[Parus atricapillus Linnaeus, 1766](/specimen/search?entity=1317961151)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/d98a5dfa-8b7b-4ae6-83f1-c0588313fc11"
         }
       ]
     },
     {
-      "title": "Snow Entomological Museum Collection",
-      "description": "From University of Kansas, Biodiversity Institute and Natural History Museum",
+      "title": "Collezione del Museo entomologico Snow",
+      "description": "Dall'Università del Kansas, Istituto di Biodiversità e Museo di storia naturale",
       "background": "http://biimages.biodiversity.ku.edu/static/Entomology/originals/sp63813142377676678698.att.JPG",
       "imageLicense": "[Berosus Leach, 1817](/specimen/search?entity=1269809045)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/992b8c97-c6ae-4bda-b58b-1762cd1105d5"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Royal Botanic Gardens & Domain Trust",
-      "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=31dd1cbf-f19d-4b19-894e-9f20cffe0ba4",
+      "title": "Erbario",
+      "description": "Dai Royal Botanic Gardens & Domain Trust",
+      "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=c881351c-1048-401c-8522-c23b52f11fcc",
       "imageLicense": "[Nymphoides montana Aston](/specimen/search?entity=2827822695)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/8115adac-2a60-4792-b67b-411865f3a16a"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Real Jardín Botánico (CSIC)",
+      "title": "Erbario",
+      "description": "Dal Giardino Botanico Reale (CSIC)",
       "background": "http://161.111.171.57/fcgi-bin/iipsrv.fcgi?FIF=/Catalogo/Fanerogamia/IMGS_web/IMGS_jp2/MA-01-00579012.jp2&WID=2200&QLT=40&CVT=jpeg",
       "imageLicense": "[Diplacrum longifolium (Griseb.) C.B.Clarke](/specimen/search?entity=1936505906)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/0a5a8dec-6bb0-45bd-adbe-0b538c98cc54"
         }
       ]
     },
     {
-      "title": "Observation records of the Natural History Museum Rotterdam",
-      "description": "From Natural History Museum Rotterdam",
+      "title": "Registri d'osservazione del Museo di Storia Naturale di Rotterdam",
+      "description": "Dal Museo di Storia Naturale di Rotterdam",
       "background": "https://www.nmr-pics.nl/PICTURES/voornesduin2.jpg",
       "imageLicense": "[Agrochola lota (Clerck, 1759)](/specimen/search?entity=768241095)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/74e4045f-cd10-49fa-8533-d0fc7ec256eb"
         }
       ]
@@ -437,103 +437,103 @@
     },
     {
       "title": "CAS Herpetology",
-      "description": "From California Academy of Sciences",
+      "description": "Dalla California Academy of Sciences",
       "background": "http://www.archive.org/stream/catalogueofdepar26unse#page/n59/mode/2up",
-      "imageLicense": "[Bipes biporus (Cope, 1894)](/specimen/search?entity=543497608)",
+      "imageLicense": "[Bipes biporo (Cope, 1894)](/specimen/search?entity=543497608)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/ba09c323-3cf8-4e82-900f-23f2bdb46f17"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From University of Texas at Austin",
+      "title": "Erbario",
+      "description": "Dall'Università del Texas ad Austin",
       "background": "http://was.tacc.utexas.edu/fileget?coll=Botany&type=O&filename=sp67549546799257488630.att.jpg",
       "imageLicense": "[Platanthera brevifolia (Greene) Senghas](/specimen/search?entity=2807184302)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/99ff9468-daf5-4e5d-af5b-1377088c2fdb"
         }
       ]
     },
     {
-      "title": "Herbarium Berolinense, Berlin (B)",
-      "description": "From ZE Botanischer Garten und Botanisches Museum, Freie Universität Berlin",
+      "title": "Erbario Berolinense, Berlino (B)",
+      "description": "Dal Giardino Botanico di Berlino, Università libera (BE)",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=b/bgbm/B/20/01/42/07/b_20_0142076.jpg",
       "imageLicense": "[Pecluma M.G.Price](/specimen/search?entity=2996504964)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/fceacd29-9f6c-4c9c-a4bc-67795f9cb972"
         }
       ]
     },
     {
-      "title": "Vascular Plant Herbarium",
-      "description": "From Estonian University of Life Sciences",
+      "title": "Erbario delle piante vascolari",
+      "description": "Dall'University of Life Sciences dell'Estonia",
       "background": "https://files.plutof.ut.ee/public/large/19/57/19577289DE7A2AF3CB54702F8A47E0264DA9A08E3A1DB8CAC9BA3E1591C4E594.jpg",
       "imageLicense": "[Leucanthemum vulgare Lam.](/specimen/search?entity=3412747435)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/59a4002b-91ad-4485-8a3f-cd3cbeaed586"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Harvard University",
-      "background": "http://data.huh.harvard.edu/3d4e30a3-8ac8-442b-b4e3-9ec2887409da/image",
+      "title": "Erbario",
+      "description": "Dall'Università di Harvard",
+      "background": "http://data.huh.harvard.edu/3d4e30a3-8ac8-442b-b4e3-9ec2887409da/imagen",
       "imageLicense": "[Rosa roxburghii f. normalis Rehder & E.H.Wilson](/specimen/search?entity=1998573742)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/7bf40203-1eab-4c06-b220-a8312701b821"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Harvard University",
+      "title": "Erbario",
+      "description": "Dall'Università di Harvard",
       "background": "http://data.huh.harvard.edu/3d3c7993-d034-44d6-90be-4981257c9fed/image",
       "imageLicense": "[Chamberlainia digastra (Müll.Hal. ex Kindb.) H.Rob.](/specimen/search?entity=1998573454)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/f46647cc-4d11-4244-81f6-0139b5a176a4"
         }
       ]
     },
     {
-      "title": "Botany",
-      "description": "From Peabody Museum of Natural History",
-      "background": "https://images.collections.yale.edu/iiif/2/ypm:2fbac234-e0c6-4b29-9d74-2c55ff8e8a9f/full/full/0/default.jpg",
+      "title": "Botanica",
+      "description": "Dal Museo di Storia Naturale Peabody",
+      "background": "https://images.collections.yale.edu/iiif/2/ypm:2fbac234-e0c6-4b29-9d74-2c55ff8e8a9f/full/0/default.jpg",
       "imageLicense": "[Euosmolejeunea duriuscula A.Evans](/specimen/search?entity=1805438952)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/70102c0b-6f4c-4159-9ac4-c8f8d9be025a"
         }
       ]
     },
     {
-      "title": "Zoological Collections",
-      "description": "From Estonian Museum of Natural History",
-      "background": "https://files.plutof.ut.ee/public/orig/06/13/0613784613FD2894444B586498FFFDAEDD240581DB5732127945F15F2BA83780.CR2",
-      "imageLicense": "[Arctiidae](/specimen/search?entity=3003608326)",
+      "title": "Collezioni zoologiche",
+      "description": "Dal Museo di Storia Naturale dell'Estonia",
+      "background": "https://files.plutof.ut.ee/public/orig/06/13/0613784613FD2894444B586498FFFFDDD240581DB5732127945F15F2BA83780.CR2",
+      "imageLicense": "[Arctiidae](/especmen/search?entity=3003608326)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/d4ba52a0-b87e-4df8-97e3-cada7af1f181"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Canadian Museum of Nature",
+      "title": "Erbario",
+      "description": "Dal Museo canadese di storia naturale",
       "background": "http://ipt.nature.ca/multimedia/69/335/CAN10024608.jpg",
       "imageLicense": "[Salix arctica Pall.](/specimen/search?entity=1804458960)",
       "xcta": [
@@ -640,103 +640,103 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Institut National de la Recherche Agronomique (INRA)",
-      "background": "http://mediaphoto.mnhn.fr/media/1537914610021o1UdU29uoBcv3JOJ",
+      "title": "Erbario",
+      "description": "Dall'Istituto Nazionale della Ricerca Agronomica (INRA), Francia",
+      "background": "http://mediaphoto.mnhn.fr/media/153791461002o1UdU29uoBcv3JOJ",
       "imageLicense": "[Aira praecox L.](/specimen/search?entity=3427599101)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/a6563dfd-914a-456e-9da9-f3ea2dda64da"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade Estadual de Feira de Santana",
+      "title": "Erbario",
+      "description": "Università di Stato di Feira de Santana",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=huefs/Lecythidaceae/jpg/HUEFS0091643.jpg",
       "imageLicense": "[Eschweilera ovata (Cambess.) Mart. ex Miers](/specimen/search?entity=2998240117)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/0bce67d0-9672-4126-95c4-58361e46a03f"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade Federal da Bahia, Campus Universitário de Ondina",
+      "title": "Erbario",
+      "description": "Università federale di Bahia, Campus Universitario di Ondina",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=alcb/output_13102016/ALCB/0/2/80/46/ALCB028046.JPG",
       "imageLicense": "[Senna Mill.](/specimen/search?entity=2996066919)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/2b636271-4d24-49bf-9ed8-abbe2829b25e"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Komi Scientific Centre, Russian Academy of Sciences",
+      "title": "Erbario",
+      "description": "Dal Centro Scientifico di Komi, Accademia russa di Scienze",
       "background": "https://ib.komisc.ru/files/gbif/bryo/label_img/27/4_14_IMG_0268-000.JPG",
       "imageLicense": "[Rhizomnium pseudopunxctatum T.Koponen, 1968](/specimen/search?entity=1945842726)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/6c0273dc-e231-4722-ac35-2264b2499beb"
         }
       ]
     },
     {
-      "title": "The molluscs collection (IM) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "title": "La collezione dei molluschi (IM) del Museo nazionale di Storia Naturale (MNHN - Parigi)",
+      "description": "Dal Museo Nazionale di Storia Naturale - MNHN",
       "background": "http://mediaphoto.mnhn.fr/media/1401117421477pa8ZCn2F4KdxbA5n",
       "imageLicense": "[Ocenebra newmani Lorenz, 1990](/specimen/search?entity=1019711173)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/a026f954-a57e-4512-84de-125675d46b2a"
         }
       ]
     },
     {
-      "title": "Paleontology - Invertebrates and Plants",
-      "description": "From University of Colorado Museum of Natural History",
+      "title": "Paleontologia - Invertebrati e Piante",
+      "description": "Dal Museo di Storia Naturale dell'Università del Colorado",
       "background": "http://paleo-attachments.colorado.edu/static/originals/sp69104765486768384680.att.jpg",
-      "imageLicense": "[Diptera](/specimen/search?entity=1064377209)",
+      "imageLicense": "[Diptera](/especmen/search?entity=1064377209)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/948e3641-75ca-4550-91a1-45d834bb47f7"
         }
       ]
     },
     {
-      "title": "Plant specimens",
-      "description": "From University of Texas at El Paso Biodiversity Collections",
+      "title": "Esemplari di piante",
+      "description": "Collezioni sulla biodiversità dell'Università del Texas a El Paso",
       "background": "http://arctos.database.museum/media/10623984?open",
       "imageLicense": "[Apodanthera undulata A.Gray](/specimen/search?entity=1611937359)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/6078db64-c83f-46b6-9c86-e99f00c0167d"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Fairchild Tropical Botanic Garden",
+      "title": "Erbario",
+      "description": "Dal Giardino Botanico tropicale Fairchild",
       "background": "https://cdn.plantatlas.org/img/specimens/FTG/55506.jpg",
       "imageLicense": "[Lycopodium L.](/specimen/search?entity=122968478)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/45f9fb0e-486f-40e8-97db-145a15a05311"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Erbario",
       "description": "From Jardin botanique de la ville de Lyon",
       "background": "http://mediaphoto.mnhn.fr/media/14859484564779WxsBVXfyTL1MaEx",
       "imageLicense": "[Lysimachia punxctata L.](/specimen/search?entity=1835627210)",
@@ -838,25 +838,25 @@
       "imageLicense": "[Triumfetta semitriloba Jacq.](/specimen/search?entity=2996314691)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/97604393-1e10-421b-a66a-e7fd8515ecad"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Université Laval",
+      "title": "Erbario",
+      "description": "Dall'Università Laval",
       "background": "http://media.qfa.herbier.ulaval.ca/QFA0363226.jpg",
       "imageLicense": "[Populus balsamifera L.](/specimen/search?entity=668799672)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/741f12d3-ebfc-48e7-9d8c-180d41b0a582"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Erbario",
       "description": "From Museu Paraense Emílio Goeldi",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=mg/herbario/2/48/99/MG024899.JPG",
       "imageLicense": "[Rhabdadenia macrostoma (Benth.) Müll.Arg.](/specimen/search?entity=2998376112)",
