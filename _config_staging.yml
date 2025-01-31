@@ -4,3 +4,4 @@ webApi: "https://graphql.gbif-staging.org"
 
 include: # this include is only to NOT exclude translations, so that they are visible in the staging
   - es/
+  - it/
