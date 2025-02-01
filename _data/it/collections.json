@@ -340,92 +340,92 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From New England Botanical Club",
+      "title": "Erbario",
+      "description": "Dal Club Botanico del New England",
       "background": "http://data.huh.harvard.edu/4cbc7879-66fd-4459-929c-cc1d9acd3eed/image",
-      "imageLicense": "[Ranunculus hispidus Michx.](/specimen/search?entity=1998642278)",
+      "imageLicense": "[Rículus hispidus, x.](/specimen/search?entity=1998642278)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/d92ce4c7-6d93-40fb-a3be-e246dddc0b25"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From University of Georgia",
+      "title": "Erbario",
+      "description": "Dall'Università della Georgia",
       "background": "https://bisque.cyverse.org/image_service/image/00-uVbG69hffRJnxVDyio6Hod?resize=4000&format=jpeg",
       "imageLicense": "[Hieracium gronovii L.](/specimen/search?entity=3709801047)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/ff052798-fe94-4951-943d-cae3902f7735"
         }
       ]
     },
     {
-      "title": "Invertebrate Paleontology",
-      "description": "From Peabody Museum of Natural History",
-      "background": "https://images.collections.yale.edu/iiif/2/ypm:d10ddda6-9ff2-4dbd-afc2-c8185f4fbfc6/full/full/0/default.jpg",
+      "title": "Paleontologia degli invertebrati",
+      "description": "Dal Museo di Storia Naturale Peabody",
+      "background": "https://images.collections.yale.edu/iiif/2/ypm:d10ddda6-9ff2-4dbd-afc2-c8185f4fbfc6/full/0/default.jpg",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1848928433)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/1ef7a6ae-dd06-46af-b5a7-a79632dec7f4"
         }
       ]
     },
     {
-      "title": "Entomology",
-      "description": "From Harvard University, Museum of Comparative Zoology",
-      "background": "https://mczbase.mcz.harvard.edu/specimen_images/entomology/thumbnails/MCZ-ENT00767405_Ennomos_subsignaria_lbs.jpg",
-      "imageLicense": "[Ennomos subsignaria Hübner, 1818-1823](/specimen/search?entity=3329079312)",
+      "title": "Entomologia",
+      "description": "Dall'Università di Harvard, Museo di Zoologia comparata",
+      "background": "https://mczbase.mcz.harvard.edu/specimen_images/entomology/miniatura/MCZ-ENT00767405_Ennomos_subsignaria_lbs.jpg",
+      "imageLicense": "[Ennomos subsignaria Hu.Ubner, 1818-1823](/specimen/search?entity=3329079312)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/42844cb6-421e-4bcf-bdeb-c56039bee08c"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Museu Botânico Municipal",
+      "title": "Erbario",
+      "description": "Dal Museo Botanico municipale",
       "background": "http://imagens1.jbrj.gov.br/fsi/server?type=image&source=mbm/sibbr2/16/20/95/MBM162095.JPG",
       "imageLicense": "[Passiflora setacea DC.](/specimen/search?entity=2996609701)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/d3b42067-b567-4d47-a136-bb5d52ed32fc"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From UNIVEGE Université Clermont Auvergne",
+      "title": "Erbario",
+      "description": "Dall'Università di Clermont Auvergne (UNIVEGE)",
       "background": "http://mediaphoto.mnhn.fr/media/1446664933656Y2OYl67Gsb1RWTsg",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1437892963)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/dfcd74b9-e4a5-4c3f-a8e3-291cb497225c"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "title": "Erbario",
+      "description": "Dal Museo Nazionale di Storia Naturale - MNHN",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=mnhn/LOTE_F/PC0709456_004.jpg",
       "imageLicense": "[Bryum Hedw.](/specimen/search?entity=2997419511)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/c02f1b55-cca8-4ece-b013-eaea3eeeaff4"
         }
       ]
     },
     {
-      "title": "Invertebrate Zoology (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Zoologia degli invertebrati (USNM)",
+      "description": "Dal Museo Nazionale di Storia Naturale \"Smithsonian Institution\"",
       "background": "http://n2t.net/ark:/65665/m3e401857f-b3ae-4b5d-82b6-24ca5a180af6",
       "imageLicense": "[Lumbrineris tenuis Verrill, 1873](/specimen/search?entity=1320568936)",
       "xcta": [
