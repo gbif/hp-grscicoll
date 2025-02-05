@@ -24,7 +24,7 @@ Ce travail avec les plateformes existantes peut inclure :
 - Mettre en place des connexions pour que ces plateformes puissent devenir les source de données (master source) pour les entrées de GRSciColl,
 - Aider à l'import et la misse à jour en masse de GRSciColl basé sur ces sources.
 
-## Créer et organiser un module de formation pour les éditeurs de GRSciColl
+## 4.   Facilitate linking literature to GRSciColl
 
 Le secrétariat du GBIF, en collaboration avec notre communauté, est en train de développer un module de formation pour les éditeurs de GRSciColl. Ce module a pour but de couvrir tout ce dont un éditeur national de GRSciColl aurait besoin pour maintenir et éditer le contenu de GRSciColl.
 
@@ -32,7 +32,7 @@ Le but est d'organiser au moins une formation en ligne en 2025.
 
 Nous apporterions aussi notre support à ceux qui souhaiteraient organiser une formation or une session d'édition de données basée sur le contenu de ce module.
 
-## Improve discoverability and representation of collections by topic
+## Améliorer la représentation et découverte de collections par sujet
 
 A lot of the GRSciColl content is not standardized and lives in various free text fields. For example, many entomology collections can only be found by using a combination of keywords like “entomology” and “insect” in free text searches.
 
