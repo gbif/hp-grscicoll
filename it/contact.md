@@ -1,5 +1,5 @@
 ---
-permalink: /contact
+permalink: /it/contact
 lang-ref: contact
 title: Contact
 description: |
