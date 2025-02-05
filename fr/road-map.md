@@ -32,7 +32,7 @@ Le but est d'organiser au moins une formation en ligne en 2025.
 
 Nous apporterions aussi notre support à ceux qui souhaiteraient organiser une formation or une session d'édition de données basée sur le contenu de ce module.
 
-## Améliorer la représentation et découverte de collections par sujet
+## 4.   Facilitate linking literature to GRSciColl
 
 A lot of the GRSciColl content is not standardized and lives in various free text fields. For example, many entomology collections can only be found by using a combination of keywords like “entomology” and “insect” in free text searches.
 
