@@ -17,9 +17,9 @@ toc: vero
 
 ## Che cos'è il Registro Globale delle Collezioni Scientifiche?
 
-The Global Registry of Scientific Collections, or GRSciColl, is a comprehensive and community-curated clearing house of information about scientific collections in the [GBIF](https://www.gbif.org/) registry. By providing information about physical scientific collections—their content, location, contacts, associated institutions, and collection codes and identifiers—GRSciColl offers a resource for a wide range of uses by experts, researchers and members of broader society.
+Il Registro Globale delle Collezioni Scientifiche, o GRSciColl (sigla del sito inglese) è un intero centro di raccolta informazioni mantenuto dalla comunità riguardante le collezioni scientifiche presenti nel registro [GBIF](https://www.gbif.org/) Offrendo informazioni riguardo a collezioni scientifiche fisiche - il loro contenuto, ubicazione, contatti, istituzioni affiliate,  codici di collezione e identificatori - GRSciColl rappresenta una risorsa per molteplici utilizzi da parte di esperti, ricercatori e membri della società in generale.
 
-A community comprised of national editors and representatives from registered institutions keeps the information in GRSciColl up to date. [Any user can suggest updates, additions or mergers of records](/how-to#suggest-a-change), prompting editors to review the proposed changes. GBIF regularly synchronizes GRSciColl with external sources such as [Index Herbariorum](https://sweetgum.nybg.org/science/ih/), further ensuring that its information is up-to-date and reliable.
+Una comunità composta da editori nazionali e rappresentanti d'istituzioni registrate mantiene le informazioni di GRSsciColl sempre aggiornate.  [Any user can suggest updates, additions or mergers of records](/how-to#suggest-a-change), prompting editors to review the proposed changes. GBIF regularly synchronizes GRSciColl with external sources such as [Index Herbariorum](https://sweetgum.nybg.org/science/ih/), further ensuring that its information is up-to-date and reliable.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/872824009?h=c3aaa082e3" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
