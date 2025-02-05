@@ -3,7 +3,7 @@ permalink: /fr/road-map
 lang-ref: road-map
 title: Feuille de route de GRSciColl 2025
 description: |
-  This road map builds in the [2021 roadmap](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2021.md) as well as the efforts in 2022 to build a community of editors an mediators.
+  Cette feuille de route est une continuation de [celle de 2023/2024](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2023-2024.md).
 background: "{{ site.data.images.pandeleteius.src }}"
 imageLicense: "{{ site.data.images.pandeleteius.caption }}"
 height: 70vh
@@ -15,24 +15,24 @@ height: 70vh
 toc: true
 ---
 
-## 1.   Continue work with the community as well as existing platforms to update and grow data and improve interoperability
+## 1.   Continuer notre travail collaboratif avec la communauté et les plateformes existantes pour mettre à jour et accroître les données en plus d'améliorer leur interopérabilité
 
-We aim to keep supporting our community of editors, train and welcome new editors as well as work with other data holding platforms (such as CETAF and ALA) to improve the data available in GRSciColl.
+Nous souhaitons soutenir notre communauté d'éditeurs bénévoles, former et accueillir de nouveaux éditeurs en plus de notre travail avec d'autres plateformes de données (comme CETAF et ALA) pour améliorer les données disponibles dans GRSciColl.
 
-Some of the work with existing platforms may include:
-- Importing identifiers to facilitate interoperability,
-- Set up connection so an external platform can become a master source for GRSciColl entries,
-- Help with bulk import and update of GRSciColl data based on these sources.
+Ce travail avec les plateformes existantes peut inclure :
+- Importer les identifiants pour faciliter l'interopérabilité,
+- Mettre en place des connexions pour que ces plateformes puissent devenir les source de données (master source) pour les entrées de GRSciColl,
+- Aider à l'import et la misse à jour en masse de GRSciColl basé sur ces sources.
 
-## 2.   Create and run a GRSciColl training module for editors
+## Créer et organiser un module de formation pour les éditeurs de GRSciColl
 
-The GBIF Secretariat, in collaboration with our community, is developing a training module for GRSciColl editors. This module aims to cover everything a National GRSciColl editor might need to curate and edit GRSciColl content.
+Le secrétariat du GBIF, en collaboration avec notre communauté, est en train de développer un module de formation pour les éditeurs de GRSciColl. Ce module a pour but de couvrir tout ce dont un éditeur national de GRSciColl aurait besoin pour maintenir et éditer le contenu de GRSciColl.
 
-The goal is to organize at least one online training event in 2025.
+Le but est d'organiser au moins une formation en ligne en 2025.
 
-We anticipate supporting multiple descriptors for a collection, with a descriptor containing a title, textual explanation and a table of data edited inline or uploaded as e.g. a spreadsheet.
+Nous apporterions aussi notre support à ceux qui souhaiteraient organiser une formation or une session d'édition de données basée sur le contenu de ce module.
 
-## 3.   Improve discoverability and representation of collections by topic
+## Improve discoverability and representation of collections by topic
 
 A lot of the GRSciColl content is not standardized and lives in various free text fields. For example, many entomology collections can only be found by using a combination of keywords like “entomology” and “insect” in free text searches.
 

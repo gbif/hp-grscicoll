@@ -1,5 +1,5 @@
 ---
-permalink: /get-involved
+permalink: /it/get-involved
 lang-ref: get-involved
 title: How to get involved
 description: |

@@ -1,7 +1,7 @@
 ---
-permalink: api
+permalink: /it/api
 lang-ref: api
-title: API documentation
+title: Documentazione API
 description: |
   All data is freely available through our APIs
 cta:
