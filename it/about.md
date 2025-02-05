@@ -19,7 +19,7 @@ toc: vero
 
 Il Registro Globale delle Collezioni Scientifiche, o GRSciColl (sigla del sito inglese) è un intero centro di raccolta informazioni mantenuto dalla comunità riguardante le collezioni scientifiche presenti nel registro [GBIF](https://www.gbif.org/) Offrendo informazioni riguardo a collezioni scientifiche fisiche - il loro contenuto, ubicazione, contatti, istituzioni affiliate,  codici di collezione e identificatori - GRSciColl rappresenta una risorsa per molteplici utilizzi da parte di esperti, ricercatori e membri della società in generale. Offrendo informazioni riguardo a collezioni scientifiche fisiche - il loro contenuto, ubicazione, contatti, istituzioni affiliate,  codici di collezione e identificatori - GRSciColl rappresenta una risorsa per molteplici utilizzi da parte di esperti, ricercatori e membri della società in generale.
 
-Una comunità composta da editori nazionali e rappresentanti d'istituzioni registrate mantiene le informazioni di GRSsciColl sempre aggiornate. [ Ogni utente può proporre aggiornamenti, aggiunte, o fusioni dei registri ](/how-to#suggest-a-change)  sollecitando gli editori a revisionare i cambiamenti suggeriti.  GBIF sincronizza regolarmente GRSciColl con fonti esterne come [Index Herbariorum](https://sweetgum.nybg.org/science/ih/), assicurandosi inoltre che queste informazioni siano aggiornate e attendibili. 
+Una comunità composta da editori nazionali e rappresentanti d'istituzioni registrate mantiene le informazioni di GRSsciColl sempre aggiornate. [ Ogni utente può proporre aggiornamenti, aggiunte, o fusioni dei registri ](/how-to#suggest-a-change)  sollecitando gli editori a revisionare i cambiamenti suggeriti. GBIF sincronizza regolarmente GRSciColl con fonti esterne come [Index Herbariorum](https://sweetgum.nybg.org/science/ih/), assicurandosi inoltre che queste informazioni siano aggiornate e attendibili.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/872824009?h=c3aaa082e3" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
@@ -46,7 +46,7 @@ Recenti sviluppi includono:
 
 ### Dove siamo ora
 
-GRSciColl ora possiede un sistema di suggerimenti che gli editori utilizzano per revisionare i cambiamenti proposti.  Questo sistema permette una cura da parte della comunità e consente a chiunque di contribuire aggiornando, aggiungendo, o unendo i dati dei vari registri.
+GRSciColl ora possiede un sistema di suggerimenti che gli editori utilizzano per revisionare i cambiamenti proposti. Questo sistema permette una cura da parte della comunità e consente a chiunque di contribuire aggiornando, aggiungendo, o unendo i dati dei vari registri.
 
 Lavoriamo inoltre con organizzazioni internazionali per importare i dati dai registri delle loro collezioni a GRSciColl. Sottoinsiemi di GRSciColl possono anche essere usati per organizzare [GBIF hosted portals](https://www.gbif.org/hosted-portals) like [ Il Portale delle Collezioni Scientifiche Naturali del Regno Unito](https://data.dissco-uk.org)
 
