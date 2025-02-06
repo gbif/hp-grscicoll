@@ -1,7 +1,7 @@
 ---
 permalink: /it/collection/search
-title: Data
-description: We publish open data
+title: Dati
+description: Noi pubblichiamo dei dati aperti
 layout: collection-search
 lang-ref: collection/search
 ---
