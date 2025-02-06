@@ -3,12 +3,12 @@ permalink: /it/api
 lang-ref: api
 title: Documentazione API
 description: |
-  All data is freely available through our APIs
+  Tutti i dati sono gratuitamente disponibili tramite il nostro APIs
 cta:
   - 
-    text: GBIF API Documentation
+    text: Documentazione API GBIF
     href: https://www.gbif.org/developer/summary
-    isPrimary: true
+    isPrimary: vero
 background: "{{ site.data.images.acalypha.src }}"
 imageLicense: "{{ site.data.images.acalypha.caption }}"
 height: 70vh
@@ -17,14 +17,14 @@ height: 70vh
 #composition: # you can extend the documentation layout with a custom composition
 #- type: postHeader
 #- type: pageMarkdown
-toc: true
+toc: vero
 ---
 
-## What is an API
+## Che cos'è un API
 
-API stands for Application Progamming Interface. It is a way for computer program to communicate with other system, in our case GRSciColl. Anyone can use the GRSciColl API to access the GRSciColl data programmatically.
+API sta per "Interfaccia di Programmazione dell'Applicazione" ("Application Progamming Interface" in inglese). Questo è un modo per il programma informatico di comunicare con altri sistemi, nel nostro caso GRSciColl. Chiunque può utilizzare l'API per accedere virtualmente ai dati di GRSciColl.
 
-Editors can also use the GRSciColl API to update the GRSciColl data programmatically. If you are interested in becoming an editor, please check our [How-to](how-to#become-editor) page.
+Anche gli editori possono utilizzare l'API per aggiornare virtualmente i dati di GRSciColl.  If you are interested in becoming an editor, please check our [How-to](how-to#become-editor) page.
 
 ### Introduction to the GBIF API
 
