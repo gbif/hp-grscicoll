@@ -3,12 +3,12 @@ permalink: /it/api
 lang-ref: api
 title: Documentazione API
 description: |
-  All data is freely available through our APIs
+  Tutti i dati sono gratuitamente disponibili tramite il nostro APIs
 cta:
   - 
-    text: GBIF API Documentation
+    text: Documentazione API GBIF
     href: https://www.gbif.org/developer/summary
-    isPrimary: true
+    isPrimary: vero
 background: "{{ site.data.images.acalypha.src }}"
 imageLicense: "{{ site.data.images.acalypha.caption }}"
 height: 70vh
@@ -17,24 +17,24 @@ height: 70vh
 #composition: # you can extend the documentation layout with a custom composition
 #- type: postHeader
 #- type: pageMarkdown
-toc: true
+toc: vero
 ---
 
-## What is an API
+## Che cos'è un API
 
-API stands for Application Progamming Interface. It is a way for computer program to communicate with other system, in our case GRSciColl. Anyone can use the GRSciColl API to access the GRSciColl data programmatically.
+API sta per "Interfaccia di Programmazione dell'Applicazione" ("Application Progamming Interface" in inglese). Questo è un modo per il programma informatico di comunicare con altri sistemi, nel nostro caso GRSciColl. Chiunque può utilizzare l'API per accedere virtualmente ai dati di GRSciColl.
 
-Editors can also use the GRSciColl API to update the GRSciColl data programmatically. If you are interested in becoming an editor, please check our [How-to](how-to#become-editor) page.
+Anche gli editori possono utilizzare l'API per aggiornare virtualmente i dati di GRSciColl.  Se sei interessato a diventare un editore, per favore visita la nostra pagina [How-to](how-to#become-editor).
 
-### Introduction to the GBIF API
+### Introduzione all'API di GBIF
 
-The [GBIF Data Use Club](https://www.gbif.org/data-use-club) regularly organises webinars on various GBIF-related technical topics. Below is the recorded webinar introducing the GBIF API. It explains how to get started with any GBIF-developed API function (including the GRSciColl API).
+Il [GBIF Data Use Club](https://www.gbif.org/data-use-club) organizza regolarmente dei seminari su diversi argomenti tecnici collegati a GBIF. Quì sotto c'è la registrazione del seminario d'introduzione all'API di GBIF. Il seminario spiega come utilizzare qualsiasi funzione sviluppata dell'API di GBIF (incluso l'API di GRSciColl).
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/797699677?h=e9fb58d307" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-## Technical Documentation
+## Documentazione tecnica
 
-The GRSciColl API is documented in details here.
+L'API di GRSciColl è documentato in dettaglio quì.
 
 [Documentation](https://gbif.org/developer/registry#collections){: .button .is-primary}
 
