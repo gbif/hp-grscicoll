@@ -1,9 +1,9 @@
 ---
 permalink: /it/connected-systems
 lang-ref: connected-systems
-title: Connected systems
+title: Sistemi collegati
 description: |
-  GRSciColl supports interoperability and interacts with a number of other systems.
+  GRSciColl supporta l'interoperabilità e interagisce con numerosi altri sistemi.
 background: "{{ site.data.images.echinometra.src }}"
 imageLicense: "{{ site.data.images.echinometra.caption }}"
 height: 70vh
@@ -12,10 +12,10 @@ height: 70vh
 #composition: # you can extend the documentation layout with a custom composition
 #- type: postHeader
 #- type: pageMarkdown
-toc: true
+toc: vero
 ---
 
-## Identifiers
+## Identificatori
 
 Identifiers and reference codes are essential to enable interoperbility.
 
