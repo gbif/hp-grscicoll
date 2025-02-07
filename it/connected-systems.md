@@ -60,19 +60,19 @@ Oltre al contributo degli editori di GRSciColl, gli identificatori di certe isti
 * Abbiamo abbinato tante più entrate d'istiduzioni GRSciColl quanto possibile tramite [Research Organization Registry (ROR)](https://ror.org) usando il loro[OpenRefine](https://openrefine.org) strumento di risoluzione e abbiamo importato gli identificatori ROR.
 * Stiamo lavorando con il team [NCBI BioCollection](https://www.ncbi.nlm.nih.gov/biocollections)  per poter importare i loro identificatori nel GRSciColl.
 
-Users can search identifiers for collections and institutions both on this website and through [our API lookup servcie](https://www.gbif.org/developer/registry#lookup).
+Gli utenti possono cercare sia gli identificatori delle collezioni che quelli delle istituzioni su questo sito e attraverso [ il nostro servizio di ricerca dell' API](https://www.gbif.org/developer/registry#lookup).
 
-Identifiers are also used to link specimen-related occurrences published on GBIF to GRSciColl entries.
+Gli identificatori vengono anche utilizzati per collegare eventi legati ai campioni pubblicati su GBIF alle entrate di GRSciColl.
 
-## Occurrences published on GBIF
+## Campioni pubblicati su GBIF
 
-While processing and interpreting newly published occurrences, GBIF seeks to match records that include values for any of the following terms to the corresponding GRSciColl entry through the [GRSciColl lookup service](https://www.gbif.org/developer/registry#lookup):
+Mentre processa e interpreta i nuovi campioni appena pubblicati, GBIF cerca di collegare i registri che includono valori per ciascuno dei seguenti termini alla corrispettiva entrata di GRSciColl attraverso il[ servizio di ricerca di GRSciColl ](https://www.gbif.org/developer/registry#lookup):
 * `institutionCode`
 * `collectionCode`
 * `institutionID`
 * `collectionID`
 
-For example, if an occurrence references the institution code `RBINS` and the institution identifier `https://ror.org/02y22ws83`, they will be linked to the [Royal Belgian Institute of Natural Sciences](/institution/c2bfdeef-9c03-435e-8465-c483dadd6995). Occurrences matched to GRSciColl entries are used in generating dashboards and metrics as shown in this example.
+Per esempio, se un campione fa riferimento al codice d'istituzione `RBINS` e all'identificatore d'istituzione`https://ror.org/02y22ws83`, essi saranno collegati al [ Royal Belgian Institute of Natural Science](/institution/c2bfdeef-9c03-435e-8465-c483dadd6995). Occurrences matched to GRSciColl entries are used in generating dashboards and metrics as shown in this example.
 
 In cases with more than one possible match, the system uses the publisher country to help select a GRSciColl match. [Learn more about how to link GBIF occurrences to GRSciColl](/faq#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
 
