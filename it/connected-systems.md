@@ -17,9 +17,9 @@ toc: vero
 
 ## Identificatori
 
-Identifiers and reference codes are essential to enable interoperbility.
+Gli identificatori e i codici di referenza sono essenziali per poter permettere l'interoperabilità.
 
-Each GRSciColl entry has a Universally Unique IDentifier (UUID) and associated URLs. [Editors](/how-to#become-editor) can also add a number of external identifiers to their collections and institution entries. Currently available identifier types include:
+Ogni entrata di GRSciColl possiede un Identificatore Universalmente Unico (UUID) e URLs associati. Gli [Editors](/how-to#become-editor) possono inoltre aggiungere una serie d' identificatori esterni alle entrate delle proprie collezioni e istituzioni. Le tipologie d'identificatori attualmente disponibili includono:
 
 <ul id="identifierEnums"></ul>
 
@@ -53,12 +53,12 @@ Each GRSciColl entry has a Universally Unique IDentifier (UUID) and associated U
     fetchAndDisplayIdentifiers();
 </script>
 
-In addition to contributions of the GRSciColl editors, identifiers for some institutions are imported automatically or semi-automatically.
-* All the entries connected to Index Herbariorum are given an Index Herbariorum identifier. See [how the syncronization with Index Herbariorum works](/about#index-herbariorum).
-* Many `CITES` identifiers also come from Index Herbariorum. See [how the syncronization with Index Herbariorum works](/connected-systems#index-herbariorum).
-* We matched as many GRSciColl institution entries as possible with [Wikidata](https://www.wikidata.org/) with their [OpenRefine](https://openrefine.org) Resolution tool and imported the wikidata identifiers.
-* We matched as many GRSciColl institution entries as possible with the [Research Organization Registry (ROR)](https://ror.org) using their [OpenRefine](https://openrefine.org) Resolution tool and imported the ROR identifiers.
-* We are working with the [NCBI BioCollection](https://www.ncbi.nlm.nih.gov/biocollections) team to import their identifiers in GRSciColl.
+Oltre al contributo degli editori di GRSciColl, gli identificatori di certe istituzioni vengono importate automaticamente o semi-automaticamente.
+* A tutte le entrate collegate all'Index Herbariorum viene assegnato un identificatore Index Herbariorum. Visitare [ come funziona la sincronizzazione con l'Index Herbariorum](/about#index-herbariorum).
+* Molti `CITES` identificatori provengono anche dall'Index Herbariorum. Visitare [come funziona la sincronizzazione con l'Index Herbariorum](/connected-systems#index-herbariorum).
+* Abbiamo abbinato tante più entrate d'istiduzioni GRSciColl quanto possibile tramite [Wikidata](https://www.wikidata.org/)con il loro[OpenRefine](https://openrefine.org) strumento di risoluzione e abbiamo importato gli identificatori di "wikidata".
+* Abbiamo abbinato tante più entrate d'istiduzioni GRSciColl quanto possibile tramite [Research Organization Registry (ROR)](https://ror.org) usando il loro[OpenRefine](https://openrefine.org) strumento di risoluzione e abbiamo importato gli identificatori ROR.
+* Stiamo lavorando con il team [NCBI BioCollection](https://www.ncbi.nlm.nih.gov/biocollections)  per poter importare i loro identificatori nel GRSciColl.
 
 Users can search identifiers for collections and institutions both on this website and through [our API lookup servcie](https://www.gbif.org/developer/registry#lookup).
 
