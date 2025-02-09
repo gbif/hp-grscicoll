@@ -3,7 +3,7 @@ permalink: /it/faq
 lang-ref: faq
 title: Domande Frequenti
 description: |
-  Here you will find the answers to the most frequently asked questions.
+  Quì troverete le risposte alle principali domande.
 background: "{{ site.data.images.bombus-rufocinctus.src }}"
 imageLicense: "{{ site.data.images.bombus-rufocinctus.caption }}"
 height: 70vh
@@ -12,14 +12,14 @@ height: 70vh
 #composition: # you can extend the documentation layout with a custom composition
 #- type: postHeader
 #- type: pageMarkdown
-toc: true
+toc: vero
 ---
 
-## GRSciColl website
+## Sito web di GRSciColl
 
-## How to get my collection or specimen featured on the homepage?
+## Come far apparire la mia collezione o il mio campione sulla homepage?
 
-If you would like to nominate your collection or specimen to be featured on the GRSciColl homepage, confirm that it meets the following criteria:
+Se desiderate dare un nome alla vostra collezione o campione in modo che possa apparire sulla homepage di GRSciColl, assicuratevi che rispetti i seguenti criteri:
 * There must be an entry for the collection and associated institution in GRSciColl
 * The collection must have some digitized specimens available on GBIF.
 * Some the occurrences available on GBIF must be linked to the GRSciColl entry
