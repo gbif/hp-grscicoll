@@ -41,21 +41,21 @@ GRSciColl ha avuto origine indipendentemente da GBIF, e possiede una storia pers
 
 Gli editori di GBIF potrebbero scegliere di pubblicare tutti i loro registri in un singolo set di dati ma descrivere il loro patrimonio tramite diverse voci di collezione su GRSciColl. In alternativa, molti set di dati possono contenere dei registri corrispondenti a dei campioni che appartengono alla stessa collezione.
 
-Guardate come gli eventi pubblicati su GBIF sono collegati alle voci di GRSciColl [ quì](/connected-systems#occurrences-published-on-gbif). Guardate come i set di dati di GBIF possono essere collegati alle voci di collezione di GRSciColl [ quì ](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+Vedere come gli eventi pubblicati su GBIF sono collegati alle voci di GRSciColl [ quì](/connected-systems#occurrences-published-on-gbif). Vedere come i set di dati di GBIF possono essere collegati alle voci di collezione di GRSciColl [ quì ](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
 ## Qual'è la differenza tra gli editori di GBIF e le istituzioni di GRSciColl?
 
 GRSciColl ha avuto origine indipendentemente da GBIF, e possiede una storia personale <a href="/about#data-history"</a>. Molti set di dati pubblicati su GBIF contengono dei registri di campioni che appartengono a collezioni registrate su GRSciColl. Il contenuto di GBIF e GRSciColl può sovrapporsi. Per rispondere alla domanda precedente vedere <a href="/faq#what-is-the-difference-between-gbif-datasets-and-grscicoll-collections" </a>. Tuttavia, vi sono alcune differenze:
 * Gli editori di GBIF sono organizzazioni registrate che attivamente condividono dati su GBIF. Utilizzano [ strumenti di pubblicazione](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) per poter condividere i set di dati su GBIF. Alcuni editori sono musei ed erbari ma altri sono iniziative scientifiche dei cittadini, giornali o centri di ricerca che però potrebbero condividere soltanto osservazioni, descrizioni di taxa o dati derivanti dal DNA.
-* GRSciColl institutions were registered because they are known to hold physical scientific collections. GRSciColl institution entries can be added by GRSciColl editors (based on information found in publications or online) or by the institutions themselves.
+* Le istituzioni di GRSciColl sono state registrate poichè sono risapute possedere collezioni scientifiche fisiche. Le voci d'istituzione di GRSciColl possono essere aggiunte dagli editori di GRSciColl (basandosi sulle informazioni trovate nelle pubblicazioni oppure online) o dalle istituzioni stesse.
 
-A large administrative entity like a university can register as a GBIF publisher and describe its departments as GRSciColl institutions. Alternatively, some GBIF publishers can correspond to smaller entities and have they institution represented as one entry in GRSciColl.
+Un grande ente amministrativo come un'università può registrarsi come editore di GBIF e descrivere i propri dipartimenti come istituzioni di GRSciColl. In alternativa, alcuni editori di GBIF possono corrispondere a entità più piccole e avere la propria istituzione rappresentata come singola voce su GRSciColl.
 
-See how occurrences published on GBIF are linked to GRSciColl entries [here](/connected-systems#occurrences-published-on-gbif). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+Vedere come gli eventi pubblicati su GBIF sono collegati alle voci di GRSciColl[ quì](/connected-systems#occurrences-published-on-gbif). Vedere come i set di dati di GBIF possono essere collegati alle voci di collezione di GRSciColl [ quì ](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
-## What are collection descriptors in GRSciColl?
+## Cosa sono i descrittori di collezione su GRSciColl?
 
-Collection descriptors are meant to share structured information about collections. They can contain relevant details about collections and sub-collections as well as quantitative data which cannot be shared on collection pages (for example, the number of type specimens for a particular taxon). Some collection descriptors are used for indexing collections. This means that they improve collection discoverability. For example, a collection associated with dragonfly species names will be found by users looking for “Odonata” in the scientific name field of the collection search.
+I descrittori di collezione sono pensati per condividere informazioni strutturate riguardo alle collezioni. Essi possono contenere importanti dettagli riguardo a collezioni e sub-collezioni così come dati quantitativi che non possono essere condivisi su pagine di collezione (per esempio, il numero delle tipologie di campioni per uno specifico taxon). Alcuni descrittori di collezione vengono utilizzati per l'indicizzazione delle collezioni. Questo significa che migliorano la scopribilità delle collezioni. Per esempio, una collezione associata a dei nomi di specie di libellula, potrà essere ritrovata dagli utenti che avranno cercato "Odonata" nel campo del nome scientifico della ricerca di collezione.
 
 Collection descriptors are particularly relevant for collections that aren’t fully digitized and/or where the specimen records aren’t available on GBIF.org.
 
