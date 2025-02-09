@@ -92,13 +92,13 @@ Gli editori possono disconnettere le voci delle istituzioni dall'Index Herbarior
 
 ### I set di metadati e pagine dell'editore di GBIF
 
-I metadati dei set di dati pubblicati su GBIF possono essere usati come fonti primarie per le voci di collezioni su GRSciColl. Al contrario della sincronizzazione con Index Herbariorum, non c'è nessuna tabella settimanale e le nuove entrate non vengono create automaticamente. Gli editori devono invece collegare le collezioni di GRSciColl alle loro fonti manualmente. Questo avviene poichè l'ambito di applicazione di GBIF include dati che si trovano al di fuori di GRSciColl. Da notare che esiste anche l'opzione di creare una voce di collezione da un set di dati. Visita la nostra pagina <a href="/how-to#how-to-use-the-grscicoll-editing-interface"</a>. When the metadata of a dataset is updated, the corresponding collection entry is updated immediately.
+I metadati dei set di dati pubblicati su GBIF possono essere usati come fonti primarie per le voci di collezioni su GRSciColl. Al contrario della sincronizzazione con Index Herbariorum, non c'è nessuna tabella settimanale e le nuove entrate non vengono create automaticamente. Gli editori devono invece collegare le collezioni di GRSciColl alle loro fonti manualmente. Questo avviene poichè l'ambito di applicazione di GBIF include dati che si trovano al di fuori di GRSciColl. Da notare che esiste anche l'opzione di creare una voce di collezione da un set di dati. Visita la nostra pagina <a href="/how-to#how-to-use-the-grscicoll-editing-interface"</a>. Quando i metadati di un set di dati vengono aggiornati, la voce della collezione corrispondente viene anch'essa immediatamente aggiornata.
 
-Similarly, the publisher information available on GBIF can be used as a primary source for institution entries in GRSciColl.
+Allo stesso modo, le informazioni relative all'editore disponibili su GBIF possono essere utilizzate come fonte primaria per le voci delle istituzioni su GRSciColl.
 
-## GRSciColl as content for other websites
+## GRSciColl come contenuto per altri siti web
 
-The [GRSciColl API](/api) makes it possible for other applications to access the GRSciColl data programmatically. This means that other website are able to display the GRSciColl content, which remains centrally curated. Anyone can use the API to include the GRSciColl data in their systems. Below are two documented examples.
+Il sito [GRSciColl API](/api) permette automaticamente ad altre applicazioni di accedere ai dati di GRSciColl This means that other website are able to display the GRSciColl content, which remains centrally curated. Anyone can use the API to include the GRSciColl data in their systems. Below are two documented examples.
 
 ### iDigBio
 
