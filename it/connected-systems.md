@@ -98,12 +98,12 @@ Allo stesso modo, le informazioni relative all'editore disponibili su GBIF posso
 
 ## GRSciColl come contenuto per altri siti web
 
-Il sito [GRSciColl API](/api) permette automaticamente ad altre applicazioni di accedere ai dati di GRSciColl This means that other website are able to display the GRSciColl content, which remains centrally curated. Anyone can use the API to include the GRSciColl data in their systems. Below are two documented examples.
+Il sito [GRSciColl API](/api) permette automaticamente ad altre applicazioni di accedere ai dati di GRSciColl Questo significa che altri siti web sono in grado di mostrare il contenuto di GRSciColl, che rimane curato da un' autorità centrale. Chiunque può utilizzare l'API per includere i dati di GRSciColl nei propri sistemi. Quì sotto ci sono due esempi documentati.
 
 ### iDigBio
 
-The data displayed on the [iDigBio Collections website](https://www.idigbio.org/portal/collections) is maintained in GRSciColl. iDigBio is part of our team of editors and review update suggestions for US institutions.
+I dati mostrati sul sito [iDigBio Collections](https://www.idigbio.org/portal/collections) sono mantenuti da GRSciColl. iDigBio fa parte del nostro team di editori e propone aggiornamenti per le istituzioni statunitensi.
 
-### GBIF hosted portals
+### Portali ospitati da GBIF
 
-The current GRSciColl website uses the [GBIF hosted portal](https://www.gbif.org/hosted-portals) framework, and any GBIF hosted portal can display data from GRSciColl—see, for example, the [UK Natural Sciences Collections Portal](https://data.dissco-uk.org). 
+L'attuale sito di GRSciColl utilizza il modello [GBIF hosted portal](https://www.gbif.org/hosted-portals), e ogni portale ospitato da GBIF può mostrare dati provenienti da GRSciColl-- per esempio, il Portale delle Collezioni di Scienze Naturali del Regno Unito <a href="https://data.dissco-uk.org"</a>. 
