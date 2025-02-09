@@ -1,9 +1,9 @@
 ---
 permalink: /it/contact
 lang-ref: contact
-title: Contact
+title: Contatto
 description: |
-  Contact us if you would like to contribute to the Global Registry of Scientific Collections, enounter any issue or have any question. For contacting specific collections or institutions please refer to the contact information on their respective pages.
+  Contattaci se vorresti contribuire al Registro Globale delle Collezioni Scientifiche (Gbif, sigla inglese), se dovessi riscontrare dei problemi o avessi qualsiasi domanda. Per contattare specifiche collezioni o istituzioni, per favore fate riferimento ai contatti presenti sulle loro rispettive pagine.
 background: "{{ site.data.images.octopus-eggs.src }}"
 imageLicense: "{{ site.data.images.octopus-eggs.caption }}"
 height: 70vh
@@ -12,26 +12,26 @@ height: 70vh
 #composition: # you can extend the documentation layout with a custom composition
 #- type: postHeader
 #- type: pageMarkdown
-toc: true
+toc: vero
 ---
 
-## Update or add a record
+## Aggiorna o aggiungi un registro
 
-See our [how-to page](/how-to).
+Visita la nostra pagina <a href="/how-to"</a>
 
-## Post on our forum
+## Postare sul nostro forum
 
-You can write your questions and follow the GRSciColl activities on our forum
+Puoi scrivere le tue domande e seguire le attività di GRSciColl sul nostro forum
 
-[GRSciColl forum](https://discourse.gbif.org/c/grscicoll){: .button .is-primary}
-## Subscribe and use our mailing list
+[Foro de GRSciColl](https://discourse.gbif.org/c/grscicoll){: .button .is-primary}
+## Iscriviti e utilizza la nostra mailing list
 
-You are very welcome to use the GRSciColl list to discuss issues, questions and wishes concerning the Global Registry of Scientific Collections.
+Siete invitati a utilizzare la lista di GRSciColl per discutere di problemi, porre domande e fare richieste riguardo al Registro Globale delle Collezioni Scientifiche (GBIF, sigla inglese).
 
-[Subscribe to our mailing list](https://lists.gbif.org/mailman/listinfo/scientific-collections){: .button .is-primary}
+Iscrivetevi alla nostra mailing list <a href="https://lists.gbif.org/mailman/listinfo/scientific-collections"</a>{: .button .is-primary}
 
-## Send us an email
+## Mandateci una mail
 
-You can send us an email at `scientific-collections@gbif.org`.
+Potete mandare una mail a `scientific-collections@gbif.org`.
 
-For contacting specific collections or institutions please refer to the contact information on their respective pages.
+Per contattare specifiche collezioni o istituzioni, per favore fate riferimento ai contatti presenti sulle loro rispettive pagine.
