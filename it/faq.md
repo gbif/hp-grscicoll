@@ -70,13 +70,13 @@ Vedere come gli eventi pubblicati su GBIF sono collegati alle voci di GRSciColl 
 
 I descrittori di collezione sono pensati per condividere informazioni strutturate riguardo alle collezioni. Essi possono contenere importanti dettagli riguardo a collezioni e sub-collezioni così come dati quantitativi che non possono essere condivisi su pagine di collezione (per esempio, il numero delle tipologie di campioni per uno specifico taxon). Alcuni descrittori di collezione vengono utilizzati per l'indicizzazione delle collezioni. Questo significa che migliorano la scopribilità delle collezioni. Per esempio, una collezione associata a dei nomi di specie di libellula, potrà essere ritrovata dagli utenti che avranno cercato "Odonata" nel campo del nome scientifico della ricerca di collezione.
 
-Collection descriptors are particularly relevant for collections that aren’t fully digitized and/or where the specimen records aren’t available on GBIF.org.
+I descrittori di collezione sono particolarmente rilevanti per le collezioni che non sono completamente digitalizzate e/o dove i registri dei campioni non sono disponibili su GBIF.org.
 
-Collection descriptors are uploaded to GRSciColl as tables with associated titles and descriptions.
+I registri di collezione vengono caricati su GRSciColl come tavole con titoli e descrizioni associati.
 
-* Each line corresponds to a group of specimens described and each column is a descriptor.
-* When possible, these descriptors should be mapped to [Darwin Core](https://dwc.tdwg.org/terms/) and/or [Latimer core](https://ltc.tdwg.org) terms.
-* A table can contain information about a specific aspect or subset of the collection. Tables might contain overlapping information or different descriptions for the same subset of specimens.
+* Ogni linea corrisponde a un gruppo di campioni descritti e ogni colonna rappresenta un descrittore.
+* Quando possibile, questi descrittori dovrebbero essere mappati su [Darwin Core](https://dwc.tdwg.org/terms/) e/o [Latimer core](https://ltc.tdwg.org) terms.
+* Una tavola può contenere informazioni riguardo un aspetto specifico o sottoinsieme della collezione. Le tavole possono contenere informazioni sovrapposte o descrittori diversi per lo stesso sottoinsieme di campioni.
 
 Learn how to share collection descriptors on our [how-to page](/how-to).
 
