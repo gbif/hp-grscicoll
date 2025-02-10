@@ -135,48 +135,48 @@ Unire le voci ne cancellerà una e trasferirà tutti gli identificatori, codici 
 
 ## Interfaccia di modifica - Domande tecniche
 
-L'interfaccia di modifica di GRSciColl si trova nel Registro di GBIF [](https://registry.gbif.org). Potete accedervi attraverso qualsiasi pagina d'istituzione o collezione cliccando sul pulsante ` Edita`. Non ti serve un account per suggerire cambiamenti. For direct updates and for adding or removing primary sources and identifiers, you will need to [be an editor](/how-to#become-editor).
+L'interfaccia di modifica di GRSciColl si trova nel Registro di GBIF [](https://registry.gbif.org). Potete accedervi attraverso qualsiasi pagina d'istituzione o collezione cliccando sul pulsante ` Edita`. Non ti serve un account per suggerire cambiamenti. Per aggiornamenti diretti e per aggiungere o rimuovere fonti primarie e identificatori, avrete bisogno di [ essere un editore](/how-to#become-editor).
 
 
 
-### My collection is a dataset on GBIF: how to make GBIF dataset metadata and GBIF publisher pages primary sources for GRSciColl
+### La mia collezione è un set di dati su GBIF: come rendere i set di metadati e le pagine degli editori di GBIF fonti primarie per GRSciColl
 
-1. Log in the registry interface, you must be an editor for the GRSciColl entry you would like to work with.
-2. Click on the `Master source` tab.
-3. Click on the `Create new` button (in the upper rigth corner).
-4. Select the source type (`GBIF dataset` if you are working with a collection or `GBIF publisher` if it is an institution).
-5. Add the UUID of the dataset or publisher that you would like to use. The UUID can be found in the dataset or publisher URL. For example, the UUID for `https://www.gbif.org/dataset/b275a4c1-9859-4f3c-8ead-d86dde820fbc` is `b275a4c1-9859-4f3c-8ead-d86dde820fbc`.
-6. Click on the `Create` button.
-
-
-
-### How to edit entries connected to external sources
-
-You will notice that you cannot edit fields that come from external sources. The only way to do so is to edit the entry at the source (a link to the source is provided) or disconnect the entry from the source.
+1. Accedete all' [interfaccia di registro](https://registry. gbif. org/). Dovete essere un editore per la voce di GRSciColl con la quale vorreste lavorare.
+2. Cliccate sulla scheda ` Master source `.
+3. Cliccate sul pulsante` Crea nuovo` (nell'angolo in alto a destra).
+4. Selezionate la tipologia di fonte (` set di dati GBIF ` se state lavorando con una collezione oppure ` editore GBIF ` se si tratta di un'istituzione).
+5. Aggiungete l' UUID del set di dati o dell'editore che vorreste utilizzare. L'UUID può essere trovato nel set di dati o nell'URL dell'editore. Per esempio, l'UUID per `https://www.gbif.org/dataset/b275a4c1-9859-4f3c-8ead-d86dde820fbc` è `b275a4c1-9859-4f3c-8ead-d86dde820fbc`.
+6. Cliccate sul pulsante ` Crea `.
 
 
 
-### How to disconnect an entry from an external source
+### Come editare voci collegate a fonti esterne
 
-1. Log in the registry interface, you must be an editor for the GRSciColl entry you would like to work with.
-2. Click on the `Master source` tab.
-3. Click on the `Delete` button (on the same line as the source).
+Noterete che non potete editare campi che provengono da fonti esterne. L'unico modo per poterlo fare è editare la voce alla fonte (un link alla fonte vi verrà fornito) o disconnettere la voce dalla fonte.
 
 
 
-> NB: if you would like to disconnect an collection from Index Herbariorum, please contact us.
+### Come disconnettere una voce da una fonte esterna
+
+1. Accedete all' [interfaccia di registro](https://registry. gbif. org/). Dovete essere un editore per la voce di GRSciColl con la quale vorreste lavorare.
+2. Cliccate sulla scheda ` Master source `.
+3. Cliccate sul pulsante ` Cancella` (sulla stessa linea della fonte).
 
 
 
-### How to link specimen-related occurrences published on GBIF to GRSciColl entries
+> NB: se desiderate disconnettere una collezione dall'Index Herbariorum, vi preghiamo di contattarci.
 
-In order for your specimens to be displayed on the GRSciColl, they mus be published on GBIF.org and linked to at least one GRSciColl entry. See how to publish data on GBIF.org [here](https://www.gbif.org/publishing-data) and how to link the occurrences to GRSciColl below:
 
-The recommended and most declarative way to link data to institutions or collection entities in GRSciColl is to use the full URL for the entity. For example, when using Darwin Core:
+
+### Come collegare degli eventi legati ai campioni pubblicati su GBIF alle voci di GRSciColl
+
+Per far sì che i vostri campioni vengano visualizzati su GRSciColl, devono essere pubblicati su GBIF.org ed essere collegati ad almeno una voce di GRSciColl. Vedere come pubblicare dati su GBIF.org[ quì ](https://www.gbif.org/publishing-data) e come collegare gli eventi a GRSciColl quì sotto:
+
+La maniera consigliata e più dichiarativa possibile di collegare i dati a istituzioni o collezioni su GRSciColl, è quella di utilizzare il loro URL completo. Per esempio, quando si usa Darwin Core:
 
 * dwc:institutionID: https://www.gbif.org/grscicoll/institution/e3d4dcc4-81e2-444c-8a5c-41d1044b5381
 * dwc:collectionID: https://www.gbif.org/grscicoll/collection/772f9e37-4643-452b-82b4-a06550283096
 
-It is also possible to use additional related identifiers. See this blog post for more details.
+Inoltre, è possibile utilizzare ulteriori identificatori associati. Consultate questa voce del blog per ulteriori dettagli.
 
-[Link occurrences](https://data-blog.gbif.org/post/grscicoll-flags/){: .button .is-primary}
+[link agli eventi ](https://data-blog.gbif.org/post/grscicoll-flags/){: .button .is-primary}
