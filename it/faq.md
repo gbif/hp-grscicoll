@@ -41,7 +41,7 @@ Il risultato di ricerca di una collezione o istituzione può essere scaricato da
 
 ## Qual'è la differenza tra il set di dati di GBIF e le collezioni di GRSciColl?
 
-GRSciColl ha avuto origine indipendentemente da GBIF, e possiede una storia personale . Molti set di dati pubblicati su GBIF contengono dei registri di campioni che appartengono a collezioni registrate su GRSciColl. Il contenuto di GBIF e GRSciColl può sovrapporsi. Tuttavia, vi sono alcune differenze:</p> 
+GRSciColl ha avuto origine indipendentemente da GBIF, e possiede una storia personale . Molti set di dati pubblicati su GBIF contengono dei registri di campioni che appartengono a collezioni registrate su GRSciColl. Il contenuto di GBIF e GRSciColl può sovrapporsi. Tuttavia, vi sono alcune differenze:
 
 * Una voce di collezione di GRSciColl deve corrispondere ad una collezione fisica mentre il set di dati di GBIF può contenere altri tipi di registri come osservazioni.
 * Una voce di collezione di GRSciColl può fare riferimento ad una collezione storica che è andata perduta o divisa.
@@ -49,13 +49,13 @@ GRSciColl ha avuto origine indipendentemente da GBIF, e possiede una storia pers
 
 Gli editori di GBIF potrebbero scegliere di pubblicare tutti i loro registri in un singolo set di dati ma descrivere il loro patrimonio tramite diverse voci di collezione su GRSciColl. In alternativa, molti set di dati possono contenere dei registri corrispondenti a dei campioni che appartengono alla stessa collezione.
 
-Vedere come gli eventi pubblicati su GBIF sono collegati alle voci di GRSciColl[ quì](/connected-systems#occurrences-published-on-gbif). Vedere come i set di dati di GBIF possono essere collegati alle voci di collezione di GRSciColl [ quì ](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+Vedere come gli eventi pubblicati su GBIF sono collegati alle voci di GRSciColl[ quì](/connected-systems#occurrences-published-on-gbif). Per vedere come i set di dati di GBIF possono essere collegati alle voci di collezione di GRSciColl [ cliccare quì ](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
 
 
 ## Qual'è la differenza tra gli editori di GBIF e le istituzioni di GRSciColl?
 
-GRSciColl ha avuto origine indipendentemente da GBIF, e possiede una storia personale [. Molti set di dati pubblicati su GBIF contengono dei registri di campioni che appartengono a collezioni registrate su GRSciColl. Il contenuto di GBIF e GRSciColl può sovrapporsi. Per rispondere alla domanda precedente vedere <a href="/faq#what-is-the-difference-between-gbif-datasets-and-grscicoll-collections" ](/about#data-history). Tuttavia, vi sono alcune differenze:
+GRSciColl ha avuto origine indipendentemente da GBIF, e possiede una storia personale [. Molti set di dati pubblicati su GBIF contengono dei registri di campioni che appartengono a collezioni registrate su GRSciColl. Il contenuto di GBIF e GRSciColl può sovrapporsi. Per rispondere alla domanda precedente vedere <a href="/faq#what-is-the-difference-between-gbif-datasets-and-grscicoll-collections" ](> NB: if you would like to disconnect an collection from Index Herbariorum, please contact us. Tuttavia, vi sono alcune differenze:
 
 * Gli editori di GBIF sono organizzazioni registrate che attivamente condividono dati su GBIF. Utilizzano [ strumenti di pubblicazione](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) per poter condividere i set di dati su GBIF. Alcuni editori sono musei ed erbari ma altri sono iniziative scientifiche dei cittadini, giornali o centri di ricerca che però potrebbero condividere soltanto osservazioni, descrizioni di taxa o dati derivanti dal DNA.
 * Le istituzioni di GRSciColl sono state registrate poichè sono risapute possedere collezioni scientifiche fisiche. Le voci d'istituzione di GRSciColl possono essere aggiunte dagli editori di GRSciColl (basandosi sulle informazioni trovate nelle pubblicazioni oppure online) o dalle istituzioni stesse.
@@ -78,64 +78,64 @@ I registri di collezione vengono caricati su GRSciColl come tavole con titoli e 
 * Quando possibile, questi descrittori dovrebbero essere mappati su [Darwin Core](https://dwc.tdwg.org/terms/) e/o [Latimer core](https://ltc.tdwg.org) terms.
 * Una tavola può contenere informazioni riguardo un aspetto specifico o sottoinsieme della collezione. Le tavole possono contenere informazioni sovrapposte o descrittori diversi per lo stesso sottoinsieme di campioni.
 
-Learn how to share collection descriptors on our [how-to page](/how-to).
+Imparare come condividere i descrittori di collezione sulla nostra pagina [how-to](/how-to).
 
 
 
 
-## Editing guidelines
+## Linee guida per la redazione
 
 
 
-### How to represent my institution and collections?
+### Come rappresentare la mia istituzione e le mie collezioni?
 
-There is no hierarchy between collection entries nor between institution entries. Institutions decide the level of granularity you want to use to represent their collections. For examples, an institution could have an entry for a bird collection and another for a mammal collection while another institution would have only one entry for their vertebrate collection.
+Non c'è nessuna gerarchia tra le voci di collezione e nemmeno tra le voci d'istituzione. Le istituzioni decidono il livello di granularità che desiderate utilizzare per rappresentare le loro collezioni. Per esempio, un'istituzione potrebbe avere una voce per una collezione sugli uccelli e un'altra per una collezione sui mammiferi, mentre un'ulteriore istituzione avrebbe una singola voce per la loro collezione sui vertebrati.
 
-In doubt, you can follow these practical guidelines:
+In caso di dubbio, potete seguire queste pratiche linee guida:
 
-* Make one institution entry per physical locations (the campus, building where the collections are hosted).
-* Make one collection entry for each group of specimen with same point of contact (the person who can tell more about the collection, possibly arrange a loan).
-
-
-
-### What information should I put in GRSciColl?
-
-Although very few fields are mandatory, we recommend to provide as much information as possible. For institutions, it is important to provide a name, code and address (or at least country). For collections, don't forget to add an associated institution.
+* Realizzate una voce d'istituzione per un singolo luogo fisico (il campus, edificio dove sono ospitate le collezioni).
+* Realizzate una voce di collezione per ogni gruppo di campioni con lo stesso punto di contatto (la persona che può dire di più riguardo alla collezione, e che possibilmente organizzi un prestito).
 
 
 
-### What should be my collection/institution code?
+### Quali informazioni dovrei inserire su GRSciColl?
 
-Codes don’t have to be unique in GRSciColl and an entry can have several codes. The codes should reflect what is used in practice (what is on the labels). Note that GRSciColl codes are used to match occurrences published on GBIF to GRSciColl entries.
-
-
-
-### What should be my collection/institution identifiers?
-
-An entry can be associated with external identifiers such as: wikidata, ROR, DOI etc. Only editors can add identifiers to entries. Note that GRSciColl identifiers are used to match occurrences published on GBIF to GRSciColl entries.
+Nonostante pochi campi siano obbligatori, vi raccomandiamo di fornire quante più informazioni possibili. Per quanto riguarda le istituzioni, è importante fornire un nome, un codice e un indirizzo (o per lo meno la nazione). Per le collezioni, non dimenticate di aggiungere un'istituzione associata.
 
 
 
-#### What format should be my ROR identifier?
+### Quale dovrebbe essere il mio codice di collezione/istituzione?
 
-The preferred form of a ROR identifier is the entire URL: https://ror.org/02mhbdp94. See [this ROR FAQ](https://ror.org/about/faqs/#what-is-a-ror-identifier).
-
-
-
-### How to handle duplicates
-
-If you find duplicate entries in GRSciColl, there are two way to handle them.
-
-* You might want to keep both entries and label one as `inactive` by uncheckling the `active` box.
-* You might want to merge the entries by using the editing interface.
-
-Merging entries will delete one and transfert all the identifiers, codes and collections (if it is an institution) to the remaining entry. In additiont to that, the information from the entry deleted will be transferred to empty fields in the remaining entry. We recommend merging entry rather than deleting them to conserve the identifiers. So if someone references one of the "old" identifiers, they will be redirected to the remaining entry.
+I codici non devono essere unici su GRSciColl e una voce può avere molteplici codici. I codici dovrebbero riflettere ciò che viene utilizzato nella pratica (ciò che appare sulle etichette). Da notare che i codici di GRSciColl sono utilizzati per abbinare gli eventi pubblicati su GBIF alle voci di GRSciColl.
 
 
 
-## Editing interface - Technical questions
+### Quali dovrebbero essere i miei identificatori di collezione/istituzione?
 
-The GRSciColl editing interface lives in the [GBIF Registry](https://registry.gbif.org). You can access it from any institution or collection page by clicking on the `Edit` button. You don't need an account to suggest changes. For direct updates and for adding or removing primary sources and identifiers, you will need to [be an editor](/how-to#become-editor).
+Una voce può essere associata a identificatori esterni come: wikidata, ROR, DOI eccetera. Solo gli editori possono aggiungere gli identificatori alle voci. Da notare che gli identificatori di GRSciColl sono soliti ad abbinare eventi pubblicati su GBIF alle voci di GRSciColl.
+
+
+
+#### Che tipo di formato dovrebbe avere il mio identificatore ROR?
+
+Il formato raccomandato per un identificatore ROR è l'intero URL: https://ror.org/02mhbdp94. Consultare questo [ROR FAQ](https://ror.org/about/faqs/#what-is-a-ror-identifier).
+
+
+
+### Come gestire i duplicati
+
+Se trovate delle voci duplicate su GRSciColl, ci sono due modi per gestirle.
+
+* Potreste voler tenere entrambe le voci e catalogarne una come` inattiva `deselezionando la casella` attiva `.
+* Potreste voler unire le voci utilizzando l'interfaccia di redazione.
+
+Unire le voci ne cancellerà una e trasferirà tutti gli identificatori, codici e collezioni (se si tratta di un'istituzione) alla voce rimanente. Inoltre, le informazioni provenienti dalla voce cancellata saranno trasferite ai campi vuoti presenti nella voce rimasta. Raccomandiamo di unire le voci invece di cancellarle per poter conservare gli identificatori. Quindi, se qualcuno fa riferimento ai "vecchi" identificatori, saranno reindirizzati alla voce rimasta.
+
+
+
+## Interfaccia di modifica - Domande tecniche
+
+L'interfaccia di modifica di GRSciColl si trova nel Registro di GBIF [](https://registry.gbif.org). Potete accedervi attraverso qualsiasi pagina d'istituzione o collezione cliccando sul pulsante ` Edita`. Non ti serve un account per suggerire cambiamenti. For direct updates and for adding or removing primary sources and identifiers, you will need to [be an editor](/how-to#become-editor).
 
 
 
