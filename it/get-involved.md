@@ -23,10 +23,10 @@ Le informazioni disponibili tramite GRSciColl sono il risultato di sforzi collet
 
 ## Aiutateci a migliorare il sistema
 
-You can ask questions and contribute to our work by [joining and commenting via the GRSciColl mailing list](https://lists.gbif.org/mailman/listinfo/scientific-collections) or [posting to the GRSciColl forum](https://discourse.gbif.org/c/grscicoll/29).
+Potete porre domande e contribuire al nostro lavoro [ iscrivendovi e commentando tramite la mailing list di GRSciColl](https://lists.gbif.org/mailman/listinfo/scientific-collections) oppure[ pubblicando sul forum di GRSciColl](https://discourse.gbif.org/c/grscicoll/29).
 
-[Contact us](/contact){: .button .is-primary}
+[Contattateci](/contact){: .button .is-primary}
 
-## Help us translate the website
+## Aiutateci a tradurre il sito web
 
-GBIF manages translations via [CrowdIn](https://www.crowdin.com), which provides our [active community of translators](https://www.gbif.org/translators) with critical support through a free licence for their service. Interested in becoming volunteer? Sign up on CrowdIn and join the [GRSciColl project](https://crowdin.com/project/grscicoll) or our [other projects](https://crowdin.com/profile/gbif-informatics).
+GBIF gestisce le traduzioni via[ CrowdIn](https://www.crowdin.com), il quale fornisce supporto alla nostra [ comunità di traduttori](https://www.gbif.org/translators) attraverso una licenza gratuita per il loro servizio. Siete interessati a diventare dei volontari? Iscrivetevi a CrowdIn ed entrate a far parte del [ progetto GRSciColl](https://crowdin.com/project/grscicoll) o dei nostri [ altri progetti](https://crowdin.com/profile/gbif-informatics).
