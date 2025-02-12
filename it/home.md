@@ -4,7 +4,7 @@ permalink: /it/
 lang-ref: home
 layout: home
 klass: home
-title: Global Registry of Scientific Collections #should not be translated
+title: Registro Globale delle Collezioni Scientifiche #should not be translated
 gettingStartedVideoTitle: Getting started?
 institutionsInCountryTemplate: |
   Institutions in <span id="users-country-name"></span>

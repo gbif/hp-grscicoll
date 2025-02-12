@@ -62,7 +62,7 @@ GRSciColl ha avuto origine indipendentemente da GBIF, e possiede una storia pers
 
 Un grande ente amministrativo come un'università può registrarsi come editore di GBIF e descrivere i propri dipartimenti come istituzioni di GRSciColl. In alternativa, alcuni editori di GBIF possono corrispondere a entità più piccole e avere la propria istituzione rappresentata come singola voce su GRSciColl.
 
-Vedere come gli eventi pubblicati su GBIF sono collegati alle voci di GRSciColl [ quì](/connected-systems#occurrences-published-on-gbif). Vedere come i set di dati di GBIF possono essere collegati alle voci di collezione di GRSciColl [ quì ](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+Vedere come gli eventi pubblicati su GBIF sono collegati alle voci di GRSciColl [ quì](/connected-systems#occurrences-published-on-gbif). Per vedere come i set di dati di GBIF possono essere collegati alle voci di collezione di GRSciColl [ cliccare quì ](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
 
 
@@ -126,7 +126,7 @@ Il formato raccomandato per un identificatore ROR è l'intero URL: https://ror.o
 
 Se trovate delle voci duplicate su GRSciColl, ci sono due modi per gestirle.
 
-* Potreste voler tenere entrambe le voci e catalogarne una come` inattiva `deselezionando la casella` attiva `.
+* Potreste voler tenere entrambe le voci e catalogarne una come`inattiva`deselezionando la casella`attiva`.
 * Potreste voler unire le voci utilizzando l'interfaccia di redazione.
 
 Unire le voci ne cancellerà una e trasferirà tutti gli identificatori, codici e collezioni (se si tratta di un'istituzione) alla voce rimanente. Inoltre, le informazioni provenienti dalla voce cancellata saranno trasferite ai campi vuoti presenti nella voce rimasta. Raccomandiamo di unire le voci invece di cancellarle per poter conservare gli identificatori. Quindi, se qualcuno fa riferimento ai "vecchi" identificatori, saranno reindirizzati alla voce rimasta.
@@ -135,18 +135,18 @@ Unire le voci ne cancellerà una e trasferirà tutti gli identificatori, codici 
 
 ## Interfaccia di modifica - Domande tecniche
 
-L'interfaccia di modifica di GRSciColl si trova nel Registro di GBIF [](https://registry.gbif.org). Potete accedervi attraverso qualsiasi pagina d'istituzione o collezione cliccando sul pulsante ` Edita`. Non ti serve un account per suggerire cambiamenti. Per aggiornamenti diretti e per aggiungere o rimuovere fonti primarie e identificatori, avrete bisogno di [ essere un editore](/how-to#become-editor).
+L'interfaccia di modifica di GRSciColl si trova nel Registro di GBIF [](https://registry.gbif.org). Potete accedervi attraverso qualsiasi pagina d'istituzione o collezione cliccando sul pulsante `Edita`. Non ti serve un account per suggerire cambiamenti. Per aggiornamenti diretti e per aggiungere o rimuovere fonti primarie e identificatori, avrete bisogno di [ essere un editore](/how-to#become-editor).
 
 
 
 ### La mia collezione è un set di dati su GBIF: come rendere i set di metadati e le pagine degli editori di GBIF fonti primarie per GRSciColl
 
-1. Accedete all' [interfaccia di registro](https://registry. gbif. org/). Dovete essere un editore per la voce di GRSciColl con la quale vorreste lavorare.
-2. Cliccate sulla scheda ` Master source `.
-3. Cliccate sul pulsante` Crea nuovo` (nell'angolo in alto a destra).
-4. Selezionate la tipologia di fonte (` set di dati GBIF ` se state lavorando con una collezione oppure ` editore GBIF ` se si tratta di un'istituzione).
+1. Accedete all' \[interfaccia di registro\](https://registry. gbif. org/). Dovete essere un editore per la voce di GRSciColl con la quale vorreste lavorare.
+2. Cliccate sulla scheda `Master source`.
+3. Cliccate sul pulsante`Crea nuovo` (nell'angolo in alto a destra).
+4. Selezionate la tipologia di fonte (`set di dati GBIF` se state lavorando con una collezione oppure `editore GBIF` se si tratta di un'istituzione).
 5. Aggiungete l' UUID del set di dati o dell'editore che vorreste utilizzare. L'UUID può essere trovato nel set di dati o nell'URL dell'editore. Per esempio, l'UUID per `https://www.gbif.org/dataset/b275a4c1-9859-4f3c-8ead-d86dde820fbc` è `b275a4c1-9859-4f3c-8ead-d86dde820fbc`.
-6. Cliccate sul pulsante ` Crea `.
+6. Cliccate sul pulsante `Crea`.
 
 
 
@@ -158,9 +158,9 @@ Noterete che non potete editare campi che provengono da fonti esterne. L'unico m
 
 ### Come disconnettere una voce da una fonte esterna
 
-1. Accedete all' [interfaccia di registro](https://registry. gbif. org/). Dovete essere un editore per la voce di GRSciColl con la quale vorreste lavorare.
-2. Cliccate sulla scheda ` Master source `.
-3. Cliccate sul pulsante ` Cancella` (sulla stessa linea della fonte).
+1. Accedete all' \[interfaccia di registro\](https://registry. gbif. org/). Dovete essere un editore per la voce di GRSciColl con la quale vorreste lavorare.
+2. Cliccate sulla scheda `Master source`.
+3. Cliccate sul pulsante `Cancella` (sulla stessa linea della fonte).
 
 
 
