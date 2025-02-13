@@ -2,10 +2,10 @@
 permalink: /it/post
 lang-ref: archive
 layout: archive
-title: News
-description: News and events
+title: Notizie
+description: Notizie ed eventi
 ---
 
 {% comment %}
-  No content here. The layout will insert a card for each post in your _posts folder
+  Nessun file Il layout inserirà una scheda per ogni post nella cartella
 {% endcomment %}
