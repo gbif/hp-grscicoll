@@ -28,46 +28,46 @@ Quando create una nuove voce su GRSciColl, solo alcuni campi sono obbligatori. T
 Potete anche guardare questo video tutorial:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977782?h=fb1d926798" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-If you can't access Vimeo in your country, [here](https://www.youtube.com/watch?v=R6ftJ61oOn4) is the YouTube video
+Se non riuscite ad accedere a Vimeo nel vostro Paese, [ quì](https://www.youtube.com/watch?v=R6ftJ61oOn4) si trova il video YouTube
 
-## How to edit a GRSciColl collection or institution
+## Come editare una colelzione o istituzione di GRSciColl
 
-There are three ways to update information on GRSciColl:
-* you can suggest a change
-* you can become an editor
-* you can import data
+Ci sono tre modi per aggiornare le informazioni su GRSciColl:
+* Potete suggerire una modifica
+* Potete diventare un editore
+* Potete importare dei dati
 
-See also this short video tutorial:
+Potete anche guardare questo video tutorial:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977825?h=a0068cfcd8" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-If you can't access Vimeo in your country, [here](https://www.youtube.com/watch?v=rgMQK9qFVfs) is the YouTube video
+Se non riuscite ad accedere a Vimeo nel vostro Paese, [ quì](https://www.youtube.com/watch?v=rgMQK9qFVfs) si trova il video YouTube
 
-### Suggest a change
+### Suggerisci una modifica
 
-Anyone can suggest changes by clicking on any GRSciColl entry, then:
-* Click on `Edit`
-* Click on the `Suggest` toggle button
-* Make your suggestion and leave your email address and a comment
+Chiunque può suggerire delle modifiche cliccando su qualunque voce di GRSciColl, poi:
+* Cliccate su ` Modifica`
+* Cliccate sul pulsante ` Suggerisci`
+* Fate il vostro suggerimento lasciando il vostro indirizzo mail e un commento
 
-You can also suggest adding new entries, merging duplicates and transforming institution entries into collections.
+Potete anche suggerire di aggiungere nuove voci, unendo duplicati e trasformando le voci d'istituzione in collezioni.
 
-The suggestion will be reviewed by institutional editors, country editors or GBIF Staff depending on the entry edited.
+Il suggerimento sarà revisionato da editori istituzionali, editori nazionali o dallo staff di GBIF a dipendenza della voce modificata.
 
-### Become editor
+### Diventate un editore
 
-There are two types of editors in GRSciColl: editors and mediators. Both can edit data on GRSciColl and review changes but only mediators can delete, merge and transform entries. An editor (or mediator) can be given the permissions to edit:
-* one or several collections
-* one or several institutions (and their associated collections)
-* one or several countries (and their associated institutions and collections)
+Ci sono due tipi di editori su GRSciColl: editori e mediatori. Entrambi possono modificare i dati su GRSciColl e revisionare cambiamenti ma solo i mediatori possono cancellare, unire e trasformare le voci. Un editore (o mediatore) può avere il permesso di effettuare modifiche:
+* una o più collezioni
+* una o più istituzioni (e le collezioni a loro associate)
+* Uno o più Paesi (e le istituzioni e collezioni a loro associate)
 
-To become a GRSciColl editor, you will need to have a [GBIF user account](https://www.gbif.org/user/profile) associated with your institutional email address. Please send us an email at scientific-collections@gbif.org to notify us that you would like to become an editor.
+Per diventare un editore di GRSciColl, dovrete possedere un [ account GBIF ](https://www.gbif.org/user/profile) associato all'indirizzo mail della vostra istituzione.  Vi preghiamo di mandarci una mail all'indirizzo scientific-collections@gbif.org  per segnalarci che vorreste diventare un editore.
 
-### Import data
+### Importazione dei dati
 
-The [GBIF Collections API](https://www.gbif.org/developer/registry#collections) allows for editing without going through the web interface. The API also has an experimental feature to upload batches of collection and institutions. See the documentation [here](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
+[L'API delle collezioni di GBIF](https://www.gbif.org/developer/registry#collections) permette di effettuare modifiche senza passare per l'interfaccia del web. L'API possiede inoltre una caratteristica di tipo sperimentale per caricare lotti di collezioni e istituzioni.  Consultate la documentazione [ quì ](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
 
-If you are interested in using the API for editing GRSciColl, the permission system and requirements are the same as for becoming an editor.
+Se siete interessati a utilizzare l'API per modificare GRSciColl, il sistema di autorizzazioni e requisiti sono gli stessi richiesti per diventare un editore.
 
-## How to share collection descriptors
+## Come condividere i descrittori di collezione
 
-We are working on improving the documentation. In the meantime, please refer to this tutorial here: https://data-blog.gbif.org/post/grscicoll-collection-descriptors/
+Stiamo lavorando per migliorare la documentazione. Nel frattempo, per favore fate riferimento a questo tutorial: https://data-blog.gbif.org/post/grscicoll-collection-descriptors/
