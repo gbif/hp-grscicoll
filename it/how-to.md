@@ -1,9 +1,9 @@
 ---
 permalink: /it/how-to
 lang-ref: how-to
-title: How to
+title: Tutorial
 description: |
-  How to navigate the Global Registry of Scientific Collections and update its content
+  Come navigare nel Registro Globale di Collezioni Scientifiche e aggiornare il suo contenuto
 background: "{{ site.data.images.pagurus.src }}"
 imageLicense: "{{ site.data.images.pagurus.caption }}"
 height: 70vh
@@ -12,20 +12,20 @@ height: 70vh
 #composition: # you can extend the documentation layout with a custom composition
 #- type: postHeader
 #- type: pageMarkdown
-toc: true
+toc: vero
 ---
 
-## How to add a collection or an institution to GRSciColl
+## Come aggiungere una collezione o un'istituzione su GRSciColl
 
-You can suggest or add a collection or an institution to GRSciColl here:
+Potete suggerire o aggiungere una collezione o un'istituzione su GRSciColl quì:
 
-[Add New Institution](https://registry.gbif.org/institution/create){: .button .is-primary}
+[ Aggiungi una nuova istituzione](https://registry.gbif.org/institution/create){: .button .is-primary}
 
-[Add New Collection](https://registry.gbif.org/collection/create){: .button .is-primary}
+[ Aggiungi una nuova collezione](https://registry.gbif.org/collection/create){: .button .is-primary}
 
-When creating a new entry in GRSciColl, very few fields are mandatory. However, we really appreciate if you could provide the address for the entry you created (especially the country).
+Quando create una nuove voce su GRSciColl, solo alcuni campi sono obbligatori. Tuttavia, apprezzeremmo molto se poteste fornire l'indirizzo per la voce da voi creata (soprattutto il Paese).
 
-See also this short video tutorial:
+Potete anche guardare questo video tutorial:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977782?h=fb1d926798" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 If you can't access Vimeo in your country, [here](https://www.youtube.com/watch?v=R6ftJ61oOn4) is the YouTube video
