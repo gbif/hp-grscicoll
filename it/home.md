@@ -5,15 +5,15 @@ lang-ref: home
 layout: home
 klass: home
 title: Registro Globale delle Collezioni Scientifiche #should not be translated
-gettingStartedVideoTitle: Getting started?
+gettingStartedVideoTitle: Inizia
 institutionsInCountryTemplate: |
-  Institutions in <span id="users-country-name"></span>
-description: A worldwide catalogue of scientific collections #a descripton for the head element
-tagline: A worldwide catalogue of scientific collections
-tabInstitutions: Institution name
-tabSpecimens: Digitized specimens
-placeholderInstitutions: Search institutions
-placeholderSpecimens: Search for digitized specimens
+  Istituzioni in <span id="users-country-name"></span>
+description: Un catalogo internazionale di collezioni scientifiche #a descripton for the head element
+tagline: Un catalogo internazionale di collezioni scientifiche
+tabInstitutions: Nome dell'Istitutuzione
+tabSpecimens: Campioni digitalizzati
+placeholderInstitutions: Cerca istituzioni
+placeholderSpecimens: Cerca campioni digitalizzati
 background: "{{ site.data.images.calcinus.src }}"
 imageLicense: "{{ site.data.images.calcinus.caption }}"
 height: 85vh
@@ -21,29 +21,29 @@ composition:
   - 
     type: grscicollHeader #the block type
   - 
-    type: stats
+    type: Statistiche
     data: navCards.stats
   - 
-    type: features
+    type: caratteristiche
     data: navCards.shortcuts
   - 
-    type: split
+    type: divisone
     data: navCards.video-intro
   - 
-    type: features
+    type: caratteristiche
     data: navCards.news
   - 
-    type: features
-    data: collections
+    type: caratteristiche
+    data: collezioni
 navbar:
   color: transparent!important
-  hasWhiteText: true
-  floating: true
+  hasWhiteText: vero
+  floating: vero
 ---
 
-Ideas for the home page and content more broadly
+Idee generali per home page e contenuti
 
-pages: API + download, reports About (history, roadmap) How to (register, edit, use) A metrics page? Contact
+pages: API + download, reports About (history, roadmap) How to (register, edit, use) A metrics page? Contatto
 
 homepage shortcut Map of institutions Register new institution about api download reports GRSciColl visualized grscicoll related news stories from contentful
 
