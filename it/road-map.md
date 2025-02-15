@@ -17,36 +17,36 @@ toc: vero
 
 ## 1.   Continuare a lavorare con la comunità e le piattaforme esistenti per aggiornare e aumentare i dati e per migliorare l'interoperabilità
 
-We aim to keep supporting our community of editors, train and welcome new editors as well as work with other data holding platforms (such as CETAF and ALA) to improve the data available in GRSciColl.
+Il nostro obiettivo è quello di continuare a supportare la nostra comunità di editori, ma anche istruire e dare il benvenuto a nuovi editori e lavorare con altre piattaforme contenenti dei dati (come CETAF e ALA) per migliorare i dati disponibili su GRSciColl.
 
-Some of the work with existing platforms may include:
-- Importing identifiers to facilitate interoperability,
-- Set up connection so an external platform can become a master source for GRSciColl entries,
-- Help with bulk import and update of GRSciColl data based on these sources.
+Parte del lavoro con piattaforme esistenti potrebbe includere:
+- Importare identificatori per facilitare l'interoperabilità,
+- Stabilire una connessione così che una piattaforma esterna possa diventare una fonte principale per le voci di GRSciColl,
+- Aiutare con l'importazione di massa e con l'aggiornamento dei dati di GRSciColl basati su queste fonti.
 
-## 2.   Create and run a GRSciColl training module for editors
+## 2.   Creare e gestire un modulo di formazione GRSciColl per gli editori
 
-The GBIF Secretariat, in collaboration with our community, is developing a training module for GRSciColl editors. This module aims to cover everything a National GRSciColl editor might need to curate and edit GRSciColl content.
+Il Segretariato di GBIF, in collaborazione con la nostra comunità, sta sviluppando un modulo di formazione per gli editori di GRSciColl. Questo modulo mira a coprire tutto ciò che un editore nazionale di GRSciColl dovrebbe sapere per curare e modificare il contenuto di GRSciColl.
 
-The goal is to organize at least one online training event in 2025.
+L'obiettivo è quello di organizzare almeno un evento di formazione online nel 2025.
 
 We anticipate supporting multiple descriptors for a collection, with a descriptor containing a title, textual explanation and a table of data edited inline or uploaded as e.g. a spreadsheet.
 
-## 3.   Improve discoverability and representation of collections by topic
+## 3.   Migliorare la scopribilità e la rappresentazione delle collezioni a seconda dell'argomento.
 
-A lot of the GRSciColl content is not standardized and lives in various free text fields. For example, many entomology collections can only be found by using a combination of keywords like “entomology” and “insect” in free text searches.
+Molto del contenuto di GRSciColl non è standardizzato e vive in vari campi a testo libero. Per esempio, molte collezioni di entomologia possono essere trovate soltanto utilizzando una combinazione di parole chiave come "entomologia" e "insetti" nelle ricerche a testo libero.
 
-With the help of the relevant communities, we would like to identify collections that belong to defined disciplines and topics and make them discoverable by adding relevant collection descriptors. Examples of such collections would be entomology, mammalogy, phycology and ornithology collections.
+Grazie all'aiuto di comunità rilevanti, vorremmo identificare collezioni che appartengono a discipline e argomenti definiti e renderli scopribili aggiungendo descrittori di collezione rilevanti. Esempi di tali collezioni sarebbero entomologia, mammalogia, algologia e ornitologia.
 
-One avenue to explore to improve the representation of these collections is to extract collections mentioned in publications such as this one: https://doi.org/10.1643/ASIHCODONS2020.
+Una via da esplorare per migliorare la rappresentazione di queste collezioni è quella di estrarre collezioni menzionate in pubblicazioni come questa: https://doi.org/10.1643/ASIHCODONS2020.
 
-Alongside this work, we would implement a vocabulary for the Latimer Core term objectClassificationName most likely based on the topics developed by DISSCO (see also this GitHub issue: https://github.com/gbif/vocabulary/issues/157).
+Insieme a questo lavoro, vorremmo implementare un vocabolario per il "Latimer Core term objectClassificationName", molto probabilmente basato sugli argomenti sviluppati da DISSCO (consultare inoltre questo problema di GitHUb: https://github.com/gbif/vocabulary/issues/157).
 
-## 4.   Facilitate linking literature to GRSciColl
+## 4.   Facilitare il collegamento della lettura a GRSciColl
 
-Collections are often cited in publications but not always in a standardized manner. It might later be difficult to link a collection to its citation.
+Le collezioni vengono spesso citate nelle pubblicazioni ma non sempre in maniera standardizzata. Potrebbe essere difficile in seguito collegare una collezione alla sua citazione.
 
-We will work with the community and journals, when possible, to agree on best practice for citation of collections. The goal is to facilitate citing a collection and linking specimens coming from PLAZI processed publications to GRSciColl.
+Quando sarà possibile, lavoreremo a contatto con la comunità e i giornali, per accordarci su quale sia la miglior pratica di citazione per le collezioni. L'obiettivo è quello di facilitare la citazione di una collezione e collegare i campioni provenienti da pubblicazioni processate da PLAZI verso GRSciColl.
 
-A second aspect of this work will be to set up guidelines for institutions who wish to share bibliographic references and citations of their collections on GRSciColl.
+Un secondo aspetto di questo lavoro sarà quello di stabilire delle linee guida per le istituzioni che desiderano condividere referenze bibliografiche e citazioni delle proprie collezioni su GRSciColl.
 
