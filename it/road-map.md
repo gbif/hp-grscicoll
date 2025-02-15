@@ -1,7 +1,7 @@
 ---
 permalink: /it/road-map
 lang-ref: road-map
-title: GRSciColl 2025 road map
+title: Mappe stradali di GRSciColl 2025
 description: |
   This road map builds in the [2021 roadmap](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2021.md) as well as the efforts in 2022 to build a community of editors an mediators.
 background: "{{ site.data.images.pandeleteius.src }}"
@@ -12,10 +12,10 @@ height: 70vh
 #composition: # you can extend the documentation layout with a custom composition
 #- type: postHeader
 #- type: pageMarkdown
-toc: true
+toc: vero
 ---
 
-## 1.   Continue work with the community as well as existing platforms to update and grow data and improve interoperability
+## 1.   Continuare a lavorare con la comunità e le piattaforme esistenti per aggiornare e aumentare i dati e per migliorare l'interoperabilità
 
 We aim to keep supporting our community of editors, train and welcome new editors as well as work with other data holding platforms (such as CETAF and ALA) to improve the data available in GRSciColl.
 
