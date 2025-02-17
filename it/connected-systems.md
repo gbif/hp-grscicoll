@@ -92,13 +92,13 @@ Gli editori possono disconnettere le voci delle istituzioni dall'Index Herbarior
 
 ### I set di metadati e pagine dell'editore di GBIF
 
-I metadati dei set di dati pubblicati su GBIF possono essere usati come fonti primarie per le voci di collezione su GRSciColl. Al contrario della sincronizzazione con Index Herbariorum, non c'è nessuna tabella settimanale e le nuove entrate non vengono create automaticamente. Gli editori devono invece collegare le collezioni di GRSciColl alle loro fonti manualmente. Questo avviene poichè l'ambito di applicazione di GBIF include dati che si trovano al di fuori di GRSciColl. Da notare che esiste anche l'opzione di creare una voce di collezione da un set di dati. Visita la nostra pagina . Quando i metadati di un set di dati vengono aggiornati, la voce della collezione corrispondente viene anch'essa immediatamente aggiornata.
+I metadati dei set di dati pubblicati su GBIF possono essere usati come fonti primarie per le voci di collezione su GRSciColl. Al contrario della sincronizzazione con Index Herbariorum, non c'è nessuna tabella settimanale e le nuove entrate non vengono create automaticamente. Gli editori devono invece collegare le collezioni di GRSciColl alle loro fonti manualmente. Questo avviene poichè l'ambito di applicazione di GBIF include dati che si trovano al di fuori di GRSciColl. Da notare che esiste anche l'opzione di creare una voce di collezione da un set di dati. Visita la nostra pagina [ pagina di gestione](/how-to#how-to-use-the-grscicoll-editing-interface). Quando i metadati di un set di dati vengono aggiornati, la voce della collezione corrispondente viene anch'essa immediatamente aggiornata.
 
 Allo stesso modo, le informazioni relative all'editore disponibili su GBIF possono essere utilizzate come fonte primaria per le voci delle istituzioni su GRSciColl.
 
 ## GRSciColl come contenuto per altri siti web
 
-Il sito [GRSciColl API](/api) permette automaticamente ad altre applicazioni di accedere ai dati di GRSciColl Il sito [GRSciColl API](/api) permette automaticamente ad altre applicazioni di accedere ai dati di GRSciColl Questo significa che altri siti web sono in grado di mostrare il contenuto di GRSciColl, che rimane curato da un' autorità centrale. Il sito [GRSciColl API](/api) permette automaticamente ad altre applicazioni di accedere ai dati di GRSciColl Questo significa che altri siti web sono in grado di mostrare il contenuto di GRSciColl, che rimane curato da un' autorità centrale. Chiunque può utilizzare l'API per includere i dati di GRSciColl nei propri sistemi. Quì sotto ci sono due esempi documentati.
+Il sito [GRSciColl API](/api) permette automaticamente ad altre applicazioni di accedere ai dati di GRSciColl. Questo significa che altri siti web sono in grado di mostrare il contenuto di GRSciColl, che rimane curato da un' autorità centrale.  Chiunque può utilizzare l'API per includere i dati di GRSciColl nei propri sistemi. Quì sotto ci sono due esempi documentati.
 
 ### iDigBio
 
@@ -106,4 +106,4 @@ I dati mostrati sul sito [iDigBio Collections](https://www.idigbio.org/portal/co
 
 ### Portali ospitati da GBIF
 
-L'attuale sito di GRSciColl utilizza il modello [GBIF hosted portal](https://www.gbif.org/hosted-portals), e ogni portale ospitato da GBIF può mostrare dati provenienti da GRSciColl-- per esempio, il Portale delle Collezioni di Scienze Naturali del Regno Unito . 
+L'attuale sito di GRSciColl utilizza il modello [ portali ospitati da GBIF](https://www.gbif.org/hosted-portals), e ogni portale ospitato da GBIF può mostrare dati provenienti da GRSciColl-- per esempio, il Portale delle Collezioni di Scienze Naturali del Regno Unito . 
