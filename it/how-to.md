@@ -45,8 +45,8 @@ Se non riuscite ad accedere a Vimeo nel vostro Paese, [ quì](https://www.youtub
 ### Suggerisci una modifica
 
 Chiunque può suggerire delle modifiche cliccando su qualunque voce di GRSciColl, poi:
-* Cliccate su ` Modifica`
-* Cliccate sul pulsante ` Suggerisci`
+* Cliccate su `Modifica`
+* Cliccate sul pulsante `Suggerisci`
 * Fate il vostro suggerimento lasciando il vostro indirizzo mail e un commento
 
 Potete anche suggerire di aggiungere nuove voci, unendo duplicati e trasformando le voci d'istituzione in collezioni.
@@ -60,11 +60,11 @@ Ci sono due tipi di editori su GRSciColl: editori e mediatori. Entrambi possono 
 * una o più istituzioni (e le collezioni a loro associate)
 * Uno o più Paesi (e le istituzioni e collezioni a loro associate)
 
-Per diventare un editore di GRSciColl, dovrete possedere un [ account GBIF ](https://www.gbif.org/user/profile) associato all'indirizzo mail della vostra istituzione.  Vi preghiamo di mandarci una mail all'indirizzo scientific-collections@gbif.org  per segnalarci che vorreste diventare un editore.
+Per diventare un editore di GRSciColl, dovrete possedere un [ account GBIF ](https://www.gbif.org/user/profile) associato all'indirizzo mail della vostra istituzione. Vi preghiamo di mandarci una mail all'indirizzo scientific-collections@gbif.org  per segnalarci che vorreste diventare un editore.
 
 ### Importazione dei dati
 
-[L'API delle collezioni di GBIF](https://www.gbif.org/developer/registry#collections) permette di effettuare modifiche senza passare per l'interfaccia del web. L'API possiede inoltre una caratteristica di tipo sperimentale per caricare lotti di collezioni e istituzioni.  Consultate la documentazione [ quì ](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
+[L'API delle collezioni di GBIF](https://www.gbif.org/developer/registry#collections) permette di effettuare modifiche senza passare per l'interfaccia del web. L'API possiede inoltre una caratteristica di tipo sperimentale per caricare lotti di collezioni e istituzioni. Consultate la documentazione [ quì ](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
 
 Se siete interessati a utilizzare l'API per modificare GRSciColl, il sistema di autorizzazioni e requisiti sono gli stessi richiesti per diventare un editore.
 
