@@ -48,7 +48,7 @@ Recenti sviluppi includono:
 
 Attualmente, GRSciColl possiede un sistema di suggerimenti che gli editori utilizzano per revisionare i cambiamenti proposti. Questo sistema permette una cura da parte della comunità e consente a chiunque di contribuire aggiornando, aggiungendo, o unendo i dati dei vari registri.
 
-Lavoriamo inoltre con organizzazioni internazionali per importare i dati dai registri delle loro collezioni a GRSciColl. Sottoinsiemi di GRSciColl possono anche essere usati per organizzare [GBIF hosted portals](https://www.gbif.org/hosted-portals) like [ Il Portale delle Collezioni Scientifiche Naturali del Regno Unito](https://data.dissco-uk.org)
+Lavoriamo inoltre con organizzazioni internazionali per importare i dati dai registri delle loro collezioni su GRSciColl. I sottoinsiemi di GRSciColl possono anche essere usati per organizzare dei[ portali ospitati da GBIF ](https://www.gbif.org/hosted-portals) come il [ Portale delle Collezioni Scientifiche Naturali del Regno Unito](https://data.dissco-uk.org)
 
 ### Il passo successivo
 
