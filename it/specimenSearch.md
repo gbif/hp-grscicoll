@@ -1,8 +1,8 @@
 ---
 permalink: /it/specimen/search
 lang-ref: specimen/search
-title: Specimen search
-description: Search all specimens
+title: Ricerca campioni
+description: Ricerca tutti i campioni
 layout: occurrence
 ---
 

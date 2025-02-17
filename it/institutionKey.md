@@ -1,7 +1,7 @@
 ---
 permalink: /it/institution/_key_
-title: Data
-description: We publish open data
+title: Dati
+description: Noi pubblichiamo dei dati aperti
 layout: institution-key
 ---
 

@@ -1,8 +1,8 @@
 ---
 permalink: /it/institution/search
 lang-ref: /institution/search
-title: Data
-description: We publish open data
+title: Dati
+description: Noi pubblichiamo dei dati aperti
 layout: institution-search
 ---
 
