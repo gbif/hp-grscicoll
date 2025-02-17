@@ -28,14 +28,14 @@ Puoi scrivere le tue domande e seguire le attività di GRSciColl sul nostro foru
 
 Siete invitati a utilizzare la lista di GRSciColl per discutere di problemi, porre domande e fare richieste riguardo al Registro Globale delle Collezioni Scientifiche (GBIF, sigla inglese).
 
-Iscrivetevi alla nostra mailing list
+Iscriviti alla nostra mailing list
 
 {: .button .is-primary}</p> 
 
 
 
-## Mandateci una mail
+## Mandaci un' email
 
-Potete mandare una mail a `scientific-collections@gbif.org`.
+Potete mandare un' email a `scientific-collections@gbif.org`.
 
-Per contattare specifiche collezioni o istituzioni, per favore fate riferimento ai contatti presenti sulle loro rispettive pagine.
+Per contattare specifiche collezioni o istituzioni, per favore fare riferimento ai contatti presenti sulle loro rispettive pagine.
