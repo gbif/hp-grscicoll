@@ -7,5 +7,5 @@ description: Notizie ed eventi
 ---
 
 {% comment %}
-  Nessun file Nessun file Il layout inserirà una scheda per ogni post nella cartella
+  Nessun file Nessun file Nessun file Il layout inserirà una scheda per ogni post nella cartella
 {% endcomment %}
