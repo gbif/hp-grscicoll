@@ -55,7 +55,7 @@ Ogni voce di GRSciColl possiede un Identificatore Universalmente Unico (UUID) e 
 
 Oltre al contributo degli editori di GRSciColl, gli identificatori di certe istituzioni vengono importate automaticamente o semi-automaticamente.
 * A tutte le voci collegate all'Index Herbariorum viene assegnato un identificatore Index Herbariorum. Visitare [ come funziona la sincronizzazione con l'Index Herbariorum](/about#index-herbariorum).
-* Molti ` identificatori di citazioni ` provengono anche dall'Index Herbariorum. Visitare [come funziona la sincronizzazione con l'Index Herbariorum](/connected-systems#index-herbariorum).
+* Molti `identificatori di citazioni` provengono anche dall'Index Herbariorum. Visitare [come funziona la sincronizzazione con l'Index Herbariorum](/connected-systems#index-herbariorum).
 * Abbiamo abbinato tante più voci d'istiduzione GRSciColl quante possibili tramite [Wikidata](https://www.wikidata.org/) con il loro[  strumento di risoluzione (OpenRefine) ](https://openrefine.org) e abbiamo importato gli identificatori di "wikidata".
 * Abbiamo abbinato tante più voci d'istiduzione GRSciColl quante possibili tramite il [ Research Organization Registry (ROR)](https://ror.org) utilizzando il loro [ strumento di risoluzione (OpenRefine) ](https://openrefine.org)  e abbiamo importato gli identificatori ROR.
 * Stiamo lavorando con il team [NCBI BioCollection](https://www.ncbi.nlm.nih.gov/biocollections)  per poter importare i loro identificatori nel GRSciColl.
@@ -80,13 +80,13 @@ Nel caso di più collegamenti possibili, il sistema utilizza il paese di pubblic
 
 Le voci d'istituzione e di collezione di GRSciColl possono avere fonti d'informazione primarie esterne provenienti da un altro registro o sito web. Modifiche a tali fonti primarie comportano  l'aggiornamento delle voci corrispondenti di GRSciColl, eliminando il bisogno di gestire le informazioni attraverso molteplici registri.
 
-Attualmente, le due possibili fonti d'informazione per le voci di GRSciColl sono l'[Index Herbariorum](https://sweetgum.nybg.org/science/ih/) ed [ i set di dati e metadati degli editori di GBIF](https://www.gbif.org) I dati per le voci provenienti da queste fonti dovrebbero essere editati alla radice. In pratica, l'interfaccia di modifica di GRSciColl non permette agli utenti di aggiornare i canali che usano informazioni da fonti esterne.
+Attualmente, le due possibili fonti d'informazione per le voci di GRSciColl sono l'[Index Herbariorum](https://sweetgum.nybg.org/science/ih/) ed [ i set di dati e metadati degli editori di GBIF](https://www.gbif.org) I dati per le voci provenienti da queste fonti dovrebbero essere editati alla radice. I dati per le voci provenienti da queste fonti dovrebbero essere editati alla radice. In pratica, l'interfaccia di modifica di GRSciColl non permette agli utenti di aggiornare i canali che usano informazioni da fonti esterne.
 
 ### Index Herbariorum
 
 Settimanalmente, GRSciColl si sincronizza con l'API di [Index Herbariorum](https://sweetgum.nybg.org/science/ih/), aggiornando informazioni per voci già esistenti la cui fonte è l'Index Herbariorum e creando nuove voci a seconda delle necessità.
 
-Di default, una voce dell'Index Herbariorum corrisponde alla voce di un'istituzione e a quella di una collezione di GRSciColl, poichè gli erbari sono spesso collezioni botaniche presenti all'interno di altre istituzioni. Puoi leggere di più sulle motivazioni riguardo alla [problematica di GitHub](https://github.com/gbif/registry/issues/167).  Il processo di sincronizzazione può generare doppie voci d'istituzione quando una singola istituzione è sede di molteplici erbari. Visita la nostra [ pagina di gestione ](/how-to#how-to-edit-a-grscicoll-collection-or-institution) ed il nostro [FAQs](/faq/#how-to-handle-duplicates) per suggerimenti su come gestire questi casi.
+Di default, una voce dell'Index Herbariorum corrisponde alla voce di un'istituzione e a quella di una collezione di GRSciColl, poichè gli erbari sono spesso collezioni botaniche presenti all'interno di altre istituzioni. Puoi leggere di più sulle motivazioni riguardo alla [problematica di GitHub](https://github.com/gbif/registry/issues/167). Il processo di sincronizzazione può generare doppie voci d'istituzione quando una singola istituzione è sede di molteplici erbari. Visita la nostra [ pagina di gestione ](/how-to#how-to-edit-a-grscicoll-collection-or-institution) ed il nostro [FAQs](/faq/#how-to-handle-duplicates) per suggerimenti su come gestire questi casi.
 
 Gli editori possono disconnettere le voci delle istituzioni dall'Index Herbariorum e scegliere di editare l'istituzione direttamente nell'interfaccia di modifica del GRSciColl, come descritto in questo FAQ.
 
@@ -98,7 +98,7 @@ Allo stesso modo, le informazioni relative all'editore disponibili su GBIF posso
 
 ## GRSciColl come contenuto per altri siti web
 
-Il sito [GRSciColl API](/api) permette automaticamente ad altre applicazioni di accedere ai dati di GRSciColl. Questo significa che altri siti web sono in grado di mostrare il contenuto di GRSciColl, che rimane curato da un' autorità centrale.  Chiunque può utilizzare l'API per includere i dati di GRSciColl nei propri sistemi. Quì sotto ci sono due esempi documentati.
+Il sito [GRSciColl API](/api) permette automaticamente ad altre applicazioni di accedere ai dati di GRSciColl. Questo significa che altri siti web sono in grado di mostrare il contenuto di GRSciColl, che rimane curato da un' autorità centrale. Chiunque può utilizzare l'API per includere i dati di GRSciColl nei propri sistemi. Quì sotto ci sono due esempi documentati.
 
 ### iDigBio
 
