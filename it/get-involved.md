@@ -17,9 +17,9 @@ toc: vero
 
 ## Aiutateci a migliorare i dati
 
-Le informazioni disponibili tramite GRSciColl sono il risultato di sforzi collettivi da parte di una comunità di curatori ed editori. Per contribuire, consultate la nostra pagina [ di riferimento](/how-to).
+Le informazioni disponibili tramite GRSciColl sono il risultato di sforzi collettivi da parte di una comunità di curatori ed editori. Per contribuire, consultate la nostra [ pagina di riferimento](/how-to).
 
-[How-to](/how-to){: .button .is-primary}
+[ pagina di gestione ](/how-to){: .button .is-primary}
 
 ## Aiutateci a migliorare il sistema
 
