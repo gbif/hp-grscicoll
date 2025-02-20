@@ -55,7 +55,7 @@ Il suggerimento sarà revisionato da editori istituzionali, editori nazionali o 
 
 ### Diventate un editore
 
-Ci sono due tipi di editori su GRSciColl: editori e mediatori. Entrambi possono modificare i dati su GRSciColl e revisionare cambiamenti ma solo i mediatori possono cancellare, unire e trasformare le voci. Un editore (o mediatore) può avere il permesso di effettuare modifiche:
+Ci sono due tipi di editori su GRSciColl: editori e mediatori. Entrambi possono modificare i dati su GRSciColl e revisionare cambiamenti ma solo i mediatori possono cancellare, unire e trasformare le voci. Un editore (o mediatore) può avere il permesso di effettuare modifiche in caso di:
 * una o più collezioni
 * una o più istituzioni (e le collezioni a loro associate)
 * Uno o più Paesi (e le istituzioni e collezioni a loro associate)
