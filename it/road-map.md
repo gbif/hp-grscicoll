@@ -3,7 +3,7 @@ permalink: /it/road-map
 lang-ref: road-map
 title: Mappe stradali di GRSciColl 2025
 description: |
-  This road map builds in the [2021 roadmap](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2021.md) as well as the efforts in 2022 to build a community of editors an mediators.
+  Questa mappa stradale si basa su quella del 2023/2024 https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2023-2024.md
 background: "{{ site.data.images.pandeleteius.src }}"
 imageLicense: "{{ site.data.images.pandeleteius.caption }}"
 height: 70vh
@@ -30,23 +30,23 @@ Il Segretariato di GBIF, in collaborazione con la nostra comunità, sta sviluppa
 
 L'obiettivo è quello di organizzare almeno un evento di formazione online nel 2025.
 
-We anticipate supporting multiple descriptors for a collection, with a descriptor containing a title, textual explanation and a table of data edited inline or uploaded as e.g. a spreadsheet.
+Ci piacerebbe inoltre fornire supporto a chiunque fosse interessato a organizzare sessioni di formazione o di cura di GRSciColl, basate sul contenuto del modulo.
 
-## 3.   Migliorare la scopribilità e la rappresentazione delle collezioni a seconda dell'argomento.
+## 3.   Migliorare la visibilità e la rappresentazione delle collezioni a seconda dell'argomento.
 
-Molto del contenuto di GRSciColl non è standardizzato e vive in vari campi a testo libero. Per esempio, molte collezioni di entomologia possono essere trovate soltanto utilizzando una combinazione di parole chiave come "entomologia" e "insetti" nelle ricerche a testo libero.
+Molto del contenuto di GRSciColl non è standardizzato e vive in vari campi a testo libero. Per esempio, molte collezioni di entomologia possono essere trovate soltanto utilizzando una combinazione di parole chiave come "entomologia" e "insetti" nelle ricerche di testo libero.
 
-Grazie all'aiuto di comunità rilevanti, vorremmo identificare collezioni che appartengono a discipline e argomenti definiti e renderli scopribili aggiungendo descrittori di collezione rilevanti. Esempi di tali collezioni sarebbero entomologia, mammalogia, algologia e ornitologia.
+Grazie all'aiuto di comunità rilevanti, vorremmo identificare collezioni che appartengono a discipline e argomenti definiti e renderli visibili aggiungendo descrittori di collezione rilevanti. Esempi di tali collezioni sarebbero entomologia, mammalogia, algologia e ornitologia.
 
 Una via da esplorare per migliorare la rappresentazione di queste collezioni è quella di estrarre collezioni menzionate in pubblicazioni come questa: https://doi.org/10.1643/ASIHCODONS2020.
 
-Insieme a questo lavoro, vorremmo implementare un vocabolario per il "Latimer Core term objectClassificationName", molto probabilmente basato sugli argomenti sviluppati da DISSCO (consultare inoltre questo problema di GitHUb: https://github.com/gbif/vocabulary/issues/157).
+Insieme a questo lavoro, vorremmo implementare un vocabolario per il "Latimer Core term objectClassificationName", principalmente basato sugli argomenti sviluppati da DISSCO (consultare inoltre questo problema di GitHUb: https://github.com/gbif/vocabulary/issues/157).
 
 ## 4.   Facilitare il collegamento della lettura a GRSciColl
 
 Le collezioni vengono spesso citate nelle pubblicazioni ma non sempre in maniera standardizzata. Potrebbe essere difficile in seguito collegare una collezione alla sua citazione.
 
-Quando sarà possibile, lavoreremo a contatto con la comunità e i giornali, per accordarci su quale sia la miglior pratica di citazione per le collezioni. L'obiettivo è quello di facilitare la citazione di una collezione e collegare i campioni provenienti da pubblicazioni processate da PLAZI verso GRSciColl.
+Quando sarà possibile, lavoreremo a contatto con la comunità e i giornali, per accordarci su quale sia la miglior pratica di citazione per le collezioni. L'obiettivo è quello di facilitare la citazione di una collezione e collegare gli esemplari provenienti da pubblicazioni processate da PLAZI verso GRSciColl.
 
 Un secondo aspetto di questo lavoro sarà quello di stabilire delle linee guida per le istituzioni che desiderano condividere referenze bibliografiche e citazioni delle proprie collezioni su GRSciColl.
 
