@@ -2,50 +2,50 @@ shortcuts:
   features:
     - 
       preTitle: [ ] #optional
-      title: What is GRSciColl? #required
+      title: Che cos'è GRSciColl? #required
       #required
       description: |
-        Read more about the history of GRSciColl.
+        Scoprite di più sulla storia di GRSciColl.
       #img required
       background: "{{ site.data.images.kanakia.src }}"
       imageLicense: "{{ site.data.images.kanakia.caption }}"
       href: /it/about
     - 
       preTitle: [ ] #optional
-      title: Help us improve GRSciColl #required
+      title: Aiutateci a migliorare GRSciColl #required
       #required
       description: |
-        Add your institution and collections, become an editor, follow our roadmap.
+        Aggiungete la vostra istituzione e le vostre collezioni, diventate un editore, seguite la nostra mappa stradale. 
       #img required
       background: "{{ site.data.images.costatrochus.src }}"
       imageLicense: "{{ site.data.images.costatrochus.caption }}"
       href: /it/get-involved
     - 
       preTitle: [ ] #optional
-      title: Connected systems
+      title: Sistemi collegati
       #required
       description: |
-        Learn how GRSciColl is connected to other system such as Index Herbariorum and GBIF Hosted portals.
+        Scoprite in che modo GRSciColl è connesso ad altri sistemi come Index Herbariorum e i portali GBIF Hosted.
       #img required
       background: "{{ site.data.images.echinometra.src }}"
       imageLicense: "{{ site.data.images.echinometra.caption }}"
       href: /it/connected-systems
 news:
-  title: Stories
-  description: Here are some scientific collections news.
+  title: Storie
+  description: Ecco alcune novità riguardo alle collezioni scientifiche. 
   features:
     - 
-      title: GBIF provides new home for the Global Registry of Scientific Collections
+      title: GBIF fornisce un nuovo spazio per il Registro Globale delle Collezioni Scientifiche
       background: https://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2FkbUm56gvv6gA8knbtWoDk%2F4754a89f96fe27d83bf20c7991a80564%2F23379056635_110b6808fe-crop.jpg
       href: https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub/gbif-provides-new-home-for-the-global-registry-of-scientific-collections
     - 
       preTitle: [ ] #optional
-      title: Join our next community call #required
+      title: Partecipate alla nostra prossima chiamata comunitaria #required
       background: http://api.gbif.org/v1/image/unsafe/1170x422/http:%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F3U3ekkW0a4HeZo6nx82emV%2F84e7f2e384943df3f74f8a89328696f4%2Ffairy-web.png
-      href: https://www.gbif.org/event/1FoDQu5gWlZzTVrqCsN7D1/global-registry-of-scientific-collections-grscicoll-community-call
+      href: https://www.gbif.org/project/1oof3bltISyNanpvIWQYwz/digitization-of-mycological-collections-in-nepal
     - 
-      title: The colonial legacy of herbaria
-      background: http://api.gbif.org/v1/image/unsafe/1200x627/http%3A%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F1ZLEusKyYJelIF6vc5KU7T%2F3785dc8bf6f738c4b6bbd07552167484%2FNMNH-Acevedo16519__1_.jpg
+      title: L'eredità coloniale degli erbari
+      background: http://api.gbif.org/v1/image/unsafe/1200x627/http%3A%2F%2Fimages.ctfassets.net%2Fuo17ejk9rkwj%2F20LXAvZuwbw3S9oEMzYFBC%2F8f401acf7f3b80cea6b112b0ab363caf%2Fbg-news-collections.jpg
       href: https://www.gbif.org/data-use/401Jup5tkSfJyDbh7xxHNn/the-colonial-legacy-of-herbaria
 #typespecimens:
 #reverse: false
@@ -67,21 +67,21 @@ video-intro:
   id: /it/video-intro
   klass: video-block
   reverse: false
-  title: "Watch our video introduction to GRSciColl"
+  title: "Guardate il nostro video d'istruzioni su GRSciColl"
   #required
   description: |
-    Learn about the Global Registry of Scientific Collections and how to navigate the website.
+    Scoprite di più sul Registro Globale delle Collezioni Scientifiche e come navigare nel sito web.
   #img required
   background: "{{ site.data.images.play-squid.src }}"
   imageLicense: "{{ site.data.images.play-squid.caption }}"
   href: https://vimeo.com/showcase/10709937/video/872824009
   cta:
     - 
-      text: Read more
+      text: Per saperne di più
       href: /it/about
       isPrimary: true
     - 
-      text: Explore
+      text: Esplorare
       href: /it/institution
 stats:
   klass: contentTypesStat
@@ -91,16 +91,16 @@ stats:
   features:
     - 
       title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/institution?displayOnNHCPortal=true">642</span>
-      description: Institutions
+      description: Istituzioni
       background: /assets/images/institutions.gif
       href: /it/institution/search
     - 
       title: <span data-ajax-url="https://api.gbif.org/v1/grscicoll/collection?displayOnNHCPortal=true">45</span>
-      description: Collections
+      description: Collezioni
       background: /assets/images/collections.gif
       href: /it/collection/search
     - 
       title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif-staging.org/graphql?query=%0Aquery%7B%0A%20%20occurrenceSearch%28predicate%3A%20%7B%0A%20%20%20%20type%3A%20and%2C%20%0A%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20type%3A%20or%2C%20%0A%20%20%20%20%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%20%20%20%20%7Btype%3A%20isNotNull%2C%20key%3A%20%22institutionKey%22%7D%2C%20%0A%20%20%20%20%20%20%20%20%20%20%7Btype%3A%20isNotNull%2C%20key%3A%20%22collectionKey%22%7D%0A%20%20%20%20%20%20%20%20%5D%0A%20%20%20%20%20%20%7D%2C%20%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20type%3A%20in%2C%20%0A%20%20%20%20%20%20%20%20key%3A%20%22basisOfRecord%22%2C%20%0A%20%20%20%20%20%20%20%20values%3A%20%5B%22PRESERVED_SPECIMEN%22%2C%20%22FOSSIL_SPECIMEN%22%2C%20%22MATERIAL_SAMPLE%22%2C%20%22LIVING_SPECIMEN%22%5D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%5D%0A%20%20%7D%29%20%7B%0A%20%20%20%20documents%28size%3A%200%29%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A&variables=%7B%22predicate%22%3A%7B%22type%22%3A%22and%22%2C%22predicates%22%3A%5B%7B%22type%22%3A%22and%22%2C%22predicates%22%3A%5B%7B%22type%22%3A%22or%22%2C%22predicates%22%3A%5B%7B%22type%22%3A%22isNotNull%22%2C%22key%22%3A%22institutionKey%22%7D%2C%7B%22type%22%3A%22isNotNull%22%2C%22key%22%3A%22collectionKey%22%7D%5D%7D%2C%7B%22type%22%3A%22in%22%2C%22key%22%3A%22basisOfRecord%22%2C%22values%22%3A%5B%22PRESERVED_SPECIMEN%22%2C%22FOSSIL_SPECIMEN%22%2C%22MATERIAL_SAMPLE%22%2C%22LIVING_SPECIMEN%22%5D%7D%2C%7B%22type%22%3A%22equals%22%2C%22key%22%3A%22publishingCountry%22%2C%22value%22%3A%22US%22%7D%5D%7D%2C%7B%22type%22%3A%22and%22%2C%22predicates%22%3A%5B%5D%7D%5D%7D%2C%22size%22%3A50%2C%22from%22%3A0%7D">45</span>
-      description: Digitized specimens
+      description: Esemplari digitalizzati
       background: /assets/images/specimens.gif
       href: /it/specimen/search
