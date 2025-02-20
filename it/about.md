@@ -39,7 +39,7 @@ Recenti sviluppi includono:
 * Sviluppo di un  [API per GRSciColl](/api)
 * Stabilimento di una sincronizzazione settimanale tra GBIF e Index Herbariorum
 * Importazione delle informazioni sulle collezioni da [iDigBio](https://www.idigbio.org)
-* Collegamento degli eventi legati ai campioni pubblicati su GBIF alle voci di GRSciColl.
+* Collegamento degli eventi legati agli esemplari pubblicati su GBIF alle voci di GRSciColl.
 * Inclusione dei metadati dai database pubblicati su GBIF come potenziale fonte d'informazione sulle collezioni.
 
 [ Leggi di più sulla storia di GRSciColl](https://data-blog.gbif.org/post/grscicoll-2021/).
