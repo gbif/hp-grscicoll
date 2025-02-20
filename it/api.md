@@ -24,7 +24,7 @@ toc: vero
 
 API sta per "Interfaccia di Programmazione dell'Applicazione" ("Application Progamming Interface" in inglese). Questo è un modo per il programma informatico di comunicare con altri sistemi, nel nostro caso GRSciColl. Chiunque può utilizzare l'API per accedere virtualmente ai dati di GRSciColl.
 
-Anche gli editori possono utilizzare l'API per aggiornare virtualmente i dati di GRSciColl. Se sei interessato a diventare un editore, per favore visita la nostra pagina [Utilizzo](how-to#become-editor).
+Anche gli editori possono utilizzare l'API per aggiornare virtualmente i dati di GRSciColl. Se sei interessato a diventare un editore, per favore visita la nostra [ pagina di gestione ](how-to#become-editor).
 
 ### Introduzione all'API di GBIF
 
