@@ -19,7 +19,7 @@ toc: vero
 
 ## Come far apparire la mia collezione o il mio campione nella homepage?
 
-Se desiderate dare un nome alla vostra collezione o campione in modo che possa apparire sulla homepage di GRSciColl, assicuratevi che rispetti i seguenti criteri:
+Se desiderate dare un nome alla vostra collezione o campione in modo che possa apparire nella homepage di GRSciColl, assicuratevi che rispetti i seguenti criteri:
 * Una collezione e l'istituzione a essa associata, devono essere registrate con una voce di GRSciColl.
 * La collezione deve avere alcuni campioni digitalizzati disponibili su GBIF.
 * Alcuni eventi disponibili su GBIF devono essere collegati alla voce di GRSciColl
