@@ -3,41 +3,41 @@
   text: Istituzioni
   href: /it/institution/search
 - 
-  text: Collections
+  text: Collezioni
   href: /it/collection/search
 - 
-  text: Specimens
+  text: Esemplari
   href: /it/specimen/search
 - 
-  text: About
+  text: Informazioni
   menu:
     - 
       text: GRSciColl
       href: /it/about
     - 
-      text: Get involved
+      text: Come partecipare
       href: /it/get-involved
     - 
-      text: Connected systems
+      text: Sistemi collegati
       href: /it/connected-systems
     - 
       text: API
       href: /it/api
     - 
-      text: Road map
+      text: Mappa stradale
       href: /it/road-map
     - 
-      text: Contact
+      text: Contatto
       href: /it/contact
 - 
-  text: How-to
+  text: Tutorial
   menu:
     - 
-      text: Add entries
+      text: Aggiungere delle voci
       href: '/it/how-to#how-to-add-a-collection-or-an-institution-to-grscicoll'
     - 
-      text: Edit entries
+      text: Modificare le voci
       href: '/it/how-to#how-to-edit-a-grscicoll-collection-or-institution'
     - 
-      text: FAQ
+      text: Domande frequenti
       href: /it/faq
