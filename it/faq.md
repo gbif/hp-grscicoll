@@ -36,16 +36,16 @@ Il risultato di ricerca di una collezione o istituzione può essere scaricato da
 
 GRSciColl ha avuto origine indipendentemente da GBIF, e possiede una [storia personale ](/about#data-history). Molti set di dati pubblicati su GBIF contengono dei registri di campioni che appartengono a collezioni registrate su GRSciColl. Il contenuto di GBIF e GRSciColl può sovrapporsi. Tuttavia, vi sono alcune differenze:
 * Una voce di collezione di GRSciColl deve corrispondere ad una collezione fisica mentre il set di dati di GBIF può contenere altri tipi di registri come osservazioni.
-* Una voce di collezione di GRSciColl può fare riferimento ad una collezione storica che è andata perduta o divisa.
+* Una voce di collezione di GRSciColl può fare riferimento a una collezione storica che è andata perduta o divisa.
 * I set di dati pubblicati su GBIF contengono dati legati alla biodiversità mentre le voci di collezione su GRSciColl possono descrivere collezioni di tipo archeologico o geologico.
 
 Gli editori di GBIF potrebbero scegliere di pubblicare tutti i loro registri in un singolo set di dati ma descrivere il loro patrimonio tramite diverse voci di collezione su GRSciColl. In alternativa, molti set di dati possono contenere dei registri corrispondenti a dei campioni che appartengono alla stessa collezione.
 
-Vedere come gli eventi pubblicati su GBIF sono collegati alle voci di GRSciColl[ quì](/connected-systems#occurrences-published-on-gbif). Per vedere come i set di dati di GBIF possono essere collegati alle voci di collezione di GRSciColl [ cliccare quì ](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+Per vedere come le occorrenze pubblicate su GBIF sono collegati alle voci di GRSciColl[ cliccare quì](/connected-systems#occurrences-published-on-gbif). Per vedere come i set di dati di GBIF possono essere collegati alle voci di collezione di GRSciColl [ cliccare quì ](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
 ## Qual'è la differenza tra gli editori di GBIF e le istituzioni di GRSciColl?
 
-GRSciColl ha avuto origine indipendentemente da GBIF, e possiede una storia personale [. Molti set di dati pubblicati su GBIF contengono dei registri di campioni che appartengono a collezioni registrate su GRSciColl. Il contenuto di GBIF e GRSciColl può sovrapporsi. Per rispondere alla domanda precedente vedere <a href="/faq#what-is-the-difference-between-gbif-datasets-and-grscicoll-collections" ](> NB: if you would like to disconnect an collection from Index Herbariorum, please contact us. Tuttavia, vi sono alcune differenze:
+GRSciColl ha avuto origine indipendentemente da GBIF, e possiede una [storia personale ](/about#data-history). Molti set di dati pubblicati su GBIF contengono dei registri di campioni che appartengono a collezioni registrate su GRSciColl. Il contenuto di GBIF e GRSciColl può sovrapporsi. Consultare la [ domanda precedente ](/faq#what-is-the-difference-between-gbif-datasets-and-grscicoll-collections). Tuttavia, vi sono alcune differenze:
 * Gli editori di GBIF sono organizzazioni registrate che attivamente condividono dati su GBIF. Utilizzano [ strumenti di pubblicazione](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) per poter condividere i set di dati su GBIF. Alcuni editori sono musei ed erbari ma altri sono iniziative scientifiche dei cittadini, giornali o centri di ricerca che però potrebbero condividere soltanto osservazioni, descrizioni di taxa o dati derivanti dal DNA.
 * Le istituzioni di GRSciColl sono state registrate poichè sono risapute possedere collezioni scientifiche fisiche. Le voci d'istituzione di GRSciColl possono essere aggiunte dagli editori di GRSciColl (basandosi sulle informazioni trovate nelle pubblicazioni oppure online) o dalle istituzioni stesse.
 
@@ -111,7 +111,7 @@ L'interfaccia di modifica di GRSciColl si trova nel Registro di GBIF [](https://
 1. Accedete all' \[interfaccia di registro\](https://registry. gbif. org/). Dovete essere un editore per la voce di GRSciColl con la quale vorreste lavorare.
 2. Cliccate sulla scheda `Master source`.
 3. Cliccate sul pulsante`Crea nuovo` (nell'angolo in alto a destra).
-4. Selezionate la tipologia di fonte (`set di dati GBIF` se state lavorando con una collezione oppure `editore GBIF` se si tratta di un'istituzione).
+4. Selezionate la tipologia di fonte (`set di dati GBIF` se state lavorando con una collezione oppure cliccate su `editore GBIF` se si tratta di un'istituzione).
 5. Aggiungete l' UUID del set di dati o dell'editore che vorreste utilizzare. L'UUID può essere trovato nel set di dati o nell'URL dell'editore. Per esempio, l'UUID per `https://www.gbif.org/dataset/b275a4c1-9859-4f3c-8ead-d86dde820fbc` è `b275a4c1-9859-4f3c-8ead-d86dde820fbc`.
 6. Cliccate sul pulsante `Crea`.
 
