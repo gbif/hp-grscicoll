@@ -129,7 +129,7 @@ Noterete che non potete editare campi che provengono da fonti esterne. L'unico m
 
 ### Come collegare degli eventi legati ai campioni pubblicati su GBIF alle voci di GRSciColl
 
-Per far sì che i vostri campioni vengano visualizzati su GRSciColl, devono essere pubblicati su GBIF.org ed essere collegati ad almeno una voce di GRSciColl. Vedere come pubblicare dati su GBIF.org[ quì ](https://www.gbif.org/publishing-data) e come collegare gli eventi a GRSciColl quì sotto:
+Per far sì che i vostri campioni vengano visualizzati su GRSciColl, devono essere pubblicati su GBIF.org ed essere collegati ad almeno una voce di GRSciColl. Per vedere come pubblicare dati su GBIF.org[ cliccate quì ](https://www.gbif.org/publishing-data) e per collegare le occorrenze a GRSciColl, seguite le istruzioni riportate quì sotto:
 
 La maniera consigliata e più dichiarativa possibile di collegare i dati a istituzioni o collezioni su GRSciColl, è quella di utilizzare il loro URL completo. Per esempio, quando si usa Darwin Core:
 * dwc:institutionID: https://www.gbif.org/grscicoll/institution/e3d4dcc4-81e2-444c-8a5c-41d1044b5381
