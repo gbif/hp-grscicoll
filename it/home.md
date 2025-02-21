@@ -5,13 +5,13 @@ lang-ref: home
 layout: home
 klass: home
 title: Registro Globale delle Collezioni Scientifiche #should not be translated
-gettingStartedVideoTitle: Inizia
+gettingStartedVideoTitle: Come iniziare
 institutionsInCountryTemplate: |
   Istituzioni in <span id="users-country-name"></span>
 description: Un catalogo internazionale di collezioni scientifiche #a descripton for the head element
 tagline: Un catalogo internazionale di collezioni scientifiche
 tabInstitutions: Nome dell'Istitutuzione
-tabSpecimens: Campioni digitalizzati
+tabSpecimens: Esemplari digitalizzati
 placeholderInstitutions: Cerca istituzioni
 placeholderSpecimens: Cerca campioni digitalizzati
 background: "{{ site.data.images.calcinus.src }}"

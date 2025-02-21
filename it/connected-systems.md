@@ -62,7 +62,7 @@ Oltre al contributo degli editori di GRSciColl, gli identificatori di certe isti
 
 Gli utenti possono cercare sia gli identificatori delle collezioni che quelli delle istituzioni su questo sito e attraverso [ il nostro servizio di ricerca dell' API](https://www.gbif.org/developer/registry#lookup).
 
-Gli identificatori vengono inoltre utilizzati per collegare eventi legati ai campioni pubblicati su GBIF alle voci di GRSciColl.
+Gli identificatori vengono inoltre utilizzati per collegare eventi legati agli esemplari pubblicati su GBIF alle voci di GRSciColl.
 
 ## Occorrenze pubblicate su GBIF
 
