@@ -4,7 +4,7 @@ permalink: /it/
 lang-ref: home
 layout: home
 klass: home
-title: Registro Globale delle Collezioni Scientifiche #should not be translated
+title: Global Registry of Scientific Collections #should not be translated
 gettingStartedVideoTitle: Come iniziare
 institutionsInCountryTemplate: |
   Istituzioni in <span id="users-country-name"></span>
@@ -21,24 +21,24 @@ composition:
   - 
     type: grscicollHeader #the block type
   - 
-    type: Statistiche
-    data: navCards.stats
+    type: stats
+    data: it.navCards.stats
   - 
-    type: caratteristiche
-    data: navCards.shortcuts
+    type: features
+    data: it.navCards.shortcuts
   - 
-    type: divisone
-    data: navCards.video-intro
+    type: split
+    data: it.navCards.video-intro
   - 
-    type: caratteristiche
-    data: navCards.news
+    type: features
+    data: it.navCards.news
   - 
-    type: caratteristiche
-    data: collezioni
+    type: features
+    data: collections
 navbar:
   color: transparent!important
-  hasWhiteText: vero
-  floating: vero
+  hasWhiteText: true
+  floating: true
 ---
 
 Idee generali per home page e contenuti
