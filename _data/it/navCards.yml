@@ -15,7 +15,7 @@ shortcuts:
       title: Aiutateci a migliorare GRSciColl #required
       #required
       description: |
-        Aggiungete la vostra istituzione e le vostre collezioni, diventate un editore, seguite la nostra mappa stradale. 
+        Aggiungete la vostra istituzione e le vostre collezioni, diventate un editore, seguite la nostra mappa stradale.
       #img required
       background: "{{ site.data.images.costatrochus.src }}"
       imageLicense: "{{ site.data.images.costatrochus.caption }}"
@@ -32,7 +32,7 @@ shortcuts:
       href: /it/connected-systems
 news:
   title: Storie
-  description: Ecco alcune novità riguardo alle collezioni scientifiche. 
+  description: Ecco alcune novità riguardo alle collezioni scientifiche.
   features:
     - 
       title: GBIF fornisce un nuovo spazio per il Registro Globale delle Collezioni Scientifiche
