@@ -41,7 +41,7 @@ GRSciColl ha avuto origine indipendentemente da GBIF, e possiede una [storia per
 
 Gli editori di GBIF potrebbero scegliere di pubblicare tutti i loro registri in un singolo set di dati ma descrivere il loro patrimonio tramite diverse voci di collezione su GRSciColl. In alternativa, molti set di dati possono contenere dei registri corrispondenti a dei campioni che appartengono alla stessa collezione.
 
-Per vedere come le occorrenze pubblicate su GBIF sono collegati alle voci di GRSciColl[ cliccare quì](/connected-systems#occurrences-published-on-gbif). Per vedere come i set di dati di GBIF possono essere collegati alle voci di collezione di GRSciColl [ cliccare quì ](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+Vedere come gli eventi pubblicati su GBIF sono collegati alle voci di GRSciColl [ quì](/connected-systems#occurrences-published-on-gbif). Per vedere come i set di dati di GBIF possono essere collegati alle voci di collezione di GRSciColl [ cliccare quì ](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
 ## Qual'è la differenza tra gli editori di GBIF e le istituzioni di GRSciColl?
 
@@ -51,7 +51,7 @@ GRSciColl ha avuto origine indipendentemente da GBIF, e possiede una [storia per
 
 Un grande ente amministrativo come un'università può registrarsi come editore di GBIF e descrivere i propri dipartimenti come istituzioni di GRSciColl. In alternativa, alcuni editori di GBIF possono corrispondere a entità più piccole e avere la propria istituzione rappresentata come singola voce su GRSciColl.
 
-Vedere come gli eventi pubblicati su GBIF sono collegati alle voci di GRSciColl [ quì](/connected-systems#occurrences-published-on-gbif). Per vedere come i set di dati di GBIF possono essere collegati alle voci di collezione di GRSciColl [ cliccare quì ](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+Per vedere come le occorrenze pubblicate su GBIF sono collegati alle voci di GRSciColl[ cliccare quì](/connected-systems#occurrences-published-on-gbif). Per vedere come i set di dati di GBIF possono essere collegati alle voci di collezione di GRSciColl [ cliccare quì ](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
 ## Cosa sono i descrittori di collezione su GRSciColl?
 
