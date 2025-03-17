@@ -16,7 +16,6 @@ gem "jekyll-remote-theme"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-liquify"
   gem "jekyll-thumbor", git: "https://github.com/gbif/jekyll-thumbor"
 end
 
@@ -32,3 +31,11 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 
 gem "webrick", "~> 1.8"
+
+gem "csv", "~> 3.3"
+
+gem "logger", "~> 1.6"
+
+gem "base64", "~> 0.2.0"
+
+gem "bigdecimal", "~> 3.1"
