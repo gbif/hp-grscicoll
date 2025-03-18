@@ -2,7 +2,8 @@
 $gold: #F5EDCC;
 $darkGold: #a6906c;
 $blue: #538e91;
-$homepageActiveTabColor: $blue;
+$lightpurple: #6E84BB;
+$homepageActiveTabColor: $lightpurple;
 @import "_navbar";
 @import "_home";
 @import "_stats";
@@ -177,3 +178,15 @@ html {
     border-radius: 0!important;
     &.active {
       border-left: 3px solid #f08177; } } }
+      
+.video-block {
+  padding: 3em;
+}
+
+.features {
+  background: #F1F3F8;
+}     
+
+.navbar-item img {
+max-height: 4em;
+} 
