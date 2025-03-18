@@ -57,18 +57,18 @@ plausible:
 algae:
   rootLang: en
   latestPostLimit: 3
-  logo: /assets/images/standard-white.svg  # Logo in navbar, will be displayed with 28px height
+  logo: /assets/images/logo.svg  # Logo in navbar, will be displayed with 28px height
   logoAndTitle: true             # include the title next to the logo
   archive_permalink: /post/       # Permalink of page using archive.html layout, required when using post categories
   style:
     square: true                  # Should corners be square or rounded
     colors:
-      primary: "#6E84BB"          # Primary color of your brand. Use HEX code. Used for buttons and links
+      primary: "#538e91"          # Primary color of your brand. Use HEX code. Used for buttons and links
       links: "#f08177"            # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
-    brandBackground: "#6E84BB"    # Define a custom background for the logo/title in the top navigation bar
-    color: "#FFFFFF"              # What color should the navbar be?
+    brandBackground: "#538e91"    # Define a custom background for the logo/title in the top navigation bar
+    color: "#37464c"              # What color should the navbar be?
     hasWhiteText: true            # Should the text color be white?
 
 # Exclude from processing.
