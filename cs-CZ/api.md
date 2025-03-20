@@ -1,12 +1,12 @@
 ---
 permalink: api
 lang-ref: api
-title: API documentation
+title: Dokumentace API
 description: |
-  All data is freely available through our APIs
+  Všechna data jsou volně dostupná prostřednictvím našich rozhraní API
 cta:
   - 
-    text: GBIF API Documentation
+    text: GBIF Dokumentace API
     href: https://www.gbif.org/developer/summary
     isPrimary: true
 background: "{{ site.data.images.acalypha.src }}"
@@ -20,7 +20,7 @@ height: 70vh
 toc: true
 ---
 
-## What is an API
+## Co je API
 
 API stands for Application Progamming Interface. It is a way for computer program to communicate with other system, in our case GRSciColl. Anyone can use the GRSciColl API to access the GRSciColl data programmatically.
 
