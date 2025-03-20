@@ -3,7 +3,7 @@ permalink: about
 lang-ref: about
 title: GRSciColl
 description: |
-  The Global Registry of Scientific Collections, or GRSciColl, is a comprehensive, community-curated repository of information about scientific collections that extends work initially started by the Consortium of the Barcode of Life (CBOL).
+  Globální registr vědeckých sbírek (Global Registry of Scientific Collections, GRSciColl) je komplexní, komunitou spravovaný repozitář informací o vědeckých sbírkách, který rozšiřuje práci původně zahájenou Konsorciem čárového kódu života (Consortium of the Barcode of Life, CBOL).
 background: "{{ site.data.images.kanakia.src }}"
 imageLicense: "{{ site.data.images.kanakia.caption }}"
 height: 70vh
@@ -15,7 +15,7 @@ height: 70vh
 toc: true
 ---
 
-## What is the Global Registry of Scientific Collections?
+## Co je Globální registr vědeckých sbírek?
 
 The Global Registry of Scientific Collections, or GRSciColl, is a comprehensive and community-curated clearing house of information about scientific collections in the [GBIF](https://www.gbif.org/) registry. By providing information about physical scientific collections—their content, location, contacts, associated institutions, and collection codes and identifiers—GRSciColl offers a resource for a wide range of uses by experts, researchers and members of broader society.
 
@@ -44,11 +44,11 @@ Recent improvements include:
 
 [Read more about some of the history of GRSciColl](https://data-blog.gbif.org/post/grscicoll-2021/).
 
-### Where are we now
+### Jak jsme na tom nyní
 
-GRSciColl now has a suggestion system that editors use to review proposed changes. This system enables community curation and allows anyone to contribute by updating, adding, or merging records.
+GRSciColl má nyní systém návrhů, který redaktoři používají k posuzování navrhovaných změn. Tento systém umožňuje komunitní kurátorství a umožňuje každému přispívat aktualizací, přidáváním nebo slučováním záznamů.
 
-We also work with national organizations to import data from their collection registries in GRSciColl. Subsets of GRSciColl can also be used to organize [GBIF hosted portals](https://www.gbif.org/hosted-portals) like [the UK Natural Sciences Collections Portal](https://data.dissco-uk.org).
+Spolupracujeme také s národními organizacemi na importu dat z jejich registrů sbírek do GRSciColl. Subsets of GRSciColl can also be used to organize [GBIF hosted portals](https://www.gbif.org/hosted-portals) like [the UK Natural Sciences Collections Portal](https://data.dissco-uk.org).
 
 ### What's next
 
