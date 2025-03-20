@@ -6,3 +6,4 @@ include: # this include is only to NOT exclude translations, so that they are vi
   - es/
   - it/
   - fr/
+  - cs-CZ/
