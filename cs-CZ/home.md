@@ -1,6 +1,6 @@
 ---
 lang: en
-permalink: /
+permalink: /cs-CZ/
 lang-ref: home
 layout: home
 klass: home
