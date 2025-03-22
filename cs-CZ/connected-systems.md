@@ -1,9 +1,9 @@
 ---
 permalink: /connected-systems
 lang-ref: connected-systems
-title: Connected systems
+title: Propojené systémy
 description: |
-  GRSciColl supports interoperability and interacts with a number of other systems.
+  GRSciColl podporuje interoperabilitu a spolupracuje s řadou dalších systémů.
 background: "{{ site.data.images.echinometra.src }}"
 imageLicense: "{{ site.data.images.echinometra.caption }}"
 height: 70vh
@@ -15,11 +15,11 @@ height: 70vh
 toc: true
 ---
 
-## Identifiers
+## Identifikátory
 
-Identifiers and reference codes are essential to enable interoperbility.
+Identifikátory a referenční kódy jsou nezbytné pro zajištění interoperability.
 
-Each GRSciColl entry has a Universally Unique IDentifier (UUID) and associated URLs. [Editors](/how-to#become-editor) can also add a number of external identifiers to their collections and institution entries. Currently available identifier types include:
+Každá položka GRSciColl má univerzální jedinečný identifikátor (UUID) a související adresy URL. [Editoři](/how-to#become-editor) mohou ke svým sbírkám a záznamům institucí přidávat také řadu externích identifikátorů. V současné době jsou k dispozici tyto typy identifikátorů:
 
 <ul id="identifierEnums"></ul>
 
@@ -53,28 +53,28 @@ Each GRSciColl entry has a Universally Unique IDentifier (UUID) and associated U
     fetchAndDisplayIdentifiers();
 </script>
 
-In addition to contributions of the GRSciColl editors, identifiers for some institutions are imported automatically or semi-automatically.
-* All the entries connected to Index Herbariorum are given an Index Herbariorum identifier. See [how the syncronization with Index Herbariorum works](/about#index-herbariorum).
-* Many `CITES` identifiers also come from Index Herbariorum. See [how the syncronization with Index Herbariorum works](/connected-systems#index-herbariorum).
-* We matched as many GRSciColl institution entries as possible with [Wikidata](https://www.wikidata.org/) with their [OpenRefine](https://openrefine.org) Resolution tool and imported the wikidata identifiers.
-* We matched as many GRSciColl institution entries as possible with the [Research Organization Registry (ROR)](https://ror.org) using their [OpenRefine](https://openrefine.org) Resolution tool and imported the ROR identifiers.
-* We are working with the [NCBI BioCollection](https://www.ncbi.nlm.nih.gov/biocollections) team to import their identifiers in GRSciColl.
+Kromě příspěvků editorů GRSciColl jsou identifikátory některých institucí importovány automaticky nebo poloautomaticky.
+* Všechny záznamy připojené k Index Herbariorum mají identifikátor Index Herbariorum. Podívejte se [jak funguje synchronizace s Index Herbariorum](/o#index-herbariorum).
+* Mnoho identifikátorů `CITES` pochází také z Index Herbariorum. Podívejte se [jak funguje synchronizace s Index Herbariorum](/connected-systems#index-herbariorum).
+* Spárovali jsme co nejvíce záznamů institucí GRSciColl s [Wikidata](https://www.wikidata.org/) pomocí jejich [OpenRefine](https://openrefine.org) rezolučního nástroje a importovali identifikátory wikidat.
+* Spárovali jsme co nejvíce záznamů institucí GRSciColl s [Registrem výzkumných organizací (ROR)](https://ror.org) pomocí jejich [OpenRefine](https://openrefine.org) nástroje pro rozlišení a importovali identifikátory ROR.
+* Spolupracujeme s týmem [NCBI BioCollection](https://www.ncbi.nlm.nih.gov/biocollections) na importu jejich identifikátorů do GRSciColl.
 
-Users can search identifiers for collections and institutions both on this website and through [our API lookup servcie](https://www.gbif.org/developer/registry#lookup).
+Uživatelé mohou vyhledávat identifikátory sbírek a institucí jak na těchto webových stránkách, tak prostřednictvím [naší služby vyhledávání API](https://www.gbif.org/developer/registry#lookup).
 
-Identifiers are also used to link specimen-related occurrences published on GBIF to GRSciColl entries.
+Identifikátory se rovněž používají k propojení výskytů souvisejících s exempláři publikovanými v GBIF se záznamy v GRSciColl.
 
-## Occurrences published on GBIF
+## Výskyty zveřejněné na GBIF
 
-While processing and interpreting newly published occurrences, GBIF seeks to match records that include values for any of the following terms to the corresponding GRSciColl entry through the [GRSciColl lookup service](https://www.gbif.org/developer/registry#lookup):
+Při zpracování a interpretaci nově publikovaných výskytů se GBIF snaží přiřadit záznamy, které obsahují hodnoty pro některý z následujících termínů, k odpovídajícímu záznamu GRSciColl prostřednictvím [vyhledávací služby GRSciColl](https://www.gbif.org/developer/registry#lookup):
 * `institutionCode`
 * `collectionCode`
 * `institutionID`
 * `collectionID`
 
-For example, if an occurrence references the institution code `RBINS` and the institution identifier `https://ror.org/02y22ws83`, they will be linked to the [Royal Belgian Institute of Natural Sciences](/institution/c2bfdeef-9c03-435e-8465-c483dadd6995). Occurrences matched to GRSciColl entries are used in generating dashboards and metrics as shown in this example.
+Pokud například výskyt odkazuje na kód instituce `RBINS` a identifikátor instituce `https://ror.org/02y22ws83`, budou propojeny s <a href="/institution/c2bfdeef-9c03-435e-8465-c483dadd6995>Belgickým královským ústavem přírodních věd</a>. Výskyty přiřazené k záznamům GRSciColl se používají při generování informačních panelů a metrik, jak je uvedeno v tomto příkladu.
 
-In cases with more than one possible match, the system uses the publisher country to help select a GRSciColl match. [Learn more about how to link GBIF occurrences to GRSciColl](/faq#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
+V případech, kdy existuje více než jedna možná shoda, používá systém k výběru shody GRSciColl zemi vydavatele. [Learn more about how to link GBIF occurrences to GRSciColl](/faq#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
 
 ## GRSciColl data coming from other sources
 
