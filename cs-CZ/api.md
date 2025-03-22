@@ -1,5 +1,5 @@
 ---
-permalink: api
+permalink: /cs-CZ/api
 lang-ref: api
 title: Dokumentace API
 description: |
@@ -22,11 +22,11 @@ toc: true
 
 ## Co je API
 
-API stands for Application Progamming Interface. It is a way for computer program to communicate with other system, in our case GRSciColl. Anyone can use the GRSciColl API to access the GRSciColl data programmatically.
+API je zkratka pro Application Progamming Interface. Je to způsob, jakým počítačový program komunikuje s jiným systémem, v našem případě GRSciColl. Kdokoli může použít rozhraní GRSciColl API k programovému přístupu k datům GRSciColl.
 
-Editors can also use the GRSciColl API to update the GRSciColl data programmatically. If you are interested in becoming an editor, please check our [How-to](how-to#become-editor) page.
+Editoři mohou také používat rozhraní GRSciColl API k aktualizaci dat GRSciColl pomocí software. Pokud máte zájem stát se editorem, podívejte se na naši stránku [Jak na to](how-to#become-editor).
 
-### Introduction to the GBIF API
+### Úvod do rozhraní GBIF API
 
 The [GBIF Data Use Club](https://www.gbif.org/data-use-club) regularly organises webinars on various GBIF-related technical topics. Below is the recorded webinar introducing the GBIF API. It explains how to get started with any GBIF-developed API function (including the GRSciColl API).
 
