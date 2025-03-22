@@ -1,9 +1,9 @@
 ---
 permalink: /faq
 lang-ref: faq
-title: Frequently Asked Questions
+title: Často kladené dotazy
 description: |
-  Here you will find the answers to the most frequently asked questions.
+  Zde najdete odpovědi na nejčastější otázky.
 background: "{{ site.data.images.bombus-rufocinctus.src }}"
 imageLicense: "{{ site.data.images.bombus-rufocinctus.caption }}"
 height: 70vh
