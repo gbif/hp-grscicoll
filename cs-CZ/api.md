@@ -28,13 +28,13 @@ Editoři mohou také používat rozhraní GRSciColl API k aktualizaci dat GRSciC
 
 ### Úvod do rozhraní GBIF API
 
-The [GBIF Data Use Club](https://www.gbif.org/data-use-club) regularly organises webinars on various GBIF-related technical topics. Below is the recorded webinar introducing the GBIF API. It explains how to get started with any GBIF-developed API function (including the GRSciColl API).
+[Klub pro využívání dat GBIF](https://www.gbif.org/data-use-club) pravidelně pořádá webové semináře na různá technická témata související s GBIF. Níže naleznete záznam webináře, který představuje rozhraní GBIF API. Vysvětluje, jak začít používat jakoukoli funkci API vyvinutou GBIF (včetně rozhraní API GRSciColl).
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/797699677?h=e9fb58d307" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-## Technical Documentation
+## Technická Dokumentace
 
-The GRSciColl API is documented in details here.
+Zde je podrobně zdokumentováno rozhraní API GRSciColl.
 
-[Documentation](https://gbif.org/developer/registry#collections){: .button .is-primary}
+[Dokumentace](https://gbif.org/developer/registry#collections){: .button .is-primary}
 
