@@ -989,48 +989,48 @@
     },
     {
       "title": "Erbario",
-      "description": "From Berea College",
+      "description": "Dall'università di Berea",
       "background": "https://bisque.cyverse.org/image_service/image/00-wsDEmsSkKPjDMeSVcD9cFA/resize:4000/format:jpeg",
       "imageLicense": "[Thlaspi alliaceum L.](/specimen/search?entity=1977817221)",
       "xcta": [
         {
-          "text": "More",
-          "href": "/collection/52d829a3-404f-4203-9b23-a9bec0c28538"
+          "text": "Altro",
+          "href": "/es/colección/52d829a3-404f-4203-9b23-a9bec0c28538"
         }
       ]
     },
     {
-      "title": "Vertebrates",
-      "description": "From University of California Museum of Paleontology",
+      "title": "Vertebrati",
+      "description": "Dal Museo di paleontologia dell'Università della California",
       "background": "http://calphotos.berkeley.edu/imgs/512x768/0000_2222/4008/3977.jpeg",
       "imageLicense": "[Mammalia](/specimen/search?entity=1287033819)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/b1f320d4-fc46-465f-866f-d2d8acc17f4e"
         }
       ]
     },
     {
-      "title": "Specimen collection of the Natural History Museum Rotterdam",
-      "description": "From Natural History Museum Rotterdam",
+      "title": "Collezioni di campioni del Museo di Storia Naturale di Rotterdam",
+      "description": "Dal Museo di Storia Naturale di Rotterdam",
       "background": "https://www.nmr-pics.nl/PICTURES/NMR993000042753A.jpg",
       "imageLicense": "[Cinysca dunkeri (Philippi, 1853)](/specimen/search?entity=2570115310)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/187a8a55-7de6-4230-8250-7d4ee274004f"
         }
       ]
     },
     {
-      "title": "Vertebrate Zoology",
-      "description": "From Peabody Museum of Natural History",
+      "title": "Zoologia dei vertebrati",
+      "description": "Dal Museo di Storia Naturale di Peabody",
       "background": "https://images.collections.yale.edu/iiif/2/ypm:069147c4-624f-4f55-8b2e-dbc43820af7c/full/!1920,1920/0/default.jpg",
       "imageLicense": "[Gadus morhua Linnaeus, 1758](/specimen/search?entity=2013057692)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/d3dd565a-9094-409d-bc41-cff9e7fbd23a"
         }
       ]
@@ -1084,19 +1084,19 @@
       ]
     },
     {
-      "title": "Herbarium - Vascular plants",
-      "description": "From UiT The Arctic University of Norway",
+      "title": "Erbario - Piante vascolari",
+      "description": "Dall'Università Artica della Norvegia",
       "background": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=15454692&type=jpeg",
       "imageLicense": "[Poa arctica R.Br.](/specimen/search?entity=1323850868)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/ab06309e-b392-4f5e-99fc-4ae494dd5088"
         }
       ]
     },
     {
-      "title": "Paleontology",
+      "title": "Paleontologia",
       "description": "From University of Oregon, The Museum of Natural and Cultural History",
       "background": "http://munch-condonattach.uoregon.edu/originals/sp61014146251314407323.att.jpg",
       "imageLicense": "[Tipulidae](/specimen/search?entity=2642736358)",
