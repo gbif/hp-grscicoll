@@ -1,7 +1,7 @@
 ---
 permalink: /collection/_key_
 title: Data
-description: We publish open data
+description: Publikujeme otevřená data
 layout: collection-key
 ---
 
