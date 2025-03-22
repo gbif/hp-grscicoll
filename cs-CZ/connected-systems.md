@@ -74,11 +74,11 @@ Při zpracování a interpretaci nově publikovaných výskytů se GBIF snaží 
 
 Pokud například výskyt odkazuje na kód instituce `RBINS` a identifikátor instituce `https://ror.org/02y22ws83`, budou propojeny s <a href="/institution/c2bfdeef-9c03-435e-8465-c483dadd6995>Belgickým královským ústavem přírodních věd</a>. Výskyty přiřazené k záznamům GRSciColl se používají při generování informačních panelů a metrik, jak je uvedeno v tomto příkladu.
 
-V případech, kdy existuje více než jedna možná shoda, používá systém k výběru shody GRSciColl zemi vydavatele. [Learn more about how to link GBIF occurrences to GRSciColl](/faq#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
+V případech, kdy existuje více než jedna možná shoda, používá systém k výběru shody GRSciColl zemi vydavatele. [Zjistěte více o tom, jak propojit výskyty GBIF s GRSciColl](/faq#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
 
-## GRSciColl data coming from other sources
+## Data GRSciColl pocházející z jiných zdrojů
 
-The GRSciColl institution and collection entries can have external primary sources of information that comes from another registry or website. Edits to such primary sources prompt updates to corresponding GRSciColl entries, eliminating the need to manage information across multiple registries.
+Záznamy o instituci a sbírce GRSciColl mohou mít externí primární zdroje informací, které pocházejí z jiného registru nebo webové stránky. Edits to such primary sources prompt updates to corresponding GRSciColl entries, eliminating the need to manage information across multiple registries.
 
 Currently, the two possible sources of information for GRSciColl entries are [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) and the [GBIF](https://www.gbif.org) dataset and publisher metadata. Data for entries drawn from these sources should be edited at the source. In practice, GRSciColl's editing interface doesn't allow users to update fields that use information from an external source.
 
