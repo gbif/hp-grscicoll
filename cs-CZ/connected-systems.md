@@ -78,9 +78,9 @@ V případech, kdy existuje více než jedna možná shoda, používá systém k
 
 ## Data GRSciColl pocházející z jiných zdrojů
 
-Záznamy o instituci a sbírce GRSciColl mohou mít externí primární zdroje informací, které pocházejí z jiného registru nebo webové stránky. Edits to such primary sources prompt updates to corresponding GRSciColl entries, eliminating the need to manage information across multiple registries.
+Záznamy o instituci a sbírce GRSciColl mohou mít externí primární zdroje informací, které pocházejí z jiného registru nebo webové stránky. Úpravy těchto primárních zdrojů vyvolávají aktualizace odpovídajících záznamů v databázi GRSciColl, čímž odpadá nutnost spravovat informace ve více registrech.
 
-Currently, the two possible sources of information for GRSciColl entries are [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) and the [GBIF](https://www.gbif.org) dataset and publisher metadata. Data for entries drawn from these sources should be edited at the source. In practice, GRSciColl's editing interface doesn't allow users to update fields that use information from an external source.
+V současné době jsou dvěma možnými zdroji informací pro položky GRSciColl [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) a [GBIF](https://www.gbif.org) datová sada a metadata vydavatele. Data for entries drawn from these sources should be edited at the source. In practice, GRSciColl's editing interface doesn't allow users to update fields that use information from an external source.
 
 ### Index Herbariorum
 
