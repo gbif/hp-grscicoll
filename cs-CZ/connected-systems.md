@@ -86,13 +86,13 @@ V současné době jsou dvěma možnými zdroji informací pro položky GRSciCol
 
 Každý týden se GRSciColl synchronizuje s API [Index Herbariorum](https://sweetgum.nybg.org/science/ih/), aktualizuje informace o stávajících položkách, jejichž zdrojem je Index Herbariorum, a podle potřeby vytváří nové položky.
 
-Ve výchozím nastavení odpovídá jedna položka Rejstříku Herbářů položce instituce i položce sbírky v GRSciColl, protože herbáře jsou často botanickými sbírkami v rámci jiných institucí. Více informací o zdůvodnění si můžete přečíst v [tomto issue na GitHubu](https://github.com/gbif/registry/issues/167). Proces synchronizace může generovat duplicitní záznamy institucí, pokud se v jedné instituci nachází několik herbářových sbírek. See our [how-to page](/how-to#how-to-edit-a-grscicoll-collection-or-institution) and [FAQs](/faq/#how-to-handle-duplicates) for suggestions on how to handle these cases.
+Ve výchozím nastavení odpovídá jedna položka Rejstříku Herbářů položce instituce i položce sbírky v GRSciColl, protože herbáře jsou často botanickými sbírkami v rámci jiných institucí. Více informací o zdůvodnění si můžete přečíst v [tomto issue na GitHubu](https://github.com/gbif/registry/issues/167). Proces synchronizace může generovat duplicitní záznamy institucí, pokud se v jedné instituci nachází několik herbářových sbírek. Viz naše [stránka s návodem](/how-to#how-to-edit-a-grscicoll-collection-or-institution) a [FAQs](/faq/#how-to-handle-duplicates), kde najdete návrhy, jak tyto případy řešit.
 
-Editors can disconnect institutions entries from Index Herbariorum and choose to edit the institution directly in the GRSciColl editing interface as described in [this FAQ](/faq#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
+Editoři mohou odpojit záznamy institucí od Index Herbariorum a zvolit si editaci instituce přímo v editačním rozhraní GRSciColl, jak je popsáno v [toto FAQ](/faq#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
 
-### GBIF dataset metadata and GBIF publisher pages
+### Metadata datové sady GBIF a stránky vydavatele GBIF
 
-The metadata of datasets published on GBIF can be used as primary sources for collection entries in GRSciColl. Unlike with the Index Herbariorum synchronization, there is no weekly schedule and new entries aren't automatically created. Instead, editors must link GRSciColl collections to their sources manually. This is because the scope of GBIF includes data beyond the scope of GRSciColl. Note that there is also an option to create a collection entry from a dataset. See our [how-to page](/how-to#how-to-use-the-grscicoll-editing-interface). When the metadata of a dataset is updated, the corresponding collection entry is updated immediately.
+Metadata datových sad zveřejněných na GBIF lze použít jako primární zdroj pro záznamy sbírek v GRSciColl. Na rozdíl od synchronizace Index Herbariorum neexistuje žádný týdenní plán a nové záznamy se nevytvářejí automaticky. Instead, editors must link GRSciColl collections to their sources manually. This is because the scope of GBIF includes data beyond the scope of GRSciColl. Note that there is also an option to create a collection entry from a dataset. See our [how-to page](/how-to#how-to-use-the-grscicoll-editing-interface). When the metadata of a dataset is updated, the corresponding collection entry is updated immediately.
 
 Similarly, the publisher information available on GBIF can be used as a primary source for institution entries in GRSciColl.
 
