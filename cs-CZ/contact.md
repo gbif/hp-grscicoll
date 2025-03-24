@@ -34,4 +34,4 @@ You are very welcome to use the GRSciColl list to discuss issues, questions and 
 
 You can send us an email at `scientific-collections@gbif.org`.
 
-For contacting specific collections or institutions please refer to the contact information on their respective pages.
+Kontakty na konkrétní sbírky nebo instituce naleznete na jejich příslušných stránkách.

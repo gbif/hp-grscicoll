@@ -1,9 +1,9 @@
 ---
 permalink: /faq
 lang-ref: faq
-title: Frequently Asked Questions
+title: Často kladené dotazy
 description: |
-  Here you will find the answers to the most frequently asked questions.
+  Zde najdete odpovědi na nejčastější otázky.
 background: "{{ site.data.images.bombus-rufocinctus.src }}"
 imageLicense: "{{ site.data.images.bombus-rufocinctus.caption }}"
 height: 70vh
@@ -15,17 +15,17 @@ height: 70vh
 toc: true
 ---
 
-## GRSciColl website
+## Webové stránky GRSciColl
 
-## How to get my collection or specimen featured on the homepage?
+## Jak získat svou sbírku nebo exemplář na domovské stránce?
 
-If you would like to nominate your collection or specimen to be featured on the GRSciColl homepage, confirm that it meets the following criteria:
-* There must be an entry for the collection and associated institution in GRSciColl
-* The collection must have some digitized specimens available on GBIF.
-* Some the occurrences available on GBIF must be linked to the GRSciColl entry
-* Some of the occurrences available on GBIF must have images
+Pokud chcete nominovat svou sbírku nebo exemplář na umístění na domovské stránce GRSciColl, potvrďte, že splňuje následující kritéria:
+* V databázi GRSciColl musí existovat záznam pro sbírku a přidruženou instituci
+* Sbírka musí mít některé digitalizované exempláře dostupné na GBIF.
+* Některé výskyty dostupné v GBIF musí být propojeny se záznamem v GRSciColl
+* Některé výskyty dostupné na GBIF musí mít obrázky
 
-and then fill in and send [the nomination template](mailto:scientific-collections@gbif.org?subject=GRSciColl%20website%20-%20Collection%20Nomination&body=Collection%20name:%20%0ACollection%20link%20(on%20GRSciColl):%20%0ASubmiter%20name%20and%20affiliation:%20%0ALink%20to%20image%20that%20you%20wish%20to%20show%20on%20the%20homepage%20(optional):%20).
+a poté vyplňte a odešlete [nominační šablonu](mailto:scientific-collections@gbif.org?subject=GRSciColl%20website%20-%20Collection%20Nomination&body=Collection%20name:%20%0ACollection%20link%20(on%20GRSciColl):%20%0ASubmiter%20name%20and%20affiliation:%20%0ALink%20to%20image%20that%20you%20wish%20to%20show%20on%20the%20homepage%20(optional):%20).
 
 ## Can I export GRSciColl into a spreadsheet?
 

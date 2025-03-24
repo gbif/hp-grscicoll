@@ -1,8 +1,8 @@
 ---
 permalink: /collection/search
 title: Data
-description: We publish open data
+description: Publikujeme otevřená data
 layout: collection-search
-lang-ref: collection/search
+lang-ref: sbírka/hledání
 ---
 
