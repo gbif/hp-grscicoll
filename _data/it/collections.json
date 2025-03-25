@@ -2656,92 +2656,92 @@
       ]
     },
     {
-      "title": "Mammal collection NTNU University Museum",
-      "description": "From NTNU Museum of Natural History and Archaeology",
+      "title": "Collezione dei mammiferi, Museo dell'Università NTNU",
+      "description": "Dal Museo di Storia Naturale e Archeologia NTNU",
       "background": "https://natron.vm.ntnu.no/DataDocumentation/Collection/Pattedyr__systematisk/Gunnerus_4etg/Orientalsk/Utenlandsk/3227.jpg",
       "imageLicense": "[Paradoxurus hermaphroditus (Pallas, 1777)](/specimen/search?entity=1809985233)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/5bae53ec-d00f-4825-acb9-44b1277eafc9"
         }
       ]
     },
     {
-      "title": "NHMD Herpetology",
-      "description": "From Natural History Museum of Denmark",
+      "title": "NHMD Erpetologia",
+      "description": "Dal Museo di Storia Naturale della Danimarca",
       "background": "https://specify-attachments.science.ku.dk/static/NHMD_Herpetology/originals/sp61026199879190971904.att.jpg",
       "imageLicense": "[Probreviceps uluguruensis (Loveridge, 1925)](/specimen/search?entity=3778580328)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/891e5a9e-5402-4b89-b43f-f7b254ca076b"
         }
       ]
     },
     {
-      "title": "Bird Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Collezione degli uccelli",
+      "description": "Dal Museo canadese di storia naturale",
       "background": "http://ipt.nature.ca/multimedia/1/273/CMNAVB549_s.JPG",
       "imageLicense": "[Sitta pusilla Latham, 1790](/specimen/search?entity=1804172185)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/6c4eabe4-3402-4e8a-9740-7411c4321070"
         }
       ]
     },
     {
-      "title": "Birds",
-      "description": "From Queensland Museum",
+      "title": "Uccelli",
+      "description": "Dal Museo del Queensland",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=3f50074d-bf72-4385-9cd1-0bfa93e8c92b",
       "imageLicense": "[Monarchidae](/specimen/search?entity=1066185830)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/5c433f51-5c82-4c0b-88a8-f442563a4df6"
         }
       ]
     },
     {
       "title": "Porifera",
-      "description": "From Queensland Museum",
+      "description": "Dal Museo del Queensland",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=1afeb728-be68-4475-ad22-21cda52aaa6c",
       "imageLicense": "[Amphimedon Duchassaing & Michelotti, 1864](/specimen/search?entity=1633722596)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/cab86db8-10da-4e8e-8a4e-8a348825d3d9"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade Federal de Jataí",
+      "title": "Erbario",
+      "description": "Dall' Università Federale di Jataí",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=h/hj/HJ00000977.jpg",
       "imageLicense": "[Mentha pulegium L.](/specimen/search?entity=3069790370)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/daa02256-cdca-461b-88f9-554b6c617e05"
         }
       ]
     },
     {
-      "title": "Ichthyology",
-      "description": "From Museums Victoria",
+      "title": "Ittiologia",
+      "description": "Dai Musei Victoria",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=a609820a-1bc8-41ab-99b6-f8bee0c5e3c1",
       "imageLicense": "[Ulua mentalis (Cuvier, 1833)](/specimen/search?entity=1272479635)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/6d14fc1f-8b5a-41d0-8493-7133890d35bb"
         }
       ]
     },
     {
-      "title": "Other Invertebrates",
-      "description": "From Queensland Museum",
+      "title": "Altri invertebrati",
+      "description": "Dal Museo del Queensland",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=22085cb4-743f-4856-9ea6-fc8182f1747b",
       "imageLicense": "[Cableia pudica Bray, Cribb & Barker, 1996](/specimen/search?entity=1066720685)",
       "xcta": [
@@ -2842,38 +2842,38 @@
       "imageLicense": "[Setophaga coronata (Linnaeus, 1766)](/specimen/search?entity=1638530001)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/df013d5a-5056-40a6-b00e-6e76797b6399"
         }
       ]
     },
     {
-      "title": "Crustacea - SMF",
-      "description": "From Forschungsinstitut und Natur-Museum Senckenberg",
+      "title": "Crostacei - SMF",
+      "description": "Dall'Istituto di ricerca e Museo della natura di Senckenberg",
       "background": "http://sesam.senckenberg.de/pictures/originale/1/45907.jpg",
       "imageLicense": "[Caphyra polita (Heller, 1861)](/specimen/search?entity=3045948448)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/1d1393bd-7edd-46fe-a224-ac8ff8e38402"
         }
       ]
     },
     {
-      "title": "Protozoans",
-      "description": "From Queensland Museum",
+      "title": "Protozoi",
+      "description": "Dal Museo del Queensland",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=879effad-da28-4482-b022-da331cf6ba42",
       "imageLicense": "[Haemoproteus Kruse, 1890](/specimen/search?entity=1066796874)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/6161992c-f281-411e-89ee-50f6d49cd071"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidad de Concepción",
+      "title": "Erbario",
+      "description": "Dall'Università della Concepción",
       "background": "https://img-especies.mma.gob.cl/storage/4/OcurrenciasÁreaProyectoGEFMontana_506parcelas/khj8Xtinay6y5nzQi0HLaYVLugYCsnM59PrT8Ejf.jpeg",
       "imageLicense": "[Bromus berteroanus Colla](/specimen/search?entity=2235625293)",
       "xcta": [
