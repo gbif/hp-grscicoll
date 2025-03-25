@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: cs-CZ
 permalink: /cs-CZ/
 lang-ref: home
 layout: home
