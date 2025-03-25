@@ -92,9 +92,9 @@ Editoři mohou odpojit záznamy institucí od Index Herbariorum a zvolit si edit
 
 ### Metadata datové sady GBIF a stránky vydavatele GBIF
 
-Metadata datových sad zveřejněných na GBIF lze použít jako primární zdroj pro záznamy sbírek v GRSciColl. Na rozdíl od synchronizace Index Herbariorum neexistuje žádný týdenní plán a nové záznamy se nevytvářejí automaticky. Místo toho musí editoři propojit kolekce GRSciColl se svými zdroji ručně. Důvodem je skutečnost, že rozsah GBIF zahrnuje údaje mimo rozsah GRSciColl. Note that there is also an option to create a collection entry from a dataset. See our [how-to page](/how-to#how-to-use-the-grscicoll-editing-interface). When the metadata of a dataset is updated, the corresponding collection entry is updated immediately.
+Metadata datových sad zveřejněných na GBIF lze použít jako primární zdroj pro záznamy sbírek v GRSciColl. Na rozdíl od synchronizace Index Herbariorum neexistuje žádný týdenní plán a nové záznamy se nevytvářejí automaticky. Místo toho musí editoři propojit kolekce GRSciColl se svými zdroji ručně. Důvodem je skutečnost, že rozsah GBIF zahrnuje údaje mimo rozsah GRSciColl. Všimněte si, že existuje také možnost vytvořit položku sbírky z datové sady. Podívejte se na naši [stránku s návodem](/how-to#how-to-use-the-grscicoll-editing-interface). Při aktualizaci metadat datové sady se okamžitě aktualizuje odpovídající položka sbírky.
 
-Similarly, the publisher information available on GBIF can be used as a primary source for institution entries in GRSciColl.
+Podobně lze informace o vydavateli dostupné na GBIF použít jako primární zdroj pro záznamy o institucích v GRSciColl.
 
 ## GRSciColl as content for other websites
 
