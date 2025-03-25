@@ -1336,13 +1336,13 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade Estadual do Oeste do Paraná",
+      "title": "Erbario",
+      "description": "Dall'Università di Stato di Oeste Paranaense",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=u/unop/jpeg/UNOP009458.JPG",
       "imageLicense": "[Justicia lythroides (Nees) V.A.W.Graham](/specimen/search?entity=2302495435)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/a24f9102-578f-4d1f-a46b-b4f42139795e"
         }
       ]
