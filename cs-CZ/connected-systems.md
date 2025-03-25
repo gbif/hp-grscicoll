@@ -84,21 +84,21 @@ V současné době jsou dvěma možnými zdroji informací pro položky GRSciCol
 
 ### Rejstřík herbářů
 
-Every week, GRSciColl synchronizes with the [Index Herbariorum](https://sweetgum.nybg.org/science/ih/) API, updating information for existing entries whose source is Index Herbariorum and creating new entries as needed.
+Každý týden se GRSciColl synchronizuje s API [Index Herbariorum](https://sweetgum.nybg.org/science/ih/), aktualizuje informace o stávajících položkách, jejichž zdrojem je Index Herbariorum, a podle potřeby vytváří nové položky.
 
-Ve výchozím nastavení odpovídá jedna položka Rejstříku Herbářů položce instituce i položce sbírky v GRSciColl, protože herbáře jsou často botanickými sbírkami v rámci jiných institucí. You can read more about the rationale in [this GitHub issue](https://github.com/gbif/registry/issues/167). The synchronization process can generate duplicate institution entries when a single institution is home to several herbaria collections. See our [how-to page](/how-to#how-to-edit-a-grscicoll-collection-or-institution) and [FAQs](/faq/#how-to-handle-duplicates) for suggestions on how to handle these cases.
+Ve výchozím nastavení odpovídá jedna položka Rejstříku Herbářů položce instituce i položce sbírky v GRSciColl, protože herbáře jsou často botanickými sbírkami v rámci jiných institucí. Více informací o zdůvodnění si můžete přečíst v [tomto issue na GitHubu](https://github.com/gbif/registry/issues/167). Proces synchronizace může generovat duplicitní záznamy institucí, pokud se v jedné instituci nachází několik herbářových sbírek. Viz naše [stránka s návodem](/how-to#how-to-edit-a-grscicoll-collection-or-institution) a [FAQs](/faq/#how-to-handle-duplicates), kde najdete návrhy, jak tyto případy řešit.
 
-Editors can disconnect institutions entries from Index Herbariorum and choose to edit the institution directly in the GRSciColl editing interface as described in [this FAQ](/faq#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
+Editoři mohou odpojit záznamy institucí od Index Herbariorum a zvolit si editaci instituce přímo v editačním rozhraní GRSciColl, jak je popsáno v [toto FAQ](/faq#how-to-link-specimen-related-occurrences-published-on-gbif-to-grscicoll-entries).
 
-### GBIF dataset metadata and GBIF publisher pages
+### Metadata datové sady GBIF a stránky vydavatele GBIF
 
-The metadata of datasets published on GBIF can be used as primary sources for collection entries in GRSciColl. Unlike with the Index Herbariorum synchronization, there is no weekly schedule and new entries aren't automatically created. Instead, editors must link GRSciColl collections to their sources manually. This is because the scope of GBIF includes data beyond the scope of GRSciColl. Note that there is also an option to create a collection entry from a dataset. See our [how-to page](/how-to#how-to-use-the-grscicoll-editing-interface). When the metadata of a dataset is updated, the corresponding collection entry is updated immediately.
+Metadata datových sad zveřejněných na GBIF lze použít jako primární zdroj pro záznamy sbírek v GRSciColl. Na rozdíl od synchronizace Index Herbariorum neexistuje žádný týdenní plán a nové záznamy se nevytvářejí automaticky. Místo toho musí editoři propojit kolekce GRSciColl se svými zdroji ručně. Důvodem je skutečnost, že rozsah GBIF zahrnuje údaje mimo rozsah GRSciColl. Všimněte si, že existuje také možnost vytvořit položku sbírky z datové sady. Podívejte se na naši [stránku s návodem](/how-to#how-to-use-the-grscicoll-editing-interface). Při aktualizaci metadat datové sady se okamžitě aktualizuje odpovídající položka sbírky.
 
-Similarly, the publisher information available on GBIF can be used as a primary source for institution entries in GRSciColl.
+Podobně lze informace o vydavateli dostupné na GBIF použít jako primární zdroj pro záznamy o institucích v GRSciColl.
 
-## GRSciColl as content for other websites
+## GRSciColl jako obsah pro jiné webové stránky
 
-The [GRSciColl API](/api) makes it possible for other applications to access the GRSciColl data programmatically. This means that other website are able to display the GRSciColl content, which remains centrally curated. Anyone can use the API to include the GRSciColl data in their systems. Below are two documented examples.
+[GRSciColl API](/api) umožňuje ostatním aplikacím programový přístup k datům GRSciColl. This means that other website are able to display the GRSciColl content, which remains centrally curated. Anyone can use the API to include the GRSciColl data in their systems. Below are two documented examples.
 
 ### iDigBio
 
