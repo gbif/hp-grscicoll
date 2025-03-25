@@ -96,9 +96,9 @@ Metadata datových sad zveřejněných na GBIF lze použít jako primární zdro
 
 Podobně lze informace o vydavateli dostupné na GBIF použít jako primární zdroj pro záznamy o institucích v GRSciColl.
 
-## GRSciColl as content for other websites
+## GRSciColl jako obsah pro jiné webové stránky
 
-The [GRSciColl API](/api) makes it possible for other applications to access the GRSciColl data programmatically. This means that other website are able to display the GRSciColl content, which remains centrally curated. Anyone can use the API to include the GRSciColl data in their systems. Below are two documented examples.
+[GRSciColl API](/api) umožňuje ostatním aplikacím programový přístup k datům GRSciColl. This means that other website are able to display the GRSciColl content, which remains centrally curated. Anyone can use the API to include the GRSciColl data in their systems. Below are two documented examples.
 
 ### iDigBio
 
