@@ -98,12 +98,12 @@ Podobně lze informace o vydavateli dostupné na GBIF použít jako primární z
 
 ## GRSciColl jako obsah pro jiné webové stránky
 
-[GRSciColl API](/api) umožňuje ostatním aplikacím programový přístup k datům GRSciColl. This means that other website are able to display the GRSciColl content, which remains centrally curated. Anyone can use the API to include the GRSciColl data in their systems. Below are two documented examples.
+[GRSciColl API](/api) umožňuje ostatním aplikacím programový přístup k datům GRSciColl. To znamená, že ostatní webové stránky mohou zobrazovat obsah GRSciColl, který zůstává centrálně spravovaný. Kdokoli může použít rozhraní API a začlenit data GRSciColl do svých systémů. Níže jsou uvedeny dva zdokumentované příklady.
 
 ### iDigBio
 
-The data displayed on the [iDigBio Collections website](https://www.idigbio.org/portal/collections) is maintained in GRSciColl. iDigBio is part of our team of editors and review update suggestions for US institutions.
+Data zobrazená na [webové stránce iDigBio Collections](https://www.idigbio.org/portal/collections) jsou udržována v GRSciColl. iDigBio je součástí našeho týmu editorů a zpracovává návrhy aktualizací pro americké instituce.
 
-### GBIF hosted portals
+### Hostované portály GBIF
 
 The current GRSciColl website uses the [GBIF hosted portal](https://www.gbif.org/hosted-portals) framework, and any GBIF hosted portal can display data from GRSciColl—see, for example, the [UK Natural Sciences Collections Portal](https://data.dissco-uk.org). 
