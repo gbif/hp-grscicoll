@@ -30,7 +30,7 @@ You are very welcome to use the GRSciColl list to discuss issues, questions and 
 
 [Subscribe to our mailing list](https://lists.gbif.org/mailman/listinfo/scientific-collections){: .button .is-primary}
 
-## Send us an email
+## Pošlete nám e-mail
 
 You can send us an email at `scientific-collections@gbif.org`.
 
