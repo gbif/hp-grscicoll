@@ -1,5 +1,5 @@
 ---
-permalink: /connected-systems
+permalink: /cs-CZ/connected-systems
 lang-ref: connected-systems
 title: Propojené systémy
 description: |
