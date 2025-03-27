@@ -3,7 +3,7 @@ permalink: /cs-CZ/contact
 lang-ref: contact
 title: Kontakt
 description: |
-  Contact us if you would like to contribute to the Global Registry of Scientific Collections, enounter any issue or have any question. For contacting specific collections or institutions please refer to the contact information on their respective pages.
+  Pokud byste chtěli přispět do Globálního registru vědeckých sbírek, narazit na nějaký problém nebo se na něco zeptat, kontaktujte nás. Kontakty na konkrétní sbírky nebo instituce naleznete na jejich příslušných stránkách.
 background: "{{ site.data.images.octopus-eggs.src }}"
 imageLicense: "{{ site.data.images.octopus-eggs.caption }}"
 height: 70vh
@@ -15,7 +15,7 @@ height: 70vh
 toc: true
 ---
 
-## Update or add a record
+## Aktualizace nebo přidání záznamu
 
 See our [how-to page](/how-to).
 
