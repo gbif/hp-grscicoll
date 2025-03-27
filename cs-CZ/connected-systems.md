@@ -106,4 +106,4 @@ Data zobrazená na [webové stránce iDigBio Collections](https://www.idigbio.or
 
 ### Hostované portály GBIF
 
-The current GRSciColl website uses the [GBIF hosted portal](https://www.gbif.org/hosted-portals) framework, and any GBIF hosted portal can display data from GRSciColl—see, for example, the [UK Natural Sciences Collections Portal](https://data.dissco-uk.org). 
+Současné webové stránky GRSciColl využívají rámec [GBIF hosted portal](https://www.gbif.org/hosted-portals) a jakýkoli portál hostovaný GBIF může zobrazovat data z GRSciColl - viz například [UK Natural Sciences Collections Portal](https://data.dissco-uk.org). 
