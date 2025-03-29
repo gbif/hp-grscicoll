@@ -1577,60 +1577,60 @@
     },
     {
       "title": "Entomologia",
-      "description": "From Mississippi State University",
+      "description": "Dall'Università Statale del Mississippi",
       "background": "https://scan-bugs.org:443/imglib/scan/MISSA_MEM/MEM343/MEM343038_Cucullia_postera_IWF_1556904033_lg.jpg",
       "imageLicense": "[Cucullia postera Guenée, 1852](/specimen/search?entity=1846473785)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/06323d33-14d6-40ee-aa05-76ea1918254e"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Canadian Museum of Nature",
+      "title": "Erbario",
+      "description": "Dal Museo canadese di storia naturale",
       "background": "http://ipt.nature.ca/multimedia/9/764/CANM112428.jpg",
       "imageLicense": "[Mnium spinulosum Bruch & W.P.Schimper, 1846](/specimen/search?entity=1804562562)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/e82e8b96-cd63-41c4-aa47-be1e018906c9"
         }
       ]
     },
     {
-      "title": "KUBI Herpetology Collection",
-      "description": "From University of Kansas, Biodiversity Institute and Natural History Museum",
+      "title": "Collezione Erpetologica KUBI",
+      "description": "Dall'Università del Kansas, Istituto di Biodiversità e Museo di storia naturale",
       "background": "http://biimages.biodiversity.ku.edu/static/Herpetology/originals/sp6835193407586086969.att.tif",
       "imageLicense": "[Hyla tica Starrett, 1966](/specimen/search?entity=686770483)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/04e4cd0c-fea1-47a9-bed4-e318c748719f"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Muséum d'Histoire naturelle de Grenoble",
+      "title": "Erbario",
+      "description": "Dal Museo di Storia naturale di Grenoble",
       "background": "http://mediaphoto.mnhn.fr/media/1521477149384S9CCp2zx1jKZhyjQ",
       "imageLicense": "[Juncus capitatus Weigel](/specimen/search?entity=3435670308)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/797f4146-43ae-4b3b-892d-6ed9dcb2ffdd"
         }
       ]
     },
     {
-      "title": "NHMD Entomology",
-      "description": "From Natural History Museum of Denmark",
+      "title": "Entomologia NHMD",
+      "description": "Dal Museo di Storia Naturale della Danimarca",
       "background": "https://specify-attachments.science.ku.dk/static/NHMD_Entomology/originals/sp64882253855935359653.att.jpg",
       "imageLicense": "[Cephalops argutus (Hardy, 1968)](/specimen/search?entity=3458627549)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/1caa6488-5c47-4bed-8258-23155b269bd3"
         }
       ]
@@ -1732,20 +1732,20 @@
       ]
     },
     {
-      "title": "Ichthyology",
+      "title": "Ittiologia",
       "description": "Dall'Università di Harvard, Museo di Zoologia comparata",
       "background": "http://mczbase.mcz.harvard.edu/specimen_images/fish/large/155422.jpg",
       "imageLicense": "[Psednos barnardi Chernova, 2001](/specimen/search?entity=863246969)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/9cb8dc80-5285-4d5b-aaf2-19dedc15929a"
         }
       ]
     },
     {
-      "title": "CAS Entomology Types",
-      "description": "From California Academy of Sciences",
+      "title": "Tipi di Entomologia CAS",
+      "description": "Dall' Accademia delle Scienze della California",
       "background": "https://monarch.calacademy.org:443/mnt/target-images/CASTYPE/00019/CASTYPE19176_d.jpg",
       "imageLicense": "[Picromyza lutea Zeegers, 2015](/specimen/search?entity=2238763508)",
       "xcta": [
@@ -1948,97 +1948,97 @@
       ]
     },
     {
-      "title": "Invertebrates",
-      "description": "From Zadock Thompson Natural History Collection, University of Vermont",
+      "title": "Invertebrati",
+      "description": "Dalla Collezione di Storia Naturale Zadock Thompson, Università del Vermont",
       "background": "https://api.idigbio.org/v2/media/51aec1701c8089c8917669835e276ecb?size=fullsize",
       "imageLicense": "[Pterostichus corvinus (Dejean, 1828)](/specimen/search?entity=2563077882)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/fbcd2054-f92e-4400-85d1-0cabed751da0"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From University of California, Davis",
+      "title": "Erbario",
+      "description": "Dall'Università della California, Davis",
       "background": "https://api.idigbio.org/v2/media/24fc75042d6b54ff2f1123b99b548a56",
       "imageLicense": "[Phacelia suaveolens Greene](/specimen/search?entity=2421782269)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/069c634a-5c7a-4984-a112-bdbf4b2cbf08"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universität Erlangen-Nürnberg",
+      "title": "Erbario",
+      "description": "Dall'Università Erlangen-Nürnberg",
       "background": "http://www.herbarium-erlangense.nat.uni-erlangen.de/datenbank/bild/103/10331-large.jpg",
       "imageLicense": "[Cardamine L.](/specimen/search?entity=1094958462)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/6a7f7c95-38b7-4653-a7c2-efec61782235"
         }
       ]
     },
     {
-      "title": "Amphibian Collection",
-      "description": "From South African Institute for Aquatic Biodiversity",
+      "title": "Collezione di anfibi",
+      "description": "Dall'Istituto Sud Africano per la Biodiversità Acquatica",
       "background": "http://specify-attachments-saiab.saiab.ac.za/originals/sp6-5049967499184662496.att.JPG",
       "imageLicense": "[Chiromantis xerampelina Peters, 1854](/specimen/search?entity=1671748984)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/410defd8-cab6-4022-9c82-d59b666d3ee7"
         }
       ]
     },
     {
-      "title": "Entomology",
-      "description": "From University of Nevada, Museum of Biology",
+      "title": "Entomologia",
+      "description": "Dall'Università del Nevada, Museo di Biologia",
       "background": "https://api.idigbio.org/v2/media/fe3e8e2774b89d35dac1b2be755d886a",
       "imageLicense": "[incertae sedis](/specimen/search?entity=2561481607)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/09823344-679d-4c2b-a754-050ce18707d0"
         }
       ]
     },
     {
-      "title": "Invertebrate Zoology",
-      "description": "From Harvard University, Museum of Comparative Zoology",
+      "title": "Zoologia degli Invertebrati",
+      "description": "Dall'Università di Harvard, Museo di Zoologia comparata",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/invertebrates/thumbnails/SCOR-75_Favia_ananas_2.jpg",
       "imageLicense": "[Favia ananas (Linnaeus, 1758)](/specimen/search?entity=1503736560)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/6c118641-5b0b-4577-a8f6-a6dbd15de2e7"
         }
       ]
     },
     {
-      "title": "Colorado Plateau Museum of Arthropod Biodiversity",
-      "description": "From Northern Arizona University, Laboratory of Paleoecology",
+      "title": "Museo della biodiversità degli artropodi dell'Altopiano del Colorado",
+      "description": "Dall'Università dell'Arizona del Nord, Laboratorio di Paleoecologia",
       "background": "https://scan-bugs.org:443/imglib/scan/misc/202007/PISP0014400_D.jpg",
       "imageLicense": "[incertae sedis](/specimen/search?entity=2896876302)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/17fe8464-2314-4bfd-a971-31d3c4ae0fbb"
         }
       ]
     },
     {
-      "title": "NCSM Herbarium Collection",
-      "description": "From North Carolina Museum of Natural Sciences",
+      "title": "Collezione dell'Erbario NCSM",
+      "description": "Dal Museo di Scienze Naturali del Nord Carolina",
       "background": "https://ncmns-cams.s3.amazonaws.com/Collections/herbarium/NCSM001454.JPG",
       "imageLicense": "[Carex willdenowii Willd.](/specimen/search?entity=2825495112)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/2f51107e-f84b-4b74-bdcb-6236b74d901c"
         }
       ]
@@ -2146,98 +2146,98 @@
       "imageLicense": "[Wallengrenia otho Abbot & Smith, 1797](/specimen/search?entity=2560811312)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/5e6c8bf4-ed6c-4a17-b863-2115d3727ab5"
         }
       ]
     },
     {
-      "title": "Entomology",
-      "description": "From W.F. Barr Entomological Collection",
+      "title": "Entomologia",
+      "description": "Dalla Collezione Entomologica W.F. Barr",
       "background": "https://api.idigbio.org/v2/media/40b9646b18f94e2c0b8dde4aa5a058f3?size=fullsize",
       "imageLicense": "[Danaus plexippus (Linnaeus, 1758)](/specimen/search?entity=1977822649)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/2ca43779-241b-4b47-8fba-542261a28357"
         }
       ]
     },
     {
-      "title": "Ornithology",
-      "description": "From Harvard University, Museum of Comparative Zoology",
+      "title": "Ornitologia",
+      "description": "Dall'Università di Harvard, Museo di Zoologia comparata",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/ornithology/thumbnails/MCZ257790_Zonotrichia_leucophrys_feetx1.jpg",
       "imageLicense": "[Zonotrichia leucophrys (J.R.Forster, 1772)](/specimen/search?entity=863303099)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/26cea021-e030-42ac-bbed-dc0977b32150"
         }
       ]
     },
     {
-      "title": "Insect reference Collection",
-      "description": "From University of Delaware",
+      "title": "Collezione di riferimento per gli insetti",
+      "description": "Dall'Università del Delaware",
       "background": "https://scan-bugs.org:443/imglib/scan/UD_UDCC/UDCC_TCN00060/20160808_093900-1_1470855377_lg.jpg",
       "imageLicense": "[Papilio glaucus Linnaeus, 1758](/specimen/search?entity=1449838039)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/4bfe0e5d-5df8-4ed2-a5e8-850136d3e4bc"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Parc National des Cevennes",
+      "title": "Erbario",
+      "description": "Dal Parco Nazionale di Cevennes",
       "background": "http://mediaphoto.mnhn.fr/media/14997828034774fApXIeOM41r7GRQ",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1806624390)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/eb15685a-7759-46fc-856f-529efad9692b"
         }
       ]
     },
     {
-      "title": "UMNH Mammals",
-      "description": "From Natural History Museum of Utah",
+      "title": "Mammiferi UMNH",
+      "description": "Dal Museo di Storia Naturale dello Utah",
       "background": "http://arctos.database.museum/media/10610363?open",
       "imageLicense": "[Zapus princeps utahensis Hall, 1934](/specimen/search?entity=1656064828)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/b8f9fc9c-ec80-4453-8684-e087a7618a67"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Institute of Agricultural and Environmental Sciences of the Estonian University of Life Sciences",
+      "title": "Erbario",
+      "description": "Dall'Istituto di Agricoltura e di Scienze Ambientali dell'Università di Scienze della Vita dell'Estonia",
       "background": "https://ib.komisc.ru/files/gbif/redbook2019/taxonid-ib-komisc-ru-redbook-2019_054_Perenniporia_tenuis.png",
       "imageLicense": "[Perenniporia tenuis (Schwein.) Ryvarden](/specimen/search?entity=3320730916)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/5ec09964-64c9-4303-bb37-11d2fedd3c62"
         }
       ]
     },
     {
-      "title": "Paleontology, Fossil Invertebrates",
-      "description": "From American Museum of Natural History",
+      "title": "Paleontologia, Invertebrati Fossili",
+      "description": "Dal Museo americano di Storia Naturale",
       "background": "https://api.idigbio.org/v2/media/d1234d04aa701a8ef2b4d3f615cbd5d7",
       "imageLicense": "[Euglyphella sigmoidalis Jones, 1890](/specimen/search?entity=1213700403)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/24d6e74b-4f9d-473b-9d62-b0d573712db9"
         }
       ]
     },
     {
-      "title": "Mammals",
-      "description": "From Field Museum of Natural History",
+      "title": "Mammiferi",
+      "description": "Dal Museo Field di Storia Naturale",
       "background": "https://fm-digital-assets.fieldmuseum.org/721/099/153116_SkinDorsal_RK01_MZ.jpg",
       "imageLicense": "[Xerus rutilus saturatus (Neumann, 1900)](/specimen/search?entity=665742992)",
       "xcta": [
@@ -2344,37 +2344,37 @@
       ]
     },
     {
-      "title": "Invertebrate Zoology Collections MnhnL",
-      "description": "From National Museum of Natural History, Luxembourg",
+      "title": "Collezioni della Zoologia degli Invertebrati MnhnL",
+      "description": "Dal Museo di Storia Naturale, Lussemburgo",
       "background": "https://archimg.mnhn.lu/Collections/Invertebrate-zoology/Microscope-Slides/MNHNL57327.jpg",
       "imageLicense": "[Parthenolecanium pomeranicum (Kawecki, 1954)](/specimen/search?entity=3463454303)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/0cfdabee-eefd-42ca-8404-fcc966600486"
         }
       ]
     },
     {
-      "title": "Entomology",
-      "description": "From University of Texas at El Paso Biodiversity Collections",
+      "title": "Entomologia",
+      "description": "Collezioni sulla biodiversità dell'Università del Texas a El Paso",
       "background": "http://arctos.database.museum/media/10603398?open",
       "imageLicense": "[Bembix occidentalis W.Fox, 1893](/specimen/search?entity=2234244402)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/adb262a7-48d9-445e-8163-e78d8adf1fbd"
         }
       ]
     },
     {
-      "title": "Division of Mammals, Museum of Southwestern Biology",
-      "description": "From Museum of Southwestern Biology",
+      "title": "Divisione dei mammiferi, Museo della Biologia del Sud Ovest",
+      "description": "Dal Museo della Biologia del Sud Ovest",
       "background": "http://arctos.database.museum/media/10584529?open",
       "imageLicense": "[Neotoma mexicana inopinata Goldman, 1933](/specimen/search?entity=1145127382)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/8414267e-99d8-48dc-bbe8-10adc9157da3"
         }
       ]
@@ -2542,103 +2542,103 @@
       "imageLicense": "[Jacquemontia sphaerostigma (Cav.) Rusby](/specimen/search?entity=2996438431)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/1ed2d5f8-be22-4979-87f1-9f9c0e60ba71"
         }
       ]
     },
     {
-      "title": "Ornithology",
-      "description": "From University of Colorado Museum of Natural History",
+      "title": "Ornitologia",
+      "description": "Dal Museo di Storia Naturale dell'Università del Colorado",
       "background": "http://arctos.database.museum/media/10691065?open",
       "imageLicense": "[Selasphorus rufus (J.F.Gmelin, 1788)](/specimen/search?entity=1061320014)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/95ce811c-3330-4aec-b5f1-7b9e1973c248"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Instituto Nacional da Mata Atlântica - INMA",
+      "title": "Erbario",
+      "description": "Dall'Istituto Nazionale della Foresta Atlantica - INMA",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=m/mbml/2016_03_16/MBML024332.JPG",
       "imageLicense": "[Mandevilla Lindl.](/specimen/search?entity=2996372762)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/7c17531c-060d-4be6-a92e-bf546ec0945f"
         }
       ]
     },
     {
-      "title": "Parasitology",
-      "description": "From Museum of Southwestern Biology",
+      "title": "Parassitologia",
+      "description": "Dal Museo della Biologia del Sud Ovest",
       "background": "http://arctos.database.museum/media/10612593?open",
       "imageLicense": "[Strigeidae](/specimen/search?entity=1455542187)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/442204a5-d0f7-43f9-a497-433046e88bbf"
         }
       ]
     },
     {
-      "title": "Entomology",
-      "description": "From Queensland Museum",
+      "title": "Entomologia",
+      "description": "Dal Museo del Queensland",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=4d517df9-782e-4982-a5fc-3dcbabc8ea0e",
       "imageLicense": "[Bactrocera yorkensis Drew, Hancock & Romig, 1999](/specimen/search?entity=1066430238)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/2c64d356-01b0-40c6-ade8-b18a5e86ebc6"
         }
       ]
     },
     {
-      "title": "Mollusc Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Collezione di molluschi",
+      "description": "Dal Museo canadese di storia naturale",
       "background": "http://ipt.nature.ca/multimedia/0/917/CMNML003054exts.jpg",
       "imageLicense": "[Planogyra asteriscus (Morse, 1857)](/specimen/search?entity=1804271823)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/778fb16d-8e62-4c72-87d2-8e83ce8af189"
         }
       ]
     },
     {
-      "title": "Corals",
-      "description": "From Queensland Museum",
+      "title": "Coralli",
+      "description": "Dal Museo del Queensland",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=c881351c-1048-401c-8522-c23b52f11fcc",
       "imageLicense": "[Acropora austera (Dana, 1846)](/specimen/search?entity=1066238009)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/f18b77b5-87b1-415b-add9-6da489da61ee"
         }
       ]
     },
     {
-      "title": "Amphibians and Reptiles",
-      "description": "From Queensland Museum",
+      "title": "Anfibi e rettili",
+      "description": "Dal Museo del Queensland",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=5ae1e4c8-e3ff-4ea5-8a95-d165e6a7bd84",
       "imageLicense": "[Delma tinxcta De Vis, 1888](/specimen/search?entity=1066523593)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/23d366c2-97f6-4086-b1ff-5a2e7be84a27"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Pomona College",
+      "title": "Erbario",
+      "description": "Dal Pomona College",
       "background": "https://bisque.cyverse.org/image_service/image/00-rR2njL9zZjwGSrtyQfEAWW/resize:4000/format:jpeg",
       "imageLicense": "[Corethrogyne filaginifolia var. brevicula (Greene) M.L.Canby](/specimen/search?entity=2430086381)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/9eb002a1-2dbb-4d59-b1e1-41cf96cea6db"
         }
       ]
@@ -2746,98 +2746,98 @@
       "imageLicense": "[Cableia pudica Bray, Cribb & Barker, 1996](/specimen/search?entity=1066720685)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/7d51ba5d-475d-4bac-a784-8d27edd7dd28"
         }
       ]
     },
     {
-      "title": "Herpetology",
-      "description": "From University of Texas at El Paso Biodiversity Collections",
+      "title": "Erpetologia",
+      "description": "Collezioni sulla biodiversità dell'Università del Texas a El Paso",
       "background": "http://arctos.database.museum/media/10594301?open",
       "imageLicense": "[Crotalus lepidus Kennicott, 1861](/specimen/search?entity=2234858167)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/fbd7320b-79c4-476c-807d-c006927ab6a6"
         }
       ]
     },
     {
-      "title": "Molluscs",
-      "description": "From Queensland Museum",
+      "title": "Molluschi",
+      "description": "Dal Museo del Queensland",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=58cde248-5887-46ec-9ef2-cb465cacf153",
       "imageLicense": "[Argonauta argo Linnaeus, 1758](/specimen/search?entity=1066706340)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/f9b6bb0d-e879-4b06-8200-35e59050ea9c"
         }
       ]
     },
     {
-      "title": "Fishes",
-      "description": "From Queensland Museum",
+      "title": "Pesci",
+      "description": "Dal Museo del Queensland",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=ee8c1fa3-40db-4896-92d7-759f6a47a64f",
       "imageLicense": "[Pristotis obtusirostris (Günther, 1862)](/specimen/search?entity=1066502120)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/1e7de8df-9279-4cf0-b93e-6a645d1fb701"
         }
       ]
     },
     {
-      "title": "Division of Parasites, Host Collection, Museum of Southwestern Biology",
-      "description": "From Museum of Southwestern Biology",
+      "title": "Divisione dei parassiti, Collezione degli ospiti, Museo di biologia del Sud-Ovest",
+      "description": "Dal Museo della Biologia del Sud Ovest",
       "background": "http://arctos.database.museum/media/10431315?open",
       "imageLicense": "[Microtus oeconomus (Pallas, 1776)](/specimen/search?entity=897141235)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/046e3db8-408a-4e6f-a5cc-b32073527a3b"
         }
       ]
     },
     {
-      "title": "Invertebrates",
-      "description": "From University of Texas at El Paso Biodiversity Collections",
+      "title": "Invertebrati",
+      "description": "Collezioni sulla biodiversità dell'Università del Texas a El Paso",
       "background": "http://arctos.database.museum/media/10720645?open",
       "imageLicense": "[Popenaias popei (I.Lea, 1857)](/specimen/search?entity=1638503526)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/f1d49d5a-bd55-471a-b688-75482b82351c"
         }
       ]
     },
     {
-      "title": "Ichthyology",
-      "description": "From University of Colorado Museum of Natural History",
+      "title": "Ittiologia",
+      "description": "Dal Museo di Storia Naturale dell'Università del Colorado",
       "background": "http://arctos.database.museum/media/10565467?open",
       "imageLicense": "[Lepisosteus osseus (Linnaeus, 1758)](/specimen/search?entity=1061301083)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/b3b8104d-269b-4d86-b797-64aea6b73ec9"
         }
       ]
     },
     {
-      "title": "NHMD Vertebrate Paleontology",
-      "description": "From Natural History Museum of Denmark",
+      "title": "Paleontologia dei vertebrati NHMD",
+      "description": "Dal Museo di Storia Naturale della Danimarca",
       "background": "https://specify-attachments.science.ku.dk/static/NHMD_Vertebrate_Paleontology/originals/sp67070182255727192838.att.jpg",
       "imageLicense": "[Rhinobatos hakelensis Cappetta, 1980](/specimen/search?entity=3343254656)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/031cae57-a0f2-4fc6-91a0-479f0fcd6d58"
         }
       ]
     },
     {
-      "title": "Birds",
-      "description": "From University of Texas at El Paso Biodiversity Collections",
+      "title": "Uccelli",
+      "description": "Collezioni sulla biodiversità dell'Università del Texas a El Paso",
       "background": "http://arctos.database.museum/media/10584736?open",
       "imageLicense": "[Setophaga coronata (Linnaeus, 1766)](/specimen/search?entity=1638530001)",
       "xcta": [
@@ -2944,56 +2944,56 @@
       ]
     },
     {
-      "title": "Mammals",
-      "description": "From Queensland Museum",
+      "title": "Mammiferi",
+      "description": "Dal Museo del Queensland",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=87690fb8-fa65-4a64-8fc5-cdd1045a38d1",
       "imageLicense": "[Pteropus alecto gouldii Peters, 1867](/specimen/search?entity=1066631263)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/3e411ace-5da2-4b8b-a910-b4338bde5989"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From University of Hargeisa",
+      "title": "Erbario",
+      "description": "Dall'Università di Hargeisa",
       "background": "https://openherbarium.org:443/imglib/openmuseum/HARG/201705/AAI_002c_1496013765_lg.jpg",
       "imageLicense": "[Ipomoea L.](/specimen/search?entity=1913750898)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/2a4d7dc4-ea5f-4d74-874c-ad4effb9d3a4"
         }
       ]
     },
     {
-      "title": "Crustacea Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Collezione di Crostacei",
+      "description": "Dal Museo canadese di storia naturale",
       "background": "http://ipt.nature.ca/multimedia/15/507/CMNC1983-1133_CR_Image1_2010-03-24.jpg",
       "imageLicense": "[Leucon Krøyer, 1846](/specimen/search?entity=1804334221)",
       "xcta": [
         {
-          "text": "More",
-          "href": "/collection/0a009cbb-94c4-4bc5-9da4-cd6ad5a0e830"
+          "text": "Altro",
+          "href": "/collection/2a4d7dc4-ea5f-4d74-874c-ad4effb9d3a4"
         }
       ]
     },
     {
-      "title": "General Invertebrate Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Collezione generale degli invertebrati",
+      "description": "Dal Museo canadese di storia naturale",
       "background": "http://ipt.nature.ca/multimedia/15/377/CMNI2009-0025_CR_Image2_2010-03-22.jpg",
       "imageLicense": "[Metridium senile (Linnaeus, 1761)](/specimen/search?entity=1804618642)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/5c40c6dd-2c2d-4325-83bd-566fc3062add"
         }
       ]
     },
     {
-      "title": "Paleobotany",
-      "description": "From Virginia Museum of Natural History",
+      "title": "Paleobotanica",
+      "description": "Dal Museo di Storia Naturale dello Stato del Virginia",
       "background": "https://www.flickr.com/photos/68883384@N05/39890257750",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1946698551)",
       "xcta": [
@@ -3004,44 +3004,44 @@
       ]
     },
     {
-      "title": "Invertebrate Zoology, Hemiptera",
-      "description": "From American Museum of Natural History",
+      "title": "Zoologia degli invertebrati, Emitteri",
+      "description": "Dal Museo americano di Storia Naturale",
       "background": "http://sci-web-001.amnh.org/imutest/iz/imu/request.php?request=Multimedia&method=fetch&key=10006294",
       "imageLicense": "[Aoplonema nigrum Forero, 2008](/specimen/search?entity=2542818643)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/2f357e0b-bccd-40ba-bf33-d4c4ecc5fbb5"
         }
       ]
     },
     {
-      "title": "Amphibian Observation",
-      "description": "From South African Institute for Aquatic Biodiversity",
+      "title": "Osservazione degli anfibi",
+      "description": "Dall'Istituto Sud Africano per la Biodiversità Acquatica",
       "background": "http://specify-attachments-saiab.saiab.ac.za/originals/sp6-4057857573604574871.att.jpg",
       "imageLicense": "[Amietia fuscigula (Duméril & Bibron, 1841)](/specimen/search?entity=1265265623)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/4cd54c12-4b7d-4bb1-895a-95131656e405"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Institute of Plant and Animal Ecology",
+      "title": "Erbario",
+      "description": "Dall'Istituto dell'Ecologia Animale e Vegetale",
       "background": "https://ib.komisc.ru/files/gbif/redbook2019/taxonid-ib-komisc-ru-redbook-2019_059_Artomyces_cristatus.png",
       "imageLicense": "[Artomyces cristatus (Kauffman) Jülich](/specimen/search?entity=3320730727)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/580f28e9-1293-4ced-b4a6-ce2b8dfed83a"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade de São Paulo",
+      "title": "Erbario",
+      "description": "Dall' Università di São Paulo",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=spf/output_20161006_2/SPF000190278.JPG",
       "imageLicense": "[Microlicia tenuifolia R.Romero](/specimen/search?entity=2997724463)",
       "xcta": [
@@ -3142,302 +3142,302 @@
       "imageLicense": "[Chaetodipus intermedius (Merriam, 1889)](/specimen/search?entity=3855370314)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/ca5b487f-8fe8-49f2-a8ca-3deea8044391"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade Federal do Rio Grande do Norte",
+      "title": "Erbario",
+      "description": "Dall'Università Federale del Rio Grande do Norte",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=u/ufrn/UFRN_017/UFRN0001167.JPG",
       "imageLicense": "[Mitracarpus salzmannianus DC.](/specimen/search?entity=2302383202)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/eb3a333d-1aed-44c1-b56f-2a49ef60c59d"
         }
       ]
     },
     {
-      "title": "Vertebrate Zoology",
-      "description": "From World Museum, National Museums Liverpool",
+      "title": "Zoologia dei vertebrati",
+      "description": "Dal Museo Mondiale, Museo Nazionale di Liverpool",
       "background": "https://s3.eu-central-1.amazonaws.com/images-hosting.nbnatlas.org/nationalmuseumsliverpool/rafflesbirds/D2212_label.jpg",
       "imageLicense": "[Rhizothera longirostris (Temminck, 1815)](/specimen/search?entity=3034040302)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/225db9c9-16a8-47d4-a1a2-6940bb4a2da5"
         }
       ]
     },
     {
-      "title": "Mammal Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Collezione dei mammiferi",
+      "description": "Dal Museo canadese di storia naturale",
       "background": "http://ipt.nature.ca/multimedia/0/780/CMNMA232_skulls.jpg",
       "imageLicense": "[Rangifer tarandus caribou (Gmelin, 1788)](/specimen/search?entity=1804041463)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/a4fb2ebf-debd-45c7-8ceb-ab92b0eec9f2"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Department of Higher Education, Khyber Pakhtunkhwa, Pakistan",
+      "title": "Erbario",
+      "description": "Dal Dipartimento di Educazione Superiore, Khyber Pakhtunkhwa, Pakistan",
       "background": "https://openherbarium.org:443/imglib/openmuseum/BANNU_BANNU/BANNU000/received_348259579148638_1554224522.jpeg",
       "imageLicense": "[Tribulus terrestris L.](/specimen/search?entity=2426377441)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/21e4ecd0-7d42-4db5-88be-aff2afce929c"
         }
       ]
     },
     {
-      "title": "Fish Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Collezione di Pesci",
+      "description": "Dal Museo canadese di storia naturale",
       "background": "http://ipt.nature.ca/multimedia/0/788/CMNFI19860036%20(2).jpg",
       "imageLicense": "[Breviraja marklei McEachran & Miyake, 1987](/specimen/search?entity=1804014108)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/43ee3421-1758-445c-922b-0a8e8786a434"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade Federal de Mato Grosso do Sul, Campus do Pantanal",
+      "title": "Erbario",
+      "description": "Dall'Università Federale del Mato Grosso do Sul, Campus Pantanal",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=c/cor/output_112016/COR/0/1/63/39/COR00016339.JPG",
       "imageLicense": "[Terpsichore reclinata (Brack.) Labiak](/specimen/search?entity=2302402761)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/aad857f2-de37-4a5d-b153-0e805077d92a"
         }
       ]
     },
     {
-      "title": "Arthropods",
-      "description": "From Georgia Museum of Natural History",
+      "title": "Artropodi",
+      "description": "Dal Museo di Storia Naturale della Georgia",
       "background": "https://scan-bugs.org:443/imglib/scan/GMNH_UGCA/00000/VH8H1H8HOH5HAHKLEZGHRREHUZEHBZ_1496326255_lg.jpg",
       "imageLicense": "[Leptipsius striatus (LeConte, 1858)](/specimen/search?entity=2466423973)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/b546ac0a-dcfe-48e9-bb76-214039a3b126"
         }
       ]
     },
     {
-      "title": "UWYMV Mammal Specimens",
-      "description": "From University of Wyoming Museum of Vertebrates",
+      "title": "Esemplari di mammiferi UWYMV",
+      "description": "Dal Museo dei Vertebrati dell'Università del Wyoming",
       "background": "http://arctos.database.museum/media/10619054?open",
       "imageLicense": "[Procyon lotor (Linnaeus, 1758)](/specimen/search?entity=897121059)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/33262e5c-6848-4884-8891-584d0943034b"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidad de San Carlos de Guatemala",
+      "title": "Erbario",
+      "description": "Dall'Università di San Carlos del Guatemala",
       "background": "https://biodiversidad.gt/imglib/guatemala/USAC_USCG/00045/USCG_45254_1649040911.jpg",
       "imageLicense": "[Trichocentrum cebolleta (Jacq.) M.W.Chase & N.H.Williams](/specimen/search?entity=3504042412)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/3bd4ecc4-c084-4c5a-8e88-d2e19cd96d60"
         }
       ]
     },
     {
-      "title": "Entomology",
-      "description": "From Western Washington University Insect Collection",
+      "title": "Entomologia",
+      "description": "Dalla collezione d'insetti della Western Washington University",
       "background": "https://scan-bugs.org:443/imglib/scan/misc/202109/Undetermined-WWUC-0000000230-D.jpg",
       "imageLicense": "[incertae sedis](/specimen/search?entity=2234690896)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/f6d88076-30cd-4b67-9c2c-7fa79b20b250"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade do Extremo Sul Catarinense (UNESC)",
+      "title": "Erbario",
+      "description": "Dall'Universidade do Extremo Sul Catarinense (UNESC)",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=c/cri/0-5000/CRI000948.JPG",
       "imageLicense": "[Baccharis lymanii G.M.Barroso ex G.Heiden](/specimen/search?entity=2996469285)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/20aa2a12-8740-4763-afd0-3a1aa3e6e7b3"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From University of Sargodha",
+      "title": "Erbario",
+      "description": "Dall'Università di Sargodha",
       "background": "https://openherbarium.org:443/imglib/openmuseum/SARGU_SARGU/SARGU00/SARGU00007_1579110039_lg.jpg",
       "imageLicense": "[Alhagi maurorum Medik.](/specimen/search?entity=3014866303)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/51ad8205-bb4b-487c-a945-941fd57721e8"
         }
       ]
     },
     {
-      "title": "Annelid Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Collezione di Anellidi",
+      "description": "Dal Museo canadese della Natura",
       "background": "http://ipt.nature.ca/multimedia/15/312/CMNA2009-0010_CR_Image1_2010-03-19.jpg",
       "imageLicense": "[Alitta virens (M.Sars, 1835)](/specimen/search?entity=1804360098)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/64129ffa-aa3c-4009-a1cd-07e1eab68b5d"
         }
       ]
     },
     {
-      "title": "Division of Amphibians & Reptiles",
-      "description": "From Museum of Southwestern Biology",
+      "title": "Divisione di anfibi e rettili",
+      "description": "Dal Museo della Biologia del Sud Ovest",
       "background": "http://arctos.database.museum/media/10630742?open",
       "imageLicense": "[Aspidoscelis inornatus (Baird, 1859)](/specimen/search?entity=3093977640)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/1697b827-d31d-4c5c-9b8e-7fab21220ef5"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Naturhistorisches Museum Wien",
+      "title": "Erbario",
+      "description": "Dal Museo di Storia Naturale di Vienna",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=n/nhmwien/phase05/20160801_batch035-batch137/W20150005042_a.jpg",
       "imageLicense": "[Unonopsis R.E.Fr.](/specimen/search?entity=2995986347)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/7dae0702-991d-47bb-95bd-1ed2738673be"
         }
       ]
     },
     {
-      "title": "Parasite Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Collezione di Parassiti",
+      "description": "Dal Museo canadese della Natura",
       "background": "http://ipt.nature.ca/multimedia/15/495/CMNPA1999-0008_CR_Image2_2010-04-12.JPG",
       "imageLicense": "[Diplogonoporus balaenopterae (Lönnberg, 1892)](/specimen/search?entity=1804252203)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/442ecdba-5107-4c3c-801a-5a96032abb8d"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Federal University of Espírito Santo",
+      "title": "Erbario",
+      "description": "Dall'Università Federale dello Spirito Santo",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=v/vies/VIES/0/0/65/9/VIES006509.JPG",
       "imageLicense": "[Sinningia kautskyi Chautems](/specimen/search?entity=2996995621)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/ddf57b90-626a-4b0d-a452-63cb972046e6"
         }
       ]
     },
     {
-      "title": "Arizona State University Herpetology Collection",
-      "description": "From Arizona State University Biocollections",
+      "title": "Collezione di Erpetologia dell'Università di Stato dell'Arizona",
+      "description": "Dalle biocollezioni dell'Università di Stato dell'Arizona",
       "background": "https://csvcoll.org/imglib/verte/ASU_ASUHEC/ASUHEC022/ASUHEC022591_3_1479411139_lg.jpg",
       "imageLicense": "[Lampropeltis getula californiae (Blainville, 1835)](/specimen/search?entity=2816174852)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/2f7cf77e-cdbc-4bf5-9a45-a3f14f3d33b5"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Department of Forestry Science",
+      "title": "Erbario",
+      "description": "Dal Dipartimento di Scienza Forestale",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=h/hdcf/1-7282/65/23/HDCF006523_1.JPG",
       "imageLicense": "[Syagrus andrequiceana K.Soares & L.C.Assis](/specimen/search?entity=2302331594)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/304c0138-ea2e-478d-87bc-e2a639bae4bb"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade de São Paulo",
+      "title": "Erbario",
+      "description": "Dall' Università di São Paulo",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=esa/ESA002736.jpg",
       "imageLicense": "[Nothoscordum fragrans (Vent.) Kunth](/specimen/search?entity=2995869076)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/51c61583-68fb-4e49-bc5d-729aa098bc43"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade Federal de Santa Catarina",
+      "title": "Erbario",
+      "description": "Dall'Università Federale di Santa Catarina",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=f/flor/FLOR-2016-09-22-JPG/FLOR0020947.jpg",
       "imageLicense": "[Chenopodium L.](/specimen/search?entity=2996100534)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/399681e8-e58d-4828-8907-00d1d9b22e97"
         }
       ]
     },
     {
-      "title": "UMNH Bird Collection",
-      "description": "From Natural History Museum of Utah",
+      "title": "Collezione di uccelli UMNH",
+      "description": "Dal Museo di Storia Naturale dello Utah",
       "background": "http://arctos.database.museum/media/10678520?open",
       "imageLicense": "[Icterus galbula bullocki (Swainson, 1827)](/specimen/search?entity=1656024706)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/a79cc344-2314-4f99-b960-b8c164b3078b"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Quaid-I-Azam University",
+      "title": "Erbario",
+      "description": "Dall'Università Quaid-I-Azam",
       "background": "https://openherbarium.org:443/imglib/openmuseum/QAU_ISL/ISL0000/ISL0000005_1523068157_lg.jpg",
       "imageLicense": "[Ochthochloa compressa (Forssk.) Hilu](/specimen/search?entity=1890156002)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/af8d2bb1-08c0-401b-8ed0-01a3f7da3f41"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Meise Botanic Garden",
+      "title": "Erbario",
+      "description": "Dal giardino botanico di Meise",
       "background": "https://oxalis.br.fgov.be/images/BR0/000/080/019/305/BR0000080019305.jpg",
       "imageLicense": "[Persea schiedeana Nees](/specimen/search?entity=1840557924)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/bbec9dd1-1a52-4ea5-8345-90151ba1fa6f"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade Federal do Espírito Santo",
+      "title": "Erbario",
+      "description": "Dall'Università Federale dello Spirito Santo",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=s/sames/SAMES00959_1.JPG",
       "imageLicense": "[Aechmea blanchetiana (Baker) L.B.Sm.](/specimen/search?entity=2381366451)",
       "xcta": [
@@ -3544,121 +3544,121 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade Estadual de Maringá",
+      "title": "Erbario",
+      "description": "Dall'Università Statale di Maringá",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=h/huem/0/0/0/88/HUEM000000088.JPG",
       "imageLicense": "[Thunbergia Retz.](/specimen/search?entity=2996262166)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/d4c2a220-e300-4ffa-9004-f6d98ac5a9b2"
         }
       ]
     },
     {
-      "title": "Entomology",
-      "description": "From Frost Entomological Museum, Penn State University",
+      "title": "Entomologia",
+      "description": "Dal Museo Entomologico Frost, Università di Penn State",
       "background": "https://scan-bugs.org:443/imglib/scan/PSUC_ENTO/00000/IMG_9916_1557236681.jpg",
       "imageLicense": "[Callirhytis Förster, 1869](/specimen/search?entity=2274097120)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/e58be1c1-0e01-440a-b5c2-3bda0fd7e451"
         }
       ]
     },
     {
-      "title": "Arizona State University Ichthyology Collection",
-      "description": "From Arizona State University Biocollections",
+      "title": "Collezione d'Ittiologia dell'Università di Stato dell'Arizona",
+      "description": "Dalle biocollezioni dell'Università di Stato dell'Arizona",
       "background": "https://csvcoll.org/imglib/verte/ASU_ASUFIC/ASUFIC007/ASUFIC007087_1612371538_lg.jpg",
       "imageLicense": "[Ptychocheilus lucius Girard, 1856](/specimen/search?entity=2866766927)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/1accb127-69ff-4f92-beef-faba6ec8c729"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade Federal de Rondônia",
+      "title": "Erbario",
+      "description": "Dall' Università Federale di Rondônia",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=r/ron/UDPATE-11-05-2017/RON0005362.jpg",
       "imageLicense": "[Myrcia bracteata (Rich.) DC.](/specimen/search?entity=2998102798)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/1fd9d85d-e2ba-4ce8-973c-34a2a6471908"
         }
       ]
     },
     {
-      "title": "Fish",
-      "description": "From University of Texas at El Paso Biodiversity Collections",
+      "title": "Pesci",
+      "description": "Collezioni sulla biodiversità dell'Università del Texas a El Paso",
       "background": "http://arctos.database.museum/media/10497849?open",
       "imageLicense": "[Lepomis cyanellus Rafinesque, 1819](/specimen/search?entity=1323895182)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/22693fd7-c6b3-4bc9-b221-dc607ef93429"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From University of California",
+      "title": "Erbario",
+      "description": "Dall'Università della California",
       "background": "https://bisque.cyverse.org/image_service/image/00-TcFnkxVSRbn3DqugwDttPk/resize:4000/format:jpeg",
       "imageLicense": "[Mimetanthe pilosa (Benth.) Greene](/specimen/search?entity=3503191230)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/4eba3b38-920d-44a0-9616-378794552923"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Pontifícia Universidade Católica do Paraná",
+      "title": "Erbario",
+      "description": "Dalla Pontificia Università Cattolica del Paraná",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=h/hucp/HUCP000159.JPG",
       "imageLicense": "[Asplenium martianum C.Chr.](/specimen/search?entity=2995834744)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/523c0342-6101-429f-8b04-b7d67d158a07"
         }
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade do Estado de Santa Catarina",
+      "title": "Erbario",
+      "description": "Dall'Università dello Stato di Santa Catarina",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=l/lusc/0-5000/LUSC005645.jpg",
       "imageLicense": "[Paspalum pumilum Nees](/specimen/search?entity=2995985072)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/9f1371e9-b913-48b6-8a97-5d3b6bb236a5"
         }
       ]
     },
     {
-      "title": "Mammalogy",
-      "description": "From Florida Museum of Natural History- Zoology, Paleontology & Paleobotany",
+      "title": "Mammalogia",
+      "description": "Dal Museo di Storia Naturale della Florida - zoologia, paleontologia e paleobotanica",
       "background": "https://www.morphosource.org/index.php/Detail/MediaDetail/Show/media_file_id/40585",
       "imageLicense": "[Cabassous chacoensis Wetzel, 1980](/specimen/search?entity=1638475731)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/a6c5f325-a752-4826-a530-4ae7c5a2976e"
         }
       ]
     },
     {
-      "title": "UMNH Herpetiles",
-      "description": "From Natural History Museum of Utah",
+      "title": "Erpetologia UMNH",
+      "description": "Dal Museo di Storia Naturale dello Utah",
       "background": "http://arctos.database.museum/media/10625239?open",
       "imageLicense": "[Chelodina oblonga Gray](/specimen/search?entity=1638483769)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Altro",
           "href": "/collection/edd81c9d-6df0-4473-8cca-1b2519facd14"
         }
       ]
@@ -3666,12 +3666,12 @@
   ],
   "cta": [
     {
-      "text": "Explore collections",
+      "text": "Esplora le collezioni",
       "isPrimary": true,
-      "href": "/collection/search"
+      "href": "collection/search"
     },
     {
-      "text": "Explore specimens",
+      "text": "Esplora gli esemplari",
       "isPrimary": true,
       "href": "/specimen/search"
     }
