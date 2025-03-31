@@ -27,14 +27,14 @@ Pokud chcete nominovat svou sbírku nebo exemplář na umístění na domovské 
 
 a poté vyplňte a odešlete [nominační šablonu](mailto:scientific-collections@gbif.org?subject=GRSciColl%20website%20-%20Collection%20Nomination&body=Collection%20name:%20%0ACollection%20link%20(on%20GRSciColl):%20%0ASubmiter%20name%20and%20affiliation:%20%0ALink%20to%20image%20that%20you%20wish%20to%20show%20on%20the%20homepage%20(optional):%20).
 
-## Can I export GRSciColl into a spreadsheet?
+## Mohu exportovat GRSciColl do tabulkového procesoru?
 
-The result of a collection or institution search can be downloaded from the website by clicking on this button:
+Výsledek vyhledávání ve sbírce nebo instituci si můžete stáhnout z webových stránek kliknutím na toto tlačítko:
 <img width="1664" alt="download_as_csv" src="https://github.com/gbif/hp-grscicoll/assets/7677271/0ed58648-4efc-4755-876f-29677f6be975" />
 
-## What is the difference between GBIF datasets and GRSciColl collections?
+## Jaký je rozdíl mezi datovými sadami GBIF a sbírkami GRSciColl?
 
-GRSciColl originated independently from GBIF, it has [its own history](/about#data-history). Many datasets published on GBIF contain records for specimens that belong to collections registered in GRSciColl. The content between GBIF and GRSciColl can overlap. However, there are a few differences:
+GRSciColl vznikl nezávisle na GBIF, má [svou vlastní historii](/about#data-history). Mnoho datových sad publikovaných na GBIF obsahuje záznamy o exemplářích, které patří do sbírek registrovaných v GRSciColl. Obsah GBIF a GRSciColl se může překrývat. However, there are a few differences:
 * A GRSciColl collection entry must correspond to a physical collection while GBIF datasets can contain other types of records like observations.
 * A GRSciColl collection entry can refer to a historical collection that was lost or split.
 * Datasets published on GBIF contain biodiversity data while collection entries on GRSciColl can describe geological or archeological collections for example.
