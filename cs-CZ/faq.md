@@ -1,5 +1,5 @@
 ---
-permalink: /faq
+permalink: /cs-CZ/faq
 lang-ref: faq
 title: Často kladené dotazy
 description: |
