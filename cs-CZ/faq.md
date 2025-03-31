@@ -34,10 +34,10 @@ Výsledek vyhledávání ve sbírce nebo instituci si můžete stáhnout z webov
 
 ## Jaký je rozdíl mezi datovými sadami GBIF a sbírkami GRSciColl?
 
-GRSciColl vznikl nezávisle na GBIF, má [svou vlastní historii](/about#data-history). Mnoho datových sad publikovaných na GBIF obsahuje záznamy o exemplářích, které patří do sbírek registrovaných v GRSciColl. Obsah GBIF a GRSciColl se může překrývat. However, there are a few differences:
-* A GRSciColl collection entry must correspond to a physical collection while GBIF datasets can contain other types of records like observations.
-* A GRSciColl collection entry can refer to a historical collection that was lost or split.
-* Datasets published on GBIF contain biodiversity data while collection entries on GRSciColl can describe geological or archeological collections for example.
+GRSciColl vznikl nezávisle na GBIF, má [svou vlastní historii](/about#data-history). Mnoho datových sad publikovaných na GBIF obsahuje záznamy o exemplářích, které patří do sbírek registrovaných v GRSciColl. Obsah GBIF a GRSciColl se může překrývat. Existuje však několik rozdílů:
+* Záznam sbírky GRSciColl musí odpovídat fyzické sbírce, zatímco datové sady GBIF mohou obsahovat jiné typy záznamů, například pozorování.
+* Položka sbírky GRSciColl může odkazovat na historickou sbírku, která byla ztracena nebo rozdělena.
+* .
 
 GBIF publishers may choose to publish all their records in one dataset but describe their holdings with several collection entries in GRSciColl. Alternatively, several datasets can contain records corresponding to specimens belonging to the same collection.
 
