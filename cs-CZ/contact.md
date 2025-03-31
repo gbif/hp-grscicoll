@@ -17,21 +17,21 @@ toc: true
 
 ## Aktualizace nebo přidání záznamu
 
-See our [how-to page](/how-to).
+Podívejte se na naši [stránku s návodem](/how-to#how-to-use-the-grscicoll-editing-interface).
 
-## Post on our forum
+## Příspěvek na našem fóru
 
-You can write your questions and follow the GRSciColl activities on our forum
+Své dotazy můžete psát a sledovat aktivity GRSciCollu na našem fóru
 
 [GRSciColl fórum](https://discourse.gbif.org/c/grscicoll){: .button .is-primary}
-## Subscribe and use our mailing list
+## Přihlaste se k odběru a používejte naši e-mailovou konferenci
 
-You are very welcome to use the GRSciColl list to discuss issues, questions and wishes concerning the Global Registry of Scientific Collections.
+Jste vítáni v konferenci GRSciColl, kde můžete diskutovat o problémech, otázkách a přáních týkajících se Globálního registru vědeckých sbírek.
 
-[Subscribe to our mailing list](https://lists.gbif.org/mailman/listinfo/scientific-collections){: .button .is-primary}
+[Odebírejte naši e-mailovou konferenci](https://lists.gbif.org/mailman/listinfo/scientific-collections){: .button .is-primary}
 
 ## Pošlete nám e-mail
 
-You can send us an email at `scientific-collections@gbif.org`.
+Můžete nám poslat e-mail na `scientific-collections@gbif.org`.
 
 Kontakty na konkrétní sbírky nebo instituce naleznete na jejich příslušných stránkách.
