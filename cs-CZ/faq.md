@@ -88,23 +88,23 @@ Kódy nemusí být v GRSciColl jedinečné a jeden záznam může mít několik 
 
 ### Jaké by měly být identifikátory mé sbírky/instituce?
 
-Záznam může být spojen s externími identifikátory, jako jsou: wikidata, ROR, DOI atd. Only editors can add identifiers to entries. Note that GRSciColl identifiers are used to match occurrences published on GBIF to GRSciColl entries.
+Záznam může být spojen s externími identifikátory, jako jsou: wikidata, ROR, DOI atd. Identifikátory mohou k záznamům přidávat pouze editoři. Všimněte si, že identifikátory GRSciColl se používají k přiřazení výskytů publikovaných v GBIF k záznamům GRSciColl.
 
-#### What format should be my ROR identifier?
+#### V jakém formátu má být můj identifikátor ROR?
 
-The preferred form of a ROR identifier is the entire URL: https://ror.org/02mhbdp94. See [this ROR FAQ](https://ror.org/about/faqs/#what-is-a-ror-identifier).
+Preferovanou formou identifikátoru ROR je celá adresa URL: https://ror.org/02mhbdp94. Viz [tento ROR FAQ](https://ror.org/about/faqs/#what-is-a-ror-identifier).
 
-### How to handle duplicates
+### Jak zacházet s duplicitami
 
-If you find duplicate entries in GRSciColl, there are two way to handle them.
+Pokud v GRSciColl najdete duplicitní záznamy, můžete s nimi naložit dvěma způsoby.
 * You might want to keep both entries and label one as `inactive` by uncheckling the `active` box.
-* You might want to merge the entries by using the editing interface.
+* Možná budete chtít sloučit položky pomocí rozhraní pro úpravy.
 
-Merging entries will delete one and transfert all the identifiers, codes and collections (if it is an institution) to the remaining entry. In additiont to that, the information from the entry deleted will be transferred to empty fields in the remaining entry. We recommend merging entry rather than deleting them to conserve the identifiers. So if someone references one of the "old" identifiers, they will be redirected to the remaining entry.
+Sloučením záznamů se jeden z nich odstraní a všechny identifikátory, kódy a sbírky (pokud se jedná o instituci) se přenesou do zbývajícího záznamu. Kromě toho se informace z odstraněného záznamu přenesou do prázdných polí ve zbývajícím záznamu. Z důvodu zachování identifikátorů doporučujeme položky spíše sloučit než odstranit. Pokud tedy někdo odkáže na jeden ze "starých" identifikátorů, bude přesměrován na zbývající položku.
 
-## Editing interface - Technical questions
+## Rozhraní pro úpravy - Technické otázky
 
-The GRSciColl editing interface lives in the [GBIF Registry](https://registry.gbif.org). You can access it from any institution or collection page by clicking on the `Edit` button. You don't need an account to suggest changes. For direct updates and for adding or removing primary sources and identifiers, you will need to [be an editor](/how-to#become-editor).
+Editační rozhraní GRSciColl je umístěno v [Registru GBIF](https://registry.gbif.org). You can access it from any institution or collection page by clicking on the `Edit` button. You don't need an account to suggest changes. For direct updates and for adding or removing primary sources and identifiers, you will need to [be an editor](/how-to#become-editor).
 
 ### My collection is a dataset on GBIF: how to make GBIF dataset metadata and GBIF publisher pages primary sources for GRSciColl
 
