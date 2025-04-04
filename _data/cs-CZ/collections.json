@@ -54,8 +54,8 @@
       "href": "/collection/1caa6488-5c47-4bed-8258-23155b269bd3"
     },
     {
-      "title": "Entomology (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Entomologie (USNM)",
+      "description": "Ze Smithsonian Institution, National Museum of Natural History",
       "background": "http://n2t.net/ark:/65665/m3410a0071-af64-422f-9aa6-a6a893dc718b",
       "imageLicense": "[Hylocurosoma adustus Eggers, 1943](/specimen/search?entity=1320615198)",
       "xcta": [
@@ -67,8 +67,8 @@
       "href": "/collection/ac7b18e8-e231-4e03-bea6-575fc6023ac4"
     },
     {
-      "title": "Herbarium",
-      "description": "From Anton de Kom University of Suriname",
+      "title": "Herbář",
+      "description": "Z Univerzity Antona de Koma v Surinamu",
       "background": "https://ia801503.us.archive.org/15/items/bbs-dataset202201/BBS0002048.jpg",
       "imageLicense": "[Tabernaemontana heterophylla Vahl](/specimen/search?entity=3699023535)",
       "xcta": [
@@ -80,8 +80,8 @@
       "href": "/collection/02bec4e3-2cd7-46f3-955e-46f9b802643d"
     },
     {
-      "title": "Mycology Herbarium",
-      "description": "From University of Oslo",
+      "title": "Mykologický herbář",
+      "description": "Z Univerzity v Oslu",
       "background": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=14321350&type=jpeg",
       "imageLicense": "[Omphalina Quél., 1886](/specimen/search?entity=2332452285)",
       "xcta": [
@@ -93,8 +93,8 @@
       "href": "/collection/a879e8a7-604a-4c7f-b40f-efb2dfc22be2"
     },
     {
-      "title": "Kathryn Kalmbach Herbarium",
-      "description": "From Denver Botanic Gardens",
+      "title": "Herbář Kathryn Kalmbachové",
+      "description": "Z denverské botanické zahrady",
       "background": "https://intermountainbiota.org/imglib/storage/portals/seinet/arizona/DBG_KHD/KHD00069/KHD00069333_lg.jpg",
       "imageLicense": "[Chenopodium glaucum subsp. salinum (Standl.) Aellen](/specimen/search?entity=2242357388)",
       "xcta": [
@@ -106,8 +106,8 @@
       "href": "/collection/ecc505c5-cadd-4cb5-b0b6-b83b9eca4848"
     },
     {
-      "title": "The fossil collection",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "title": "Sbírka zkamenělin",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "http://mediaphoto.mnhn.fr/media/1441979344668pH8hGx5a2JWkVRyS",
       "imageLicense": "[Athleta intercrenatus Cossmann & Pissarro, 1909](/specimen/search?entity=1019802686)",
       "xcta": [
@@ -119,8 +119,8 @@
       "href": "/collection/23fbece0-6e07-4a9c-ac86-7aa8e041ac9e"
     },
     {
-      "title": "Herbarium - Algae",
-      "description": "From UiT The Arctic University of Norway",
+      "title": "Herbář - Řasy",
+      "description": "Z UiT Arktické univerzity v Norsku",
       "background": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=15404327&type=jpeg",
       "imageLicense": "[Furcellaria lumbricalis (Hudson) J.V.Lamouroux](/specimen/search?entity=3855869054)",
       "xcta": [
