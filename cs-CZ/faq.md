@@ -43,52 +43,52 @@ Vydavatelé GBIF se mohou rozhodnout zveřejnit všechny své záznamy v jedné 
 
 Podívejte se, jak jsou výskyty publikované na GBIF propojeny se záznamy GRSciColl [zde](/connected-systems#occurrences-published-on-gbif). Podívejte se, jak lze datové sady GBIF propojit se záznamy sbírky GRSciColl [zde](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
-## What is the difference between GBIF publishers and GRSciColl institutions?
+## Jaký je rozdíl mezi vydavateli GBIF a institucemi GRSciColl?
 
-GRSciColl originated independently from GBIF, it has [its own history](/about#data-history). Many datasets published on GBIF contain records for specimens that belong to collections registered in GRSciColl. The content between GBIF and GRSciColl can overlap. See [the question above](/faq#what-is-the-difference-between-gbif-datasets-and-grscicoll-collections). However, there are some differences:
-* GBIF publishers are registered organizations that actively share data on GBIF. They use [publishing tools](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/) in order to share datasets on GBIF. Some publishers are museums and herbaria but others are citizen science initiatives, journals or research facilities which might only be sharing observations, taxa descriptions or DNA-derived data.
-* GRSciColl institutions were registered because they are known to hold physical scientific collections. GRSciColl institution entries can be added by GRSciColl editors (based on information found in publications or online) or by the institutions themselves.
+GRSciColl vznikl nezávisle na GBIF, má [svou vlastní historii](/about#data-history). Mnoho datových sad publikovaných na GBIF obsahuje záznamy o exemplářích, které patří do sbírek registrovaných v GRSciColl. Obsah GBIF a GRSciColl se může překrývat. Viz [otázka výše](/faq#what-is-the-difference-between-gbif-datasets-and-grscicoll-collections). Existuje však několik rozdílů:
+* Vydavatelé GBIF jsou registrované organizace, které aktivně sdílejí data na GBIF. Ke sdílení datových sad na GBIF používají [publikační nástroje](https://data-blog.gbif.org/post/installations-and-hosting-solutions-explained/). Někteří vydavatelé jsou muzea a herbáře, ale jiní jsou občanské vědecké iniciativy, časopisy nebo výzkumná zařízení, která mohou sdílet pouze pozorování, popisy taxonů nebo data získaná z DNA.
+* Instituce GRSciColl byly zaregistrovány, protože je známo, že vlastní fyzické vědecké sbírky. Záznamy o institucích GRSciColl mohou přidávat editoři GRSciColl (na základě informací nalezených v publikacích nebo online) nebo samotné instituce.
 
-A large administrative entity like a university can register as a GBIF publisher and describe its departments as GRSciColl institutions. Alternatively, some GBIF publishers can correspond to smaller entities and have they institution represented as one entry in GRSciColl.
+Velký administrativní subjekt, jako je univerzita, se může zaregistrovat jako vydavatel GBIF a popsat své katedry jako instituce GRSciColl. Alternativně mohou někteří vydavatelé GBIF odpovídat menším subjektům a mít v GRSciColl zastoupeny jako jednu položku.
 
-See how occurrences published on GBIF are linked to GRSciColl entries [here](/connected-systems#occurrences-published-on-gbif). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+Podívejte se, jak jsou výskyty publikované na GBIF propojeny se záznamy GRSciColl [zde](/connected-systems#occurrences-published-on-gbif). Podívejte se, jak lze datové sady GBIF propojit se záznamy sbírky GRSciColl [zde](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
-## What are collection descriptors in GRSciColl?
+## Co jsou deskriptory sbírek v GRSciColl?
 
-Collection descriptors are meant to share structured information about collections. They can contain relevant details about collections and sub-collections as well as quantitative data which cannot be shared on collection pages (for example, the number of type specimens for a particular taxon). Some collection descriptors are used for indexing collections. This means that they improve collection discoverability. For example, a collection associated with dragonfly species names will be found by users looking for “Odonata” in the scientific name field of the collection search.
+Deskriptory sbírek slouží ke sdílení strukturovaných informací o sbírkách. Mohou obsahovat důležité údaje o sbírkách a podsbírkách a také kvantitativní údaje, které nelze sdílet na stránkách sbírek (například počet typových exemplářů pro určitý taxon). Některé deskriptory kolekcí se používají k indexování kolekcí. To znamená, že zlepšují vyhledatelnost sbírky. Například sbírku spojenou s názvy druhů vážek najdou uživatelé, kteří v poli vědeckého názvu sbírky vyhledávají slovo "Odonata".
 
-Collection descriptors are particularly relevant for collections that aren’t fully digitized and/or where the specimen records aren’t available on GBIF.org.
+Deskriptory sbírek jsou důležité zejména pro sbírky, které nejsou plně digitalizovány a/nebo jejichž záznamy o exemplářích nejsou dostupné na GBIF.org.
 
-Collection descriptors are uploaded to GRSciColl as tables with associated titles and descriptions.
+Deskriptory sbírek se do GRSciColl nahrávají jako tabulky s příslušnými názvy a popisy.
 
-* Each line corresponds to a group of specimens described and each column is a descriptor.
-* When possible, these descriptors should be mapped to [Darwin Core](https://dwc.tdwg.org/terms/) and/or [Latimer core](https://ltc.tdwg.org) terms.
-* A table can contain information about a specific aspect or subset of the collection. Tables might contain overlapping information or different descriptions for the same subset of specimens.
+* Každý řádek odpovídá skupině popisovaných exemplářů a každý sloupec je deskriptor.
+* Pokud je to možné, měly by být tyto deskriptory mapovány na [Darwin Core](https://dwc.tdwg.org/terms/) a/nebo [Latimer core](https://ltc.tdwg.org) termíny.
+* Tabulka může obsahovat informace o určitém aspektu nebo podmnožině sbírky. Tabulky mohou obsahovat překrývající se informace nebo různé popisy pro stejnou podskupinu exemplářů.
 
-Learn how to share collection descriptors on our [how-to page](/how-to).
+Jak sdílet deskriptory sbírek se dozvíte na naší [stránce Jak na to](/how-to).
 
 
-## Editing guidelines
+## Pokyny pro úpravy
 
-### How to represent my institution and collections?
+### Jak reprezentovat svou instituci a sbírky?
 
-There is no hierarchy between collection entries nor between institution entries. Institutions decide the level of granularity you want to use to represent their collections. For examples, an institution could have an entry for a bird collection and another for a mammal collection while another institution would have only one entry for their vertebrate collection.
+Mezi položkami sbírky ani mezi položkami instituce není žádná hierarchie. Instituce se rozhodnou, jakou úroveň granularity chtějí použít pro reprezentaci svých sbírek. Například jedna instituce může mít položku pro sbírku ptáků a druhou pro sbírku savců, zatímco jiná instituce bude mít pouze jednu položku pro svou sbírku obratlovců.
 
-In doubt, you can follow these practical guidelines:
-* Make one institution entry per physical locations (the campus, building where the collections are hosted).
-* Make one collection entry for each group of specimen with same point of contact (the person who can tell more about the collection, possibly arrange a loan).
+V případě pochybností se můžete řídit těmito praktickými pokyny:
+* Proveďte jednu položku instituce pro každé fyzické umístění (kampus, budova, kde jsou sbírky umístěny).
+* Pro každou skupinu exemplářů vytvořte jeden záznam o sbírce se stejným kontaktním místem (osoba, která může o sbírce říci více, případně zprostředkovat výpůjčku).
 
-### What information should I put in GRSciColl?
+### Jaké informace mám vložit do GRSciColl?
 
-Although very few fields are mandatory, we recommend to provide as much information as possible. For institutions, it is important to provide a name, code and address (or at least country). For collections, don't forget to add an associated institution.
+Přestože je jen málo polí povinných, doporučujeme uvést co nejvíce informací. U institucí je důležité uvést název, kód a adresu (nebo alespoň zemi). U sbírek nezapomeňte přidat přidruženou instituci.
 
-### What should be my collection/institution code?
+### Jaký by měl být kód sbírky/instituce?
 
-Codes don’t have to be unique in GRSciColl and an entry can have several codes. The codes should reflect what is used in practice (what is on the labels). Note that GRSciColl codes are used to match occurrences published on GBIF to GRSciColl entries.
+Kódy nemusí být v GRSciColl jedinečné a jeden záznam může mít několik kódů. Kódy by měly odrážet to, co se používá v praxi (co je uvedeno na etiketách). Všimněte si, že kódy GRSciColl se používají k přiřazení výskytů publikovaných na GBIF k záznamům GRSciColl.
 
-### What should be my collection/institution identifiers?
+### Jaké by měly být identifikátory mé sbírky/instituce?
 
-An entry can be associated with external identifiers such as: wikidata, ROR, DOI etc. Only editors can add identifiers to entries. Note that GRSciColl identifiers are used to match occurrences published on GBIF to GRSciColl entries.
+Záznam může být spojen s externími identifikátory, jako jsou: wikidata, ROR, DOI atd. Only editors can add identifiers to entries. Note that GRSciColl identifiers are used to match occurrences published on GBIF to GRSciColl entries.
 
 #### What format should be my ROR identifier?
 
