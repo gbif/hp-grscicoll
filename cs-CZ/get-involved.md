@@ -1,5 +1,5 @@
 ---
-permalink: /get-involved
+permalink: /cs-CZ/get-involved
 lang-ref: get-involved
 title: How to get involved
 description: |
@@ -15,18 +15,18 @@ height: 70vh
 toc: true
 ---
 
-## Help us improve the data
+## Pomozte nám vylepšit data
 
-The information available through GRSciColl is the result of collective efforts by a community of curators and editors. Learn how you can contribute on our [how-to page](/how-to).
+Informace dostupné prostřednictvím GRSciColl jsou výsledkem společného úsilí komunity kurátorů a editorů. Jak můžete přispět, se dozvíte na naší [stránce jak na to](/how-to).
 
-[How-to](/how-to){: .button .is-primary}
+[Jak na to](/how-to){: .button .is-primary}
 
-## Help us improve the system
+## Pomozte nám vylepšit systém
 
-You can ask questions and contribute to our work by [joining and commenting via the GRSciColl mailing list](https://lists.gbif.org/mailman/listinfo/scientific-collections) or [posting to the GRSciColl forum](https://discourse.gbif.org/c/grscicoll/29).
+Můžete klást otázky a přispívat k naší práci [připojením se a komentováním prostřednictvím poštovní konference GRSciColl](https://lists.gbif.org/mailman/listinfo/scientific-collections) nebo [přispíváním do fóra GRSciColl](https://discourse.gbif.org/c/grscicoll/29).
 
-[Contact us](/contact){: .button .is-primary}
+[Kontakt](/kontakt){: .button .is-primary}
 
-## Help us translate the website
+## Pomozte nám přeložit web
 
-GBIF manages translations via [CrowdIn](https://www.crowdin.com), which provides our [active community of translators](https://www.gbif.org/translators) with critical support through a free licence for their service. Interested in becoming volunteer? Sign up on CrowdIn and join the [GRSciColl project](https://crowdin.com/project/grscicoll) or our [other projects](https://crowdin.com/profile/gbif-informatics).
+GBIF spravuje překlady prostřednictvím [CrowdIn](https://www.crowdin.com), který poskytuje naší [aktivní komunitě překladatelů](https://www.gbif.org/translators) zásadní podporu prostřednictvím bezplatné licence na jejich služby. Chcete se stát dobrovolníkem? Zaregistrujte se na CrowdIn a připojte se k [projektuGRSciColl](https://crowdin.com/project/grscicoll) nebo k našim [dalším projektům](https://crowdin.com/profile/gbif-informatics).
