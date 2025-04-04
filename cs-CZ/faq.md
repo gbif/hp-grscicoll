@@ -39,9 +39,9 @@ GRSciColl vznikl nezávisle na GBIF, má [svou vlastní historii](/about#data-hi
 * Položka sbírky GRSciColl může odkazovat na historickou sbírku, která byla ztracena nebo rozdělena.
 * .
 
-GBIF publishers may choose to publish all their records in one dataset but describe their holdings with several collection entries in GRSciColl. Alternatively, several datasets can contain records corresponding to specimens belonging to the same collection.
+Vydavatelé GBIF se mohou rozhodnout zveřejnit všechny své záznamy v jedné datové sadě, ale popsat své fondy několika záznamy o sbírkách v GRSciColl. Případně může několik datových souborů obsahovat záznamy odpovídající exemplářům patřícím do stejné sbírky.
 
-See how occurrences published on GBIF are linked to GRSciColl entries [here](/connected-systems#occurrences-published-on-gbif). See how GBIF datasets can be linked to GRSciColl collection entries [here](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
+Podívejte se, jak jsou výskyty publikované na GBIF propojeny se záznamy GRSciColl [zde](/connected-systems#occurrences-published-on-gbif). Podívejte se, jak lze datové sady GBIF propojit se záznamy sbírky GRSciColl [zde](/connected-systems#gbif-dataset-metadata-and-gbif-publisher-pages).
 
 ## What is the difference between GBIF publishers and GRSciColl institutions?
 
