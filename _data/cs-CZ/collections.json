@@ -132,8 +132,8 @@
       "href": "/collection/5aa589e3-ee5a-4cf8-848d-1b19b1f1af71"
     },
     {
-      "title": "Mollusc Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Sbírka měkkýšů",
+      "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/0/917/CMNML003054exts.jpg",
       "imageLicense": "[Planogyra asteriscus (Morse, 1857)](/specimen/search?entity=1804271823)",
       "xcta": [
@@ -145,8 +145,8 @@
       "href": "/collection/778fb16d-8e62-4c72-87d2-8e83ce8af189"
     },
     {
-      "title": "Corals",
-      "description": "From Queensland Museum",
+      "title": "Koráli",
+      "description": "Z Queenslandského muzea",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=c881351c-1048-401c-8522-c23b52f11fcc",
       "imageLicense": "[Acropora austera (Dana, 1846)](/specimen/search?entity=1066238009)",
       "xcta": [
@@ -160,8 +160,8 @@
   ],
   "other": [
     {
-      "title": "Herbarium",
-      "description": "From Embrapa",
+      "title": "Herbář",
+      "description": "Z Embrapa",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=e/ect/ECT-output_112018/ECT0004045_02.JPG",
       "imageLicense": "[Butia exilata Deble & Marchiori](/specimen/search?entity=2302317770)",
       "xcta": [
@@ -172,8 +172,8 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Universidade do Estado de Santa Catarina",
+      "title": "Herbář",
+      "description": "Ze Státní univerzity v Santa Catarině",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=l/lusc/0-5000/LUSC005645.jpg",
       "imageLicense": "[Paspalum pumilum Nees](/specimen/search?entity=2995985072)",
       "xcta": [
@@ -184,8 +184,8 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "title": "Herbář",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "http://mediaphoto.mnhn.fr/media/1441446146812wLrrt8fL7OZjCmst",
       "imageLicense": "[Euonymus europaeus L.](/specimen/search?entity=731395725)",
       "xcta": [
@@ -196,8 +196,8 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Smithsonian Institution",
+      "title": "Herbář",
+      "description": "Ze Smithsonian Institution",
       "background": "http://n2t.net/ark:/65665/m3470ce0e5-a75d-4a46-ba7a-3a587c552747",
       "imageLicense": "[Rytidosperma setifolium (Hook.f.) Connor & Edgar](/specimen/search?entity=3062077374)",
       "xcta": [
@@ -208,8 +208,8 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From The New York Botanical Garden",
+      "title": "Herbář",
+      "description": "Z Newyorské botanické zahrady",
       "background": "http://sweetgum.nybg.org/images3/2806/156/01213223.jpg",
       "imageLicense": "[Eriogonum rupinum Reveal](/specimen/search?entity=1928447997)",
       "xcta": [
@@ -220,8 +220,8 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Meise Botanic Garden",
+      "title": "Herbář",
+      "description": "Z botanické zahrady v Meise",
       "background": "https://oxalis.br.fgov.be/images/BR0/000/025/155/761/BR0000025155761.jpg",
       "imageLicense": "[Eragrostis prolifera (Sw.) Steud.](/specimen/search?entity=2243286271)",
       "xcta": [
@@ -232,8 +232,8 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Royal Botanic Gardens",
+      "title": "Herbář",
+      "description": "Z Královské botanické zahrady",
       "background": "http://www.kew.org/herbcatimg/724432.jpg",
       "imageLicense": "[Chloris pilosa Schumach.](/specimen/search?entity=912080028)",
       "xcta": [
@@ -244,8 +244,8 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Harvard University",
+      "title": "Herbář",
+      "description": "Z Harvardské univerzity",
       "background": "http://data.huh.harvard.edu/3d90c55b-9127-4533-8d47-13f5f66f0a04/image",
       "imageLicense": "[Rumex maritimus subsp. fueginus (Phil.) Dusén](/specimen/search?entity=3414381324)",
       "xcta": [
@@ -256,8 +256,8 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From University of Michigan",
+      "title": "Herbář",
+      "description": "Z University of Michigan",
       "background": "https://quod.lib.umich.edu/cgi/i/image/api/image/herb00ic:1382126:MICH-V-1382126/full/res:0/0/native.jpg",
       "imageLicense": "[Carex pauciflora Lightf.](/specimen/search?entity=1988815740)",
       "xcta": [
@@ -448,13 +448,13 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From University of Texas at Austin",
+      "title": "Herbář",
+      "description": "Z University of Texas v Austinu",
       "background": "http://was.tacc.utexas.edu/fileget?coll=Botany&type=O&filename=sp67549546799257488630.att.jpg",
       "imageLicense": "[Platanthera brevifolia (Greene) Senghas](/specimen/search?entity=2807184302)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/99ff9468-daf5-4e5d-af5b-1377088c2fdb"
         }
       ]
@@ -466,7 +466,7 @@
       "imageLicense": "[Pecluma M.G.Price](/specimen/search?entity=2996504964)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/fceacd29-9f6c-4c9c-a4bc-67795f9cb972"
         }
       ]
@@ -478,31 +478,31 @@
       "imageLicense": "[Leucanthemum vulgare Lam.](/specimen/search?entity=3412747435)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/59a4002b-91ad-4485-8a3f-cd3cbeaed586"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Harvard University",
       "background": "http://data.huh.harvard.edu/3d4e30a3-8ac8-442b-b4e3-9ec2887409da/image",
       "imageLicense": "[Rosa roxburghii f. normalis Rehder & E.H.Wilson](/specimen/search?entity=1998573742)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/7bf40203-1eab-4c06-b220-a8312701b821"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Harvard University",
       "background": "http://data.huh.harvard.edu/3d3c7993-d034-44d6-90be-4981257c9fed/image",
       "imageLicense": "[Chamberlainia digastra (Müll.Hal. ex Kindb.) H.Rob.](/specimen/search?entity=1998573454)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/f46647cc-4d11-4244-81f6-0139b5a176a4"
         }
       ]
@@ -514,7 +514,7 @@
       "imageLicense": "[Euosmolejeunea duriuscula A.Evans](/specimen/search?entity=1805438952)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/70102c0b-6f4c-4159-9ac4-c8f8d9be025a"
         }
       ]
@@ -526,31 +526,31 @@
       "imageLicense": "[Arctiidae](/specimen/search?entity=3003608326)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/d4ba52a0-b87e-4df8-97e3-cada7af1f181"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Canadian Museum of Nature",
       "background": "http://ipt.nature.ca/multimedia/69/335/CAN10024608.jpg",
       "imageLicense": "[Salix arctica Pall.](/specimen/search?entity=1804458960)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/924bd09b-9cf4-42a5-8a09-b3e3ee0efd6f"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Utah State University",
       "background": "http://swbiodiversity.org/imglib/intermt/specimens/UTC00247/UTC00247269_big_lg.jpg",
       "imageLicense": "[Dicranum scoparium Hedwig, 1801](/specimen/search?entity=1994031098)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/3f5cefc8-415b-4dcb-8697-8bed127f3e0e"
         }
       ]
@@ -562,19 +562,19 @@
       "imageLicense": "[Scarus Forsskål, 1775](/specimen/search?entity=1843529917)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/fc904fab-a33c-4ca8-bd23-698ddb026f26"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Acadia University",
       "background": "http://procyon.acadiau.ca/ecsmith/cgi-bin/image.cgi?51248,jpeg",
       "imageLicense": "[Gaylussacia baccata (Wangenh.) K.Koch](/specimen/search?entity=1807239505)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/25352a74-0fe5-4dcd-ae39-76dd6d1f5c6f"
         }
       ]
@@ -586,7 +586,7 @@
       "imageLicense": "[Insexcta](/specimen/search?entity=1316715874)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/4c7b9914-a159-4a7c-acc5-cb9da85f430e"
         }
       ]
@@ -598,7 +598,7 @@
       "imageLicense": "[Pachyphytum brevifolium Rose](/specimen/search?entity=2006018309)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/b70854fa-d05f-4512-a3ef-c103567657d4"
         }
       ]
@@ -610,79 +610,79 @@
       "imageLicense": "[Vaccinium vitis-idaea L.](/specimen/search?entity=3001125938)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/87f90d18-8c37-4a6d-ab4f-de476d2e55f3"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From California Botanic Garden",
       "background": "https://bisque.cyverse.org/image_service/image/00-Pj6k3qeRaTSahgSyyEy5JA/resize:4000/format:jpeg",
       "imageLicense": "[Astragalus sclerocarpus A.Gray](/specimen/search?entity=2989945851)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/a4814c88-fc5d-4f61-a896-5f342c9c2654"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Harvard University",
       "background": "http://data.huh.harvard.edu/4d0e5acf-3e48-4a7c-8de4-fc93a7faba99/image",
       "imageLicense": "[Graphorkis lurida (Sw.) Kuntze](/specimen/search?entity=3828128336)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/53bbc4a4-3938-4c0c-9eda-ac726a258880"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Institut National de la Recherche Agronomique (INRA)",
       "background": "http://mediaphoto.mnhn.fr/media/1537914610021o1UdU29uoBcv3JOJ",
       "imageLicense": "[Aira praecox L.](/specimen/search?entity=3427599101)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/a6563dfd-914a-456e-9da9-f3ea2dda64da"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Universidade Estadual de Feira de Santana",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=huefs/Lecythidaceae/jpg/HUEFS0091643.jpg",
       "imageLicense": "[Eschweilera ovata (Cambess.) Mart. ex Miers](/specimen/search?entity=2998240117)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/0bce67d0-9672-4126-95c4-58361e46a03f"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Universidade Federal da Bahia, Campus Universitário de Ondina",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=alcb/output_13102016/ALCB/0/2/80/46/ALCB028046.JPG",
       "imageLicense": "[Senna Mill.](/specimen/search?entity=2996066919)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/2b636271-4d24-49bf-9ed8-abbe2829b25e"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Komi Scientific Centre, Russian Academy of Sciences",
       "background": "https://ib.komisc.ru/files/gbif/bryo/label_img/27/4_14_IMG_0268-000.JPG",
       "imageLicense": "[Rhizomnium pseudopunxctatum T.Koponen, 1968](/specimen/search?entity=1945842726)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/6c0273dc-e231-4722-ac35-2264b2499beb"
         }
       ]
@@ -694,7 +694,7 @@
       "imageLicense": "[Ocenebra newmani Lorenz, 1990](/specimen/search?entity=1019711173)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/a026f954-a57e-4512-84de-125675d46b2a"
         }
       ]
@@ -706,7 +706,7 @@
       "imageLicense": "[Diptera](/specimen/search?entity=1064377209)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/948e3641-75ca-4550-91a1-45d834bb47f7"
         }
       ]
@@ -718,13 +718,13 @@
       "imageLicense": "[Apodanthera undulata A.Gray](/specimen/search?entity=1611937359)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/6078db64-c83f-46b6-9c86-e99f00c0167d"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Fairchild Tropical Botanic Garden",
       "background": "https://cdn.plantatlas.org/img/specimens/FTG/55506.jpg",
       "imageLicense": "[Lycopodium L.](/specimen/search?entity=122968478)",
@@ -790,7 +790,7 @@
       "imageLicense": "[Eragrostis spexctabilis (Pursh) Steud.](/specimen/search?entity=1038919019)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/64ee3cba-7bbb-4013-8b3c-3a89ee55c9ee"
         }
       ]
@@ -802,73 +802,73 @@
       "imageLicense": "[Hieracium murorum L.](/specimen/search?entity=2417914425)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/b802fafc-7c78-4b1c-82f5-a536e0ac059b"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From CIRAD",
       "background": "http://mediaphoto.mnhn.fr/media/1464699502559GgL1YG8UZlSl9TFr",
       "imageLicense": "[Nelsonia canescens (Lam.) Spreng.](/specimen/search?entity=1851043350)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/468fb8f3-036f-4fea-8eb4-614d21172f56"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Royal Botanic Gardens Victoria",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=a085d6d6-1a6b-4ab7-8fbb-20e937ce11c3",
       "imageLicense": "[Stylidium crassifolium R.Br.](/specimen/search?entity=2435821278)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/7777d910-553a-45ac-b0e5-635261c1e992"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Swedish Museum of Natural History",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=smnh/Tipos_do_Brasil/S13-21940.jpg",
       "imageLicense": "[Triumfetta semitriloba Jacq.](/specimen/search?entity=2996314691)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/97604393-1e10-421b-a66a-e7fd8515ecad"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Université Laval",
       "background": "http://media.qfa.herbier.ulaval.ca/QFA0363226.jpg",
       "imageLicense": "[Populus balsamifera L.](/specimen/search?entity=668799672)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/741f12d3-ebfc-48e7-9d8c-180d41b0a582"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Museu Paraense Emílio Goeldi",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=mg/herbario/2/48/99/MG024899.JPG",
       "imageLicense": "[Rhabdadenia macrostoma (Benth.) Müll.Arg.](/specimen/search?entity=2998376112)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Více",
           "href": "/collection/4ca8e139-d28a-4822-a368-385f524bc5bc"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbář",
       "description": "From Universidade Federal do Ceará",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=e/eac/4/13/38/EAC0041338.JPG",
       "imageLicense": "[Jacquemontia agrestis (C.Mart. ex Choisy) Meisn.](/specimen/search?entity=2995950398)",
