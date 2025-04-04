@@ -1,9 +1,9 @@
 ---
-permalink: /how-to
+permalink: /cs-CZ/how-to
 lang-ref: how-to
-title: How to
+title: Jak na to
 description: |
-  How to navigate the Global Registry of Scientific Collections and update its content
+  Jak se pohybovat v celosvětovém registru vědeckých sbírek a aktualizovat jeho obsah
 background: "{{ site.data.images.pagurus.src }}"
 imageLicense: "{{ site.data.images.pagurus.caption }}"
 height: 70vh
@@ -15,25 +15,25 @@ height: 70vh
 toc: true
 ---
 
-## How to add a collection or an institution to GRSciColl
+## Jak přidat sbírku nebo instituci do GRSciColl
 
-You can suggest or add a collection or an institution to GRSciColl here:
+Zde můžete navrhnout nebo přidat sbírku či instituci do GRSciColl:
 
-[Add New Institution](https://registry.gbif.org/institution/create){: .button .is-primary}
+[Přidat novou instituci](https://registry.gbif.org/institution/create){: .button .is-primary}
 
-[Add New Collection](https://registry.gbif.org/collection/create){: .button .is-primary}
+[Přidat novou sbírku](https://registry.gbif.org/collection/create){: .button .is-primary}
 
-When creating a new entry in GRSciColl, very few fields are mandatory. However, we really appreciate if you could provide the address for the entry you created (especially the country).
+Při vytváření nového záznamu v GRSciColl je povinných jen velmi málo polí. Velmi bychom však ocenili, kdybyste mohli uvést adresu vytvořeného záznamu (zejména zemi).
 
-See also this short video tutorial:
+Viz také tento krátký videonávod:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977782?h=fb1d926798" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-If you can't access Vimeo in your country, [here](https://www.youtube.com/watch?v=R6ftJ61oOn4) is the YouTube video
+Pokud nemáte ve své zemi přístup na Vimeo, [zde](https://www.youtube.com/watch?v=R6ftJ61oOn4) je video na YouTube.
 
-## How to edit a GRSciColl collection or institution
+## Jak upravit sbírku nebo instituci GRSciColl
 
-There are three ways to update information on GRSciColl:
-* you can suggest a change
+Informace na GRSciColl lze aktualizovat třemi způsoby:
+* můžete navrhnout změnu
 * you can become an editor
 * you can import data
 
