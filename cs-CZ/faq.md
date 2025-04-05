@@ -104,15 +104,15 @@ Sloučením záznamů se jeden z nich odstraní a všechny identifikátory, kód
 
 ## Rozhraní pro úpravy - Technické otázky
 
-Editační rozhraní GRSciColl je umístěno v [Registru GBIF](https://registry.gbif.org). You can access it from any institution or collection page by clicking on the `Edit` button. You don't need an account to suggest changes. For direct updates and for adding or removing primary sources and identifiers, you will need to [be an editor](/how-to#become-editor).
+Editační rozhraní GRSciColl je umístěno v [Registru GBIF](https://registry.gbif.org). Můžete k němu přistupovat z libovolné stránky instituce nebo sbírky kliknutím na tlačítko `Upravit`. Pro navrhování změn nepotřebujete účet. Pro přímé aktualizace a přidávání nebo odstraňování primárních zdrojů a identifikátorů je třeba, abyste [byli editorem](/how-to#become-editor).
 
-### My collection is a dataset on GBIF: how to make GBIF dataset metadata and GBIF publisher pages primary sources for GRSciColl
+### Moje sbírka je datová sada na GBIF: jak vytvořit metadata datové sady GBIF a stránky vydavatele GBIF jako primární zdroje pro GRSciColl
 
-1. Log in the registry interface, you must be an editor for the GRSciColl entry you would like to work with.
-2. Click on the `Master source` tab.
-3. Click on the `Create new` button (in the upper rigth corner).
+1. Přihlaste se do rozhraní registru, musíte být editorem položky GRSciColl, se kterou chcete pracovat.
+2. Klikněte na kartu `Hlavní zdroj`.
+3. Klikněte na tlačítko `Vytvořit nový` (v pravém horním rohu).
 4. Select the source type (`GBIF dataset` if you are working with a collection or `GBIF publisher` if it is an institution).
-5. Add the UUID of the dataset or publisher that you would like to use. The UUID can be found in the dataset or publisher URL. For example, the UUID for `https://www.gbif.org/dataset/b275a4c1-9859-4f3c-8ead-d86dde820fbc` is `b275a4c1-9859-4f3c-8ead-d86dde820fbc`.
+5. Přidejte UUID datové sady nebo vydavatele, který chcete použít. The UUID can be found in the dataset or publisher URL. For example, the UUID for `https://www.gbif.org/dataset/b275a4c1-9859-4f3c-8ead-d86dde820fbc` is `b275a4c1-9859-4f3c-8ead-d86dde820fbc`.
 6. Click on the `Create` button.
 
 ### How to edit entries connected to external sources
