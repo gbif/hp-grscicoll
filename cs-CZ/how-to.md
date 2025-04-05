@@ -55,19 +55,19 @@ Návrh přezkoumají institucionální editoři, editoři jednotlivých zemí ne
 
 ### Staňte se editorem
 
-V GRSciColl existují dva typy editorů: editoři a mediátoři. Oba mohou upravovat data v GRSciColl a kontrolovat změny, ale pouze zprostředkovatelé mohou mazat, slučovat a transformovat záznamy. An editor (or mediator) can be given the permissions to edit:
-* one or several collections
-* one or several institutions (and their associated collections)
-* one or several countries (and their associated institutions and collections)
+V GRSciColl existují dva typy editorů: editoři a mediátoři. Oba mohou upravovat data v GRSciColl a kontrolovat změny, ale pouze zprostředkovatelé mohou mazat, slučovat a transformovat záznamy. Editor (nebo mediátor) může mít oprávnění k úpravám:
+* jedné nebo několika sbírek
+* jedna nebo více institucí (a jejich sbírek)
+* jedné nebo několika zemí (a jejich přidružených institucí a sbírek)
 
-To become a GRSciColl editor, you will need to have a [GBIF user account](https://www.gbif.org/user/profile) associated with your institutional email address. Please send us an email at scientific-collections@gbif.org to notify us that you would like to become an editor.
+Abyste se mohli stát editorem GRSciColl, musíte mít [uživatelský účet GBIF](https://www.gbif.org/user/profile) spojený s vaší institucionální e-mailovou adresou. Pošlete nám prosím e-mail na adresu scientific-collections@gbif.org a oznamte nám, že se chcete stát editorem.
 
-### Import data
+### Import dat
 
-The [GBIF Collections API](https://www.gbif.org/developer/registry#collections) allows for editing without going through the web interface. The API also has an experimental feature to upload batches of collection and institutions. See the documentation [here](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
+Rozhraní [GBIF Collections API](https://www.gbif.org/developer/registry#collections) umožňuje úpravy bez použití webového rozhraní. API má také experimentální funkci pro nahrávání dávek sbírek a institucí. Viz dokumentace [zde](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
 
-If you are interested in using the API for editing GRSciColl, the permission system and requirements are the same as for becoming an editor.
+Pokud máte zájem používat API pro editaci GRSciColl, systém oprávnění a požadavky jsou stejné jako v případě, že se chcete stát editorem.
 
-## How to share collection descriptors
+## Jak sdílet deskriptory sbírky
 
-We are working on improving the documentation. In the meantime, please refer to this tutorial here: https://data-blog.gbif.org/post/grscicoll-collection-descriptors/
+Pracujeme na zlepšení dokumentace. Mezitím se podívejte na tento návod: https://data-blog.gbif.org/post/grscicoll-collection-descriptors/
