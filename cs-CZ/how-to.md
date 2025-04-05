@@ -34,28 +34,28 @@ Pokud nemáte ve své zemi přístup na Vimeo, [zde](https://www.youtube.com/wat
 
 Informace na GRSciColl lze aktualizovat třemi způsoby:
 * můžete navrhnout změnu
-* you can become an editor
-* you can import data
+* můžete se stát editorem
+* můžete importovat data
 
-See also this short video tutorial:
+Viz také tento krátký videonávod:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977825?h=a0068cfcd8" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-If you can't access Vimeo in your country, [here](https://www.youtube.com/watch?v=rgMQK9qFVfs) is the YouTube video
+Pokud nemáte ve své zemi přístup na Vimeo, [zde](https://www.youtube.com/watch?v=rgMQK9qFVfs) je video na YouTube
 
-### Suggest a change
+### Navržení změny
 
-Anyone can suggest changes by clicking on any GRSciColl entry, then:
-* Click on `Edit`
-* Click on the `Suggest` toggle button
-* Make your suggestion and leave your email address and a comment
+Kdokoli může navrhnout změny kliknutím na libovolnou položku GRSciColl:
+* Klikněte na `Upravit`
+* Klikněte na přepínací tlačítko `Navrhnout`
+* Podejte svůj návrh a zanechte svou e-mailovou adresu a komentář
 
-You can also suggest adding new entries, merging duplicates and transforming institution entries into collections.
+Můžete také navrhnout přidání nových záznamů, sloučení duplicit a přeměnu záznamů institucí na sbírky.
 
-The suggestion will be reviewed by institutional editors, country editors or GBIF Staff depending on the entry edited.
+Návrh přezkoumají institucionální editoři, editoři jednotlivých zemí nebo zaměstnanci GBIF v závislosti na upravovaném záznamu.
 
-### Become editor
+### Staňte se editorem
 
-There are two types of editors in GRSciColl: editors and mediators. Both can edit data on GRSciColl and review changes but only mediators can delete, merge and transform entries. An editor (or mediator) can be given the permissions to edit:
+V GRSciColl existují dva typy editorů: editoři a mediátoři. Oba mohou upravovat data v GRSciColl a kontrolovat změny, ale pouze zprostředkovatelé mohou mazat, slučovat a transformovat záznamy. An editor (or mediator) can be given the permissions to edit:
 * one or several collections
 * one or several institutions (and their associated collections)
 * one or several countries (and their associated institutions and collections)
