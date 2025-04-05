@@ -117,7 +117,7 @@ Editační rozhraní GRSciColl je umístěno v [Registru GBIF](https://registry.
 
 ### Jak upravovat položky připojené k externím zdrojům
 
-You will notice that you cannot edit fields that come from external sources. The only way to do so is to edit the entry at the source (a link to the source is provided) or disconnect the entry from the source.
+Všimněte si, že pole pocházející z externích zdrojů nelze upravovat. Jediný způsob, jak to udělat, je upravit položku ve zdroji (odkaz na zdroj je uveden) nebo položku od zdroje odpojit.
 
 ### How to disconnect an entry from an external source
 
