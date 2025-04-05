@@ -1,9 +1,9 @@
 ---
 permalink: /cs-CZ/get-involved
 lang-ref: get-involved
-title: How to get involved
+title: Jak se zapojit
 description: |
-  There are several ways to help us improve GRSciColl.
+  Existuje několik způsobů, jak nám pomoci zlepšit GRSciColl.
 background: "{{ site.data.images.costatrochus.src }}"
 imageLicense: "{{ site.data.images.costatrochus.caption }}"
 height: 70vh
