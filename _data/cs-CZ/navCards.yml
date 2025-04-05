@@ -2,17 +2,17 @@ shortcuts:
   features:
     - 
       preTitle: [ ] #optional
-      title: What is GRSciColl? #required
+      title: Co je GRSciColl? #required
       #required
       description: |
-        Read more about the history of GRSciColl.
+        Přečtěte si více o historii GRSciColl.
       #img required
       background: "{{ site.data.images.kanakia.src }}"
       imageLicense: "{{ site.data.images.kanakia.caption }}"
       href: /cs-CZ/about/
     - 
       preTitle: [ ] #optional
-      title: Help us improve GRSciColl #required
+      title: Pomozte nám zlepšit GRSciColl #required
       #required
       description: |
         Add your institution and collections, become an editor, follow our roadmap.
