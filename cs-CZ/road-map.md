@@ -1,9 +1,9 @@
 ---
-permalink: /road-map
+permalink: /cs-CZ/road-map
 lang-ref: road-map
-title: GRSciColl 2025 road map
+title: GRSciColl 2025 road mapa
 description: |
-  This road map builds in the [2023/2024 road map](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2023-2024.md).
+  Tato road mapa navazuje na [road mapu 2023/2024](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2023-2024.md).
 background: "{{ site.data.images.pandeleteius.src }}"
 imageLicense: "{{ site.data.images.pandeleteius.caption }}"
 height: 70vh
@@ -15,9 +15,9 @@ height: 70vh
 toc: true
 ---
 
-## 1.   Continue work with the community as well as existing platforms to update and grow data and improve interoperability
+## 1.   Pokračovat ve spolupráci s komunitou a stávajícími platformami s cílem aktualizovat a rozšiřovat údaje a zlepšit interoperabilitu
 
-We aim to keep supporting our community of editors, train and welcome new editors as well as work with other data holding platforms (such as CETAF and ALA) to improve the data available in GRSciColl.
+Naším cílem je i nadále podporovat naši komunitu editorů, školit a přijímat nové editory a spolupracovat s dalšími platformami pro uchovávání dat (např. CETAF a ALA) na zlepšování dat dostupných v GRSciColl.
 
 Some of the work with existing platforms may include:
 - Importing identifiers to facilitate interoperability,
