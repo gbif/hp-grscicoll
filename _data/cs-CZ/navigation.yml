@@ -1,43 +1,43 @@
 - 
   #Links listed below will be included in your site's navbar (navigation at the top)
-  text: Institutions
+  text: Instituce
   href: /institution/search
 - 
-  text: Collections
+  text: Sbírky
   href: /collection/search
 - 
-  text: Specimens
+  text: Exempláře
   href: /specimen/search
 - 
-  text: About
+  text: O
   menu:
     - 
       text: GRSciColl
       href: /about
     - 
-      text: Get involved
+      text: Zapojte se
       href: /get-involved
     - 
-      text: Connected systems
+      text: Připojené systémy
       href: /connected-systems
     - 
       text: API
       href: /api
     - 
-      text: Road map
+      text: Road mapa
       href: /road-map
     - 
-      text: Contact
+      text: Kontakt
       href: /contact
 - 
-  text: How-to
+  text: Jak na to
   menu:
     - 
-      text: Add entries
+      text: Přidání záznamů
       href: 'how-to#how-to-add-a-collection-or-an-institution-to-grscicoll'
     - 
-      text: Edit entries
+      text: Úprava záznamů
       href: '/how-to#how-to-edit-a-grscicoll-collection-or-institution'
     - 
-      text: FAQ
+      text: Časté dotazy
       href: /faq
