@@ -135,6 +135,6 @@ The recommended and most declarative way to link data to institutions or collect
 * dwc:institutionID: https://www.gbif.org/grscicoll/institution/e3d4dcc4-81e2-444c-8a5c-41d1044b5381
 * dwc:collectionID: https://www.gbif.org/grscicoll/collection/772f9e37-4643-452b-82b4-a06550283096
 
-It is also possible to use additional related identifiers. See this blog post for more details.
+Je možné použít i další související identifikátory. Další podrobnosti najdete v tomto příspěvku na blogu.
 
 [Link occurrences](https://data-blog.gbif.org/post/grscicoll-flags/){: .button .is-primary}
