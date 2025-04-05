@@ -119,22 +119,22 @@ Editační rozhraní GRSciColl je umístěno v [Registru GBIF](https://registry.
 
 Všimněte si, že pole pocházející z externích zdrojů nelze upravovat. Jediný způsob, jak to udělat, je upravit položku ve zdroji (odkaz na zdroj je uveden) nebo položku od zdroje odpojit.
 
-### How to disconnect an entry from an external source
+### Jak odpojit záznam z externího zdroje
 
-1. Log in the registry interface, you must be an editor for the GRSciColl entry you would like to work with.
-2. Click on the `Master source` tab.
-3. Click on the `Delete` button (on the same line as the source).
+1. Přihlaste se do rozhraní registru, musíte být editorem položky GRSciColl, se kterou chcete pracovat.
+2. Klikněte na kartu `Hlavní zdroj`.
+3. Klikněte na tlačítko `Smazat` (na stejném řádku jako zdroj).
 
-> NB: if you would like to disconnect an collection from Index Herbariorum, please contact us.
+> Poznámka: pokud chcete odpojit sbírku z Index Herbariorum, kontaktujte nás.
 
-### How to link specimen-related occurrences published on GBIF to GRSciColl entries
+### Jak propojit výskyty související s exempláři zveřejněné v GBIF se záznamy v GRSciColl
 
-In order for your specimens to be displayed on the GRSciColl, they mus be published on GBIF.org and linked to at least one GRSciColl entry. See how to publish data on GBIF.org [here](https://www.gbif.org/publishing-data) and how to link the occurrences to GRSciColl below:
+Aby mohly být vaše exempláře zobrazeny na GRSciColl, musí být zveřejněny na GBIF.org a propojeny alespoň s jedním záznamem GRSciColl. Podívejte se, jak publikovat data na GBIF.org [zde](https://www.gbif.org/publishing-data) a jak propojit výskyty s GRSciColl níže:
 
-The recommended and most declarative way to link data to institutions or collection entities in GRSciColl is to use the full URL for the entity. For example, when using Darwin Core:
+Doporučeným a nejvíce deklarativním způsobem propojení dat s institucemi nebo entitami sbírek v GRSciColl je použití plné adresy URL dané entity. Například při použití Darwin Core:
 * dwc:institutionID: https://www.gbif.org/grscicoll/institution/e3d4dcc4-81e2-444c-8a5c-41d1044b5381
 * dwc:collectionID: https://www.gbif.org/grscicoll/collection/772f9e37-4643-452b-82b4-a06550283096
 
 Je možné použít i další související identifikátory. Další podrobnosti najdete v tomto příspěvku na blogu.
 
-[Link occurrences](https://data-blog.gbif.org/post/grscicoll-flags/){: .button .is-primary}
+[Odkaz výskytu](https://data-blog.gbif.org/post/grscicoll-flags/){: .button .is-primary}
