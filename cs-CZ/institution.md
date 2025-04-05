@@ -1,5 +1,5 @@
 ---
-permalink: /institution/search
+permalink: /cs-CZ/institution/search
 lang-ref: /institution/search
 title: Data
 description: We publish open data
