@@ -97,7 +97,7 @@ Preferovanou formou identifikátoru ROR je celá adresa URL: https://ror.org/02m
 ### Jak zacházet s duplicitami
 
 Pokud v GRSciColl najdete duplicitní záznamy, můžete s nimi naložit dvěma způsoby.
-* You might want to keep both entries and label one as `inactive` by uncheckling the `active` box.
+* Možná budete chtít ponechat oba záznamy a jeden označit jako `neaktivní` zrušením zaškrtnutí políčka `aktivní`.
 * Možná budete chtít sloučit položky pomocí rozhraní pro úpravy.
 
 Sloučením záznamů se jeden z nich odstraní a všechny identifikátory, kódy a sbírky (pokud se jedná o instituci) se přenesou do zbývajícího záznamu. Kromě toho se informace z odstraněného záznamu přenesou do prázdných polí ve zbývajícím záznamu. Z důvodu zachování identifikátorů doporučujeme položky spíše sloučit než odstranit. Pokud tedy někdo odkáže na jeden ze "starých" identifikátorů, bude přesměrován na zbývající položku.
@@ -111,11 +111,11 @@ Editační rozhraní GRSciColl je umístěno v [Registru GBIF](https://registry.
 1. Přihlaste se do rozhraní registru, musíte být editorem položky GRSciColl, se kterou chcete pracovat.
 2. Klikněte na kartu `Hlavní zdroj`.
 3. Klikněte na tlačítko `Vytvořit nový` (v pravém horním rohu).
-4. Select the source type (`GBIF dataset` if you are working with a collection or `GBIF publisher` if it is an institution).
-5. Přidejte UUID datové sady nebo vydavatele, který chcete použít. The UUID can be found in the dataset or publisher URL. For example, the UUID for `https://www.gbif.org/dataset/b275a4c1-9859-4f3c-8ead-d86dde820fbc` is `b275a4c1-9859-4f3c-8ead-d86dde820fbc`.
-6. Click on the `Create` button.
+4. Vyberte typ zdroje (`dataset GBIF`, pokud pracujete se sbírkou, nebo `vydavatel GBIF`, pokud se jedná o instituci).
+5. Přidejte UUID datové sady nebo vydavatele, který chcete použít. UUID lze nalézt v URL adrese datové sady nebo vydavatele. Například UUID pro `https://www.gbif.org/dataset/b275a4c1-9859-4f3c-8ead-d86dde820fbc` je `b275a4c1-9859-4f3c-8ead-d86dde820f`.
+6. Klikněte na tlačítko `Vytvořit`.
 
-### How to edit entries connected to external sources
+### Jak upravovat položky připojené k externím zdrojům
 
 You will notice that you cannot edit fields that come from external sources. The only way to do so is to edit the entry at the source (a link to the source is provided) or disconnect the entry from the source.
 
