@@ -22,27 +22,27 @@ Naším cílem je i nadále podporovat naši komunitu editorů, školit a přij�
 Některé práce se stávajícími platformami mohou zahrnovat:
 - Import identifikátorů pro usnadnění interoperability,
 - Nastavení připojení, aby se externí platforma mohla stát hlavním zdrojem pro záznamy GRSciColl,
-- Pomožte s hromadným importem a aktualizací dat GRSciColl na základě těchto zdrojů.
+- Pomoc s hromadným importem a aktualizací dat GRSciColl na základě těchto zdrojů.
 
-## 2.   Vytvořte a spusťte školicí modul GRSciColl pro editory
+## 2.   Vytvoření a spuštění školicího modulu GRSciColl pro editory
 
 Sekretariát GBIF ve spolupráci s naší komunitou připravuje školicí modul pro editory GRSciColl. Cílem tohoto modulu je pokrýt vše, co může editor národního GRSciCollu potřebovat ke kurátorství a úpravám obsahu GRSciCollu.
 
 Cílem je uspořádat v roce 2025 alespoň jedno online školení.
 
-We would also provide support for anyone interested in organizing training or GRSciColl curation sessions based on the module content.
+Rovněž bychom poskytli podporu všem zájemcům o pořádání školení nebo kurátorských sezení GRSciColl založených na obsahu modulu.
 
-## 3.   Improve discoverability and representation of collections by topic
+## 3.   Zlepšení vyhledatelnosti a zastoupení sbírek podle témat
 
-A lot of the GRSciColl content is not standardized and lives in various free text fields. For example, many entomology collections can only be found by using a combination of keywords like “entomology” and “insect” in free text searches.
+Velká část obsahu GRSciColl není standardizovaná a nachází se v různých polích volného textu. Například mnoho entomologických sbírek lze nalézt pouze pomocí kombinace klíčových slov „entomologie“ a „hmyz“ ve volném textovém vyhledávání.
 
-With the help of the relevant communities, we would like to identify collections that belong to defined disciplines and topics and make them discoverable by adding relevant collection descriptors. Examples of such collections would be entomology, mammalogy, phycology and ornithology collections.
+S pomocí příslušných komunit bychom chtěli identifikovat sbírky, které patří k definovaným oborům a tématům, a umožnit jejich vyhledávání přidáním relevantních deskriptorů sbírek. Příkladem takových sbírek jsou sbírky entomologické, mammalogické, fykologické a ornitologické.
 
-One avenue to explore to improve the representation of these collections is to extract collections mentioned in publications such as this one: https://doi.org/10.1643/ASIHCODONS2020.
+Jednou z možností, jak zlepšit zastoupení těchto sbírek, je extrahovat sbírky uvedené v publikacích, jako je tato: https://doi.org/10.1643/ASIHCODONS2020.
 
-Alongside this work, we would implement a vocabulary for the Latimer Core term objectClassificationName most likely based on the topics developed by DISSCO (see also this GitHub issue: https://github.com/gbif/vocabulary/issues/157).
+Současně s touto prací bychom implementovali slovník pro termín Latimer Core objectClassificationName nejspíše na základě témat vyvinutých společností DISSCO (viz také toto téma na GitHubu: https://github.com/gbif/vocabulary/issues/157).
 
-## 4.   Facilitate linking literature to GRSciColl
+## 4.   Usnadnění propojení literatury s GRSciColl
 
 Collections are often cited in publications but not always in a standardized manner. It might later be difficult to link a collection to its citation.
 
