@@ -22,13 +22,13 @@ Naším cílem je i nadále podporovat naši komunitu editorů, školit a přij�
 Některé práce se stávajícími platformami mohou zahrnovat:
 - Import identifikátorů pro usnadnění interoperability,
 - Nastavení připojení, aby se externí platforma mohla stát hlavním zdrojem pro záznamy GRSciColl,
-- Help with bulk import and update of GRSciColl data based on these sources.
+- Pomožte s hromadným importem a aktualizací dat GRSciColl na základě těchto zdrojů.
 
-## 2.   Create and run a GRSciColl training module for editors
+## 2.   Vytvořte a spusťte školicí modul GRSciColl pro editory
 
-The GBIF Secretariat, in collaboration with our community, is developing a training module for GRSciColl editors. This module aims to cover everything a National GRSciColl editor might need to curate and edit GRSciColl content.
+Sekretariát GBIF ve spolupráci s naší komunitou připravuje školicí modul pro editory GRSciColl. Cílem tohoto modulu je pokrýt vše, co může editor národního GRSciCollu potřebovat ke kurátorství a úpravám obsahu GRSciCollu.
 
-The goal is to organize at least one online training event in 2025.
+Cílem je uspořádat v roce 2025 alespoň jedno online školení.
 
 We would also provide support for anyone interested in organizing training or GRSciColl curation sessions based on the module content.
 
