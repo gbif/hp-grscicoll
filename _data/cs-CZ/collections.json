@@ -485,7 +485,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Harvard University",
+      "description": "Z Harvardské univerzity",
       "background": "http://data.huh.harvard.edu/3d4e30a3-8ac8-442b-b4e3-9ec2887409da/image",
       "imageLicense": "[Rosa roxburghii f. normalis Rehder & E.H.Wilson](/specimen/search?entity=1998573742)",
       "xcta": [
@@ -497,7 +497,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Harvard University",
+      "description": "Z Harvardské univerzity",
       "background": "http://data.huh.harvard.edu/3d3c7993-d034-44d6-90be-4981257c9fed/image",
       "imageLicense": "[Chamberlainia digastra (Müll.Hal. ex Kindb.) H.Rob.](/specimen/search?entity=1998573454)",
       "xcta": [
@@ -508,8 +508,8 @@
       ]
     },
     {
-      "title": "Botany",
-      "description": "From Peabody Museum of Natural History",
+      "title": "Botanika",
+      "description": "Z Přírodovědného muzea Peabody",
       "background": "https://images.collections.yale.edu/iiif/2/ypm:2fbac234-e0c6-4b29-9d74-2c55ff8e8a9f/full/full/0/default.jpg",
       "imageLicense": "[Euosmolejeunea duriuscula A.Evans](/specimen/search?entity=1805438952)",
       "xcta": [
@@ -520,8 +520,8 @@
       ]
     },
     {
-      "title": "Zoological Collections",
-      "description": "From Estonian Museum of Natural History",
+      "title": "Zoologické sbírky",
+      "description": "Z Estonského přírodovědného muzea",
       "background": "https://files.plutof.ut.ee/public/orig/06/13/0613784613FD2894444B586498FFFDAEDD240581DB5732127945F15F2BA83780.CR2",
       "imageLicense": "[Arctiidae](/specimen/search?entity=3003608326)",
       "xcta": [
@@ -533,7 +533,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Canadian Museum of Nature",
+      "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/69/335/CAN10024608.jpg",
       "imageLicense": "[Salix arctica Pall.](/specimen/search?entity=1804458960)",
       "xcta": [
@@ -545,7 +545,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Utah State University",
+      "description": "Ze Státní univerzity v Utahu",
       "background": "http://swbiodiversity.org/imglib/intermt/specimens/UTC00247/UTC00247269_big_lg.jpg",
       "imageLicense": "[Dicranum scoparium Hedwig, 1801](/specimen/search?entity=1994031098)",
       "xcta": [
@@ -556,8 +556,8 @@
       ]
     },
     {
-      "title": "Vertebrate Zoology, Fishes (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Zoologie obratlovců, Ryby (USNM)",
+      "description": "Ze Smithsonian Institution, National Museum of Natural History",
       "background": "http://n2t.net/ark:/65665/m353928693-8d38-456f-90c3-c8bba4e88b88",
       "imageLicense": "[Scarus Forsskål, 1775](/specimen/search?entity=1843529917)",
       "xcta": [
@@ -569,7 +569,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Acadia University",
+      "description": "Z univerzity Acadia",
       "background": "http://procyon.acadiau.ca/ecsmith/cgi-bin/image.cgi?51248,jpeg",
       "imageLicense": "[Gaylussacia baccata (Wangenh.) K.Koch](/specimen/search?entity=1807239505)",
       "xcta": [
@@ -580,8 +580,8 @@
       ]
     },
     {
-      "title": "Paleobiology (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Paleobiologie (USNM)",
+      "description": "Ze Smithsonian Institution, National Museum of Natural History",
       "background": "http://n2t.net/ark:/65665/m3a20a553f-cdb3-4770-9128-84b2507b11f5",
       "imageLicense": "[Insexcta](/specimen/search?entity=1316715874)",
       "xcta": [
@@ -592,8 +592,8 @@
       ]
     },
     {
-      "title": "CAS Botany",
-      "description": "From California Academy of Sciences",
+      "title": "Botanika CAS",
+      "description": "Z Kalifornské akademie věd",
       "background": "http://ibss-images.calacademy.org:80/static/botany/originals/62/41/62419520-409e-4f76-be0d-62932f35d6f4.jpg",
       "imageLicense": "[Pachyphytum brevifolium Rose](/specimen/search?entity=2006018309)",
       "xcta": [
@@ -604,8 +604,8 @@
       ]
     },
     {
-      "title": "Botanical Collections",
-      "description": "From Estonian Museum of Natural History",
+      "title": "Botanické sbírky",
+      "description": "Z Estonského přírodovědného muzea",
       "background": "https://files.plutof.ut.ee/public/large/13/E3/13E3E775C7115287E52D4DD94F2FA4FF7A4E69C481C47BA728408BDA2C7D9772.jpg",
       "imageLicense": "[Vaccinium vitis-idaea L.](/specimen/search?entity=3001125938)",
       "xcta": [
@@ -617,7 +617,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From California Botanic Garden",
+      "description": "Z kalifornské botanické zahrady",
       "background": "https://bisque.cyverse.org/image_service/image/00-Pj6k3qeRaTSahgSyyEy5JA/resize:4000/format:jpeg",
       "imageLicense": "[Astragalus sclerocarpus A.Gray](/specimen/search?entity=2989945851)",
       "xcta": [
@@ -629,7 +629,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Harvard University",
+      "description": "Z Harvardské univerzity",
       "background": "http://data.huh.harvard.edu/4d0e5acf-3e48-4a7c-8de4-fc93a7faba99/image",
       "imageLicense": "[Graphorkis lurida (Sw.) Kuntze](/specimen/search?entity=3828128336)",
       "xcta": [
@@ -641,7 +641,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Institut National de la Recherche Agronomique (INRA)",
+      "description": "Z Národního ústavu pro zemědělský výzkum (INRA)",
       "background": "http://mediaphoto.mnhn.fr/media/1537914610021o1UdU29uoBcv3JOJ",
       "imageLicense": "[Aira praecox L.](/specimen/search?entity=3427599101)",
       "xcta": [
@@ -653,7 +653,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Estadual de Feira de Santana",
+      "description": "Ze Státní univerzity ve Feira de Santana",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=huefs/Lecythidaceae/jpg/HUEFS0091643.jpg",
       "imageLicense": "[Eschweilera ovata (Cambess.) Mart. ex Miers](/specimen/search?entity=2998240117)",
       "xcta": [
@@ -665,7 +665,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Federal da Bahia, Campus Universitário de Ondina",
+      "description": "Z Federální univerzity Bahia, kampus Ondina",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=alcb/output_13102016/ALCB/0/2/80/46/ALCB028046.JPG",
       "imageLicense": "[Senna Mill.](/specimen/search?entity=2996066919)",
       "xcta": [
@@ -677,7 +677,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Komi Scientific Centre, Russian Academy of Sciences",
+      "description": "Z Vědeckého centra Komi Ruské akademie věd",
       "background": "https://ib.komisc.ru/files/gbif/bryo/label_img/27/4_14_IMG_0268-000.JPG",
       "imageLicense": "[Rhizomnium pseudopunxctatum T.Koponen, 1968](/specimen/search?entity=1945842726)",
       "xcta": [
@@ -688,8 +688,8 @@
       ]
     },
     {
-      "title": "The molluscs collection (IM) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "title": "Sbírka měkkýšů (IM) Muséum national d'Histoire naturelle (MNHN - Paříž)",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "http://mediaphoto.mnhn.fr/media/1401117421477pa8ZCn2F4KdxbA5n",
       "imageLicense": "[Ocenebra newmani Lorenz, 1990](/specimen/search?entity=1019711173)",
       "xcta": [
@@ -700,8 +700,8 @@
       ]
     },
     {
-      "title": "Paleontology - Invertebrates and Plants",
-      "description": "From University of Colorado Museum of Natural History",
+      "title": "Paleontologie - Bezobratlí a rostliny",
+      "description": "Z Přírodovědného muzea Coloradské univerzity",
       "background": "http://paleo-attachments.colorado.edu/static/originals/sp69104765486768384680.att.jpg",
       "imageLicense": "[Diptera](/specimen/search?entity=1064377209)",
       "xcta": [
@@ -712,8 +712,8 @@
       ]
     },
     {
-      "title": "Plant specimens",
-      "description": "From University of Texas at El Paso Biodiversity Collections",
+      "title": "Rostlinné exempláře",
+      "description": "Ze sbírek biodiverzity Texaské univerzity v El Pasu",
       "background": "http://arctos.database.museum/media/10623984?open",
       "imageLicense": "[Apodanthera undulata A.Gray](/specimen/search?entity=1611937359)",
       "xcta": [
@@ -725,7 +725,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Fairchild Tropical Botanic Garden",
+      "description": "Z Fairchildovy tropické botanické zahrady",
       "background": "https://cdn.plantatlas.org/img/specimens/FTG/55506.jpg",
       "imageLicense": "[Lycopodium L.](/specimen/search?entity=122968478)",
       "xcta": [
@@ -737,7 +737,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Jardin botanique de la ville de Lyon",
+      "description": "Z Jardin botanique de la ville de Lyon",
       "background": "http://mediaphoto.mnhn.fr/media/14859484564779WxsBVXfyTL1MaEx",
       "imageLicense": "[Lysimachia punxctata L.](/specimen/search?entity=1835627210)",
       "xcta": [
@@ -749,7 +749,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From George Mason University",
+      "description": "Z Univerzity George Masona",
       "background": "https://bisque.cyverse.org/image_service/image/00-5pmWqYUywfi88MCA3C6Xsi/resize:4000/format:jpeg",
       "imageLicense": "[Lespedeza violacea Pers.](/specimen/search?entity=3357392237)",
       "xcta": [
@@ -761,7 +761,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From North Carolina State University",
+      "description": "Ze Státní univerzity v Severní Karolíně",
       "background": "https://bisque.cyverse.org/image_service/image/00-tXvWds96Foj9cjSzrfbjh3?resize=4000&format=jpeg",
       "imageLicense": "[Fagus grandifolia Ehrh.](/specimen/search?entity=1990241443)",
       "xcta": [
@@ -773,7 +773,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Central Siberian Botanical Garden, Siberian Branch of Russian Academy of Sciences",
+      "description": "Z Centrální sibiřské botanické zahrady, Sibiřská pobočka Ruské akademie věd",
       "background": "http://herb.csbg.nsc.ru:8081/backend/herbarium/view/9240",
       "imageLicense": "[Nitraria komarovii Iljin & Lava](/specimen/search?entity=2421783795)",
       "xcta": [
@@ -785,7 +785,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Peabody Museum of Natural History",
+      "description": "Z Přírodovědného muzea Peabody",
       "background": "https://images.collections.yale.edu/iiif/2/ypm:f25c21a7-eeff-425f-9bed-4e7f266528dc/full/!1920,1920/0/default.jpg",
       "imageLicense": "[Eragrostis spexctabilis (Pursh) Steud.](/specimen/search?entity=1038919019)",
       "xcta": [
@@ -797,7 +797,7 @@
     },
     {
       "title": "Herbář LUX",
-      "description": "From National Museum of Natural History, Luxembourg",
+      "description": "Z Národního přírodovědného muzea v Lucemburku",
       "background": "https://archimg.mnhn.lu/Collections/Collections/15114.jpg",
       "imageLicense": "[Hieracium murorum L.](/specimen/search?entity=2417914425)",
       "xcta": [
@@ -809,7 +809,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From CIRAD",
+      "description": "Ze CIRAD",
       "background": "http://mediaphoto.mnhn.fr/media/1464699502559GgL1YG8UZlSl9TFr",
       "imageLicense": "[Nelsonia canescens (Lam.) Spreng.](/specimen/search?entity=1851043350)",
       "xcta": [
