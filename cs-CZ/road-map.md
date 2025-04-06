@@ -44,9 +44,9 @@ Současně s touto prací bychom implementovali slovník pro termín Latimer Cor
 
 ## 4.   Usnadnění propojení literatury s GRSciColl
 
-Collections are often cited in publications but not always in a standardized manner. It might later be difficult to link a collection to its citation.
+Sbírky jsou často citovány v publikacích, ale ne vždy standardizovaným způsobem. Později může být obtížné propojit sbírku s její citací.
 
-We will work with the community and journals, when possible, to agree on best practice for citation of collections. The goal is to facilitate citing a collection and linking specimens coming from PLAZI processed publications to GRSciColl.
+Pokud to bude možné, budeme spolupracovat s komunitou a časopisy, abychom se dohodli na osvědčených postupech pro citování sbírek. Cílem je usnadnit citování sbírky a propojení vzorků pocházejících z publikací zpracovaných v PLAZI s GRSciColl.
 
-A second aspect of this work will be to set up guidelines for institutions who wish to share bibliographic references and citations of their collections on GRSciColl.
+Druhým aspektem této práce bude vytvoření pokynů pro instituce, které chtějí sdílet bibliografické odkazy a citace svých sbírek na GRSciColl.
 
