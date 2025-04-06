@@ -19,9 +19,9 @@ toc: true
 
 Naším cílem je i nadále podporovat naši komunitu editorů, školit a přijímat nové editory a spolupracovat s dalšími platformami pro uchovávání dat (např. CETAF a ALA) na zlepšování dat dostupných v GRSciColl.
 
-Some of the work with existing platforms may include:
-- Importing identifiers to facilitate interoperability,
-- Set up connection so an external platform can become a master source for GRSciColl entries,
+Některé práce se stávajícími platformami mohou zahrnovat:
+- Import identifikátorů pro usnadnění interoperability,
+- Nastavení připojení, aby se externí platforma mohla stát hlavním zdrojem pro záznamy GRSciColl,
 - Help with bulk import and update of GRSciColl data based on these sources.
 
 ## 2.   Create and run a GRSciColl training module for editors
