@@ -1,11 +1,11 @@
 {
-  "title": "Featured collections and specimens",
+  "title": "Doporučené sbírky a exempláře",
   "features": [
     {
-      "title": "Herbario Jardín Botánico de Cartagena",
-      "description": "From the Botanical Garden of Cartagena “Guillermo Piñeres”",
+      "title": "Herbář botanické zahrady v Cartageně",
+      "description": "Z botanické zahrady v Cartageně „Guillermo Piñeres“",
       "background": "/assets/images/cropped_mircochilus.jpg",
-      "imageLicense": " [Microchilus madrinanii Ormerod](https://scientific-collections.gbif.org/specimen/search?entity=4139006064&taxonKey=5315085&view=TABLE) collected in Colombia by Jardín Botánico de Cartagena (licensed under http://creativecommons.org/licenses/by-nd/4.0/)",
+      "imageLicense": " [Microchilus madrinanii Ormerod](https://scientific-collections.gbif.org/specimen/search?entity=4139006064&taxonKey=5315085&view=TABLE) shromážděný v Kolumbii v Jardín Botánico de Cartagena (licencováno pod http://creativecommons.org/licenses/by-nd/4.0/)",
       "xcta": [
         {
           "text": "Více",
@@ -15,8 +15,8 @@
       "href": "/collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889"
     },
     {
-      "title": "The Coleoptera collection",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "title": "Sbírka brouků (Coleoptera)",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "https://mediaphoto.mnhn.fr/media/1637846993177lDX4RVPIoTgOc0GX",
       "imageLicense": "[Strategus aloeus (Linnaeus, 1758)](/specimen/search?entity=3411207309)",
       "xcta": [
@@ -29,7 +29,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Quaid-I-Azam University",
+      "description": "Z univerzity Quaid-I-Azam",
       "background": "https://openherbarium.org:443/imglib/openmuseum/QAU_ISL/ISL0000/ISL0000005_1523068157_lg.jpg",
       "imageLicense": "[Ochthochloa compressa (Forssk.) Hilu](/specimen/search?entity=1890156002)",
       "xcta": [
@@ -41,8 +41,8 @@
       "href": "/collection/af8d2bb1-08c0-401b-8ed0-01a3f7da3f41"
     },
     {
-      "title": "NHMD Entomology",
-      "description": "From Natural History Museum of Denmark",
+      "title": "Entomologie NHMD",
+      "description": "Z Dánského přírodovědného muzea",
       "background": "https://specify-attachments.science.ku.dk/static/NHMD_Entomology/originals/sp64882253855935359653.att.jpg",
       "imageLicense": "[Cephalops argutus (Hardy, 1968)](/specimen/search?entity=3458627549)",
       "xcta": [
@@ -268,8 +268,8 @@
       ]
     },
     {
-      "title": "Vertebrate Zoology, Mammals (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Zoologie obratlovců, Savci (USNM)",
+      "description": "Ze Smithsonian Institution, National Museum of Natural History",
       "background": "http://n2t.net/ark:/65665/m333459927-c900-410c-a22a-9a2331852408",
       "imageLicense": "[Gerbillus Desmarest, 1804](/specimen/search?entity=1320811643)",
       "xcta": [
@@ -280,8 +280,8 @@
       ]
     },
     {
-      "title": "Vertebrate Zoology, Birds (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Zoologie obratlovců, Ptáci (USNM)",
+      "description": "Ze Smithsonian Institution, National Museum of Natural History",
       "background": "http://n2t.net/ark:/65665/m3e0f5930e-5724-4b11-82c4-63febadd7b78",
       "imageLicense": "[Parus atricapillus Linnaeus, 1766](/specimen/search?entity=1317961151)",
       "xcta": [
@@ -292,8 +292,8 @@
       ]
     },
     {
-      "title": "Snow Entomological Museum Collection",
-      "description": "From University of Kansas, Biodiversity Institute and Natural History Museum",
+      "title": "Sbírka Snow Entomological Museum",
+      "description": "Z University v Kansasu, Ústavu biodiverzity a Přírodovědného muzea",
       "background": "http://biimages.biodiversity.ku.edu/static/Entomology/originals/sp63813142377676678698.att.JPG",
       "imageLicense": "[Berosus Leach, 1817](/specimen/search?entity=1269809045)",
       "xcta": [
@@ -305,7 +305,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Royal Botanic Gardens & Domain Trust",
+      "description": "Z Královské botanické zahrady a Domény Trust",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=31dd1cbf-f19d-4b19-894e-9f20cffe0ba4",
       "imageLicense": "[Nymphoides montana Aston](/specimen/search?entity=2827822695)",
       "xcta": [
@@ -317,7 +317,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Real Jardín Botánico (CSIC)",
+      "description": "Z botanické zahrady Real Jardín (CSIC)",
       "background": "http://161.111.171.57/fcgi-bin/iipsrv.fcgi?FIF=/Catalogo/Fanerogamia/IMGS_web/IMGS_jp2/MA-01-00579012.jp2&WID=2200&QLT=40&CVT=jpeg",
       "imageLicense": "[Diplacrum longifolium (Griseb.) C.B.Clarke](/specimen/search?entity=1936505906)",
       "xcta": [
@@ -328,8 +328,8 @@
       ]
     },
     {
-      "title": "Observation records of the Natural History Museum Rotterdam",
-      "description": "From Natural History Museum Rotterdam",
+      "title": "Pozorovací záznamy Přírodovědného muzea v Rotterdamu",
+      "description": "Z Přírodovědného muzea v Rotterdamu",
       "background": "https://www.nmr-pics.nl/PICTURES/voornesduin2.jpg",
       "imageLicense": "[Agrochola lota (Clerck, 1759)](/specimen/search?entity=768241095)",
       "xcta": [
@@ -341,7 +341,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From New England Botanical Club",
+      "description": "Z Botanického klubu Nové Anglie",
       "background": "http://data.huh.harvard.edu/4cbc7879-66fd-4459-929c-cc1d9acd3eed/image",
       "imageLicense": "[Ranunculus hispidus Michx.](/specimen/search?entity=1998642278)",
       "xcta": [
@@ -353,7 +353,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From University of Georgia",
+      "description": "Z univerzity v Georgii",
       "background": "https://bisque.cyverse.org/image_service/image/00-uVbG69hffRJnxVDyio6Hod?resize=4000&format=jpeg",
       "imageLicense": "[Hieracium gronovii L.](/specimen/search?entity=3709801047)",
       "xcta": [
@@ -364,8 +364,8 @@
       ]
     },
     {
-      "title": "Invertebrate Paleontology",
-      "description": "From Peabody Museum of Natural History",
+      "title": "Paleontologie bezobratlých",
+      "description": "Z Přírodovědného muzea Peabody",
       "background": "https://images.collections.yale.edu/iiif/2/ypm:d10ddda6-9ff2-4dbd-afc2-c8185f4fbfc6/full/full/0/default.jpg",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1848928433)",
       "xcta": [
@@ -376,8 +376,8 @@
       ]
     },
     {
-      "title": "Entomology",
-      "description": "From Harvard University, Museum of Comparative Zoology",
+      "title": "Entomologie",
+      "description": "Z Harvardské univerzity, Muzeum srovnávací zoologie",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/entomology/thumbnails/MCZ-ENT00767405_Ennomos_subsignaria_lbs.jpg",
       "imageLicense": "[Ennomos subsignaria Hübner, 1818-1823](/specimen/search?entity=3329079312)",
       "xcta": [
@@ -389,7 +389,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Museu Botânico Municipal",
+      "description": "Z Městského botanického muzea",
       "background": "http://imagens1.jbrj.gov.br/fsi/server?type=image&source=mbm/sibbr2/16/20/95/MBM162095.JPG",
       "imageLicense": "[Passiflora setacea DC.](/specimen/search?entity=2996609701)",
       "xcta": [
@@ -401,7 +401,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From UNIVEGE Université Clermont Auvergne",
+      "description": "Z univerzity UNIVEGE v Clermont Auvergne",
       "background": "http://mediaphoto.mnhn.fr/media/1446664933656Y2OYl67Gsb1RWTsg",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1437892963)",
       "xcta": [
@@ -413,7 +413,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=mnhn/LOTE_F/PC0709456_004.jpg",
       "imageLicense": "[Bryum Hedw.](/specimen/search?entity=2997419511)",
       "xcta": [
@@ -424,8 +424,8 @@
       ]
     },
     {
-      "title": "Invertebrate Zoology (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Zoologie bezobratlých (USNM)",
+      "description": "Ze Smithsonian Institution, National Museum of Natural History",
       "background": "http://n2t.net/ark:/65665/m3e401857f-b3ae-4b5d-82b6-24ca5a180af6",
       "imageLicense": "[Lumbrineris tenuis Verrill, 1873](/specimen/search?entity=1320568936)",
       "xcta": [
@@ -436,8 +436,8 @@
       ]
     },
     {
-      "title": "CAS Herpetology",
-      "description": "From California Academy of Sciences",
+      "title": "Herpetologie CAS",
+      "description": "Z Kalifornské akademie věd",
       "background": "http://www.archive.org/stream/catalogueofdepar26unse#page/n59/mode/2up",
       "imageLicense": "[Bipes biporus (Cope, 1894)](/specimen/search?entity=543497608)",
       "xcta": [
@@ -460,7 +460,7 @@
       ]
     },
     {
-      "title": "Herbarium Berolinense, Berlin (B)",
+      "title": "Herbář Berolinense, Berlín (B)",
       "description": "From ZE Botanischer Garten und Botanisches Museum, Freie Universität Berlin",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=b/bgbm/B/20/01/42/07/b_20_0142076.jpg",
       "imageLicense": "[Pecluma M.G.Price](/specimen/search?entity=2996504964)",
