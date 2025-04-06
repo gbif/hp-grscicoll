@@ -1,31 +1,31 @@
 - 
   #Links listed below will be included in your site's navbar (navigation at the top)
   text: Instituce
-  href: /institution/search
+  href: /cs-CZ/institution/search
 - 
   text: Sbírky
-  href: /collection/search
+  href: /cs-CZ/collection/search
 - 
   text: Exempláře
-  href: /specimen/search
+  href: /cs-CZ/specimen/search
 - 
   text: O
   menu:
     - 
       text: GRSciColl
-      href: /about
+      href: /cs-CZ/about
     - 
       text: Zapojte se
-      href: /get-involved
+      href: /cs-CZ/get-involved
     - 
       text: Připojené systémy
-      href: /connected-systems
+      href: /cs-CZ/connected-systems
     - 
       text: API
       href: /api
     - 
       text: Road mapa
-      href: /road-map
+      href: /cs-CZ/road-map
     - 
       text: Kontakt
       href: /contact
@@ -34,10 +34,10 @@
   menu:
     - 
       text: Přidání záznamů
-      href: 'how-to#how-to-add-a-collection-or-an-institution-to-grscicoll'
+      href: 'cs-CZ/how-to#how-to-add-a-collection-or-an-institution-to-grscicoll'
     - 
       text: Úprava záznamů
-      href: '/how-to#how-to-edit-a-grscicoll-collection-or-institution'
+      href: '/cs-CZ/how-to#how-to-edit-a-grscicoll-collection-or-institution'
     - 
       text: Časté dotazy
-      href: /faq
+      href: /cs-CZ/faq
