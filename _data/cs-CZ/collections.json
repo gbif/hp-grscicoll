@@ -869,7 +869,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Federal do Ceará",
+      "description": "Z Federální univerzity v Ceará",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=e/eac/4/13/38/EAC0041338.JPG",
       "imageLicense": "[Jacquemontia agrestis (C.Mart. ex Choisy) Meisn.](/specimen/search?entity=2995950398)",
       "xcta": [
@@ -880,8 +880,8 @@
       ]
     },
     {
-      "title": "Entomology",
-      "description": "From Peabody Museum of Natural History",
+      "title": "Entomologie",
+      "description": "Z Přírodovědného muzea Peabody",
       "background": "https://images.collections.yale.edu/iiif/2/ypm:47ffc537-5bd7-429f-9713-314651dc355e/full/!1920,1920/0/default.jpg",
       "imageLicense": "[Catocala residua Grote, 1874](/specimen/search?entity=1060795705)",
       "xcta": [
@@ -892,7 +892,7 @@
       ]
     },
     {
-      "title": "Malacology and Invertebrate Zoology",
+      "title": "Malakologie a zoologie bezobratlých",
       "description": "From Florida Museum of Natural History- Zoology, Paleontology & Paleobotany",
       "background": "https://cdn.floridamuseum.ufl.edu/IZ/f1e9a573-c7fb-4bc1-af6f-1f9b90148579",
       "imageLicense": "[Clibanarius signatus Heller, 1861](/specimen/search?entity=3382933339)",
