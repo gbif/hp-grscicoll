@@ -1289,7 +1289,7 @@
     },
     {
       "title": "Zkamenělé rostliny",
-      "description": "From Field Museum of Natural History",
+      "description": "Z Field Museum of Natural History",
       "background": "http://fm-digital-assets.fieldmuseum.org/745/477/PP36263_image_1.jpg",
       "imageLicense": "[Pteridophyta](/specimen/search?entity=1425210975)",
       "xcta": [
@@ -1301,7 +1301,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From CEPEC, CEPLAC e Universidade Federal do Sul da Bahia",
+      "description": "Z CEPEC, CEPLAC a Federální univerzity Jižní Bahia",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=cepec/Cyperaceae5/CEPEC00017786.JPG",
       "imageLicense": "[Rhynchospora ridleyi C.B.Clarke](/specimen/search?entity=2997226412)",
       "xcta": [
@@ -1313,7 +1313,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Kagoshima University",
+      "description": "Z univerzity v Kagošimě",
       "background": "https://dbs.kaum.kagoshima-u.ac.jp/musedb/s_plant/picture/KAG001802/KAG001802.jpg",
       "imageLicense": "[Sagittaria trifolia L.](/specimen/search?entity=3408897258)",
       "xcta": [
@@ -1324,8 +1324,8 @@
       ]
     },
     {
-      "title": "The fishes collection (IC) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "title": "Sbírka ryb (IC) Muséum national d'Histoire naturelle (MNHN - Paříž)",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "http://mediaphoto.mnhn.fr/media/14060319146022Lh580VJj7HtAErU",
       "imageLicense": "[Petrocephalus bane bane](/specimen/search?entity=583622546)",
       "xcta": [
@@ -1337,7 +1337,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Estadual do Oeste do Paraná",
+      "description": "Ze Státní univerzity v západní Paraná",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=u/unop/jpeg/UNOP009458.JPG",
       "imageLicense": "[Justicia lythroides (Nees) V.A.W.Graham](/specimen/search?entity=2302495435)",
       "xcta": [
@@ -1349,7 +1349,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Tula State Lev Tolstoy Pedagogical University",
+      "description": "Ze Státní pedagogické univerzity Lva Tolstého v Tule",
       "background": "https://plant.depo.msu.ru/open/public/item/TUL001896/img/0.jpg?gbif",
       "imageLicense": "[Juncus bufonius L.](/specimen/search?entity=2532988391)",
       "xcta": [
@@ -1360,8 +1360,8 @@
       ]
     },
     {
-      "title": "Invertebrate Paleontology",
-      "description": "From Virginia Museum of Natural History",
+      "title": "Paleontologie bezobratlých",
+      "description": "Z Přírodovědného muzea ve Virginii",
       "background": "https://www.flickr.com/photos/68883384@N05/35480780301",
       "imageLicense": "[Notonectidae](/specimen/search?entity=1799108224)",
       "xcta": [
@@ -1372,7 +1372,7 @@
       ]
     },
     {
-      "title": "The Lepidoptera collection (EL) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
+      "title": "Sbírka motýlů (EL) Národního muzea historie přírody (MNHN - Paříž)",
       "description": "From MNHN - Museum national d'Histoire naturelle",
       "background": "https://mediaphoto.mnhn.fr/media/1584000334755bkwYE1uUdaR0GE4W",
       "imageLicense": "[Selenisa lanipes Guenée, 1852](/specimen/search?entity=1844644462)",
