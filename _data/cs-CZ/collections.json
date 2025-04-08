@@ -1373,7 +1373,7 @@
     },
     {
       "title": "Sbírka motýlů (EL) Národního muzea historie přírody (MNHN - Paříž)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "https://mediaphoto.mnhn.fr/media/1584000334755bkwYE1uUdaR0GE4W",
       "imageLicense": "[Selenisa lanipes Guenée, 1852](/specimen/search?entity=1844644462)",
       "xcta": [
@@ -1420,7 +1420,7 @@
       ]
     },
     {
-      "title": "Herpetology",
+      "title": "Herpetologie",
       "description": "From Florida Museum of Natural History- Zoology, Paleontology & Paleobotany",
       "background": "https://cdn.floridamuseum.ufl.edu/Herp/7037d36c-4989-4a7f-9453-255298de93e2",
       "imageLicense": "[Nerodia fasciata (Linnaeus, 1766)](/specimen/search?entity=1324151777)",
@@ -1444,7 +1444,7 @@
       ]
     },
     {
-      "title": "Herpetology",
+      "title": "Herpetologie",
       "description": "From Harvard University, Museum of Comparative Zoology",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/herpetology/thumbnails/A6832_R_esculenta_perezi_L_hl.jpg",
       "imageLicense": "[Rana esculenta perezi López-Seoane, 1885](/specimen/search?entity=476554134)",
@@ -1456,7 +1456,7 @@
       ]
     },
     {
-      "title": "Fishes",
+      "title": "Ryby",
       "description": "From Field Museum of Natural History",
       "background": "http://fm-digital-assets.fieldmuseum.org/1646/411/10171_lat_FMNH_FZ.jpg",
       "imageLicense": "[Lepisosteus platostomus Rafinesque, 1820](/specimen/search?entity=666623863)",
@@ -1528,7 +1528,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From Davidson College",
       "background": "https://api.idigbio.org/v2/media/17374ef2b863e31cf5926db96ada5041?size=fullsize",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1934674787)",
@@ -1576,7 +1576,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From Mississippi State University",
       "background": "https://scan-bugs.org:443/imglib/scan/MISSA_MEM/MEM343/MEM343038_Cucullia_postera_IWF_1556904033_lg.jpg",
       "imageLicense": "[Cucullia postera Guenée, 1852](/specimen/search?entity=1846473785)",
@@ -1624,7 +1624,7 @@
       ]
     },
     {
-      "title": "NHMD Entomology",
+      "title": "Entomologie NHMD",
       "description": "From Natural History Museum of Denmark",
       "background": "https://specify-attachments.science.ku.dk/static/NHMD_Entomology/originals/sp64882253855935359653.att.jpg",
       "imageLicense": "[Cephalops argutus (Hardy, 1968)](/specimen/search?entity=3458627549)",
@@ -1708,7 +1708,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From Natural History Museum of Utah",
       "background": "https://api.idigbio.org/v2/media/6b20b7e01a0476126c7492ed8baf19f4?size=fullsize",
       "imageLicense": "[Orthofidonia Packard, 1876](/specimen/search?entity=1457656532)",
@@ -2152,7 +2152,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From W.F. Barr Entomological Collection",
       "background": "https://api.idigbio.org/v2/media/40b9646b18f94e2c0b8dde4aa5a058f3?size=fullsize",
       "imageLicense": "[Danaus plexippus (Linnaeus, 1758)](/specimen/search?entity=1977822649)",
@@ -2236,7 +2236,7 @@
       ]
     },
     {
-      "title": "Mammals",
+      "title": "Savci",
       "description": "From Field Museum of Natural History",
       "background": "https://fm-digital-assets.fieldmuseum.org/721/099/153116_SkinDorsal_RK01_MZ.jpg",
       "imageLicense": "[Xerus rutilus saturatus (Neumann, 1900)](/specimen/search?entity=665742992)",
@@ -2296,7 +2296,7 @@
       ]
     },
     {
-      "title": "Herpetology",
+      "title": "Herpetologie",
       "description": "From University of Colorado Museum of Natural History",
       "background": "http://arctos.database.museum/media/10509180?open",
       "imageLicense": "[Pseudonaja textilis (Duméril, Bibron & Duméril, 1854)](/specimen/search?entity=1061380418)",
@@ -2356,7 +2356,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From University of Texas at El Paso Biodiversity Collections",
       "background": "http://arctos.database.museum/media/10603398?open",
       "imageLicense": "[Bembix occidentalis W.Fox, 1893](/specimen/search?entity=2234244402)",
@@ -2404,7 +2404,7 @@
       ]
     },
     {
-      "title": "Herpetology",
+      "title": "Herpetologie",
       "description": "From Carnegie Museum of Natural History",
       "background": "https://api.idigbio.org/v2/media/10513ce514b893ae3c17359684e9c093",
       "imageLicense": "[Ramphotyphlops cumingii (Gray, 1845)](/specimen/search?entity=786193750)",
@@ -2428,7 +2428,7 @@
       ]
     },
     {
-      "title": "Mammals",
+      "title": "Savci",
       "description": "From University of Oslo",
       "background": "http://www.unimus.no/felles/bilder/web_hent_bilde.php?id=12586728&type=jpeg",
       "imageLicense": "[Orcinus orca (Linnaeus, 1758)](/specimen/search?entity=3053256490)",
@@ -2440,7 +2440,7 @@
       ]
     },
     {
-      "title": "Mammals",
+      "title": "Savci",
       "description": "From University of Texas at El Paso Biodiversity Collections",
       "background": "http://arctos.database.museum/media/10584607?open",
       "imageLicense": "[Myotis evotis (H.Allen, 1864)](/specimen/search?entity=1323886651)",
@@ -3673,7 +3673,7 @@
     {
       "text": "Explore specimens",
       "isPrimary": true,
-      "href": "/specimen/search"
+      "href": "/cs-CZ/specimen/search"
     }
   ]
 }
