@@ -1397,7 +1397,7 @@
     },
     {
       "title": "Sbírka dvoukřídlých (ED) Muséum national d'Histoire naturelle (MNHN - Paříž)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "http://mediaphoto.mnhn.fr/media/1499093286117eeSAX9cHBJKGoV7L",
       "imageLicense": "[Sphenella marginata (Fallén, 1814)](/specimen/search?entity=1019551670)",
       "xcta": [
@@ -1409,7 +1409,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Conservatoire Botanique Pierre Fabre",
+      "description": "Z Conservatoire Botanique Pierre Fabre",
       "background": "http://mediaphoto.mnhn.fr/media/1464961446351SVCKOxSMjjoRxE70",
       "imageLicense": "[incertae sedis](/specimen/search?entity=2234720468)",
       "xcta": [
@@ -1421,7 +1421,7 @@
     },
     {
       "title": "Herpetologie",
-      "description": "From Florida Museum of Natural History- Zoology, Paleontology & Paleobotany",
+      "description": "Z Florida Museum of Natural History- Zoologie, paleontologie a paleobotanika",
       "background": "https://cdn.floridamuseum.ufl.edu/Herp/7037d36c-4989-4a7f-9453-255298de93e2",
       "imageLicense": "[Nerodia fasciata (Linnaeus, 1766)](/specimen/search?entity=1324151777)",
       "xcta": [
@@ -1432,8 +1432,8 @@
       ]
     },
     {
-      "title": "National Fish Collection",
-      "description": "From South African Institute for Aquatic Biodiversity",
+      "title": "Národní sbírka ryb",
+      "description": "Z Jihoafrického institutu pro vodní biodiverzitu",
       "background": "http://specify-attachments-saiab.saiab.ac.za/originals/6502.jpg",
       "imageLicense": "[Plesiops coeruleolineatus Rüppell, 1835](/specimen/search?entity=1230330659)",
       "xcta": [
@@ -1445,7 +1445,7 @@
     },
     {
       "title": "Herpetologie",
-      "description": "From Harvard University, Museum of Comparative Zoology",
+      "description": "Z Harvardské univerzity, Muzeum srovnávací zoologie",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/herpetology/thumbnails/A6832_R_esculenta_perezi_L_hl.jpg",
       "imageLicense": "[Rana esculenta perezi López-Seoane, 1885](/specimen/search?entity=476554134)",
       "xcta": [
@@ -1457,7 +1457,7 @@
     },
     {
       "title": "Ryby",
-      "description": "From Field Museum of Natural History",
+      "description": "Z Field Museum of Natural History",
       "background": "http://fm-digital-assets.fieldmuseum.org/1646/411/10171_lat_FMNH_FZ.jpg",
       "imageLicense": "[Lepisosteus platostomus Rafinesque, 1820](/specimen/search?entity=666623863)",
       "xcta": [
@@ -1468,8 +1468,8 @@
       ]
     },
     {
-      "title": "Fish Observation",
-      "description": "From South African Institute for Aquatic Biodiversity",
+      "title": "Pozorování ryb",
+      "description": "Z Jihoafrického institutu pro vodní biodiverzitu",
       "background": "http://specify-attachments-saiab.saiab.ac.za/originals/illus_7450.tif",
       "imageLicense": "[Antennariidae](/specimen/search?entity=1265257757)",
       "xcta": [
@@ -1481,7 +1481,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Harvard University",
+      "description": "Z Harvardské univerzity",
       "background": "http://data.huh.harvard.edu/416e8478-d860-4baf-a401-cbeea618ec35/image",
       "imageLicense": "[Eriogonum abertianum Torr.](/specimen/search?entity=1998591964)",
       "xcta": [
@@ -1493,7 +1493,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Muséum des sciences naturelles d'Angers",
+      "description": "Z Muzea přírodních věd v Angers",
       "background": "http://mediaphoto.mnhn.fr/media/1480426155410YYCf9LggWGwm8SrV",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1851076852)",
       "xcta": [
@@ -1504,8 +1504,8 @@
       ]
     },
     {
-      "title": "Palaeontology collections MnhnL",
-      "description": "From National Museum of Natural History, Luxembourg",
+      "title": "Paleontologické sbírky MnhnL",
+      "description": "Z Národního přírodovědného muzea v Lucemburku",
       "background": "https://archimg.mnhn.lu/Collections/Collections/BQ207.JPG",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1900180648)",
       "xcta": [
@@ -1516,8 +1516,8 @@
       ]
     },
     {
-      "title": "Invertebrate Paleontology",
-      "description": "From Natural History Museum of Los Angeles County",
+      "title": "Paleontologie bezobratlých",
+      "description": "Z Přírodovědného muzea okresu Los Angeles",
       "background": "http://digitalgallery.nhm.org:8085/invertpaleo_nhm/api/v1/asset/772275/preview",
       "imageLicense": "[Diptera](/specimen/search?entity=2609728715)",
       "xcta": [
@@ -1529,7 +1529,7 @@
     },
     {
       "title": "Entomologie",
-      "description": "From Davidson College",
+      "description": "Z Davidson College",
       "background": "https://api.idigbio.org/v2/media/17374ef2b863e31cf5926db96ada5041?size=fullsize",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1934674787)",
       "xcta": [
@@ -1540,8 +1540,8 @@
       ]
     },
     {
-      "title": "The Orthoptera collection (EO) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "title": "Sbírka rovnokřídlých (EO) Muséum national d'Histoire naturelle (MNHN - Paříž)",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "http://mediaphoto.mnhn.fr/media/1503589111985emW9QdLMj9vAxkhC",
       "imageLicense": "[Ornebius Guérin-Méneville, 1844](/specimen/search?entity=1587288747)",
       "xcta": [
@@ -1721,7 +1721,7 @@
     },
     {
       "title": "The reptiles and amphibians collection (RA) of the Muséum national d'Histoire Naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "http://mediaphoto.mnhn.fr/media/148464638999563cS24bfa7Tpzypo",
       "imageLicense": "[Candoia bibroni (Duméril & Bibron, 1844)](/specimen/search?entity=440132369)",
       "xcta": [
@@ -1829,7 +1829,7 @@
     },
     {
       "title": "The mammals collection (ZM) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "https://mediaphoto.mnhn.fr/media/1658143225046pGmgZKgEYfFIGT8z",
       "imageLicense": "[Myrmecobius fasciatus Waterhouse, 1836](/specimen/search?entity=1044031884)",
       "xcta": [
@@ -1913,7 +1913,7 @@
     },
     {
       "title": "The Hymenoptera collection (EY) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "https://mediaphoto.mnhn.fr/media/1548343513338rPKm0iILy2ldeIDO",
       "imageLicense": "[Indiopius saigonensis Fischer, 1966](/specimen/search?entity=1989856846)",
       "xcta": [
@@ -2045,7 +2045,7 @@
     },
     {
       "title": "The echinoderm collection (IE) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "https://mediaphoto.mnhn.fr/media/1551965942046dJAwZgs5kd6AAHlL",
       "imageLicense": "[Calliaster sarahae Mah, 2018](/specimen/search?entity=2005635230)",
       "xcta": [
@@ -2093,7 +2093,7 @@
     },
     {
       "title": "The cnidarians collection (IK) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "https://mediaphoto.mnhn.fr/media/1568624593963OZo3lcozihPpcqlN",
       "imageLicense": "[Obelia dichotoma (Linnaeus, 1758)](/specimen/search?entity=1705754580)",
       "xcta": [
@@ -2453,7 +2453,7 @@
     },
     {
       "title": "The Hemiptera collection (EH) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "http://mediaphoto.mnhn.fr/media/143014155668633d6nkFIwtCVC5WM",
       "imageLicense": "[Sakina boulardi Synave, 1979](/specimen/search?entity=1090968419)",
       "xcta": [
@@ -2465,7 +2465,7 @@
     },
     {
       "title": "The Scorpiones collection (RS) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "http://mediaphoto.mnhn.fr/media/1400492520473gO6ZmBSzGejmpcCX",
       "imageLicense": "[Afghanorthochirus danielleae Lourenço & Vachon, 1997](/specimen/search?entity=1019649784)",
       "xcta": [
@@ -2909,7 +2909,7 @@
     },
     {
       "title": "The Araneae collection (AR) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "https://mediaphoto.mnhn.fr/media/1610023555349RYVg3VKQfQp004O6",
       "imageLicense": "[Calacadia livens (Simon, 1902)](/specimen/search?entity=2874628313)",
       "xcta": [
@@ -3449,7 +3449,7 @@
     },
     {
       "title": "The reptiles, amphibians and fishes collection (ZA) in the Comparative Anatomy Collection of the Muséum national d'Histoire naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "https://mediaphoto.mnhn.fr/media/1643887592593oFO48W1YT3LjVEB8",
       "imageLicense": "[Python sebae (Gmelin, 1789)](/specimen/search?entity=3464123301)",
       "xcta": [
