@@ -1552,8 +1552,8 @@
       ]
     },
     {
-      "title": "Arizona State University Insect Collection",
-      "description": "From Arizona State University Biocollections",
+      "title": "Sbírka hmyzu Arizonské státní univerzity",
+      "description": "Z biosbírek Arizonské státní univerzity",
       "background": "https://serv.biokic.asu.edu/imglib/storage/portals/scan/ASU/201312/ASUHIC0033726_habitus_lat_lg.jpg",
       "imageLicense": "[Lachnopus Schoenherr, 1840](/specimen/search?entity=1455614338)",
       "xcta": [
@@ -1565,7 +1565,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Federal do Paraná",
+      "description": "Z Federální univerzity v Paraná",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=u/upcb/UPCB/output_062017_16-09-2019/UPCB0042037.JPG",
       "imageLicense": "[Hymenophyllum microcarpum Desv.](/specimen/search?entity=2998517124)",
       "xcta": [
@@ -1577,7 +1577,7 @@
     },
     {
       "title": "Entomologie",
-      "description": "From Mississippi State University",
+      "description": "Ze Státní univerzity v Mississippi",
       "background": "https://scan-bugs.org:443/imglib/scan/MISSA_MEM/MEM343/MEM343038_Cucullia_postera_IWF_1556904033_lg.jpg",
       "imageLicense": "[Cucullia postera Guenée, 1852](/specimen/search?entity=1846473785)",
       "xcta": [
@@ -1589,7 +1589,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Canadian Museum of Nature",
+      "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/9/764/CANM112428.jpg",
       "imageLicense": "[Mnium spinulosum Bruch & W.P.Schimper, 1846](/specimen/search?entity=1804562562)",
       "xcta": [
@@ -1600,7 +1600,7 @@
       ]
     },
     {
-      "title": "KUBI Herpetology Collection",
+      "title": "Herpetologická sbírka KUBI",
       "description": "From University of Kansas, Biodiversity Institute and Natural History Museum",
       "background": "http://biimages.biodiversity.ku.edu/static/Herpetology/originals/sp6835193407586086969.att.tif",
       "imageLicense": "[Hyla tica Starrett, 1966](/specimen/search?entity=686770483)",
