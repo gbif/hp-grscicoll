@@ -1984,8 +1984,8 @@
       ]
     },
     {
-      "title": "Amphibian Collection",
-      "description": "From South African Institute for Aquatic Biodiversity",
+      "title": "Sbírka obojživelníků",
+      "description": "Z Jihoafrického institutu pro vodní biodiverzitu",
       "background": "http://specify-attachments-saiab.saiab.ac.za/originals/sp6-5049967499184662496.att.JPG",
       "imageLicense": "[Chiromantis xerampelina Peters, 1854](/specimen/search?entity=1671748984)",
       "xcta": [
@@ -1996,8 +1996,8 @@
       ]
     },
     {
-      "title": "Entomology",
-      "description": "From University of Nevada, Museum of Biology",
+      "title": "Entomologie",
+      "description": "Z Biologického muzea University of Nevada",
       "background": "https://api.idigbio.org/v2/media/fe3e8e2774b89d35dac1b2be755d886a",
       "imageLicense": "[incertae sedis](/specimen/search?entity=2561481607)",
       "xcta": [
@@ -2380,7 +2380,7 @@
       ]
     },
     {
-      "title": "Entomology Collection",
+      "title": "Entomologická sbírka",
       "description": "From DOI/FWS, Kenai National Wildlife Refuge",
       "background": "http://arctos.database.museum/media/10253782?open",
       "imageLicense": "[Hyppa Duponchel, 1845](/specimen/search?entity=2465077913)",
@@ -2416,7 +2416,7 @@
       ]
     },
     {
-      "title": "CAS Entomology",
+      "title": "Entomologie CAS",
       "description": "From California Academy of Sciences",
       "background": "https://serv.biokic.asu.edu/imglib/ecdysis/UCSB_IZC/UCSB-IZC00006/UCSB-IZC00006502.jpg",
       "imageLicense": "[Netelia Gray, 1860](/specimen/search?entity=2013219489)",
@@ -2429,7 +2429,7 @@
     },
     {
       "title": "Savci",
-      "description": "From University of Oslo",
+      "description": "Z Univerzity v Oslo",
       "background": "http://www.unimus.no/felles/bilder/web_hent_bilde.php?id=12586728&type=jpeg",
       "imageLicense": "[Orcinus orca (Linnaeus, 1758)](/specimen/search?entity=3053256490)",
       "xcta": [
@@ -2500,7 +2500,7 @@
       ]
     },
     {
-      "title": "Fossil specimens",
+      "title": "Fosilní exempláře",
       "description": "From University of Texas at El Paso Biodiversity Collections",
       "background": "http://arctos.database.museum/media/10499484?open",
       "imageLicense": "[Chordata](/specimen/search?entity=1638506610)",
@@ -2548,7 +2548,7 @@
       ]
     },
     {
-      "title": "Ornithology",
+      "title": "Ornitologie",
       "description": "From University of Colorado Museum of Natural History",
       "background": "http://arctos.database.museum/media/10691065?open",
       "imageLicense": "[Selasphorus rufus (J.F.Gmelin, 1788)](/specimen/search?entity=1061320014)",
