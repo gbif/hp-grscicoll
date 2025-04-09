@@ -1649,7 +1649,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Lycée Félix Esclangon, Région PACA",
+      "description": "Z lycea Félix Esclangon, region PACA",
       "background": "http://mediaphoto.mnhn.fr/media/1445608610262izS6w2Zb31IMhXHQ",
       "imageLicense": "[incertae sedis](/specimen/search?entity=806799681)",
       "xcta": [
@@ -1661,7 +1661,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidad de Santiago de Compostela",
+      "description": "Z univerzity v Santiagu de Compostela",
       "background": "http://193.144.34.193/imsrv/santimagethumb.php?id=1183",
       "imageLicense": "[Chamaecyparis lawsoniana (A.Murray bis) Parl.](/specimen/search?entity=2821300165)",
       "xcta": [
@@ -1673,7 +1673,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Federal do Rio Grande do Sul",
+      "description": "Z Federální univerzity Rio Grande do Sul",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=icn/2-remessa/ICN00005337.JPG",
       "imageLicense": "[Cyperus incomtus Kunth](/specimen/search?entity=2997584017)",
       "xcta": [
@@ -1684,8 +1684,8 @@
       ]
     },
     {
-      "title": "Vertebrate Zoology, Amphibians and Reptiles (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Zoologie obratlovců, obojživelníků a plazů (USNM)",
+      "description": "Ze Smithsonian Institution, National Museum of Natural History",
       "background": "http://n2t.net/ark:/65665/m3cc4f97cc-55ec-4858-86bb-7e4d2f5eee5f",
       "imageLicense": "[Geophis damiani Wilson, Mccranie & Williams, 1998](/specimen/search?entity=1320774365)",
       "xcta": [
@@ -1696,8 +1696,8 @@
       ]
     },
     {
-      "title": "Vertebrate Paleontology",
-      "description": "From Virginia Museum of Natural History",
+      "title": "Paleontologie obratlovců",
+      "description": "Z Přírodovědného muzea ve Virginii",
       "background": "https://www.flickr.com/photos/68883384@N05/39553858134",
       "imageLicense": "[Aspideretes Hay, 1904](/specimen/search?entity=1946698947)",
       "xcta": [
@@ -1709,7 +1709,7 @@
     },
     {
       "title": "Entomologie",
-      "description": "From Natural History Museum of Utah",
+      "description": "Z Přírodovědného muzea v Utahu",
       "background": "https://api.idigbio.org/v2/media/6b20b7e01a0476126c7492ed8baf19f4?size=fullsize",
       "imageLicense": "[Orthofidonia Packard, 1876](/specimen/search?entity=1457656532)",
       "xcta": [
@@ -1720,7 +1720,7 @@
       ]
     },
     {
-      "title": "The reptiles and amphibians collection (RA) of the Muséum national d'Histoire Naturelle (MNHN - Paris)",
+      "title": "Sbírka plazů a obojživelníků (RA) Muséum national d'Histoire Naturelle (MNHN - Paříž)",
       "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "http://mediaphoto.mnhn.fr/media/148464638999563cS24bfa7Tpzypo",
       "imageLicense": "[Candoia bibroni (Duméril & Bibron, 1844)](/specimen/search?entity=440132369)",
@@ -1732,8 +1732,8 @@
       ]
     },
     {
-      "title": "Ichthyology",
-      "description": "From Harvard University, Museum of Comparative Zoology",
+      "title": "Ichtyologie",
+      "description": "Z Harvardské univerzity, Muzeum srovnávací zoologie",
       "background": "http://mczbase.mcz.harvard.edu/specimen_images/fish/large/155422.jpg",
       "imageLicense": "[Psednos barnardi Chernova, 2001](/specimen/search?entity=863246969)",
       "xcta": [
@@ -1744,8 +1744,8 @@
       ]
     },
     {
-      "title": "CAS Entomology Types",
-      "description": "From California Academy of Sciences",
+      "title": "Typy entomologie CAS",
+      "description": "Z Kalifornské akademie věd",
       "background": "https://monarch.calacademy.org:443/mnt/target-images/CASTYPE/00019/CASTYPE19176_d.jpg",
       "imageLicense": "[Picromyza lutea Zeegers, 2015](/specimen/search?entity=2238763508)",
       "xcta": [
@@ -1756,8 +1756,8 @@
       ]
     },
     {
-      "title": "KUBI Ichthyology Tissue Collection",
-      "description": "From University of Kansas, Biodiversity Institute and Natural History Museum",
+      "title": "Sbírka rybích tkání KUBI Ichtyologie",
+      "description": "Z University of Kansas, Institutu biodiverzity a Přírodovědného muzea",
       "background": "http://biimages.biodiversity.ku.edu/static/Ichthyology/originals/sp64145290569287262210.att.jpg",
       "imageLicense": "[Barbus Cuvier & Cloquet, 1816](/specimen/search?entity=656983182)",
       "xcta": [
@@ -1769,7 +1769,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Arkansas Natural Heritage Commission",
+      "description": "Od Komise pro přírodní dědictví Arkansasu",
       "background": "https://bisque.cyverse.org/image_service/image/00-qq9WXt2GVmnDEGzTsZaf5h/resize:4000/format:jpeg",
       "imageLicense": "[Sisyrinchium langloisii Greene](/specimen/search?entity=3435792930)",
       "xcta": [
@@ -1780,8 +1780,8 @@
       ]
     },
     {
-      "title": "Vertebrate Zoology Collections MnhnL",
-      "description": "From National Museum of Natural History, Luxembourg",
+      "title": "Zoologické sbírky obratlovců MnhnL",
+      "description": "Z Národního přírodovědného muzea v Lucemburku",
       "background": "https://archimg.mnhn.lu/Collections/Collections/MNHNL40571.JPG",
       "imageLicense": "[Merops persicus Pallas, 1773](/specimen/search?entity=2417943671)",
       "xcta": [
@@ -1793,7 +1793,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Canadian Museum of Nature",
+      "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/257/134/CANL10001389_t.jpg",
       "imageLicense": "[Bryocaulon divergens (Ach.) Kärnefelt](/specimen/search?entity=2301950006)",
       "xcta": [
@@ -1804,8 +1804,8 @@
       ]
     },
     {
-      "title": "Bailey-Matthews National Shell Museum Mollusks Collection",
-      "description": "From Bailey-Matthews National Shell Museum",
+      "title": "Sbírka měkkýšů Národního muzea mušlí Bailey-Matthews",
+      "description": "Z Národního muzea mušlí Bailey-Matthews",
       "background": "https://assets1.specifycloud.org/static/shellmuseum/originals/56383.JPG",
       "imageLicense": "[Zafrona idalina (Duclos, 1840)](/specimen/search?entity=3341019186)",
       "xcta": [
@@ -1816,7 +1816,7 @@
       ]
     },
     {
-      "title": "CAS Ichthyology",
+      "title": "Ichtyologie CAS",
       "description": "From California Academy of Sciences",
       "background": "http://ibss-images.calacademy.org:80/static/ichthyology/originals/80/9d/809d17c7-26f5-4fe3-a564-0eefe1cfd14c.jpg",
       "imageLicense": "[Leporinus klausewitzi Géry, 1960](/specimen/search?entity=472949294)",
