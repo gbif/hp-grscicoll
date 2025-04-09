@@ -2572,7 +2572,7 @@
       ]
     },
     {
-      "title": "Parasitology",
+      "title": "Parazitologie",
       "description": "From Museum of Southwestern Biology",
       "background": "http://arctos.database.museum/media/10612593?open",
       "imageLicense": "[Strigeidae](/specimen/search?entity=1455542187)",
@@ -2584,7 +2584,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From Queensland Museum",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=4d517df9-782e-4982-a5fc-3dcbabc8ea0e",
       "imageLicense": "[Bactrocera yorkensis Drew, Hancock & Romig, 1999](/specimen/search?entity=1066430238)",
@@ -2608,7 +2608,7 @@
       ]
     },
     {
-      "title": "Corals",
+      "title": "Koráli",
       "description": "From Queensland Museum",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=c881351c-1048-401c-8522-c23b52f11fcc",
       "imageLicense": "[Acropora austera (Dana, 1846)](/specimen/search?entity=1066238009)",
@@ -2692,7 +2692,7 @@
       ]
     },
     {
-      "title": "Birds",
+      "title": "Ptáci",
       "description": "From Queensland Museum",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=3f50074d-bf72-4385-9cd1-0bfa93e8c92b",
       "imageLicense": "[Monarchidae](/specimen/search?entity=1066185830)",
@@ -2728,7 +2728,7 @@
       ]
     },
     {
-      "title": "Ichthyology",
+      "title": "Ichtyologie",
       "description": "From Museums Victoria",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=a609820a-1bc8-41ab-99b6-f8bee0c5e3c1",
       "imageLicense": "[Ulua mentalis (Cuvier, 1833)](/specimen/search?entity=1272479635)",
@@ -2812,7 +2812,7 @@
       ]
     },
     {
-      "title": "Ichthyology",
+      "title": "Ichtyologie",
       "description": "From University of Colorado Museum of Natural History",
       "background": "http://arctos.database.museum/media/10565467?open",
       "imageLicense": "[Lepisosteus osseus (Linnaeus, 1758)](/specimen/search?entity=1061301083)",
@@ -2836,7 +2836,7 @@
       ]
     },
     {
-      "title": "Birds",
+      "title": "Ptáci",
       "description": "From University of Texas at El Paso Biodiversity Collections",
       "background": "http://arctos.database.museum/media/10584736?open",
       "imageLicense": "[Setophaga coronata (Linnaeus, 1766)](/specimen/search?entity=1638530001)",
@@ -2860,7 +2860,7 @@
       ]
     },
     {
-      "title": "Protozoans",
+      "title": "Prvoci",
       "description": "From Queensland Museum",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=879effad-da28-4482-b022-da331cf6ba42",
       "imageLicense": "[Haemoproteus Kruse, 1890](/specimen/search?entity=1066796874)",
@@ -2944,7 +2944,7 @@
       ]
     },
     {
-      "title": "Mammals",
+      "title": "Savci",
       "description": "From Queensland Museum",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=87690fb8-fa65-4a64-8fc5-cdd1045a38d1",
       "imageLicense": "[Pteropus alecto gouldii Peters, 1867](/specimen/search?entity=1066631263)",
@@ -2992,7 +2992,7 @@
       ]
     },
     {
-      "title": "Paleobotany",
+      "title": "Paleobotanika",
       "description": "From Virginia Museum of Natural History",
       "background": "https://www.flickr.com/photos/68883384@N05/39890257750",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1946698551)",
@@ -3100,7 +3100,7 @@
       ]
     },
     {
-      "title": "Arachnids",
+      "title": "Pavoukovci",
       "description": "From Queensland Museum",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=ca26e606-885e-4cf8-b6ce-89cf5e91872b",
       "imageLicense": "[Achaearanea Strand, 1929](/specimen/search?entity=1066132706)",
@@ -3124,7 +3124,7 @@
       ]
     },
     {
-      "title": "Crustaceans",
+      "title": "Korýši",
       "description": "From Queensland Museum",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=78acd53d-dc36-4087-84f1-19f6707cc779",
       "imageLicense": "[Thalamita prymna (Herbst, 1803)](/specimen/search?entity=1066277389)",
@@ -3220,7 +3220,7 @@
       ]
     },
     {
-      "title": "Arthropods",
+      "title": "Členovci",
       "description": "From Georgia Museum of Natural History",
       "background": "https://scan-bugs.org:443/imglib/scan/GMNH_UGCA/00000/VH8H1H8HOH5HAHKLEZGHRREHUZEHBZ_1496326255_lg.jpg",
       "imageLicense": "[Leptipsius striatus (LeConte, 1858)](/specimen/search?entity=2466423973)",
@@ -3256,7 +3256,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From Western Washington University Insect Collection",
       "background": "https://scan-bugs.org:443/imglib/scan/misc/202109/Undetermined-WWUC-0000000230-D.jpg",
       "imageLicense": "[incertae sedis](/specimen/search?entity=2234690896)",
@@ -3556,7 +3556,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From Frost Entomological Museum, Penn State University",
       "background": "https://scan-bugs.org:443/imglib/scan/PSUC_ENTO/00000/IMG_9916_1557236681.jpg",
       "imageLicense": "[Callirhytis Förster, 1869](/specimen/search?entity=2274097120)",
@@ -3592,7 +3592,7 @@
       ]
     },
     {
-      "title": "Fish",
+      "title": "Ryby",
       "description": "From University of Texas at El Paso Biodiversity Collections",
       "background": "http://arctos.database.museum/media/10497849?open",
       "imageLicense": "[Lepomis cyanellus Rafinesque, 1819](/specimen/search?entity=1323895182)",
