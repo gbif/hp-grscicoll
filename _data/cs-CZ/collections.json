@@ -1817,7 +1817,7 @@
     },
     {
       "title": "Ichtyologie CAS",
-      "description": "From California Academy of Sciences",
+      "description": "Z Kalifornské akademie věd",
       "background": "http://ibss-images.calacademy.org:80/static/ichthyology/originals/80/9d/809d17c7-26f5-4fe3-a564-0eefe1cfd14c.jpg",
       "imageLicense": "[Leporinus klausewitzi Géry, 1960](/specimen/search?entity=472949294)",
       "xcta": [
@@ -1828,7 +1828,7 @@
       ]
     },
     {
-      "title": "The mammals collection (ZM) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
+      "title": "Sbírka savců (ZM) Muséum national d'Histoire naturelle (MNHN - Paříž)",
       "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "https://mediaphoto.mnhn.fr/media/1658143225046pGmgZKgEYfFIGT8z",
       "imageLicense": "[Myrmecobius fasciatus Waterhouse, 1836](/specimen/search?entity=1044031884)",
@@ -1840,8 +1840,8 @@
       ]
     },
     {
-      "title": "NHMD Invertebrate Zoology",
-      "description": "From Natural History Museum of Denmark",
+      "title": "Zoologie bezobratlých NHMD",
+      "description": "Z Dánského přírodovědného muzea",
       "background": "https://specify-attachments.science.ku.dk/static/NHMD_Invertebrate_Zoology/originals/sp63690373631583491572.att.tif",
       "imageLicense": "[Dendronephthya revelata (Tixier-Durivault & Prevorsek, 1962)](/specimen/search?entity=3314952112)",
       "xcta": [
@@ -1852,8 +1852,8 @@
       ]
     },
     {
-      "title": "Insect collection of Museum Zoologicum Bogoriense",
-      "description": "From Museum Zoologicum Bogoriense",
+      "title": "Sbírka hmyzu Museum Zoologicum Bogoriense",
+      "description": "Z Museum Zoologicum Bogoriense",
       "background": "http://inabif.lipi.go.id/kehati/mzb/lepi/graphium/G_eurypylus_upp_M_31933.jpg",
       "imageLicense": "[Graphium eurypylus (Linnaeus, 1758)](/specimen/search?entity=2562075168)",
       "xcta": [
@@ -1865,7 +1865,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade da Região de Joinville - Univille",
+      "description": "Z Univerzity v Joinville - Univille",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=j/joi/BIGNONIACEAE/JOI003574.JPG",
       "imageLicense": "[Tabebuia roseoalba (Ridl.) Sandwith](/specimen/search?entity=3069578839)",
       "xcta": [
@@ -1876,8 +1876,8 @@
       ]
     },
     {
-      "title": "Birds",
-      "description": "From Field Museum of Natural History",
+      "title": "Ptáci",
+      "description": "Z Field Museum of Natural History",
       "background": "http://fm-digital-assets.fieldmuseum.org/2215/498/RI30_Malacoptila_fusca_C1_BCJ.jpg",
       "imageLicense": "[Malacoptila fusca (J.F.Gmelin, 1788)](/specimen/search?entity=3329071167)",
       "xcta": [
@@ -1888,8 +1888,8 @@
       ]
     },
     {
-      "title": "Ichthyology",
-      "description": "From Florida Museum of Natural History- Zoology, Paleontology & Paleobotany",
+      "title": "Ichtyologie",
+      "description": "Z Florida Museum of Natural History- Zoologie, paleontologie a paleobotanika",
       "background": "https://cdn.floridamuseum.ufl.edu/Fish/1556c08a-2b05-4930-a3ba-4a1fe5e3fc10",
       "imageLicense": "[Acanthurus bahianus Castelnau, 1855](/specimen/search?entity=624253190)",
       "xcta": [
@@ -1901,7 +1901,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From University of Gothenburg",
+      "description": "Z univerzity v Göteborgu",
       "background": "http://herbarium.bioenv.gu.se/web/images/GB-0047718.jpg",
       "imageLicense": "[Geranium skottsbergii R.Knuth](/specimen/search?entity=3043023694)",
       "xcta": [
@@ -1912,7 +1912,7 @@
       ]
     },
     {
-      "title": "The Hymenoptera collection (EY) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
+      "title": "Sbírka blanokřídlých (EY) Muséum national d'Histoire naturelle (MNHN - Paříž)",
       "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "https://mediaphoto.mnhn.fr/media/1548343513338rPKm0iILy2ldeIDO",
       "imageLicense": "[Indiopius saigonensis Fischer, 1966](/specimen/search?entity=1989856846)",
@@ -1925,7 +1925,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From University of Hawaii",
+      "description": "Z Havajské univerzity",
       "background": "http://128.171.206.220/HAW06256.JPG",
       "imageLicense": "[Alyxia bracteolosa Rich. ex A.Gray](/specimen/search?entity=3751290871)",
       "xcta": [
@@ -1936,8 +1936,8 @@
       ]
     },
     {
-      "title": "Herbarium - Algae",
-      "description": "From UiT The Arctic University of Norway",
+      "title": "Herbář - Řasy",
+      "description": "Z UiT Arktické univerzity v Norsku",
       "background": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=15404327&type=jpeg",
       "imageLicense": "[Furcellaria lumbricalis (Hudson) J.V.Lamouroux](/specimen/search?entity=3855869054)",
       "xcta": [
@@ -1948,8 +1948,8 @@
       ]
     },
     {
-      "title": "Invertebrates",
-      "description": "From Zadock Thompson Natural History Collection, University of Vermont",
+      "title": "Bezobratlí",
+      "description": "Ze sbírky Zadock Thompson Natural History Collection, University of Vermont",
       "background": "https://api.idigbio.org/v2/media/51aec1701c8089c8917669835e276ecb?size=fullsize",
       "imageLicense": "[Pterostichus corvinus (Dejean, 1828)](/specimen/search?entity=2563077882)",
       "xcta": [
@@ -1961,7 +1961,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From University of California, Davis",
+      "description": "Z Kalifornské univerzity v Davisu",
       "background": "https://api.idigbio.org/v2/media/24fc75042d6b54ff2f1123b99b548a56",
       "imageLicense": "[Phacelia suaveolens Greene](/specimen/search?entity=2421782269)",
       "xcta": [
@@ -1973,7 +1973,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universität Erlangen-Nürnberg",
+      "description": "Z univerzity v Erlangenu-Norimberku",
       "background": "http://www.herbarium-erlangense.nat.uni-erlangen.de/datenbank/bild/103/10331-large.jpg",
       "imageLicense": "[Cardamine L.](/specimen/search?entity=1094958462)",
       "xcta": [
