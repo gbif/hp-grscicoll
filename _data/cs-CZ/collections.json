@@ -2117,7 +2117,7 @@
     },
     {
       "title": "Malacology",
-      "description": "From Harvard University, Museum of Comparative Zoology",
+      "description": "Z Harvardské univerzity, Muzeum srovnávací zoologie",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/malacology/thumbnails/88127_Haminea_crocata_3.jpg",
       "imageLicense": "[Haminoea crocata Pease, 1860](/specimen/search?entity=477137624)",
       "xcta": [
@@ -2164,7 +2164,7 @@
       ]
     },
     {
-      "title": "Ornithology",
+      "title": "Ornitologie",
       "description": "From Harvard University, Museum of Comparative Zoology",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/ornithology/thumbnails/MCZ257790_Zonotrichia_leucophrys_feetx1.jpg",
       "imageLicense": "[Zonotrichia leucophrys (J.R.Forster, 1772)](/specimen/search?entity=863303099)",
