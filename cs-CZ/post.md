@@ -1,9 +1,9 @@
 ---
-permalink: /post
+permalink: /cs-CZ/post
 lang-ref: archive
 layout: archive
-title: News
-description: News and events
+title: Novinky
+description: Novinky a události
 ---
 
 {% comment %}

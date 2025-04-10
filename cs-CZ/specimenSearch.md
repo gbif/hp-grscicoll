@@ -1,8 +1,8 @@
 ---
-permalink: specimen/search
+permalink: /cs-CZ/specimen/search
 lang-ref: specimen/search
-title: Specimen search
-description: Search all specimens
+title: Hledání exempláře
+description: Vyhledat všechny exempláře
 layout: occurrence
 ---
 

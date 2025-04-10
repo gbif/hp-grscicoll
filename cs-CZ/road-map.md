@@ -1,9 +1,9 @@
 ---
-permalink: /road-map
+permalink: /cs-CZ/road-map
 lang-ref: road-map
-title: GRSciColl 2025 road map
+title: GRSciColl 2025 road mapa
 description: |
-  This road map builds in the [2023/2024 road map](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2023-2024.md).
+  Tato road mapa navazuje na [road mapu 2023/2024](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2023-2024.md).
 background: "{{ site.data.images.pandeleteius.src }}"
 imageLicense: "{{ site.data.images.pandeleteius.caption }}"
 height: 70vh
@@ -15,38 +15,38 @@ height: 70vh
 toc: true
 ---
 
-## 1.   Continue work with the community as well as existing platforms to update and grow data and improve interoperability
+## 1.   Pokračovat ve spolupráci s komunitou a stávajícími platformami s cílem aktualizovat a rozšiřovat údaje a zlepšit interoperabilitu
 
-We aim to keep supporting our community of editors, train and welcome new editors as well as work with other data holding platforms (such as CETAF and ALA) to improve the data available in GRSciColl.
+Naším cílem je i nadále podporovat naši komunitu editorů, školit a přijímat nové editory a spolupracovat s dalšími platformami pro uchovávání dat (např. CETAF a ALA) na zlepšování dat dostupných v GRSciColl.
 
-Some of the work with existing platforms may include:
-- Importing identifiers to facilitate interoperability,
-- Set up connection so an external platform can become a master source for GRSciColl entries,
-- Help with bulk import and update of GRSciColl data based on these sources.
+Některé práce se stávajícími platformami mohou zahrnovat:
+- Import identifikátorů pro usnadnění interoperability,
+- Nastavení připojení, aby se externí platforma mohla stát hlavním zdrojem pro záznamy GRSciColl,
+- Pomoc s hromadným importem a aktualizací dat GRSciColl na základě těchto zdrojů.
 
-## 2.   Create and run a GRSciColl training module for editors
+## 2.   Vytvoření a spuštění školicího modulu GRSciColl pro editory
 
-The GBIF Secretariat, in collaboration with our community, is developing a training module for GRSciColl editors. This module aims to cover everything a National GRSciColl editor might need to curate and edit GRSciColl content.
+Sekretariát GBIF ve spolupráci s naší komunitou připravuje školicí modul pro editory GRSciColl. Cílem tohoto modulu je pokrýt vše, co může editor národního GRSciCollu potřebovat ke kurátorství a úpravám obsahu GRSciCollu.
 
-The goal is to organize at least one online training event in 2025.
+Cílem je uspořádat v roce 2025 alespoň jedno online školení.
 
-We would also provide support for anyone interested in organizing training or GRSciColl curation sessions based on the module content.
+Rovněž bychom poskytli podporu všem zájemcům o pořádání školení nebo kurátorských sezení GRSciColl založených na obsahu modulu.
 
-## 3.   Improve discoverability and representation of collections by topic
+## 3.   Zlepšení vyhledatelnosti a zastoupení sbírek podle témat
 
-A lot of the GRSciColl content is not standardized and lives in various free text fields. For example, many entomology collections can only be found by using a combination of keywords like “entomology” and “insect” in free text searches.
+Velká část obsahu GRSciColl není standardizovaná a nachází se v různých polích volného textu. Například mnoho entomologických sbírek lze nalézt pouze pomocí kombinace klíčových slov „entomologie“ a „hmyz“ ve volném textovém vyhledávání.
 
-With the help of the relevant communities, we would like to identify collections that belong to defined disciplines and topics and make them discoverable by adding relevant collection descriptors. Examples of such collections would be entomology, mammalogy, phycology and ornithology collections.
+S pomocí příslušných komunit bychom chtěli identifikovat sbírky, které patří k definovaným oborům a tématům, a umožnit jejich vyhledávání přidáním relevantních deskriptorů sbírek. Příkladem takových sbírek jsou sbírky entomologické, mammalogické, fykologické a ornitologické.
 
-One avenue to explore to improve the representation of these collections is to extract collections mentioned in publications such as this one: https://doi.org/10.1643/ASIHCODONS2020.
+Jednou z možností, jak zlepšit zastoupení těchto sbírek, je extrahovat sbírky uvedené v publikacích, jako je tato: https://doi.org/10.1643/ASIHCODONS2020.
 
-Alongside this work, we would implement a vocabulary for the Latimer Core term objectClassificationName most likely based on the topics developed by DISSCO (see also this GitHub issue: https://github.com/gbif/vocabulary/issues/157).
+Současně s touto prací bychom implementovali slovník pro termín Latimer Core objectClassificationName nejspíše na základě témat vyvinutých společností DISSCO (viz také toto téma na GitHubu: https://github.com/gbif/vocabulary/issues/157).
 
-## 4.   Facilitate linking literature to GRSciColl
+## 4.   Usnadnění propojení literatury s GRSciColl
 
-Collections are often cited in publications but not always in a standardized manner. It might later be difficult to link a collection to its citation.
+Sbírky jsou často citovány v publikacích, ale ne vždy standardizovaným způsobem. Později může být obtížné propojit sbírku s její citací.
 
-We will work with the community and journals, when possible, to agree on best practice for citation of collections. The goal is to facilitate citing a collection and linking specimens coming from PLAZI processed publications to GRSciColl.
+Pokud to bude možné, budeme spolupracovat s komunitou a časopisy, abychom se dohodli na osvědčených postupech pro citování sbírek. Cílem je usnadnit citování sbírky a propojení vzorků pocházejících z publikací zpracovaných v PLAZI s GRSciColl.
 
-A second aspect of this work will be to set up guidelines for institutions who wish to share bibliographic references and citations of their collections on GRSciColl.
+Druhým aspektem této práce bude vytvoření pokynů pro instituce, které chtějí sdílet bibliografické odkazy a citace svých sbírek na GRSciColl.
 

@@ -1,9 +1,9 @@
 ---
-permalink: /how-to
+permalink: /cs-CZ/how-to
 lang-ref: how-to
-title: How to
+title: Jak na to
 description: |
-  How to navigate the Global Registry of Scientific Collections and update its content
+  Jak se pohybovat v celosvětovém registru vědeckých sbírek a aktualizovat jeho obsah
 background: "{{ site.data.images.pagurus.src }}"
 imageLicense: "{{ site.data.images.pagurus.caption }}"
 height: 70vh
@@ -15,59 +15,59 @@ height: 70vh
 toc: true
 ---
 
-## How to add a collection or an institution to GRSciColl
+## Jak přidat sbírku nebo instituci do GRSciColl
 
-You can suggest or add a collection or an institution to GRSciColl here:
+Zde můžete navrhnout nebo přidat sbírku či instituci do GRSciColl:
 
-[Add New Institution](https://registry.gbif.org/institution/create){: .button .is-primary}
+[Přidat novou instituci](https://registry.gbif.org/institution/create){: .button .is-primary}
 
-[Add New Collection](https://registry.gbif.org/collection/create){: .button .is-primary}
+[Přidat novou sbírku](https://registry.gbif.org/collection/create){: .button .is-primary}
 
-When creating a new entry in GRSciColl, very few fields are mandatory. However, we really appreciate if you could provide the address for the entry you created (especially the country).
+Při vytváření nového záznamu v GRSciColl je povinných jen velmi málo polí. Velmi bychom však ocenili, kdybyste mohli uvést adresu vytvořeného záznamu (zejména zemi).
 
-See also this short video tutorial:
+Viz také tento krátký videonávod:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977782?h=fb1d926798" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-If you can't access Vimeo in your country, [here](https://www.youtube.com/watch?v=R6ftJ61oOn4) is the YouTube video
+Pokud nemáte ve své zemi přístup na Vimeo, [zde](https://www.youtube.com/watch?v=R6ftJ61oOn4) je video na YouTube.
 
-## How to edit a GRSciColl collection or institution
+## Jak upravit sbírku nebo instituci GRSciColl
 
-There are three ways to update information on GRSciColl:
-* you can suggest a change
-* you can become an editor
-* you can import data
+Informace na GRSciColl lze aktualizovat třemi způsoby:
+* můžete navrhnout změnu
+* můžete se stát editorem
+* můžete importovat data
 
-See also this short video tutorial:
+Viz také tento krátký videonávod:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977825?h=a0068cfcd8" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-If you can't access Vimeo in your country, [here](https://www.youtube.com/watch?v=rgMQK9qFVfs) is the YouTube video
+Pokud nemáte ve své zemi přístup na Vimeo, [zde](https://www.youtube.com/watch?v=rgMQK9qFVfs) je video na YouTube
 
-### Suggest a change
+### Navržení změny
 
-Anyone can suggest changes by clicking on any GRSciColl entry, then:
-* Click on `Edit`
-* Click on the `Suggest` toggle button
-* Make your suggestion and leave your email address and a comment
+Kdokoli může navrhnout změny kliknutím na libovolnou položku GRSciColl:
+* Klikněte na `Upravit`
+* Klikněte na přepínací tlačítko `Navrhnout`
+* Podejte svůj návrh a zanechte svou e-mailovou adresu a komentář
 
-You can also suggest adding new entries, merging duplicates and transforming institution entries into collections.
+Můžete také navrhnout přidání nových záznamů, sloučení duplicit a přeměnu záznamů institucí na sbírky.
 
-The suggestion will be reviewed by institutional editors, country editors or GBIF Staff depending on the entry edited.
+Návrh přezkoumají institucionální editoři, editoři jednotlivých zemí nebo zaměstnanci GBIF v závislosti na upravovaném záznamu.
 
-### Become editor
+### Staňte se editorem
 
-There are two types of editors in GRSciColl: editors and mediators. Both can edit data on GRSciColl and review changes but only mediators can delete, merge and transform entries. An editor (or mediator) can be given the permissions to edit:
-* one or several collections
-* one or several institutions (and their associated collections)
-* one or several countries (and their associated institutions and collections)
+V GRSciColl existují dva typy editorů: editoři a mediátoři. Oba mohou upravovat data v GRSciColl a kontrolovat změny, ale pouze zprostředkovatelé mohou mazat, slučovat a transformovat záznamy. Editor (nebo mediátor) může mít oprávnění k úpravám:
+* jedné nebo několika sbírek
+* jedna nebo více institucí (a jejich sbírek)
+* jedné nebo několika zemí (a jejich přidružených institucí a sbírek)
 
-To become a GRSciColl editor, you will need to have a [GBIF user account](https://www.gbif.org/user/profile) associated with your institutional email address. Please send us an email at scientific-collections@gbif.org to notify us that you would like to become an editor.
+Abyste se mohli stát editorem GRSciColl, musíte mít [uživatelský účet GBIF](https://www.gbif.org/user/profile) spojený s vaší institucionální e-mailovou adresou. Pošlete nám prosím e-mail na adresu scientific-collections@gbif.org a oznamte nám, že se chcete stát editorem.
 
-### Import data
+### Import dat
 
-The [GBIF Collections API](https://www.gbif.org/developer/registry#collections) allows for editing without going through the web interface. The API also has an experimental feature to upload batches of collection and institutions. See the documentation [here](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
+Rozhraní [GBIF Collections API](https://www.gbif.org/developer/registry#collections) umožňuje úpravy bez použití webového rozhraní. API má také experimentální funkci pro nahrávání dávek sbírek a institucí. Viz dokumentace [zde](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
 
-If you are interested in using the API for editing GRSciColl, the permission system and requirements are the same as for becoming an editor.
+Pokud máte zájem používat API pro editaci GRSciColl, systém oprávnění a požadavky jsou stejné jako v případě, že se chcete stát editorem.
 
-## How to share collection descriptors
+## Jak sdílet deskriptory sbírky
 
-We are working on improving the documentation. In the meantime, please refer to this tutorial here: https://data-blog.gbif.org/post/grscicoll-collection-descriptors/
+Pracujeme na zlepšení dokumentace. Mezitím se podívejte na tento návod: https://data-blog.gbif.org/post/grscicoll-collection-descriptors/

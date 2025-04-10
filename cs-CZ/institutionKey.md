@@ -1,7 +1,7 @@
 ---
-permalink: /institution/_key_
+permalink: /cs-CZ/institution/_key_
 title: Data
-description: We publish open data
+description: Zveřejňujeme otevřená data
 layout: institution-key
 ---
 

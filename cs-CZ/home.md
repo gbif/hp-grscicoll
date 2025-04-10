@@ -5,15 +5,15 @@ lang-ref: home
 layout: home
 klass: home
 title: Global Registry of Scientific Collections #should not be translated
-gettingStartedVideoTitle: Getting started?
+gettingStartedVideoTitle: Jak začít?
 institutionsInCountryTemplate: |
-  Institutions in <span id="users-country-name"></span>
-description: A worldwide catalogue of scientific collections #a descripton for the head element
-tagline: A worldwide catalogue of scientific collections
-tabInstitutions: Institution name
-tabSpecimens: Digitized specimens
-placeholderInstitutions: Search institutions
-placeholderSpecimens: Search for digitized specimens
+  Instituce v <span id="users-country-name"></span>
+description: Světový katalog vědeckých sbírek #a descripton for the head element
+tagline: Světový katalog vědeckých sbírek
+tabInstitutions: Název instituce
+tabSpecimens: Digitalizované exempláře
+placeholderInstitutions: Vyhledávání institucí
+placeholderSpecimens: Hledání digitalizovaných exemplářů
 background: "{{ site.data.images.calcinus.src }}"
 imageLicense: "{{ site.data.images.calcinus.caption }}"
 height: 85vh
@@ -41,9 +41,9 @@ navbar:
   floating: true
 ---
 
-Ideas for the home page and content more broadly
+Nápady pro domovskou stránku a všeobecný obsah
 
-pages: API + download, reports About (history, roadmap) How to (register, edit, use) A metrics page? Contact
+stránek: API + ke stažení, přehledy O nás (historie, plán) Jak na to (registrace, úpravy, použití) Stránka s metrikami? Kontakt
 
 homepage shortcut Map of institutions Register new institution about api download reports GRSciColl visualized grscicoll related news stories from contentful
 

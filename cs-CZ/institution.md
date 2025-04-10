@@ -1,8 +1,8 @@
 ---
-permalink: /institution/search
+permalink: /cs-CZ/institution/search
 lang-ref: /institution/search
 title: Data
-description: We publish open data
+description: Zveřejňujeme otevřená data
 layout: institution-search
 ---
 
