@@ -2008,8 +2008,8 @@
       ]
     },
     {
-      "title": "Invertebrate Zoology",
-      "description": "From Harvard University, Museum of Comparative Zoology",
+      "title": "Zoologie bezobratlých",
+      "description": "Z Harvardské univerzity, Muzeum srovnávací zoologie",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/invertebrates/thumbnails/SCOR-75_Favia_ananas_2.jpg",
       "imageLicense": "[Favia ananas (Linnaeus, 1758)](/specimen/search?entity=1503736560)",
       "xcta": [
@@ -2020,8 +2020,8 @@
       ]
     },
     {
-      "title": "Colorado Plateau Museum of Arthropod Biodiversity",
-      "description": "From Northern Arizona University, Laboratory of Paleoecology",
+      "title": "Muzeum biodiverzity členovců na Coloradské plošině",
+      "description": "Z Northern Arizona University, Laboratoř paleoekologie",
       "background": "https://scan-bugs.org:443/imglib/scan/misc/202007/PISP0014400_D.jpg",
       "imageLicense": "[incertae sedis](/specimen/search?entity=2896876302)",
       "xcta": [
@@ -2032,8 +2032,8 @@
       ]
     },
     {
-      "title": "NCSM Herbarium Collection",
-      "description": "From North Carolina Museum of Natural Sciences",
+      "title": "Herbářová sbírka NCSM",
+      "description": "Z Muzea přírodních věd Severní Karolíny",
       "background": "https://ncmns-cams.s3.amazonaws.com/Collections/herbarium/NCSM001454.JPG",
       "imageLicense": "[Carex willdenowii Willd.](/specimen/search?entity=2825495112)",
       "xcta": [
@@ -2044,7 +2044,7 @@
       ]
     },
     {
-      "title": "The echinoderm collection (IE) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
+      "title": "Sbírka ostnokožců (IE) v Muséum national d'Histoire naturelle (MNHN - Paříž)",
       "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "https://mediaphoto.mnhn.fr/media/1551965942046dJAwZgs5kd6AAHlL",
       "imageLicense": "[Calliaster sarahae Mah, 2018](/specimen/search?entity=2005635230)",
@@ -2056,8 +2056,8 @@
       ]
     },
     {
-      "title": "Natural History",
-      "description": "From EcoTarium d.b.a. Worcester Historical Museum",
+      "title": "Přírodověda",
+      "description": "Z EcoTarium d.b.a. Worcester Historical Museum",
       "background": "https://api.idigbio.org/v2/media/dab4bb4986d7bc07c87f4cad7f3ed8be",
       "imageLicense": "[Bubo virginianus elachistus Brewster, 1902](/specimen/search?entity=1665789916)",
       "xcta": [
@@ -2068,8 +2068,8 @@
       ]
     },
     {
-      "title": "Amphibians and Reptiles",
-      "description": "From Field Museum of Natural History",
+      "title": "Obojživelníci a plazi",
+      "description": "Z Field Museum of Natural History",
       "background": "http://fm-digital-assets.fieldmuseum.org/1239/367/FMNH_75228_Ventral.JPG",
       "imageLicense": "[Naja nubiae Wüster & Broadley, 2003](/specimen/search?entity=668648567)",
       "xcta": [
@@ -2080,8 +2080,8 @@
       ]
     },
     {
-      "title": "Mammalogy",
-      "description": "From Harvard University, Museum of Comparative Zoology",
+      "title": "Savci",
+      "description": "Z Harvardské univerzity, Muzeum srovnávací zoologie",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/mammalogy/thumbnails/MCZ69542_Peromyscus_maniculatus_gambelii_xray2.jpg",
       "imageLicense": "[Peromyscus maniculatus (Wagner, 1845)](/specimen/search?entity=1851093017)",
       "xcta": [
