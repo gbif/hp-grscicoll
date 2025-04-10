@@ -1,5 +1,5 @@
 ---
-permalink: /collection/search
+permalink: /cs-CZ/collection/search
 title: Data
 description: Publikujeme otevřená data
 layout: collection-search
