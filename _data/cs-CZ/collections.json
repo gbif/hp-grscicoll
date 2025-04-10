@@ -2092,7 +2092,7 @@
       ]
     },
     {
-      "title": "The cnidarians collection (IK) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
+      "title": "Sbírka hlístic (IK) Muséum national d'Histoire naturelle (MNHN - Paříž)",
       "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "https://mediaphoto.mnhn.fr/media/1568624593963OZo3lcozihPpcqlN",
       "imageLicense": "[Obelia dichotoma (Linnaeus, 1758)](/specimen/search?entity=1705754580)",
@@ -2105,7 +2105,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Weber State University",
+      "description": "Z Weberovy státní univerzity",
       "background": "https://intermountainbiota.org/imglib/seinet/intermt/WeberStateUniversity_WSCO/WSCO007/Acer_grandidentatum_SClark_443_1647986257_lg.jpg",
       "imageLicense": "[Acer grandidentatum Nutt.](/specimen/search?entity=2461264107)",
       "xcta": [
@@ -2116,7 +2116,7 @@
       ]
     },
     {
-      "title": "Malacology",
+      "title": "Malakologie",
       "description": "Z Harvardské univerzity, Muzeum srovnávací zoologie",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/malacology/thumbnails/88127_Haminea_crocata_3.jpg",
       "imageLicense": "[Haminoea crocata Pease, 1860](/specimen/search?entity=477137624)",
@@ -2129,7 +2129,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Federal Rural do Rio de Janeiro",
+      "description": "Z Federální zemědělské univerzity v Riu de Janeiru",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=r/rbr/RBR00046548.JPG",
       "imageLicense": "[Cybistax antisyphilitica (Mart.) Mart.](/specimen/search?entity=2900356308)",
       "xcta": [
@@ -2140,8 +2140,8 @@
       ]
     },
     {
-      "title": "Tall Timbers Research Station Lepidoptera Collection",
-      "description": "From Tall Timbers Research Station Natural History Museum",
+      "title": "Sbírka motýlů výzkumné stanice Tall Timbers",
+      "description": "Z Tall Timbers Research Station Natural History Museum",
       "background": "http://api.idigbio.org/v2/media/c4768913b79dbb62ff13196df96f4421?size=fullsize",
       "imageLicense": "[Wallengrenia otho Abbot & Smith, 1797](/specimen/search?entity=2560811312)",
       "xcta": [
@@ -2153,7 +2153,7 @@
     },
     {
       "title": "Entomologie",
-      "description": "From W.F. Barr Entomological Collection",
+      "description": "Z entomologické sbírky W.F. Barra",
       "background": "https://api.idigbio.org/v2/media/40b9646b18f94e2c0b8dde4aa5a058f3?size=fullsize",
       "imageLicense": "[Danaus plexippus (Linnaeus, 1758)](/specimen/search?entity=1977822649)",
       "xcta": [
@@ -2165,7 +2165,7 @@
     },
     {
       "title": "Ornitologie",
-      "description": "From Harvard University, Museum of Comparative Zoology",
+      "description": "Z Harvardské univerzity, Muzeum srovnávací zoologie",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/ornithology/thumbnails/MCZ257790_Zonotrichia_leucophrys_feetx1.jpg",
       "imageLicense": "[Zonotrichia leucophrys (J.R.Forster, 1772)](/specimen/search?entity=863303099)",
       "xcta": [
@@ -2176,8 +2176,8 @@
       ]
     },
     {
-      "title": "Insect reference Collection",
-      "description": "From University of Delaware",
+      "title": "Sbírka referencí o hmyzu",
+      "description": "Z Univerzity v Delaware",
       "background": "https://scan-bugs.org:443/imglib/scan/UD_UDCC/UDCC_TCN00060/20160808_093900-1_1470855377_lg.jpg",
       "imageLicense": "[Papilio glaucus Linnaeus, 1758](/specimen/search?entity=1449838039)",
       "xcta": [
@@ -2189,7 +2189,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Parc National des Cevennes",
+      "description": "Z Národního parku Cevennes",
       "background": "http://mediaphoto.mnhn.fr/media/14997828034774fApXIeOM41r7GRQ",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1806624390)",
       "xcta": [
@@ -2200,8 +2200,8 @@
       ]
     },
     {
-      "title": "UMNH Mammals",
-      "description": "From Natural History Museum of Utah",
+      "title": "UMNH savci",
+      "description": "Z Přírodovědného muzea v Utahu",
       "background": "http://arctos.database.museum/media/10610363?open",
       "imageLicense": "[Zapus princeps utahensis Hall, 1934](/specimen/search?entity=1656064828)",
       "xcta": [
@@ -2213,7 +2213,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Institute of Agricultural and Environmental Sciences of the Estonian University of Life Sciences",
+      "description": "Z Ústavu zemědělských a environmentálních věd Estonské zemědělské univerzity",
       "background": "https://ib.komisc.ru/files/gbif/redbook2019/taxonid-ib-komisc-ru-redbook-2019_054_Perenniporia_tenuis.png",
       "imageLicense": "[Perenniporia tenuis (Schwein.) Ryvarden](/specimen/search?entity=3320730916)",
       "xcta": [
@@ -2224,8 +2224,8 @@
       ]
     },
     {
-      "title": "Paleontology, Fossil Invertebrates",
-      "description": "From American Museum of Natural History",
+      "title": "Paleontologie, fosilní bezobratlí",
+      "description": "Z Amerického přírodovědného muzea",
       "background": "https://api.idigbio.org/v2/media/d1234d04aa701a8ef2b4d3f615cbd5d7",
       "imageLicense": "[Euglyphella sigmoidalis Jones, 1890](/specimen/search?entity=1213700403)",
       "xcta": [
@@ -2237,7 +2237,7 @@
     },
     {
       "title": "Savci",
-      "description": "From Field Museum of Natural History",
+      "description": "Z Field Museum of Natural History",
       "background": "https://fm-digital-assets.fieldmuseum.org/721/099/153116_SkinDorsal_RK01_MZ.jpg",
       "imageLicense": "[Xerus rutilus saturatus (Neumann, 1900)](/specimen/search?entity=665742992)",
       "xcta": [
@@ -2248,8 +2248,8 @@
       ]
     },
     {
-      "title": "MVZ Mammal Specimens",
-      "description": "From Museum of Vertebrate Zoology, University of California Berkeley",
+      "title": "MVZ exempláře savců",
+      "description": "Z Muzea zoologie obratlovců Kalifornské univerzity v Berkeley",
       "background": "http://arctos.database.museum/media/10473803?open",
       "imageLicense": "[Tamias dorsalis nidoensis (Lidicker, 1960)](/specimen/search?entity=1145693001)",
       "xcta": [
@@ -2261,7 +2261,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Federal do Oeste do Pará",
+      "description": "Z Federální univerzity v západní Pará",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=h/hstm/HSTM002518.jpg",
       "imageLicense": "[Byrsonima Rich. ex Kunth](/specimen/search?entity=3069791305)",
       "xcta": [
@@ -2272,8 +2272,8 @@
       ]
     },
     {
-      "title": "Zooarchaeology Collection",
-      "description": "From University of Victoria",
+      "title": "Zooarcheologická sbírka",
+      "description": "Z univerzity ve Victorii",
       "background": "https://osf.io/fr3bj/",
       "imageLicense": "[Glaucomys sabrinus (Shaw, 1801)](/specimen/search?entity=3329069760)",
       "xcta": [
@@ -2284,7 +2284,7 @@
       ]
     },
     {
-      "title": "Invertebrate Paleontology",
+      "title": "Paleontologie bezobratlých",
       "description": "From University of Washington, Burke Museum",
       "background": "http://www.burkemuseum.org/research-and-collections/invertebrate-paleontology-and-micropaleontology/collections/database/images/jpeg.php?Image=UWBM_IP_106260_2.jpg",
       "imageLicense": "[Ficus mamillatus Gabb, 1864](/specimen/search?entity=1836008325)",
@@ -2320,7 +2320,7 @@
       ]
     },
     {
-      "title": "Arachnids",
+      "title": "Pavoukovci",
       "description": "From Denver Museum of Nature & Science",
       "background": "https://scan-bugs.org:443/imglib/scan/DMNS_Arac/ZA14/2006-07-25_1568131511.jpg",
       "imageLicense": "[Agnyphantes arboreus (Emerton, 1915)](/specimen/search?entity=3750308672)",
