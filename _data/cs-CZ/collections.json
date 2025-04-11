@@ -2285,7 +2285,7 @@
     },
     {
       "title": "Paleontologie bezobratlých",
-      "description": "From University of Washington, Burke Museum",
+      "description": "Z Washingtonské univerzity, Burkeho muzeum",
       "background": "http://www.burkemuseum.org/research-and-collections/invertebrate-paleontology-and-micropaleontology/collections/database/images/jpeg.php?Image=UWBM_IP_106260_2.jpg",
       "imageLicense": "[Ficus mamillatus Gabb, 1864](/specimen/search?entity=1836008325)",
       "xcta": [
@@ -2297,7 +2297,7 @@
     },
     {
       "title": "Herpetologie",
-      "description": "From University of Colorado Museum of Natural History",
+      "description": "Z Přírodovědného muzea Coloradské univerzity",
       "background": "http://arctos.database.museum/media/10509180?open",
       "imageLicense": "[Pseudonaja textilis (Duméril, Bibron & Duméril, 1854)](/specimen/search?entity=1061380418)",
       "xcta": [
@@ -2308,8 +2308,8 @@
       ]
     },
     {
-      "title": "Entomological Collection",
-      "description": "From Estonian University of Life Sciences",
+      "title": "Entomologická sbírka",
+      "description": "Z Estonské univerzity přírodních věd",
       "background": "https://files.plutof.ut.ee/public/large/3A/66/3A6698DD4B956E8C0312F33699A80A6DA0967A99C7A43FD1A054276B993379B9.jpg",
       "imageLicense": "[Dendrothrips degeeri Uzel, 1895](/specimen/search?entity=3414871410)",
       "xcta": [
@@ -2321,7 +2321,7 @@
     },
     {
       "title": "Pavoukovci",
-      "description": "From Denver Museum of Nature & Science",
+      "description": "Z Denverského přírodovědného muzea",
       "background": "https://scan-bugs.org:443/imglib/scan/DMNS_Arac/ZA14/2006-07-25_1568131511.jpg",
       "imageLicense": "[Agnyphantes arboreus (Emerton, 1915)](/specimen/search?entity=3750308672)",
       "xcta": [
@@ -2333,7 +2333,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Regional de Blumenau",
+      "description": "Z Regionální univerzity v Blumenau",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=f/furb/30000-39999/FURB32565.JPG",
       "imageLicense": "[Myrcia hebepetala DC.](/specimen/search?entity=2996166759)",
       "xcta": [
@@ -2344,8 +2344,8 @@
       ]
     },
     {
-      "title": "Invertebrate Zoology Collections MnhnL",
-      "description": "From National Museum of Natural History, Luxembourg",
+      "title": "Zoologické sbírky bezobratlých MnhnL",
+      "description": "Z Národního přírodovědného muzea v Lucemburku",
       "background": "https://archimg.mnhn.lu/Collections/Invertebrate-zoology/Microscope-Slides/MNHNL57327.jpg",
       "imageLicense": "[Parthenolecanium pomeranicum (Kawecki, 1954)](/specimen/search?entity=3463454303)",
       "xcta": [
@@ -2357,7 +2357,7 @@
     },
     {
       "title": "Entomologie",
-      "description": "From University of Texas at El Paso Biodiversity Collections",
+      "description": "Ze sbírek biodiverzity Texaské univerzity v El Pasu",
       "background": "http://arctos.database.museum/media/10603398?open",
       "imageLicense": "[Bembix occidentalis W.Fox, 1893](/specimen/search?entity=2234244402)",
       "xcta": [
@@ -2368,8 +2368,8 @@
       ]
     },
     {
-      "title": "Division of Mammals, Museum of Southwestern Biology",
-      "description": "From Museum of Southwestern Biology",
+      "title": "Oddělení savců, Jihozápadní biologické muzeum",
+      "description": "Z Jihozápadního biologického muzea",
       "background": "http://arctos.database.museum/media/10584529?open",
       "imageLicense": "[Neotoma mexicana inopinata Goldman, 1933](/specimen/search?entity=1145127382)",
       "xcta": [
@@ -2381,7 +2381,7 @@
     },
     {
       "title": "Entomologická sbírka",
-      "description": "From DOI/FWS, Kenai National Wildlife Refuge",
+      "description": "Z DOI/FWS, Kenai National Wildlife Refuge",
       "background": "http://arctos.database.museum/media/10253782?open",
       "imageLicense": "[Hyppa Duponchel, 1845](/specimen/search?entity=2465077913)",
       "xcta": [
@@ -2393,7 +2393,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universitat de València",
+      "description": "Z univerzity ve Valencii",
       "background": "https://colecciones.uv.es/files/large/4c5b1a06789dda555ed0909b65084ce3c5d39bd8.jpg",
       "imageLicense": "[Limonium Mill.](/specimen/search?entity=895314875)",
       "xcta": [
@@ -2405,7 +2405,7 @@
     },
     {
       "title": "Herpetologie",
-      "description": "From Carnegie Museum of Natural History",
+      "description": "Z Carnegieho přírodovědného muzea",
       "background": "https://api.idigbio.org/v2/media/10513ce514b893ae3c17359684e9c093",
       "imageLicense": "[Ramphotyphlops cumingii (Gray, 1845)](/specimen/search?entity=786193750)",
       "xcta": [
@@ -2417,7 +2417,7 @@
     },
     {
       "title": "Entomologie CAS",
-      "description": "From California Academy of Sciences",
+      "description": "Z Kalifornské akademie věd",
       "background": "https://serv.biokic.asu.edu/imglib/ecdysis/UCSB_IZC/UCSB-IZC00006/UCSB-IZC00006502.jpg",
       "imageLicense": "[Netelia Gray, 1860](/specimen/search?entity=2013219489)",
       "xcta": [
@@ -2441,7 +2441,7 @@
     },
     {
       "title": "Savci",
-      "description": "From University of Texas at El Paso Biodiversity Collections",
+      "description": "Ze sbírek biodiverzity Texaské univerzity v El Pasu",
       "background": "http://arctos.database.museum/media/10584607?open",
       "imageLicense": "[Myotis evotis (H.Allen, 1864)](/specimen/search?entity=1323886651)",
       "xcta": [
@@ -2452,7 +2452,7 @@
       ]
     },
     {
-      "title": "The Hemiptera collection (EH) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
+      "title": "Sbírka polokřídlých (EH) Muséum national d'Histoire naturelle, (MNHN - Paříž)",
       "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "http://mediaphoto.mnhn.fr/media/143014155668633d6nkFIwtCVC5WM",
       "imageLicense": "[Sakina boulardi Synave, 1979](/specimen/search?entity=1090968419)",
@@ -2464,7 +2464,7 @@
       ]
     },
     {
-      "title": "The Scorpiones collection (RS) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
+      "title": "Sbírka štírů (RS) v Muséum national d'Histoire naturelle (MNHN - Paříž)",
       "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "http://mediaphoto.mnhn.fr/media/1400492520473gO6ZmBSzGejmpcCX",
       "imageLicense": "[Afghanorthochirus danielleae Lourenço & Vachon, 1997](/specimen/search?entity=1019649784)",
@@ -2477,7 +2477,7 @@
     },
     {
       "title": "Rancho La Brea",
-      "description": "From Natural History Museum of Los Angeles County",
+      "description": "Z Přírodovědného muzea okresu Los Angeles",
       "background": "http://digitalgallery.nhm.org:8085/rancholabrea/api/v1/asset/735886/preview",
       "imageLicense": "[Carabidae](/specimen/search?entity=2614348915)",
       "xcta": [
@@ -2488,8 +2488,8 @@
       ]
     },
     {
-      "title": "MVZ Bird Specimens",
-      "description": "From Museum of Vertebrate Zoology, University of California Berkeley",
+      "title": "MVZ exempláře ptáků",
+      "description": "Z Muzea zoologie obratlovců Kalifornské univerzity v Berkeley",
       "background": "http://arctos.database.museum/media/10001477?open",
       "imageLicense": "[Leiothlypis ruficapilla ridgwayi (van Rossem, 1929)](/specimen/search?entity=896458437)",
       "xcta": [
@@ -2501,7 +2501,7 @@
     },
     {
       "title": "Fosilní exempláře",
-      "description": "From University of Texas at El Paso Biodiversity Collections",
+      "description": "Ze sbírek biodiverzity Texaské univerzity v El Pasu",
       "background": "http://arctos.database.museum/media/10499484?open",
       "imageLicense": "[Chordata](/specimen/search?entity=1638506610)",
       "xcta": [
@@ -2512,8 +2512,8 @@
       ]
     },
     {
-      "title": "MVZ Amphibian and reptile specimens",
-      "description": "From Museum of Vertebrate Zoology, University of California Berkeley",
+      "title": "MVZ Exempláře obojživelníků a plazů",
+      "description": "Z Muzea zoologie obratlovců Kalifornské univerzity v Berkeley",
       "background": "http://arctos.database.museum/media/10005277?open",
       "imageLicense": "[Incilius alvarius (Girard, 1859)](/specimen/search?entity=1145645168)",
       "xcta": [
@@ -2525,7 +2525,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Qarshi Industries (Pvt.) Ltd.",
+      "description": "Od Qarshi Industries (Pvt.) Ltd.",
       "background": "https://openherbarium.org:443/imglib/openherbarium/QARSHI_QARSHI/202010/DSC_0830_1603098214_lg.jpg",
       "imageLicense": "[Hypericum L.](/specimen/search?entity=3028699304)",
       "xcta": [
