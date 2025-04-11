@@ -2537,7 +2537,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Instituto do Meio Ambiente",
+      "description": "Z Institutu životního prostředí",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=m/mac/CONVOLVULACEAE_ATUALIZADA/MAC0045597.JPG",
       "imageLicense": "[Jacquemontia sphaerostigma (Cav.) Rusby](/specimen/search?entity=2996438431)",
       "xcta": [
@@ -2549,7 +2549,7 @@
     },
     {
       "title": "Ornitologie",
-      "description": "From University of Colorado Museum of Natural History",
+      "description": "Z Přírodovědného muzea Coloradské univerzity",
       "background": "http://arctos.database.museum/media/10691065?open",
       "imageLicense": "[Selasphorus rufus (J.F.Gmelin, 1788)](/specimen/search?entity=1061320014)",
       "xcta": [
@@ -2561,7 +2561,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Instituto Nacional da Mata Atlântica - INMA",
+      "description": "Z Národního institutu atlantských lesů - INMA",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=m/mbml/2016_03_16/MBML024332.JPG",
       "imageLicense": "[Mandevilla Lindl.](/specimen/search?entity=2996372762)",
       "xcta": [
@@ -2573,7 +2573,7 @@
     },
     {
       "title": "Parazitologie",
-      "description": "From Museum of Southwestern Biology",
+      "description": "Z Jihozápadního biologického muzea",
       "background": "http://arctos.database.museum/media/10612593?open",
       "imageLicense": "[Strigeidae](/specimen/search?entity=1455542187)",
       "xcta": [
@@ -2585,7 +2585,7 @@
     },
     {
       "title": "Entomologie",
-      "description": "From Queensland Museum",
+      "description": "Z Queenslandského muzea",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=4d517df9-782e-4982-a5fc-3dcbabc8ea0e",
       "imageLicense": "[Bactrocera yorkensis Drew, Hancock & Romig, 1999](/specimen/search?entity=1066430238)",
       "xcta": [
@@ -2596,8 +2596,8 @@
       ]
     },
     {
-      "title": "Mollusc Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Sbírka měkkýšů",
+      "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/0/917/CMNML003054exts.jpg",
       "imageLicense": "[Planogyra asteriscus (Morse, 1857)](/specimen/search?entity=1804271823)",
       "xcta": [
@@ -2609,7 +2609,7 @@
     },
     {
       "title": "Koráli",
-      "description": "From Queensland Museum",
+      "description": "Z Queenslandského muzea",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=c881351c-1048-401c-8522-c23b52f11fcc",
       "imageLicense": "[Acropora austera (Dana, 1846)](/specimen/search?entity=1066238009)",
       "xcta": [
@@ -2620,8 +2620,8 @@
       ]
     },
     {
-      "title": "Amphibians and Reptiles",
-      "description": "From Queensland Museum",
+      "title": "Obojživelníci a plazi",
+      "description": "Z Queenslandského muzea",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=5ae1e4c8-e3ff-4ea5-8a95-d165e6a7bd84",
       "imageLicense": "[Delma tinxcta De Vis, 1888](/specimen/search?entity=1066523593)",
       "xcta": [
@@ -2633,7 +2633,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Pomona College",
+      "description": "Z vysoké školy Pomona",
       "background": "https://bisque.cyverse.org/image_service/image/00-rR2njL9zZjwGSrtyQfEAWW/resize:4000/format:jpeg",
       "imageLicense": "[Corethrogyne filaginifolia var. brevicula (Greene) M.L.Canby](/specimen/search?entity=2430086381)",
       "xcta": [
@@ -2645,7 +2645,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Embrapa Amazônia Oriental, Ministry of Agriculture",
+      "description": "Z Embrapa Amazônia Oriental, Ministerstvo zemědělství",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=ian/SiBBr_Junho_2016/IAN_135802.JPG",
       "imageLicense": "[Didymoglossum punxctatum (Poir.) Desv.](/specimen/search?entity=2302443067)",
       "xcta": [
@@ -2656,8 +2656,8 @@
       ]
     },
     {
-      "title": "Mammal collection NTNU University Museum",
-      "description": "From NTNU Museum of Natural History and Archaeology",
+      "title": "Sbírka savců Univerzitního muzea NTNU",
+      "description": "Z Přírodovědného a archeologického muzea NTNU",
       "background": "https://natron.vm.ntnu.no/DataDocumentation/Collection/Pattedyr__systematisk/Gunnerus_4etg/Orientalsk/Utenlandsk/3227.jpg",
       "imageLicense": "[Paradoxurus hermaphroditus (Pallas, 1777)](/specimen/search?entity=1809985233)",
       "xcta": [
@@ -2668,8 +2668,8 @@
       ]
     },
     {
-      "title": "NHMD Herpetology",
-      "description": "From Natural History Museum of Denmark",
+      "title": "Herpetologie NHMD",
+      "description": "Z Dánského přírodovědného muzea",
       "background": "https://specify-attachments.science.ku.dk/static/NHMD_Herpetology/originals/sp61026199879190971904.att.jpg",
       "imageLicense": "[Probreviceps uluguruensis (Loveridge, 1925)](/specimen/search?entity=3778580328)",
       "xcta": [
@@ -2680,8 +2680,8 @@
       ]
     },
     {
-      "title": "Bird Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Sbírka ptáků",
+      "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/1/273/CMNAVB549_s.JPG",
       "imageLicense": "[Sitta pusilla Latham, 1790](/specimen/search?entity=1804172185)",
       "xcta": [
@@ -2693,7 +2693,7 @@
     },
     {
       "title": "Ptáci",
-      "description": "From Queensland Museum",
+      "description": "Z Queenslandského muzea",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=3f50074d-bf72-4385-9cd1-0bfa93e8c92b",
       "imageLicense": "[Monarchidae](/specimen/search?entity=1066185830)",
       "xcta": [
@@ -2704,8 +2704,8 @@
       ]
     },
     {
-      "title": "Porifera",
-      "description": "From Queensland Museum",
+      "title": "Houbovci",
+      "description": "Z Queenslandského muzea",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=1afeb728-be68-4475-ad22-21cda52aaa6c",
       "imageLicense": "[Amphimedon Duchassaing & Michelotti, 1864](/specimen/search?entity=1633722596)",
       "xcta": [
@@ -2717,7 +2717,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Federal de Jataí",
+      "description": "Z Federální univerzity v Jataí",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=h/hj/HJ00000977.jpg",
       "imageLicense": "[Mentha pulegium L.](/specimen/search?entity=3069790370)",
       "xcta": [
@@ -2729,7 +2729,7 @@
     },
     {
       "title": "Ichtyologie",
-      "description": "From Museums Victoria",
+      "description": "Z Muzea Victoria",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=a609820a-1bc8-41ab-99b6-f8bee0c5e3c1",
       "imageLicense": "[Ulua mentalis (Cuvier, 1833)](/specimen/search?entity=1272479635)",
       "xcta": [
@@ -3113,7 +3113,7 @@
     },
     {
       "title": "Insect Collection",
-      "description": "From Canadian Museum of Nature",
+      "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/0/013/CMNEN19990309as.jpg",
       "imageLicense": "[Dialithus scintillans Howden, 1972](/specimen/search?entity=1804635934)",
       "xcta": [
@@ -3125,7 +3125,7 @@
     },
     {
       "title": "Korýši",
-      "description": "From Queensland Museum",
+      "description": "Z Queenslandského muzea",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=78acd53d-dc36-4087-84f1-19f6707cc779",
       "imageLicense": "[Thalamita prymna (Herbst, 1803)](/specimen/search?entity=1066277389)",
       "xcta": [
@@ -3136,8 +3136,8 @@
       ]
     },
     {
-      "title": "Arizona State University Mammalogy Collection",
-      "description": "From Arizona State University Biocollections",
+      "title": "Sbírka savců Arizonské státní univerzity",
+      "description": "Z biosbírek Arizonské státní univerzity",
       "background": "https://csvcoll.org/imglib/verte/ASU_ASUMAC/ASUMAC008/ASUMAC008873-1_1657139211_lg.jpg",
       "imageLicense": "[Chaetodipus intermedius (Merriam, 1889)](/specimen/search?entity=3855370314)",
       "xcta": [
@@ -3149,7 +3149,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Federal do Rio Grande do Norte",
+      "description": "Z Federální univerzity Rio Grande do Norte",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=u/ufrn/UFRN_017/UFRN0001167.JPG",
       "imageLicense": "[Mitracarpus salzmannianus DC.](/specimen/search?entity=2302383202)",
       "xcta": [
@@ -3160,8 +3160,8 @@
       ]
     },
     {
-      "title": "Vertebrate Zoology",
-      "description": "From World Museum, National Museums Liverpool",
+      "title": "Zoologie obratlovců",
+      "description": "Ze Světového muzea, Národního muzea v Liverpoolu",
       "background": "https://s3.eu-central-1.amazonaws.com/images-hosting.nbnatlas.org/nationalmuseumsliverpool/rafflesbirds/D2212_label.jpg",
       "imageLicense": "[Rhizothera longirostris (Temminck, 1815)](/specimen/search?entity=3034040302)",
       "xcta": [
@@ -3172,8 +3172,8 @@
       ]
     },
     {
-      "title": "Mammal Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Sbírka savců",
+      "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/0/780/CMNMA232_skulls.jpg",
       "imageLicense": "[Rangifer tarandus caribou (Gmelin, 1788)](/specimen/search?entity=1804041463)",
       "xcta": [
@@ -3185,7 +3185,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Department of Higher Education, Khyber Pakhtunkhwa, Pakistan",
+      "description": "Z ministerstva vysokého školství, Khyber Pakhtunkhwa, Pákistán",
       "background": "https://openherbarium.org:443/imglib/openmuseum/BANNU_BANNU/BANNU000/received_348259579148638_1554224522.jpeg",
       "imageLicense": "[Tribulus terrestris L.](/specimen/search?entity=2426377441)",
       "xcta": [
@@ -3196,8 +3196,8 @@
       ]
     },
     {
-      "title": "Fish Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Sbírka ryb",
+      "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/0/788/CMNFI19860036%20(2).jpg",
       "imageLicense": "[Breviraja marklei McEachran & Miyake, 1987](/specimen/search?entity=1804014108)",
       "xcta": [
@@ -3209,7 +3209,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Federal de Mato Grosso do Sul, Campus do Pantanal",
+      "description": "Z Federální univerzity Mato Grosso do Sul, kampus Pantanal",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=c/cor/output_112016/COR/0/1/63/39/COR00016339.JPG",
       "imageLicense": "[Terpsichore reclinata (Brack.) Labiak](/specimen/search?entity=2302402761)",
       "xcta": [
@@ -3221,7 +3221,7 @@
     },
     {
       "title": "Členovci",
-      "description": "From Georgia Museum of Natural History",
+      "description": "Z Přírodovědného muzea v Georgii",
       "background": "https://scan-bugs.org:443/imglib/scan/GMNH_UGCA/00000/VH8H1H8HOH5HAHKLEZGHRREHUZEHBZ_1496326255_lg.jpg",
       "imageLicense": "[Leptipsius striatus (LeConte, 1858)](/specimen/search?entity=2466423973)",
       "xcta": [
@@ -3232,8 +3232,8 @@
       ]
     },
     {
-      "title": "UWYMV Mammal Specimens",
-      "description": "From University of Wyoming Museum of Vertebrates",
+      "title": "UWYMV exempláře savců",
+      "description": "Z Muzea obratlovců University of Wyoming",
       "background": "http://arctos.database.museum/media/10619054?open",
       "imageLicense": "[Procyon lotor (Linnaeus, 1758)](/specimen/search?entity=897121059)",
       "xcta": [
@@ -3245,7 +3245,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidad de San Carlos de Guatemala",
+      "description": "Z Univerzita San Carlos v Guatemale",
       "background": "https://biodiversidad.gt/imglib/guatemala/USAC_USCG/00045/USCG_45254_1649040911.jpg",
       "imageLicense": "[Trichocentrum cebolleta (Jacq.) M.W.Chase & N.H.Williams](/specimen/search?entity=3504042412)",
       "xcta": [
@@ -3257,7 +3257,7 @@
     },
     {
       "title": "Entomologie",
-      "description": "From Western Washington University Insect Collection",
+      "description": "Ze sbírky hmyzu Západní washingtonské univerzity",
       "background": "https://scan-bugs.org:443/imglib/scan/misc/202109/Undetermined-WWUC-0000000230-D.jpg",
       "imageLicense": "[incertae sedis](/specimen/search?entity=2234690896)",
       "xcta": [
@@ -3269,7 +3269,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade do Extremo Sul Catarinense (UNESC)",
+      "description": "Z Universidade do Extremo Sul Catarinense (UNESC)",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=c/cri/0-5000/CRI000948.JPG",
       "imageLicense": "[Baccharis lymanii G.M.Barroso ex G.Heiden](/specimen/search?entity=2996469285)",
       "xcta": [
@@ -3281,7 +3281,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From University of Sargodha",
+      "description": "Z univerzity v Sargodha",
       "background": "https://openherbarium.org:443/imglib/openmuseum/SARGU_SARGU/SARGU00/SARGU00007_1579110039_lg.jpg",
       "imageLicense": "[Alhagi maurorum Medik.](/specimen/search?entity=3014866303)",
       "xcta": [
@@ -3292,8 +3292,8 @@
       ]
     },
     {
-      "title": "Annelid Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Sbírka Kroužkovců",
+      "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/15/312/CMNA2009-0010_CR_Image1_2010-03-19.jpg",
       "imageLicense": "[Alitta virens (M.Sars, 1835)](/specimen/search?entity=1804360098)",
       "xcta": [
@@ -3304,8 +3304,8 @@
       ]
     },
     {
-      "title": "Division of Amphibians & Reptiles",
-      "description": "From Museum of Southwestern Biology",
+      "title": "Oddělení obojživelníků a plazů",
+      "description": "Z Muzea biologie Jihozápadu",
       "background": "http://arctos.database.museum/media/10630742?open",
       "imageLicense": "[Aspidoscelis inornatus (Baird, 1859)](/specimen/search?entity=3093977640)",
       "xcta": [
@@ -3317,7 +3317,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Naturhistorisches Museum Wien",
+      "description": "Z Přírodovědného muzea ve Vídni",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=n/nhmwien/phase05/20160801_batch035-batch137/W20150005042_a.jpg",
       "imageLicense": "[Unonopsis R.E.Fr.](/specimen/search?entity=2995986347)",
       "xcta": [
@@ -3328,7 +3328,7 @@
       ]
     },
     {
-      "title": "Parasite Collection",
+      "title": "Sbírka parazitů",
       "description": "From Canadian Museum of Nature",
       "background": "http://ipt.nature.ca/multimedia/15/495/CMNPA1999-0008_CR_Image2_2010-04-12.JPG",
       "imageLicense": "[Diplogonoporus balaenopterae (Lönnberg, 1892)](/specimen/search?entity=1804252203)",
