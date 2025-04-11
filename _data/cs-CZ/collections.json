@@ -2740,8 +2740,8 @@
       ]
     },
     {
-      "title": "Other Invertebrates",
-      "description": "From Queensland Museum",
+      "title": "Ostatní bezobratlí",
+      "description": "Z Queenslandského muzea",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=22085cb4-743f-4856-9ea6-fc8182f1747b",
       "imageLicense": "[Cableia pudica Bray, Cribb & Barker, 1996](/specimen/search?entity=1066720685)",
       "xcta": [
@@ -2752,8 +2752,8 @@
       ]
     },
     {
-      "title": "Herpetology",
-      "description": "From University of Texas at El Paso Biodiversity Collections",
+      "title": "Herpetologie",
+      "description": "Ze sbírek biodiverzity Texaské univerzity v El Pasu",
       "background": "http://arctos.database.museum/media/10594301?open",
       "imageLicense": "[Crotalus lepidus Kennicott, 1861](/specimen/search?entity=2234858167)",
       "xcta": [
@@ -2764,8 +2764,8 @@
       ]
     },
     {
-      "title": "Molluscs",
-      "description": "From Queensland Museum",
+      "title": "Měkkýši",
+      "description": "Z Queenslandského muzea",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=58cde248-5887-46ec-9ef2-cb465cacf153",
       "imageLicense": "[Argonauta argo Linnaeus, 1758](/specimen/search?entity=1066706340)",
       "xcta": [
@@ -2776,8 +2776,8 @@
       ]
     },
     {
-      "title": "Fishes",
-      "description": "From Queensland Museum",
+      "title": "Ryby",
+      "description": "Z Queenslandského muzea",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=ee8c1fa3-40db-4896-92d7-759f6a47a64f",
       "imageLicense": "[Pristotis obtusirostris (Günther, 1862)](/specimen/search?entity=1066502120)",
       "xcta": [
@@ -2788,8 +2788,8 @@
       ]
     },
     {
-      "title": "Division of Parasites, Host Collection, Museum of Southwestern Biology",
-      "description": "From Museum of Southwestern Biology",
+      "title": "Oddělení parazitů, sbírka hostitelů, Biologické muzeum Jihozápadu",
+      "description": "Z Muzea biologie Jihozápadu",
       "background": "http://arctos.database.museum/media/10431315?open",
       "imageLicense": "[Microtus oeconomus (Pallas, 1776)](/specimen/search?entity=897141235)",
       "xcta": [
@@ -2800,8 +2800,8 @@
       ]
     },
     {
-      "title": "Invertebrates",
-      "description": "From University of Texas at El Paso Biodiversity Collections",
+      "title": "Bezobratlí",
+      "description": "Ze sbírek biodiverzity Texaské univerzity v El Pasu",
       "background": "http://arctos.database.museum/media/10720645?open",
       "imageLicense": "[Popenaias popei (I.Lea, 1857)](/specimen/search?entity=1638503526)",
       "xcta": [
@@ -2813,7 +2813,7 @@
     },
     {
       "title": "Ichtyologie",
-      "description": "From University of Colorado Museum of Natural History",
+      "description": "Z Přírodovědného muzea Coloradské univerzity",
       "background": "http://arctos.database.museum/media/10565467?open",
       "imageLicense": "[Lepisosteus osseus (Linnaeus, 1758)](/specimen/search?entity=1061301083)",
       "xcta": [
@@ -2824,8 +2824,8 @@
       ]
     },
     {
-      "title": "NHMD Vertebrate Paleontology",
-      "description": "From Natural History Museum of Denmark",
+      "title": "Paleontologie obratlovců NHMD",
+      "description": "Z Dánského přírodovědného muzea",
       "background": "https://specify-attachments.science.ku.dk/static/NHMD_Vertebrate_Paleontology/originals/sp67070182255727192838.att.jpg",
       "imageLicense": "[Rhinobatos hakelensis Cappetta, 1980](/specimen/search?entity=3343254656)",
       "xcta": [
@@ -2837,7 +2837,7 @@
     },
     {
       "title": "Ptáci",
-      "description": "From University of Texas at El Paso Biodiversity Collections",
+      "description": "Ze sbírek biodiverzity Texaské univerzity v El Pasu",
       "background": "http://arctos.database.museum/media/10584736?open",
       "imageLicense": "[Setophaga coronata (Linnaeus, 1766)](/specimen/search?entity=1638530001)",
       "xcta": [
@@ -2849,7 +2849,7 @@
     },
     {
       "title": "Crustacea - SMF",
-      "description": "From Forschungsinstitut und Natur-Museum Senckenberg",
+      "description": "Ze Senckenbergova výzkumného ústavu a přírodovědného muzea",
       "background": "http://sesam.senckenberg.de/pictures/originale/1/45907.jpg",
       "imageLicense": "[Caphyra polita (Heller, 1861)](/specimen/search?entity=3045948448)",
       "xcta": [
@@ -2861,7 +2861,7 @@
     },
     {
       "title": "Prvoci",
-      "description": "From Queensland Museum",
+      "description": "Z Queenslandského muzea",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=879effad-da28-4482-b022-da331cf6ba42",
       "imageLicense": "[Haemoproteus Kruse, 1890](/specimen/search?entity=1066796874)",
       "xcta": [
@@ -2884,8 +2884,8 @@
       ]
     },
     {
-      "title": "Amphibian and Reptile Collection",
-      "description": "From Canadian Museum of Nature",
+      "title": "Sbírka obojživelníků a plazů",
+      "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/3/109/CMNAR799.jpg",
       "imageLicense": "[Crotalus horridus Linnaeus, 1758](/specimen/search?entity=1804113757)",
       "xcta": [
@@ -2920,7 +2920,7 @@
       ]
     },
     {
-      "title": "NatMIP Fish Collection",
+      "title": "Sbírka ryb NatMIP",
       "description": "From Natural History Museum of the Iberian Peninsula - NatMIP (\"Museu de História Natural da Península Ibérica\")",
       "background": "https://drive.google.com/file/d/1FiUVV4x4KgtovDRp8bx4kAiIs0UH0kct/preview",
       "imageLicense": "[Lepomis gibbosus (Linnaeus, 1758)](/specimen/search?entity=3830565303)",
@@ -2945,7 +2945,7 @@
     },
     {
       "title": "Savci",
-      "description": "From Queensland Museum",
+      "description": "Z Queenslandského muzea",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=87690fb8-fa65-4a64-8fc5-cdd1045a38d1",
       "imageLicense": "[Pteropus alecto gouldii Peters, 1867](/specimen/search?entity=1066631263)",
       "xcta": [
@@ -2969,7 +2969,7 @@
     },
     {
       "title": "Crustacea Collection",
-      "description": "From Canadian Museum of Nature",
+      "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/15/507/CMNC1983-1133_CR_Image1_2010-03-24.jpg",
       "imageLicense": "[Leucon Krøyer, 1846](/specimen/search?entity=1804334221)",
       "xcta": [
@@ -2981,7 +2981,7 @@
     },
     {
       "title": "General Invertebrate Collection",
-      "description": "From Canadian Museum of Nature",
+      "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/15/377/CMNI2009-0025_CR_Image2_2010-03-22.jpg",
       "imageLicense": "[Metridium senile (Linnaeus, 1761)](/specimen/search?entity=1804618642)",
       "xcta": [
@@ -3005,7 +3005,7 @@
     },
     {
       "title": "Invertebrate Zoology, Hemiptera",
-      "description": "From American Museum of Natural History",
+      "description": "Z Amerického přírodovědného muzea",
       "background": "http://sci-web-001.amnh.org/imutest/iz/imu/request.php?request=Multimedia&method=fetch&key=10006294",
       "imageLicense": "[Aoplonema nigrum Forero, 2008](/specimen/search?entity=2542818643)",
       "xcta": [
@@ -3017,7 +3017,7 @@
     },
     {
       "title": "Amphibian Observation",
-      "description": "From South African Institute for Aquatic Biodiversity",
+      "description": "Z Jihoafrického institutu pro vodní biodiverzitu",
       "background": "http://specify-attachments-saiab.saiab.ac.za/originals/sp6-4057857573604574871.att.jpg",
       "imageLicense": "[Amietia fuscigula (Duméril & Bibron, 1841)](/specimen/search?entity=1265265623)",
       "xcta": [
@@ -3041,7 +3041,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade de São Paulo",
+      "description": "Z univerzity v São Paulu",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=spf/output_20161006_2/SPF000190278.JPG",
       "imageLicense": "[Microlicia tenuifolia R.Romero](/specimen/search?entity=2997724463)",
       "xcta": [
@@ -3053,7 +3053,7 @@
     },
     {
       "title": "UWYMV Bird specimens",
-      "description": "From University of Wyoming Museum of Vertebrates",
+      "description": "Z Muzea obratlovců University of Wyoming",
       "background": "http://arctos.database.museum/media/10615461?open",
       "imageLicense": "[Bubo virginianus (J.F.Gmelin, 1788)](/specimen/search?entity=1837259772)",
       "xcta": [
@@ -3065,7 +3065,7 @@
     },
     {
       "title": "DNA Bank Fish and Herptiles",
-      "description": "From University of Oslo",
+      "description": "Z Univerzity v Oslo",
       "background": "http://www.unimus.no/felles/bilder/web_hent_bilde.php?id=15512200&type=jpeg",
       "imageLicense": "[Triturus cristatus (Laurenti, 1768)](/specimen/search?entity=3451834305)",
       "xcta": [
@@ -3076,8 +3076,8 @@
       ]
     },
     {
-      "title": "Invertebrate Paleontology",
-      "description": "From Harvard University, Museum of Comparative Zoology",
+      "title": "Paleontologie bezobratlých",
+      "description": "Z Harvardské univerzity, Muzeum srovnávací zoologie",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/invertpaleo/thumbnails/MCZ_108522_Spisula_polunyma_voyi_02_thumb.jpg",
       "imageLicense": "[Spisula polynyma voyi (Gabb, 1866)](/specimen/search?entity=477770342)",
       "xcta": [
@@ -3101,7 +3101,7 @@
     },
     {
       "title": "Pavoukovci",
-      "description": "From Queensland Museum",
+      "description": "Z Queenslandského muzea",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=ca26e606-885e-4cf8-b6ce-89cf5e91872b",
       "imageLicense": "[Achaearanea Strand, 1929](/specimen/search?entity=1066132706)",
       "xcta": [
@@ -3112,7 +3112,7 @@
       ]
     },
     {
-      "title": "Insect Collection",
+      "title": "Sbírka hmyzu",
       "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/0/013/CMNEN19990309as.jpg",
       "imageLicense": "[Dialithus scintillans Howden, 1972](/specimen/search?entity=1804635934)",
@@ -3329,7 +3329,7 @@
     },
     {
       "title": "Sbírka parazitů",
-      "description": "From Canadian Museum of Nature",
+      "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/15/495/CMNPA1999-0008_CR_Image2_2010-04-12.JPG",
       "imageLicense": "[Diplogonoporus balaenopterae (Lönnberg, 1892)](/specimen/search?entity=1804252203)",
       "xcta": [
@@ -3341,7 +3341,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Federal University of Espírito Santo",
+      "description": "Z Federální univerzity Espírito Santo",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=v/vies/VIES/0/0/65/9/VIES006509.JPG",
       "imageLicense": "[Sinningia kautskyi Chautems](/specimen/search?entity=2996995621)",
       "xcta": [
@@ -3352,8 +3352,8 @@
       ]
     },
     {
-      "title": "Arizona State University Herpetology Collection",
-      "description": "From Arizona State University Biocollections",
+      "title": "Herpetologická sbírka Arizonské státní univerzity",
+      "description": "Z biosbírek Arizonské státní univerzity",
       "background": "https://csvcoll.org/imglib/verte/ASU_ASUHEC/ASUHEC022/ASUHEC022591_3_1479411139_lg.jpg",
       "imageLicense": "[Lampropeltis getula californiae (Blainville, 1835)](/specimen/search?entity=2816174852)",
       "xcta": [
@@ -3365,7 +3365,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Department of Forestry Science",
+      "description": "Z oddělení lesnické vědy",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=h/hdcf/1-7282/65/23/HDCF006523_1.JPG",
       "imageLicense": "[Syagrus andrequiceana K.Soares & L.C.Assis](/specimen/search?entity=2302331594)",
       "xcta": [
@@ -3377,7 +3377,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade de São Paulo",
+      "description": "Z univerzity v São Paulu",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=esa/ESA002736.jpg",
       "imageLicense": "[Nothoscordum fragrans (Vent.) Kunth](/specimen/search?entity=2995869076)",
       "xcta": [
@@ -3389,7 +3389,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Federal de Santa Catarina",
+      "description": "Z Federální univerzity v Santa Catarině",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=f/flor/FLOR-2016-09-22-JPG/FLOR0020947.jpg",
       "imageLicense": "[Chenopodium L.](/specimen/search?entity=2996100534)",
       "xcta": [
@@ -3400,8 +3400,8 @@
       ]
     },
     {
-      "title": "UMNH Bird Collection",
-      "description": "From Natural History Museum of Utah",
+      "title": "Sbírka ptáků UMNH",
+      "description": "Z Přírodovědného muzea v Utahu",
       "background": "http://arctos.database.museum/media/10678520?open",
       "imageLicense": "[Icterus galbula bullocki (Swainson, 1827)](/specimen/search?entity=1656024706)",
       "xcta": [
@@ -3413,7 +3413,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Quaid-I-Azam University",
+      "description": "Z univerzity Quaid-I-Azam",
       "background": "https://openherbarium.org:443/imglib/openmuseum/QAU_ISL/ISL0000/ISL0000005_1523068157_lg.jpg",
       "imageLicense": "[Ochthochloa compressa (Forssk.) Hilu](/specimen/search?entity=1890156002)",
       "xcta": [
@@ -3425,7 +3425,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Meise Botanic Garden",
+      "description": "Z botanické zahrady v Meise",
       "background": "https://oxalis.br.fgov.be/images/BR0/000/080/019/305/BR0000080019305.jpg",
       "imageLicense": "[Persea schiedeana Nees](/specimen/search?entity=1840557924)",
       "xcta": [
@@ -3437,7 +3437,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Federal do Espírito Santo",
+      "description": "Z Federální univerzity Espírito Santo",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=s/sames/SAMES00959_1.JPG",
       "imageLicense": "[Aechmea blanchetiana (Baker) L.B.Sm.](/specimen/search?entity=2381366451)",
       "xcta": [
@@ -3521,7 +3521,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Moscow State University",
+      "description": "Z Moskevské státní univerzity",
       "background": "https://ib.komisc.ru/files/gbif/redbook2019/taxonid-ib-komisc-ru-redbook-2019_247_Polypodium_vulgare.png",
       "imageLicense": "[Polypodium vulgare L.](/specimen/search?entity=3320734788)",
       "xcta": [
@@ -3532,7 +3532,7 @@
       ]
     },
     {
-      "title": "Vertebrate Paleontology",
+      "title": "Paleontologie obratlovců",
       "description": "From Harvard University, Museum of Comparative Zoology",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/vertpaleo/ct_data/thumbnails/MCZ_VPRA-1063_Mystriosaurus_sp_OrbitalArteries_3d.jpg",
       "imageLicense": "[Macrospondylus Meyer, 1830](/specimen/search?entity=2461349604)",
@@ -3605,7 +3605,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From University of California",
+      "description": "Z Kalifornské univerzity",
       "background": "https://bisque.cyverse.org/image_service/image/00-TcFnkxVSRbn3DqugwDttPk/resize:4000/format:jpeg",
       "imageLicense": "[Mimetanthe pilosa (Benth.) Greene](/specimen/search?entity=3503191230)",
       "xcta": [
@@ -3640,7 +3640,7 @@
       ]
     },
     {
-      "title": "Mammalogy",
+      "title": "Savci",
       "description": "From Florida Museum of Natural History- Zoology, Paleontology & Paleobotany",
       "background": "https://www.morphosource.org/index.php/Detail/MediaDetail/Show/media_file_id/40585",
       "imageLicense": "[Cabassous chacoensis Wetzel, 1980](/specimen/search?entity=1638475731)",
@@ -3653,7 +3653,7 @@
     },
     {
       "title": "UMNH Herpetiles",
-      "description": "From Natural History Museum of Utah",
+      "description": "Z Přírodovědného muzea v Utahu",
       "background": "http://arctos.database.museum/media/10625239?open",
       "imageLicense": "[Chelodina oblonga Gray](/specimen/search?entity=1638483769)",
       "xcta": [
@@ -3666,12 +3666,12 @@
   ],
   "cta": [
     {
-      "text": "Explore collections",
+      "text": "Prozkoumejte sbírky",
       "isPrimary": true,
       "href": "/collection/search"
     },
     {
-      "text": "Explore specimens",
+      "text": "Prozkoumejte exempláře",
       "isPrimary": true,
       "href": "/cs-CZ/specimen/search"
     }
