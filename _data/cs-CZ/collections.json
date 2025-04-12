@@ -2896,7 +2896,7 @@
       ]
     },
     {
-      "title": "Cowan Tetrapod Collection",
+      "title": "Sbírka Cowan Tetrapod",
       "description": "Z Univerzity Britské Kolumbie",
       "background": "http://www.biodiversity.ubc.ca/ombirds/OMBIRDS/B016819/UBCBBM_CTC_B016819_3.jpg",
       "imageLicense": "[Geothlypis tolmiei (J.K.Townsend, 1839)](/specimen/search?entity=1291991147)",
@@ -3029,7 +3029,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Institute of Plant and Animal Ecology",
+      "description": "Z Ústavu ekologie rostlin a živočichů",
       "background": "https://ib.komisc.ru/files/gbif/redbook2019/taxonid-ib-komisc-ru-redbook-2019_059_Artomyces_cristatus.png",
       "imageLicense": "[Artomyces cristatus (Kauffman) Jülich](/specimen/search?entity=3320730727)",
       "xcta": [
@@ -3052,7 +3052,7 @@
       ]
     },
     {
-      "title": "UWYMV Bird specimens",
+      "title": "UWYMV Exempláře ptáků",
       "description": "Z Muzea obratlovců University of Wyoming",
       "background": "http://arctos.database.museum/media/10615461?open",
       "imageLicense": "[Bubo virginianus (J.F.Gmelin, 1788)](/specimen/search?entity=1837259772)",
@@ -3064,7 +3064,7 @@
       ]
     },
     {
-      "title": "DNA Bank Fish and Herptiles",
+      "title": "DNA banka ryb a plazů",
       "description": "Z Univerzity v Oslo",
       "background": "http://www.unimus.no/felles/bilder/web_hent_bilde.php?id=15512200&type=jpeg",
       "imageLicense": "[Triturus cristatus (Laurenti, 1768)](/specimen/search?entity=3451834305)",
@@ -3089,7 +3089,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Federal de Uberlândia",
+      "description": "Z Federální univerzity Uberlândia",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=h/hufu/90/HUFU00040590.jpg",
       "imageLicense": "[Mimosa radula Benth.](/specimen/search?entity=2996213608)",
       "xcta": [
@@ -3448,7 +3448,7 @@
       ]
     },
     {
-      "title": "The reptiles, amphibians and fishes collection (ZA) in the Comparative Anatomy Collection of the Muséum national d'Histoire naturelle (MNHN - Paris)",
+      "title": "Sbírka plazů, obojživelníků a ryb (ZA) ve Sbírce srovnávací anatomie Muséum national d'Histoire naturelle (MNHN - Paříž)",
       "description": "Z MNHN - Museum national d'Histoire naturelle",
       "background": "https://mediaphoto.mnhn.fr/media/1643887592593oFO48W1YT3LjVEB8",
       "imageLicense": "[Python sebae (Gmelin, 1789)](/specimen/search?entity=3464123301)",
@@ -3461,7 +3461,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Fundação Universidade Federal de Mato Grosso do Sul",
+      "description": "Z nadace Federální univerzity Mato Grosso do Sul",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=c/cgms/29_11_2017/CGMS004636.JPG",
       "imageLicense": "[Asteraceae](/specimen/search?entity=2995974695)",
       "xcta": [
@@ -3473,7 +3473,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Federal de Juiz de Fora",
+      "description": "Z Federální univerzity v Juiz de Fora",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=c/cesj/output_072018/0/1/50/87/CESJ015087_1.JPG",
       "imageLicense": "[Megalastrum crenulans (Fée) A.R.Sm. & R.C.Moran](/specimen/search?entity=2995838474)",
       "xcta": [
@@ -3485,7 +3485,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Canadian Museum of Nature",
+      "description": "Z Kanadského přírodovědného muzea",
       "background": "http://ipt.nature.ca/multimedia/253/876/CANM153152_y.jpg",
       "imageLicense": "[Lithothamnion glaciale Kjellman](/specimen/search?entity=2235727112)",
       "xcta": [
@@ -3497,7 +3497,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Tecnológica Federal do Paraná",
+      "description": "Z Federální technické univerzity v Paraná",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=h/hcf/NOVAS2019-4/HCF000030624(1).JPG",
       "imageLicense": "[Steinchisma laxum (Sw.) Zuloaga](/specimen/search?entity=2996410684)",
       "xcta": [
@@ -3509,7 +3509,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade de Brasília",
+      "description": "Z univerzity v Brasílii",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=u/ub/HerbarioUB/UB/0/0/36/36/UB0003636.JPG",
       "imageLicense": "[Butia capitata (Mart.) Becc.](/specimen/search?entity=2996875321)",
       "xcta": [
@@ -3533,7 +3533,7 @@
     },
     {
       "title": "Paleontologie obratlovců",
-      "description": "From Harvard University, Museum of Comparative Zoology",
+      "description": "Z Harvardské univerzity, Muzeum srovnávací zoologie",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/vertpaleo/ct_data/thumbnails/MCZ_VPRA-1063_Mystriosaurus_sp_OrbitalArteries_3d.jpg",
       "imageLicense": "[Macrospondylus Meyer, 1830](/specimen/search?entity=2461349604)",
       "xcta": [
@@ -3545,7 +3545,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Estadual de Maringá",
+      "description": "Ze Státní univerzity v Maringé",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=h/huem/0/0/0/88/HUEM000000088.JPG",
       "imageLicense": "[Thunbergia Retz.](/specimen/search?entity=2996262166)",
       "xcta": [
@@ -3557,7 +3557,7 @@
     },
     {
       "title": "Entomologie",
-      "description": "From Frost Entomological Museum, Penn State University",
+      "description": "Z Frost Entomological Museum, Penn State University",
       "background": "https://scan-bugs.org:443/imglib/scan/PSUC_ENTO/00000/IMG_9916_1557236681.jpg",
       "imageLicense": "[Callirhytis Förster, 1869](/specimen/search?entity=2274097120)",
       "xcta": [
@@ -3568,8 +3568,8 @@
       ]
     },
     {
-      "title": "Arizona State University Ichthyology Collection",
-      "description": "From Arizona State University Biocollections",
+      "title": "Ichtyologická sbírka Arizonské státní univerzity",
+      "description": "Z biosbírek Arizonské státní univerzity",
       "background": "https://csvcoll.org/imglib/verte/ASU_ASUFIC/ASUFIC007/ASUFIC007087_1612371538_lg.jpg",
       "imageLicense": "[Ptychocheilus lucius Girard, 1856](/specimen/search?entity=2866766927)",
       "xcta": [
@@ -3581,7 +3581,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade Federal de Rondônia",
+      "description": "Z Federální univerzity Rondônia",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=r/ron/UDPATE-11-05-2017/RON0005362.jpg",
       "imageLicense": "[Myrcia bracteata (Rich.) DC.](/specimen/search?entity=2998102798)",
       "xcta": [
@@ -3593,7 +3593,7 @@
     },
     {
       "title": "Ryby",
-      "description": "From University of Texas at El Paso Biodiversity Collections",
+      "description": "Ze sbírek biodiverzity Texaské univerzity v El Pasu",
       "background": "http://arctos.database.museum/media/10497849?open",
       "imageLicense": "[Lepomis cyanellus Rafinesque, 1819](/specimen/search?entity=1323895182)",
       "xcta": [
@@ -3617,7 +3617,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Pontifícia Universidade Católica do Paraná",
+      "description": "Z Papežské katolické univerzity v Paraná",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=h/hucp/HUCP000159.JPG",
       "imageLicense": "[Asplenium martianum C.Chr.](/specimen/search?entity=2995834744)",
       "xcta": [
@@ -3629,7 +3629,7 @@
     },
     {
       "title": "Herbář",
-      "description": "From Universidade do Estado de Santa Catarina",
+      "description": "Ze Státní univerzity v Santa Catarině",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=l/lusc/0-5000/LUSC005645.jpg",
       "imageLicense": "[Paspalum pumilum Nees](/specimen/search?entity=2995985072)",
       "xcta": [
@@ -3641,7 +3641,7 @@
     },
     {
       "title": "Savci",
-      "description": "From Florida Museum of Natural History- Zoology, Paleontology & Paleobotany",
+      "description": "Z Florida Museum of Natural History- Zoologie, paleontologie a paleobotanika",
       "background": "https://www.morphosource.org/index.php/Detail/MediaDetail/Show/media_file_id/40585",
       "imageLicense": "[Cabassous chacoensis Wetzel, 1980](/specimen/search?entity=1638475731)",
       "xcta": [
@@ -3652,7 +3652,7 @@
       ]
     },
     {
-      "title": "UMNH Herpetiles",
+      "title": "UMNH Herpetologie",
       "description": "Z Přírodovědného muzea v Utahu",
       "background": "http://arctos.database.museum/media/10625239?open",
       "imageLicense": "[Chelodina oblonga Gray](/specimen/search?entity=1638483769)",
