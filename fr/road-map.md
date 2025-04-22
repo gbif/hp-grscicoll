@@ -34,19 +34,19 @@ Nous apporterions aussi notre support à ceux qui souhaiteraient organiser une f
 
 ## 4.   Facilitate linking literature to GRSciColl
 
-A lot of the GRSciColl content is not standardized and lives in various free text fields. For example, many entomology collections can only be found by using a combination of keywords like “entomology” and “insect” in free text searches.
+Une grande partie du contenu du GRSciColl n'est pas standardisé et est présent dans de nombreux champs de texte libre. Par exemple, beaucoup de collections d'entomologie ne peuvent être recherchées que par la combinaison de plusieurs mots-clés tels que "entomologie" et "insecte" dans les barres de recherche de texte libre.
 
-With the help of the relevant communities, we would like to identify collections that belong to defined disciplines and topics and make them discoverable by adding relevant collection descriptors. Examples of such collections would be entomology, mammalogy, phycology and ornithology collections.
+Grâce à l'aide des communautés concernées, nous souhaitons identifier les collections qui appartiennent à des didsciplines et sujets définis et les rendre accessibles en ajoutant les descripteurs de collection appropriés. Voici quelques exemples de telles collections : entomologie, mammalogie, phycologie et ornithologie.
 
-One avenue to explore to improve the representation of these collections is to extract collections mentioned in publications such as this one: https://doi.org/10.1643/ASIHCODONS2020.
+Une piste d'amélioration de la représentation de telles collections est d'extraire les collections mentionnées dans les publications comme celle-ci : https://doi.org/10.1643/ASIHCODONS2020.
 
-Alongside this work, we would implement a vocabulary for the Latimer Core term objectClassificationName most likely based on the topics developed by DISSCO (see also this GitHub issue: https://github.com/gbif/vocabulary/issues/157).
+En parallèle de ce travail, nous implémenterons un vocabulaire pour le terme Latimer Core objectClassificationName basé sur les éléments développés par DISSCO (voir également ce besoin GitHub : https://github.com/gbif/vocabulary/issues/157).
 
-## 4.   Facilitate linking literature to GRSciColl
+## 4.   Facilitation de la mise en lien de la littérature à GRSciColl
 
-Collections are often cited in publications but not always in a standardized manner. It might later be difficult to link a collection to its citation.
+Les collections sont souvent citées dans des publications mais pas toujours de façon standardisée. Cela peut rendre difficile la mise en lien tardive entre une collection et sa citation.
 
-We will work with the community and journals, when possible, to agree on best practice for citation of collections. The goal is to facilitate citing a collection and linking specimens coming from PLAZI processed publications to GRSciColl.
+Nous allons travailler avec la communauté et les journaux, autant que possible, afin de constituer les bonnes pratiques pour la citation de collections. Le but est de faciliter la citation d'une collection et la mise en lien des spécimens provenant des publications traitées par PLAZI au GRSciColl.
 
-A second aspect of this work will be to set up guidelines for institutions who wish to share bibliographic references and citations of their collections on GRSciColl.
+Un second aspect de ce travail est de mettre en places des recommandations pour les institutions qui souhaitent partager des références bibliographiques et des citations de leurs collections sur GRSciColl.
 
