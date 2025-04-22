@@ -1,74 +1,74 @@
 {
-  "title": "Featured collections and specimens",
+  "title": "Collections et spécimens mis en valeurs",
   "features": [
     {
       "title": "Herbario Jardín Botánico de Cartagena",
-      "description": "From the Botanical Garden of Cartagena “Guillermo Piñeres”",
+      "description": "Du Jardin Botanique de Carthagène \"Guillermo Piñeres\"",
       "background": "/assets/images/cropped_mircochilus.jpg",
-      "imageLicense": " [Microchilus madrinanii Ormerod](https://scientific-collections.gbif.org/specimen/search?entity=4139006064&taxonKey=5315085&view=TABLE) collected in Colombia by Jardín Botánico de Cartagena (licensed under http://creativecommons.org/licenses/by-nd/4.0/)",
+      "imageLicense": " [Microchilus madrinanii Ormerod](https://scientific-collections.gbif.org/specimen/search?entity=4139006064&taxonKey=5315085&view=TABLE) récolté en Colombie au Jardín Botánico de Cartagena (license sous http://creativecommons.org/licenses/by-nd/4.0/)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889"
         }
       ],
       "href": "/collection/d22c2d2c-43d9-4a66-8b7a-01fc7d4bc889"
     },
     {
-      "title": "The Coleoptera collection",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "title": "La collection Coléoptères",
+      "description": "Du MNHN - Museum national d'Histoire naturelle",
       "background": "https://mediaphoto.mnhn.fr/media/1637846993177lDX4RVPIoTgOc0GX",
       "imageLicense": "[Strategus aloeus (Linnaeus, 1758)](/specimen/search?entity=3411207309)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/1f542e62-4800-4d7a-b393-399487b72929"
         }
       ],
       "href": "/collection/1f542e62-4800-4d7a-b393-399487b72929"
     },
     {
-      "title": "Herbarium",
-      "description": "From Quaid-I-Azam University",
+      "title": "Herbier",
+      "description": "De l'université Quaid-i-Azam",
       "background": "https://openherbarium.org:443/imglib/openmuseum/QAU_ISL/ISL0000/ISL0000005_1523068157_lg.jpg",
       "imageLicense": "[Ochthochloa compressa (Forssk.) Hilu](/specimen/search?entity=1890156002)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/af8d2bb1-08c0-401b-8ed0-01a3f7da3f41"
         }
       ],
       "href": "/collection/af8d2bb1-08c0-401b-8ed0-01a3f7da3f41"
     },
     {
-      "title": "NHMD Entomology",
-      "description": "From Natural History Museum of Denmark",
+      "title": "NHMD Entomologie",
+      "description": "Du Museum d'Histoire Naturelle du Danemark",
       "background": "https://specify-attachments.science.ku.dk/static/NHMD_Entomology/originals/sp64882253855935359653.att.jpg",
       "imageLicense": "[Cephalops argutus (Hardy, 1968)](/specimen/search?entity=3458627549)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/1caa6488-5c47-4bed-8258-23155b269bd3"
         }
       ],
       "href": "/collection/1caa6488-5c47-4bed-8258-23155b269bd3"
     },
     {
-      "title": "Entomology (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Entomologie (USNM)",
+      "description": "De la Smithsonian Institution, Musée national d'histoire naturelle des États-Unis",
       "background": "http://n2t.net/ark:/65665/m3410a0071-af64-422f-9aa6-a6a893dc718b",
       "imageLicense": "[Hylocurosoma adustus Eggers, 1943](/specimen/search?entity=1320615198)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/ac7b18e8-e231-4e03-bea6-575fc6023ac4"
         }
       ],
       "href": "/collection/ac7b18e8-e231-4e03-bea6-575fc6023ac4"
     },
     {
-      "title": "Herbarium",
-      "description": "From Anton de Kom University of Suriname",
+      "title": "Herbier",
+      "description": "De l'Université du Suriname Anton-de-Kom",
       "background": "https://ia801503.us.archive.org/15/items/bbs-dataset202201/BBS0002048.jpg",
       "imageLicense": "[Tabernaemontana heterophylla Vahl](/specimen/search?entity=3699023535)",
       "xcta": [
