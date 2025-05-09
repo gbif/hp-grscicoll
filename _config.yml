@@ -101,6 +101,7 @@ exclude:
   - zh/
   - ar/
   - zh-tw/
+  - cs-CZ/
 
 permalink: pretty # will strip extensions like .html from urls
 
