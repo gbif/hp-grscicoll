@@ -1,36 +1,207 @@
-var siteTheme = gbifReactComponents.themeBuilder.extend({
-  baseTheme: 'light', extendWith: {
-    primary: themeStyle.colors.primary,
-    linkColor: themeStyle.colors.links,
-    fontSize: '16px'
-  }
-});
-
-
 var siteConfig = {
-  version: 2,
-  routes: {
-    alwaysUseHrefs: true, // Update - there now is translations. since the site isn't translated we can use push for now. if true, then we will always use hrefs, if false we will use onClick events and push state to the history. I've added this because I just realize that the language picker doesn't work with pushState as the url of the translated site is not updated with the new url
-    enabledRoutes: ['occurrenceSearch', 'collectionSearch', 'collectionKey', 'institutionSearch', 'institutionKey'],
-    occurrenceSearch: {
-      route: '/specimen/search'
+  "version": 3,
+  "pages": [
+    {
+      "id": "occurrenceSearch",
+      "path": "specimen/search"
+    },
+    {
+      "id": "collectionSearch"
+    },
+    {
+      "id": "collectionKey"
+    },
+    {
+      "id": "institutionSearch"
+    },
+    {
+      "id": "institutionKey"
+    }
+  ],
+  "disableInlineTableFilterButtons": false,
+  "availableCatalogues": [
+    "OCCURRENCE",
+    "COLLECTION",
+    "INSTITUTION"
+  ],
+  "dataHeader": {
+    "enableApiPopup": true,
+    "enableInfoPopup": true
+  },
+  "theme": {
+    "primary": "#538e91",
+    "borderRadius": 0,
+    "stickyOffset": "0px"
+  },
+  "apiKeys": {
+    "maptiler": "wFxbBf3Tv2e75QQfYOOW",
+    "mapbox": "pk.eyJ1IjoiZ2JpZiIsImEiOiJja3VmZm50Z3kxcm1vMnBtdnBmeGd5cm9hIn0.M2z2n9QP9fRHZUCw9vbgOA"
+  },
+  "maps": {
+    "mapStyles": {
+      "defaultProjection": "MERCATOR",
+      "defaultMapStyle": "BRIGHT",
+      "options": {
+        "ARCTIC": [
+          "NATURAL",
+          "BRIGHT"
+        ],
+        "PLATE_CAREE": [
+          "NATURAL",
+          "BRIGHT",
+          "DARK"
+        ],
+        "MERCATOR": [
+          "NATURAL",
+          "BRIGHT",
+          "SATELLITE",
+          "DARK"
+        ],
+        "ANTARCTIC": [
+          "NATURAL",
+          "BRIGHT",
+          "DARK"
+        ]
+      }
     }
   },
-  occurrence: {
-    excludedFilters: ['occurrenceStatus', 'networkKey', 'hostingOrganizationKey', 'protocol', 'publishingCountryCode', 'institutionCode', 'collectionCode'],
-    highlightedFilters: ['taxonKey', 'verbatimScientificName', 'institutionKey', 'collectionKey', 'catalogNumber', 'recordedBy', 'identifiedBy'],
-    defaultTableColumns: ['features', 'institutionKey', 'collectionKey', 'catalogNumber', 'country', 'year', 'recordedBy', 'identifiedBy'],
-    availableCatalogues: ['INSTITUTION', 'COLLECTION', 'OCCURRENCE'],
-    mapSettings: {
-      lat: 0,
-      lng: 0,
-      zoom: 0
+  "languages": [
+    {
+      "code": "en",
+      "localeCode": "en",
+      "label": "English",
+      "default": true,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
     },
-    // You probably need help to configure the scope - so just ask
-    // for his demo site we only show Fungi (taxonKey=5). It use the predicate structure known from GBIF download API. 
-    // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
-    // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE. 
-    rootPredicate: {
+    {
+      "code": "es",
+      "localeCode": "es",
+      "label": "Español",
+      "default": false,
+      "textDirection": "ltr",
+      "cmsLocale": "es",
+      "vocabularyLocale": "es-ES",
+      "iso3LetterCode": "spa",
+      "gbifOrgLocalePrefix": "/es",
+      "grSciCollLocalePrefix": "/es",
+      "mapTileLocale": "es"
+    },
+    {
+      "code": "it",
+      "localeCode": "en",
+      "label": "English",
+      "default": false,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    },
+    {
+      "code": "ru",
+      "localeCode": "en",
+      "label": "English",
+      "default": false,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    },
+    {
+      "code": "ar",
+      "localeCode": "ar",
+      "label": "العربية",
+      "default": false,
+      "textDirection": "ltr",
+      "reactIntlLocale": "ar-SA",
+      "iso3LetterCode": "ara",
+      "gbifOrgLocalePrefix": "/ar",
+      "grSciCollLocalePrefix": "",
+      "mapTileLocale": "ar"
+    },
+    {
+      "code": "fr",
+      "localeCode": "fr",
+      "label": "Français",
+      "default": false,
+      "textDirection": "ltr",
+      "cmsLocale": "fr",
+      "iso3LetterCode": "fra",
+      "vocabularyLocale": "fr-FR",
+      "gbifOrgLocalePrefix": "/fr",
+      "grSciCollLocalePrefix": "",
+      "mapTileLocale": "fr"
+    },
+    {
+      "code": "zh",
+      "localeCode": "en",
+      "label": "English",
+      "default": false,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    },
+    {
+      "code": "zh-tw",
+      "localeCode": "en",
+      "label": "English",
+      "default": false,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    },
+    {
+      "code": "ja",
+      "localeCode": "en",
+      "label": "English",
+      "default": false,
+      "textDirection": "ltr",
+      "iso3LetterCode": "eng",
+      "cmsLocale": "en-GB",
+      "gbifOrgLocalePrefix": "",
+      "mapTileLocale": "en"
+    }
+  ],
+  "messages": {
+    "en": {
+      "catalogues.occurrences": "Specimens"
+    },
+    "es": {
+      "catalogues.occurrences": "Specimens"
+    },
+    "it": {
+      "catalogues.occurrences": "Specimens"
+    },
+    "ru": {
+      "catalogues.occurrences": "Specimens"
+    },
+    "ar": {
+      "catalogues.occurrences": "Specimens"
+    },
+    "fr": {
+      "catalogues.occurrences": "Specimens"
+    },
+    "zh": {
+      "catalogues.occurrences": "Specimens"
+    },
+    "zh-tw": {
+      "catalogues.occurrences": "Specimens"
+    },
+    "ja": {
+      "catalogues.occurrences": "Specimens"
+    }
+  },
+  "occurrenceSearch": {
+    "scope": {
       "type": "and",
       "predicates": [
         {
@@ -59,43 +230,62 @@ var siteConfig = {
         }
       ]
     },
-    occurrenceSearchTabs: ['TABLE', 'GALLERY', 'MAP', 'CLUSTERS', 'DASHBOARD'] // what tabs should be shown
-    // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
-  },
-  collection: {
-    excludedFilters: ['typeStatus'],
-    rootFilter: {
-      displayOnNHCPortal: true
+    "highlightedFilters": [
+      "taxonKey",
+      "verbatimScientificName",
+      "institutionKey",
+      "collectionKey",
+      "catalogNumber",
+      "recordedBy",
+      "identifiedBy"
+    ],
+    "excludedFilters": [
+      "occurrenceStatus",
+      "networkKey",
+      "hostingOrganizationKey",
+      "protocol",
+      "publishingCountry",
+      "institutionCode",
+      "collectionCode"
+    ],
+    "defaultEnabledTableColumns": [
+      "features",
+      "institutionKey",
+      "collectionKey",
+      "catalogNumber",
+      "country",
+      "year",
+      "recordedBy",
+      "identifiedBy"
+    ],
+    "tabs": [
+      "table",
+      "gallery",
+      "map",
+      "clusters",
+      "dashboard",
+      "download"
+    ],
+    "mapSettings": {
+      "lat": 0,
+      "lng": 0,
+      "zoom": 0
     }
   },
-  institution: {
-    rootFilter: {
-      displayOnNHCPortal: true
+  "collectionSearch": {
+    "scope": {
+      "displayOnNHCPortal": true
     },
-    mapSettings: {
-      enabled: true,
-      lat: 0,
-      lng: 0,
-      zoom: 1
-    },
+    "excludedFilters": [
+      "typeStatus"
+    ]
   },
-  apiKeys: {
-    maptiler: "wFxbBf3Tv2e75QQfYOOW",
-    mapbox: "pk.eyJ1IjoiZ2JpZiIsImEiOiJja3VmZm50Z3kxcm1vMnBtdnBmeGd5cm9hIn0.M2z2n9QP9fRHZUCw9vbgOA"
-  },
-  availableCatalogues: ['OCCURRENCE', 'COLLECTION', 'INSTITUTION'],
-  maps: {
-    // locale: 'ja',
-    defaultProjection: 'MERCATOR',
-    defaultMapStyle: 'BRIGHT',
-    mapStyles: {
-      ARCTIC: ['NATURAL', 'BRIGHT'],
-      PLATE_CAREE: ['NATURAL', 'BRIGHT', 'DARK'],
-      MERCATOR: ['NATURAL', 'BRIGHT', 'SATELLITE', 'DARK'],
-      ANTARCTIC: ['NATURAL', 'BRIGHT', 'DARK']
+  "institutionSearch": {
+    "scope": {
+      "displayOnNHCPortal": true
     }
   },
-  messages: {
-    "catalogues.occurrences": "Specimens"
-  }
+  "datasetSearch": {},
+  "publisherSearch": {},
+  "literatureSearch": {}
 };
