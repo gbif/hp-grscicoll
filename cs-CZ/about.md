@@ -29,7 +29,7 @@ Většina informací o institucích a sbírkách obsažených v GRSciColl pochá
 
 ### Jak to všechno začalo
 
-GRSciColl, původně vytvořený (jako GBIF) pod záštitou [OECD Global Science Forum](http://www.oecd.org/sti/sci-tech/oecdglobalscienceforum.htm), byl původně vyvinut organizací [Consortium of the Barcode of Life (CBOL)](https://www.gbif.org/participant/287) a hostovaný do roku 2018 na [Smithsonian Institution](https://www.si.edu).
+GRSciColl, původně vytvořený (podobně jako GBIF) pod záštitou [OECD Global Science Forum](http://www.oecd.org/sti/sci-tech/oecdglobalscienceforum.htm), byl původně vyvinut organizací [Consortium of the Barcode of Life (CBOL)](https://www.gbif.org/participant/287) a hostovaný do roku 2018 na [Smithsonian Institution](https://www.si.edu).
 
 > Schindel DE, Miller SE, Trizna MG, Graham E, Crane AE (2016) The Global Registry of Biodiversity Repositories: A Call for Community Curation. Biodiversity Data Journal 26(4): e10293. https://doi.org/10.3897/BDJ.4.e10293
 
