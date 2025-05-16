@@ -24,7 +24,7 @@ Ce travail avec les plateformes existantes peut inclure :
 - Mettre en place des connexions pour que ces plateformes puissent devenir les source de données (master source) pour les entrées de GRSciColl,
 - Aider à l'import et la misse à jour en masse de GRSciColl basé sur ces sources.
 
-## 4.   Facilitate linking literature to GRSciColl
+## 4.   Facilitation de la mise en lien de la littérature à GRSciColl
 
 Le secrétariat du GBIF, en collaboration avec notre communauté, est en train de développer un module de formation pour les éditeurs de GRSciColl. Ce module a pour but de couvrir tout ce dont un éditeur national de GRSciColl aurait besoin pour maintenir et éditer le contenu de GRSciColl.
 
