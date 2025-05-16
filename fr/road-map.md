@@ -32,7 +32,7 @@ Le but est d'organiser au moins une formation en ligne en 2025.
 
 Nous apporterions aussi notre support à ceux qui souhaiteraient organiser une formation or une session d'édition de données basée sur le contenu de ce module.
 
-## 4.   Facilitate linking literature to GRSciColl
+## 4.   Facilitation de la mise en lien de la littérature à GRSciColl
 
 Une grande partie du contenu du GRSciColl n'est pas standardisé et est présent dans de nombreux champs de texte libre. Par exemple, beaucoup de collections d'entomologie ne peuvent être recherchées que par la combinaison de plusieurs mots-clés tels que "entomologie" et "insecte" dans les barres de recherche de texte libre.
 
