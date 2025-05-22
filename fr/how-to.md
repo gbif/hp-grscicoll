@@ -23,48 +23,48 @@ Vous pouvez suggérer ou ajouter une collection ou institution ici:
 
 [Ajouter Nouvelle Collection](https://registry.gbif.org/collection/create){: .button .is-primary}
 
-Peu de champs sont obligatoires lors de la création de nouvelles entrées dans GRSciColl. However, we really appreciate if you could provide the address for the entry you created (especially the country).
+Peu de champs sont obligatoires lors de la création de nouvelles entrées dans GRSciColl. Toutefois, cela serait apprécié si vous pouviez fournir l'adresse de l'entrée que vous avez créé (en particulier le pays).
 
-See also this short video tutorial:
+Voir également ce court tutoriel vidéo:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977782?h=fb1d926798" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-If you can't access Vimeo in your country, [here](https://www.youtube.com/watch?v=R6ftJ61oOn4) is the YouTube video
+Si vous ne pouvez pas accéder à Vimeo depuis votre pays, vous trouverez [ici](https://www.youtube.com/watch?v=R6ftJ61oOn4) la vidéo YouTube
 
-## How to edit a GRSciColl collection or institution
+## Comment éditer une collection ou une institution GRSciColl
 
-There are three ways to update information on GRSciColl:
-* you can suggest a change
-* you can become an editor
-* you can import data
+Il y a trois façons pour mettre à jour des informations sur GRSciColl:
+* vous pouvez suggérer un changement
+* vous pouvez devenir un éditeur, une éditrice
+* vous pouvez importer des données
 
-See also this short video tutorial:
+Voir également ce court tutoriel vidéo:
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/649977825?h=a0068cfcd8" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
-If you can't access Vimeo in your country, [here](https://www.youtube.com/watch?v=rgMQK9qFVfs) is the YouTube video
+Si vous ne pouvez pas accéder à Vimeo depuis votre pays, vous trouverez [ici](https://www.youtube.com/watch?v=R6ftJ61oOn4) la vidéo YouTube
 
-### Suggest a change
+### Suggérer une modification
 
-Anyone can suggest changes by clicking on any GRSciColl entry, then:
-* Click on `Edit`
-* Click on the `Suggest` toggle button
-* Make your suggestion and leave your email address and a comment
+Quiconque peut suggérer des changements en cliquant sur une entrée GRSciColl, puis sur:
+* Cliquer sur `Éditer`
+* Cliquez sur le bouton `Suggérer`
+* Faites votre suggestion et inscrivez votre adresse e-mail et un commentaire
 
-You can also suggest adding new entries, merging duplicates and transforming institution entries into collections.
+Vous pouvez également suggérer l'ajout de nouvelles entrées, la fusion de doublons et la conversion d'institutions en collections.
 
-The suggestion will be reviewed by institutional editors, country editors or GBIF Staff depending on the entry edited.
+Votre suggestion sera révisée par des éditeurs, éditrices institutionnelles, nationales ou par l'équipe de GBIF selon l'entrée que vous avez édité.
 
-### Become editor
+### Devenir un éditeur, une éditrice
 
-There are two types of editors in GRSciColl: editors and mediators. Both can edit data on GRSciColl and review changes but only mediators can delete, merge and transform entries. An editor (or mediator) can be given the permissions to edit:
-* one or several collections
-* one or several institutions (and their associated collections)
-* one or several countries (and their associated institutions and collections)
+Il y a deux sortes d'éditeur.ice.s de GRSciColl: éditeur.ice et médiateur.ice. Tout deux peuvent éditer des données sur GRSciColl et réviser les changements mais seul.e.s les médiateur.ice.s peuvent supprimer, fusionner et convertir des entrées. Un.e éditeur.ice (ou médiateur.ice) peut recevoir la permission pour éditer:
+* une ou plusieurs collections
+* une ou plusieurs institutions (et leurs collections respectives)
+* un ou plusieurs pays (et leurs institutions et collections respectives)
 
-To become a GRSciColl editor, you will need to have a [GBIF user account](https://www.gbif.org/user/profile) associated with your institutional email address. Please send us an email at scientific-collections@gbif.org to notify us that you would like to become an editor.
+Pour devenir un.e éditeur.ice GRSciColl, vous aurez besoin d'avoir un [compte d'utilisateur.ice GBIF](https://www.gbif.org/user/profile) associé à votre adresse email institutionnelle. Veuillez envoyer un e-mail à scientific-collections@gbif.org pour nous informer de votre souhait de devenir un.e éditeur.ice.
 
-### Import data
+### Importer des données
 
-The [GBIF Collections API](https://www.gbif.org/developer/registry#collections) allows for editing without going through the web interface. The API also has an experimental feature to upload batches of collection and institutions. See the documentation [here](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
+L'[API des collections GBIF](https://www.gbif.org/developer/registry#collections) permet d'éditer des entrées sans nécessiter l'interface web. The API also has an experimental feature to upload batches of collection and institutions. See the documentation [here](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
 
 If you are interested in using the API for editing GRSciColl, the permission system and requirements are the same as for becoming an editor.
 
