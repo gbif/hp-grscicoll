@@ -146,7 +146,7 @@
     },
     {
       "title": "Coraux",
-      "description": "From Queensland Museum",
+      "description": "Du Queensland Museum",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=c881351c-1048-401c-8522-c23b52f11fcc",
       "imageLicense": "[Acropora austera (Dana, 1846)](/specimen/search?entity=1066238009)",
       "xcta": [
@@ -161,7 +161,7 @@
   "other": [
     {
       "title": "Herbarium",
-      "description": "From Embrapa",
+      "description": "D'Embrapa",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=e/ect/ECT-output_112018/ECT0004045_02.JPG",
       "imageLicense": "[Butia exilata Deble & Marchiori](/specimen/search?entity=2302317770)",
       "xcta": [
@@ -173,7 +173,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From Universidade do Estado de Santa Catarina",
+      "description": "De l'Université de l'état de Santa Catarina",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=l/lusc/0-5000/LUSC005645.jpg",
       "imageLicense": "[Paspalum pumilum Nees](/specimen/search?entity=2995985072)",
       "xcta": [
@@ -185,7 +185,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "description": "Du MNHN - Museum national d'Histoire naturelle",
       "background": "http://mediaphoto.mnhn.fr/media/1441446146812wLrrt8fL7OZjCmst",
       "imageLicense": "[Euonymus europaeus L.](/specimen/search?entity=731395725)",
       "xcta": [
@@ -221,7 +221,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From Meise Botanic Garden",
+      "description": "Du Jardin botanique de Meise",
       "background": "https://oxalis.br.fgov.be/images/BR0/000/025/155/761/BR0000025155761.jpg",
       "imageLicense": "[Eragrostis prolifera (Sw.) Steud.](/specimen/search?entity=2243286271)",
       "xcta": [
@@ -233,7 +233,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From Royal Botanic Gardens",
+      "description": "Des Jardins botaniques Royaux",
       "background": "http://www.kew.org/herbcatimg/724432.jpg",
       "imageLicense": "[Chloris pilosa Schumach.](/specimen/search?entity=912080028)",
       "xcta": [
@@ -245,7 +245,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From Harvard University",
+      "description": "De l'Université de Harvard",
       "background": "http://data.huh.harvard.edu/3d90c55b-9127-4533-8d47-13f5f66f0a04/image",
       "imageLicense": "[Rumex maritimus subsp. fueginus (Phil.) Dusén](/specimen/search?entity=3414381324)",
       "xcta": [
@@ -257,7 +257,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From University of Michigan",
+      "description": "De l'Université du Michigan",
       "background": "https://quod.lib.umich.edu/cgi/i/image/api/image/herb00ic:1382126:MICH-V-1382126/full/res:0/0/native.jpg",
       "imageLicense": "[Carex pauciflora Lightf.](/specimen/search?entity=1988815740)",
       "xcta": [
@@ -268,8 +268,8 @@
       ]
     },
     {
-      "title": "Vertebrate Zoology, Mammals (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Zoologie des vertébrés, Mammifères (USNM)",
+      "description": "De la Smithsonian Institution, Musée national d'histoire naturelle des États-Unis",
       "background": "http://n2t.net/ark:/65665/m333459927-c900-410c-a22a-9a2331852408",
       "imageLicense": "[Gerbillus Desmarest, 1804](/specimen/search?entity=1320811643)",
       "xcta": [
@@ -280,8 +280,8 @@
       ]
     },
     {
-      "title": "Vertebrate Zoology, Birds (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Zoologie des vertébrés, Oiseaux (USNM)",
+      "description": "De la Smithsonian Institution, Musée national d'histoire naturelle des États-Unis",
       "background": "http://n2t.net/ark:/65665/m3e0f5930e-5724-4b11-82c4-63febadd7b78",
       "imageLicense": "[Parus atricapillus Linnaeus, 1766](/specimen/search?entity=1317961151)",
       "xcta": [
@@ -292,8 +292,8 @@
       ]
     },
     {
-      "title": "Snow Entomological Museum Collection",
-      "description": "From University of Kansas, Biodiversity Institute and Natural History Museum",
+      "title": "Collection du musée entomologique de Snow",
+      "description": "De l'Université du Kansas, Institut de biodiversité et Museum d'histoire naturelle",
       "background": "http://biimages.biodiversity.ku.edu/static/Entomology/originals/sp63813142377676678698.att.JPG",
       "imageLicense": "[Berosus Leach, 1817](/specimen/search?entity=1269809045)",
       "xcta": [
@@ -305,7 +305,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From Royal Botanic Gardens & Domain Trust",
+      "description": "Des Jardins botaniques Royaux et du Domain Trust",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=31dd1cbf-f19d-4b19-894e-9f20cffe0ba4",
       "imageLicense": "[Nymphoides montana Aston](/specimen/search?entity=2827822695)",
       "xcta": [
@@ -317,7 +317,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From Real Jardín Botánico (CSIC)",
+      "description": "Du Jardin botanique royal (CSIC)",
       "background": "http://161.111.171.57/fcgi-bin/iipsrv.fcgi?FIF=/Catalogo/Fanerogamia/IMGS_web/IMGS_jp2/MA-01-00579012.jp2&WID=2200&QLT=40&CVT=jpeg",
       "imageLicense": "[Diplacrum longifolium (Griseb.) C.B.Clarke](/specimen/search?entity=1936505906)",
       "xcta": [
@@ -328,8 +328,8 @@
       ]
     },
     {
-      "title": "Observation records of the Natural History Museum Rotterdam",
-      "description": "From Natural History Museum Rotterdam",
+      "title": "Données d'observation du Museum d'histoire naturelle de Rotterdam",
+      "description": "Du Muséum d'Histoire Naturelle de Rotterdam",
       "background": "https://www.nmr-pics.nl/PICTURES/voornesduin2.jpg",
       "imageLicense": "[Agrochola lota (Clerck, 1759)](/specimen/search?entity=768241095)",
       "xcta": [
@@ -376,7 +376,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From Harvard University, Museum of Comparative Zoology",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/entomology/thumbnails/MCZ-ENT00767405_Ennomos_subsignaria_lbs.jpg",
       "imageLicense": "[Ennomos subsignaria Hübner, 1818-1823](/specimen/search?entity=3329079312)",
@@ -508,7 +508,7 @@
       ]
     },
     {
-      "title": "Botany",
+      "title": "Botanique",
       "description": "From Peabody Museum of Natural History",
       "background": "https://images.collections.yale.edu/iiif/2/ypm:2fbac234-e0c6-4b29-9d74-2c55ff8e8a9f/full/full/0/default.jpg",
       "imageLicense": "[Euosmolejeunea duriuscula A.Evans](/specimen/search?entity=1805438952)",
@@ -532,7 +532,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Canadian Museum of Nature",
       "background": "http://ipt.nature.ca/multimedia/69/335/CAN10024608.jpg",
       "imageLicense": "[Salix arctica Pall.](/specimen/search?entity=1804458960)",
@@ -544,7 +544,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Utah State University",
       "background": "http://swbiodiversity.org/imglib/intermt/specimens/UTC00247/UTC00247269_big_lg.jpg",
       "imageLicense": "[Dicranum scoparium Hedwig, 1801](/specimen/search?entity=1994031098)",
@@ -568,7 +568,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Acadia University",
       "background": "http://procyon.acadiau.ca/ecsmith/cgi-bin/image.cgi?51248,jpeg",
       "imageLicense": "[Gaylussacia baccata (Wangenh.) K.Koch](/specimen/search?entity=1807239505)",
@@ -595,7 +595,7 @@
       "title": "CAS Botany",
       "description": "From California Academy of Sciences",
       "background": "http://ibss-images.calacademy.org:80/static/botany/originals/62/41/62419520-409e-4f76-be0d-62932f35d6f4.jpg",
-      "imageLicense": "[Pachyphytum brevifolium Rose](/specimen/search?entity=2006018309)",
+      "imageLicense": "[Pachyphytum brevifolium Rose](/specimen/search?entity=2006018309)\n",
       "xcta": [
         {
           "text": "Plus",
@@ -616,7 +616,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From California Botanic Garden",
       "background": "https://bisque.cyverse.org/image_service/image/00-Pj6k3qeRaTSahgSyyEy5JA/resize:4000/format:jpeg",
       "imageLicense": "[Astragalus sclerocarpus A.Gray](/specimen/search?entity=2989945851)",
@@ -628,7 +628,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Harvard University",
       "background": "http://data.huh.harvard.edu/4d0e5acf-3e48-4a7c-8de4-fc93a7faba99/image",
       "imageLicense": "[Graphorkis lurida (Sw.) Kuntze](/specimen/search?entity=3828128336)",
@@ -640,7 +640,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Institut National de la Recherche Agronomique (INRA)",
       "background": "http://mediaphoto.mnhn.fr/media/1537914610021o1UdU29uoBcv3JOJ",
       "imageLicense": "[Aira praecox L.](/specimen/search?entity=3427599101)",
@@ -652,7 +652,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Universidade Estadual de Feira de Santana",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=huefs/Lecythidaceae/jpg/HUEFS0091643.jpg",
       "imageLicense": "[Eschweilera ovata (Cambess.) Mart. ex Miers](/specimen/search?entity=2998240117)",
@@ -664,7 +664,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Universidade Federal da Bahia, Campus Universitário de Ondina",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=alcb/output_13102016/ALCB/0/2/80/46/ALCB028046.JPG",
       "imageLicense": "[Senna Mill.](/specimen/search?entity=2996066919)",
@@ -676,7 +676,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Komi Scientific Centre, Russian Academy of Sciences",
       "background": "https://ib.komisc.ru/files/gbif/bryo/label_img/27/4_14_IMG_0268-000.JPG",
       "imageLicense": "[Rhizomnium pseudopunxctatum T.Koponen, 1968](/specimen/search?entity=1945842726)",
@@ -724,7 +724,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Fairchild Tropical Botanic Garden",
       "background": "https://cdn.plantatlas.org/img/specimens/FTG/55506.jpg",
       "imageLicense": "[Lycopodium L.](/specimen/search?entity=122968478)",
@@ -736,145 +736,145 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Jardin botanique de la ville de Lyon",
       "background": "http://mediaphoto.mnhn.fr/media/14859484564779WxsBVXfyTL1MaEx",
       "imageLicense": "[Lysimachia punxctata L.](/specimen/search?entity=1835627210)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/31518d70-636b-4130-8dbf-444329999a89"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From George Mason University",
       "background": "https://bisque.cyverse.org/image_service/image/00-5pmWqYUywfi88MCA3C6Xsi/resize:4000/format:jpeg",
       "imageLicense": "[Lespedeza violacea Pers.](/specimen/search?entity=3357392237)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/f4624d50-a8b1-40bf-be8c-a0976171aea4"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From North Carolina State University",
       "background": "https://bisque.cyverse.org/image_service/image/00-tXvWds96Foj9cjSzrfbjh3?resize=4000&format=jpeg",
       "imageLicense": "[Fagus grandifolia Ehrh.](/specimen/search?entity=1990241443)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/fce0babe-bb04-4e4a-bb8d-dab2148be63d"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Central Siberian Botanical Garden, Siberian Branch of Russian Academy of Sciences",
       "background": "http://herb.csbg.nsc.ru:8081/backend/herbarium/view/9240",
       "imageLicense": "[Nitraria komarovii Iljin & Lava](/specimen/search?entity=2421783795)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/1182f031-8830-480f-b818-1ee1b0693f47"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Peabody Museum of Natural History",
       "background": "https://images.collections.yale.edu/iiif/2/ypm:f25c21a7-eeff-425f-9bed-4e7f266528dc/full/!1920,1920/0/default.jpg",
       "imageLicense": "[Eragrostis spexctabilis (Pursh) Steud.](/specimen/search?entity=1038919019)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/64ee3cba-7bbb-4013-8b3c-3a89ee55c9ee"
         }
       ]
     },
     {
-      "title": "Herbarium LUX",
+      "title": "Herbier LUX",
       "description": "From National Museum of Natural History, Luxembourg",
       "background": "https://archimg.mnhn.lu/Collections/Collections/15114.jpg",
       "imageLicense": "[Hieracium murorum L.](/specimen/search?entity=2417914425)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/b802fafc-7c78-4b1c-82f5-a536e0ac059b"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From CIRAD",
       "background": "http://mediaphoto.mnhn.fr/media/1464699502559GgL1YG8UZlSl9TFr",
       "imageLicense": "[Nelsonia canescens (Lam.) Spreng.](/specimen/search?entity=1851043350)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/468fb8f3-036f-4fea-8eb4-614d21172f56"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Royal Botanic Gardens Victoria",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=a085d6d6-1a6b-4ab7-8fbb-20e937ce11c3",
       "imageLicense": "[Stylidium crassifolium R.Br.](/specimen/search?entity=2435821278)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/7777d910-553a-45ac-b0e5-635261c1e992"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Swedish Museum of Natural History",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=smnh/Tipos_do_Brasil/S13-21940.jpg",
       "imageLicense": "[Triumfetta semitriloba Jacq.](/specimen/search?entity=2996314691)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/97604393-1e10-421b-a66a-e7fd8515ecad"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Université Laval",
       "background": "http://media.qfa.herbier.ulaval.ca/QFA0363226.jpg",
       "imageLicense": "[Populus balsamifera L.](/specimen/search?entity=668799672)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/741f12d3-ebfc-48e7-9d8c-180d41b0a582"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Museu Paraense Emílio Goeldi",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=mg/herbario/2/48/99/MG024899.JPG",
       "imageLicense": "[Rhabdadenia macrostoma (Benth.) Müll.Arg.](/specimen/search?entity=2998376112)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/4ca8e139-d28a-4822-a368-385f524bc5bc"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Universidade Federal do Ceará",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=e/eac/4/13/38/EAC0041338.JPG",
       "imageLicense": "[Jacquemontia agrestis (C.Mart. ex Choisy) Meisn.](/specimen/search?entity=2995950398)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/d39f1646-81bc-4da3-a095-76072303bf7d"
         }
       ]
@@ -886,7 +886,7 @@
       "imageLicense": "[Catocala residua Grote, 1874](/specimen/search?entity=1060795705)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/21d86f42-73e7-4864-838d-a7aaa1cf27d0"
         }
       ]
@@ -898,19 +898,19 @@
       "imageLicense": "[Clibanarius signatus Heller, 1861](/specimen/search?entity=3382933339)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/4730346d-0a5b-454c-accd-b9ac7bdf8445"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Aix-Marseille Université",
       "background": "http://mediaphoto.mnhn.fr/media/1530728268246qx1HCQCZfQzqHXyc",
       "imageLicense": "[Parietaria judaica L.](/specimen/search?entity=1803903219)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/e723656e-ff6c-4680-bc94-f155964b7064"
         }
       ]
@@ -922,19 +922,19 @@
       "imageLicense": "[Tullimonstrum gregarium Richardson, 1966](/specimen/search?entity=2286106134)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/4f6c16ec-aa8a-464f-829b-7ccf9954589d"
         }
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Central Siberian Botanical Garden SB RAS",
       "background": "http://herb.csbg.nsc.ru:8081/backend/herbarium/view/23337",
       "imageLicense": "[Geranium sylvaticum L.](/specimen/search?entity=2562051977)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/f330c1c9-4034-4288-832c-89e0ecb28ecd"
         }
       ]
@@ -946,7 +946,7 @@
       "imageLicense": "[Poa glauca Vahl](/specimen/search?entity=3339707356)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/62829d55-5642-4c00-934f-d241b7c1961b"
         }
       ]
@@ -958,7 +958,7 @@
       "imageLicense": "[incertae sedis](/specimen/search?entity=1803781091)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/cfef5d0c-d26a-4db7-9f5c-ef9b995139fe"
         }
       ]
@@ -970,7 +970,7 @@
       "imageLicense": "[Gonepteryx rhamni (Linnaeus, 1758)](/specimen/search?entity=3017432171)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/dbc0a132-5aaa-4b09-a49d-16a4a2aaf20d"
         }
       ]
@@ -982,7 +982,7 @@
       "imageLicense": "[Panicum capillare L.](/specimen/search?entity=2821218313)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/7854044b-b38c-446a-b614-c35b2f8c5e0d"
         }
       ]
@@ -994,7 +994,7 @@
       "imageLicense": "[Thlaspi alliaceum L.](/specimen/search?entity=1977817221)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/52d829a3-404f-4203-9b23-a9bec0c28538"
         }
       ]
@@ -1006,7 +1006,7 @@
       "imageLicense": "[Mammalia](/specimen/search?entity=1287033819)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/b1f320d4-fc46-465f-866f-d2d8acc17f4e"
         }
       ]
@@ -1018,7 +1018,7 @@
       "imageLicense": "[Cinysca dunkeri (Philippi, 1853)](/specimen/search?entity=2570115310)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/187a8a55-7de6-4230-8250-7d4ee274004f"
         }
       ]
@@ -1030,7 +1030,7 @@
       "imageLicense": "[Gadus morhua Linnaeus, 1758](/specimen/search?entity=2013057692)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/d3dd565a-9094-409d-bc41-cff9e7fbd23a"
         }
       ]
@@ -1042,7 +1042,7 @@
       "imageLicense": "[Atriplex patula L.](/specimen/search?entity=894985850)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/281693a5-fba9-4040-82c3-cc6a4116e186"
         }
       ]
@@ -1054,7 +1054,7 @@
       "imageLicense": "[Trichophorum cespitosum (L.) Hartm.](/specimen/search?entity=1703291145)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/21920808-da3b-426b-a542-846906bcd2d2"
         }
       ]
@@ -1066,7 +1066,7 @@
       "imageLicense": "[Pinus strobus L.](/specimen/search?entity=3331181304)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/9c062a7e-1d9b-47bd-afba-79f7605ccb1e"
         }
       ]
@@ -1078,7 +1078,7 @@
       "imageLicense": "[Poecile palustris (Linnaeus, 1758)](/specimen/search?entity=1837434994)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/baea350b-20d9-4324-b9d0-07e41e9fe0c5"
         }
       ]
@@ -1090,7 +1090,7 @@
       "imageLicense": "[Poa arctica R.Br.](/specimen/search?entity=1323850868)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/ab06309e-b392-4f5e-99fc-4ae494dd5088"
         }
       ]
@@ -1102,7 +1102,7 @@
       "imageLicense": "[Tipulidae](/specimen/search?entity=2642736358)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/cd9fbcd4-5ff3-4a43-9649-d8a7c5a30700"
         }
       ]
@@ -1114,7 +1114,7 @@
       "imageLicense": "[Platanus orientalis L.](/specimen/search?entity=1803807171)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/ea4cbec1-db63-4323-9cc6-9063331e6264"
         }
       ]
@@ -1126,7 +1126,7 @@
       "imageLicense": "[Atyphloceras Jordan & Rothschild, 1915](/specimen/search?entity=3030992684)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/b0e39d60-c841-485c-a7ff-8bd71dc78472"
         }
       ]
@@ -1138,7 +1138,7 @@
       "imageLicense": "[Sphaerophorus fragilis (L.) Pers.](/specimen/search?entity=1302823205)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/91ddfc12-5a29-4ca3-9898-f120d1126673"
         }
       ]
@@ -1150,7 +1150,7 @@
       "imageLicense": "[Russula atroviridis Buyck](/specimen/search?entity=1135775921)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/034e128e-ee23-42d4-989d-cbe406c04fdb"
         }
       ]
@@ -1162,7 +1162,7 @@
       "imageLicense": "[Periclimenes polynesiensis Li, 2008](/specimen/search?entity=1019683165)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/0641bf3b-29ad-42c9-b3c7-ffb5a76f6954"
         }
       ]
@@ -1174,7 +1174,7 @@
       "imageLicense": "[Sphenopteris (A.T.Brongniart) Sternberg, 1825](/specimen/search?entity=1039334164)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/33c9878e-9a1b-4ca1-850e-21025fc3535e"
         }
       ]
@@ -1186,7 +1186,7 @@
       "imageLicense": "[Macaria guenearia (Packard, 1876)](/specimen/search?entity=3031014315)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/4c112bb3-9a68-473f-8b3e-e17d42527620"
         }
       ]
@@ -1198,7 +1198,7 @@
       "imageLicense": "[Turdus migratorius propinquus Ridgway, 1877](/specimen/search?entity=896555540)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/c1613ee4-0696-4f7c-8cd7-ee0a53e71134"
         }
       ]
@@ -1210,7 +1210,7 @@
       "imageLicense": "[Tolpis barbata (L.) Gaertn.](/specimen/search?entity=1091106468)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/f656e84f-12b2-461a-b128-dd58fb9104d8"
         }
       ]
@@ -1222,7 +1222,7 @@
       "imageLicense": "[Glyceria distans (Jacq.) Wahlenb.](/specimen/search?entity=3427413189)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/b0eb4194-e1a0-4199-9376-9c5cccab3cff"
         }
       ]
@@ -1234,7 +1234,7 @@
       "imageLicense": "[Campephilus guatemalensis (Hartlaub, 1844)](/specimen/search?entity=1208923787)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/5f096916-26ab-4927-ae0b-b6f0f6db55ed"
         }
       ]
@@ -1246,7 +1246,7 @@
       "imageLicense": "[Carex intumescens Rudge](/specimen/search?entity=3340057473)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/5e81f250-673d-457a-9997-ffcdcc2e3afc"
         }
       ]
@@ -1258,7 +1258,7 @@
       "imageLicense": "[Tetratheca pilosa Labill.](/specimen/search?entity=2419528381)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/7f754c09-2987-48ed-a41f-d98a31146a8e"
         }
       ]
@@ -1270,7 +1270,7 @@
       "imageLicense": "[Crataegus viridis L.](/specimen/search?entity=1899304029)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/86529302-2a9e-4fed-9c73-059c87ef944e"
         }
       ]
@@ -1282,7 +1282,7 @@
       "imageLicense": "[incertae sedis](/specimen/search?entity=1806622164)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/eed9738d-a738-4fbe-9c9d-aeaef632851e"
         }
       ]
@@ -1294,7 +1294,7 @@
       "imageLicense": "[Pteridophyta](/specimen/search?entity=1425210975)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/0b02d5d7-6433-4dde-bb2f-227cd242c00e"
         }
       ]
@@ -1306,7 +1306,7 @@
       "imageLicense": "[Rhynchospora ridleyi C.B.Clarke](/specimen/search?entity=2997226412)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/2a3c417c-d633-4838-8894-78094cfe5e49"
         }
       ]
@@ -1318,7 +1318,7 @@
       "imageLicense": "[Sagittaria trifolia L.](/specimen/search?entity=3408897258)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/e9e6df05-e289-4a64-8ace-a4d5dbd168e4"
         }
       ]
@@ -1330,7 +1330,7 @@
       "imageLicense": "[Petrocephalus bane bane](/specimen/search?entity=583622546)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/2356a698-08e2-4b0d-afc8-ae5a4bc40086"
         }
       ]
@@ -1942,7 +1942,7 @@
       "imageLicense": "[Furcellaria lumbricalis (Hudson) J.V.Lamouroux](/specimen/search?entity=3855869054)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/5aa589e3-ee5a-4cf8-848d-1b19b1f1af71"
         }
       ]
@@ -1954,7 +1954,7 @@
       "imageLicense": "[Pterostichus corvinus (Dejean, 1828)](/specimen/search?entity=2563077882)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/fbcd2054-f92e-4400-85d1-0cabed751da0"
         }
       ]
@@ -1966,7 +1966,7 @@
       "imageLicense": "[Phacelia suaveolens Greene](/specimen/search?entity=2421782269)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/069c634a-5c7a-4984-a112-bdbf4b2cbf08"
         }
       ]
@@ -1978,7 +1978,7 @@
       "imageLicense": "[Cardamine L.](/specimen/search?entity=1094958462)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/6a7f7c95-38b7-4653-a7c2-efec61782235"
         }
       ]
@@ -1990,7 +1990,7 @@
       "imageLicense": "[Chiromantis xerampelina Peters, 1854](/specimen/search?entity=1671748984)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/410defd8-cab6-4022-9c82-d59b666d3ee7"
         }
       ]
@@ -2002,7 +2002,7 @@
       "imageLicense": "[incertae sedis](/specimen/search?entity=2561481607)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/09823344-679d-4c2b-a754-050ce18707d0"
         }
       ]
@@ -2014,7 +2014,7 @@
       "imageLicense": "[Favia ananas (Linnaeus, 1758)](/specimen/search?entity=1503736560)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/6c118641-5b0b-4577-a8f6-a6dbd15de2e7"
         }
       ]
@@ -2026,7 +2026,7 @@
       "imageLicense": "[incertae sedis](/specimen/search?entity=2896876302)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/17fe8464-2314-4bfd-a971-31d3c4ae0fbb"
         }
       ]
@@ -2038,7 +2038,7 @@
       "imageLicense": "[Carex willdenowii Willd.](/specimen/search?entity=2825495112)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/2f51107e-f84b-4b74-bdcb-6236b74d901c"
         }
       ]
@@ -2050,7 +2050,7 @@
       "imageLicense": "[Calliaster sarahae Mah, 2018](/specimen/search?entity=2005635230)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/b0fc8b01-37b5-4df5-8a6a-76919f8f631b"
         }
       ]
@@ -2062,7 +2062,7 @@
       "imageLicense": "[Bubo virginianus elachistus Brewster, 1902](/specimen/search?entity=1665789916)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/80f8ff8d-57f0-462b-a8d0-b0f9658dee0c"
         }
       ]
@@ -2074,7 +2074,7 @@
       "imageLicense": "[Naja nubiae Wüster & Broadley, 2003](/specimen/search?entity=668648567)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/cd0b2f08-96ce-48b4-8159-b34a9f30e1c4"
         }
       ]
@@ -2086,7 +2086,7 @@
       "imageLicense": "[Peromyscus maniculatus (Wagner, 1845)](/specimen/search?entity=1851093017)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/2c3695ff-a712-4a47-8665-f313dc0a1a5d"
         }
       ]
@@ -2098,7 +2098,7 @@
       "imageLicense": "[Obelia dichotoma (Linnaeus, 1758)](/specimen/search?entity=1705754580)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/dbc640f7-0584-4a31-8e90-5eaea7cf0956"
         }
       ]
@@ -2110,7 +2110,7 @@
       "imageLicense": "[Acer grandidentatum Nutt.](/specimen/search?entity=2461264107)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/4739f371-7984-4284-a3ad-db6ef9ad8f67"
         }
       ]
@@ -2122,7 +2122,7 @@
       "imageLicense": "[Haminoea crocata Pease, 1860](/specimen/search?entity=477137624)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/66df5945-b2fd-4136-8566-1d085c3213fe"
         }
       ]
@@ -2134,7 +2134,7 @@
       "imageLicense": "[Cybistax antisyphilitica (Mart.) Mart.](/specimen/search?entity=2900356308)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/8a878acb-9016-45ee-9e57-9d5a4b3a715a"
         }
       ]
@@ -2146,7 +2146,7 @@
       "imageLicense": "[Wallengrenia otho Abbot & Smith, 1797](/specimen/search?entity=2560811312)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/5e6c8bf4-ed6c-4a17-b863-2115d3727ab5"
         }
       ]
@@ -2158,7 +2158,7 @@
       "imageLicense": "[Danaus plexippus (Linnaeus, 1758)](/specimen/search?entity=1977822649)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/2ca43779-241b-4b47-8fba-542261a28357"
         }
       ]
@@ -2170,7 +2170,7 @@
       "imageLicense": "[Zonotrichia leucophrys (J.R.Forster, 1772)](/specimen/search?entity=863303099)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/26cea021-e030-42ac-bbed-dc0977b32150"
         }
       ]
@@ -2182,7 +2182,7 @@
       "imageLicense": "[Papilio glaucus Linnaeus, 1758](/specimen/search?entity=1449838039)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/4bfe0e5d-5df8-4ed2-a5e8-850136d3e4bc"
         }
       ]
@@ -2194,7 +2194,7 @@
       "imageLicense": "[incertae sedis](/specimen/search?entity=1806624390)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/eb15685a-7759-46fc-856f-529efad9692b"
         }
       ]
@@ -2206,7 +2206,7 @@
       "imageLicense": "[Zapus princeps utahensis Hall, 1934](/specimen/search?entity=1656064828)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/b8f9fc9c-ec80-4453-8684-e087a7618a67"
         }
       ]
@@ -2218,7 +2218,7 @@
       "imageLicense": "[Perenniporia tenuis (Schwein.) Ryvarden](/specimen/search?entity=3320730916)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/5ec09964-64c9-4303-bb37-11d2fedd3c62"
         }
       ]
@@ -2230,7 +2230,7 @@
       "imageLicense": "[Euglyphella sigmoidalis Jones, 1890](/specimen/search?entity=1213700403)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/24d6e74b-4f9d-473b-9d62-b0d573712db9"
         }
       ]
@@ -2242,7 +2242,7 @@
       "imageLicense": "[Xerus rutilus saturatus (Neumann, 1900)](/specimen/search?entity=665742992)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/6999cd7a-b2a3-4f56-b5c4-0b0f1b70adba"
         }
       ]
@@ -2554,7 +2554,7 @@
       "imageLicense": "[Selasphorus rufus (J.F.Gmelin, 1788)](/specimen/search?entity=1061320014)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/95ce811c-3330-4aec-b5f1-7b9e1973c248"
         }
       ]
@@ -2566,7 +2566,7 @@
       "imageLicense": "[Mandevilla Lindl.](/specimen/search?entity=2996372762)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/7c17531c-060d-4be6-a92e-bf546ec0945f"
         }
       ]
@@ -2578,7 +2578,7 @@
       "imageLicense": "[Strigeidae](/specimen/search?entity=1455542187)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/442204a5-d0f7-43f9-a497-433046e88bbf"
         }
       ]
@@ -2590,7 +2590,7 @@
       "imageLicense": "[Bactrocera yorkensis Drew, Hancock & Romig, 1999](/specimen/search?entity=1066430238)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/2c64d356-01b0-40c6-ade8-b18a5e86ebc6"
         }
       ]
@@ -2602,7 +2602,7 @@
       "imageLicense": "[Planogyra asteriscus (Morse, 1857)](/specimen/search?entity=1804271823)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/778fb16d-8e62-4c72-87d2-8e83ce8af189"
         }
       ]
@@ -2614,7 +2614,7 @@
       "imageLicense": "[Acropora austera (Dana, 1846)](/specimen/search?entity=1066238009)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/f18b77b5-87b1-415b-add9-6da489da61ee"
         }
       ]
@@ -2626,7 +2626,7 @@
       "imageLicense": "[Delma tinxcta De Vis, 1888](/specimen/search?entity=1066523593)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/23d366c2-97f6-4086-b1ff-5a2e7be84a27"
         }
       ]
@@ -2638,7 +2638,7 @@
       "imageLicense": "[Corethrogyne filaginifolia var. brevicula (Greene) M.L.Canby](/specimen/search?entity=2430086381)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/9eb002a1-2dbb-4d59-b1e1-41cf96cea6db"
         }
       ]
@@ -2650,7 +2650,7 @@
       "imageLicense": "[Didymoglossum punxctatum (Poir.) Desv.](/specimen/search?entity=2302443067)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/203f808f-c5cc-4458-8487-6913c4006d1a"
         }
       ]
@@ -2662,7 +2662,7 @@
       "imageLicense": "[Paradoxurus hermaphroditus (Pallas, 1777)](/specimen/search?entity=1809985233)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/5bae53ec-d00f-4825-acb9-44b1277eafc9"
         }
       ]
@@ -2674,7 +2674,7 @@
       "imageLicense": "[Probreviceps uluguruensis (Loveridge, 1925)](/specimen/search?entity=3778580328)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/891e5a9e-5402-4b89-b43f-f7b254ca076b"
         }
       ]
@@ -2686,7 +2686,7 @@
       "imageLicense": "[Sitta pusilla Latham, 1790](/specimen/search?entity=1804172185)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/6c4eabe4-3402-4e8a-9740-7411c4321070"
         }
       ]
@@ -2698,7 +2698,7 @@
       "imageLicense": "[Monarchidae](/specimen/search?entity=1066185830)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/5c433f51-5c82-4c0b-88a8-f442563a4df6"
         }
       ]
@@ -2710,7 +2710,7 @@
       "imageLicense": "[Amphimedon Duchassaing & Michelotti, 1864](/specimen/search?entity=1633722596)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/cab86db8-10da-4e8e-8a4e-8a348825d3d9"
         }
       ]
@@ -2722,7 +2722,7 @@
       "imageLicense": "[Mentha pulegium L.](/specimen/search?entity=3069790370)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/daa02256-cdca-461b-88f9-554b6c617e05"
         }
       ]
@@ -2734,7 +2734,7 @@
       "imageLicense": "[Ulua mentalis (Cuvier, 1833)](/specimen/search?entity=1272479635)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/6d14fc1f-8b5a-41d0-8493-7133890d35bb"
         }
       ]
@@ -2746,7 +2746,7 @@
       "imageLicense": "[Cableia pudica Bray, Cribb & Barker, 1996](/specimen/search?entity=1066720685)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/7d51ba5d-475d-4bac-a784-8d27edd7dd28"
         }
       ]
@@ -2758,7 +2758,7 @@
       "imageLicense": "[Crotalus lepidus Kennicott, 1861](/specimen/search?entity=2234858167)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/fbd7320b-79c4-476c-807d-c006927ab6a6"
         }
       ]
@@ -2770,7 +2770,7 @@
       "imageLicense": "[Argonauta argo Linnaeus, 1758](/specimen/search?entity=1066706340)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/f9b6bb0d-e879-4b06-8200-35e59050ea9c"
         }
       ]
@@ -2782,7 +2782,7 @@
       "imageLicense": "[Pristotis obtusirostris (Günther, 1862)](/specimen/search?entity=1066502120)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/1e7de8df-9279-4cf0-b93e-6a645d1fb701"
         }
       ]
@@ -2794,7 +2794,7 @@
       "imageLicense": "[Microtus oeconomus (Pallas, 1776)](/specimen/search?entity=897141235)",
       "xcta": [
         {
-          "text": "More",
+          "text": "Plus",
           "href": "/collection/046e3db8-408a-4e6f-a5cc-b32073527a3b"
         }
       ]
