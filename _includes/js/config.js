@@ -29,7 +29,7 @@ var siteConfig = {
     "enableInfoPopup": true
   },
   "theme": {
-    "primary": "#538e91",
+    "primary": themeStyle.colors.primary,
     "borderRadius": 0,
     "stickyOffset": "0px"
   },
