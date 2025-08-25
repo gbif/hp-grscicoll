@@ -35,10 +35,6 @@ composition:
   - 
     type: features
     data: collections
-navbar:
-  color: transparent!important
-  hasWhiteText: true
-  floating: true
 ---
 
 Nápady pro domovskou stránku a všeobecný obsah
