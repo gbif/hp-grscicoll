@@ -2,6 +2,7 @@
 .hidden {
   display: none;
 }
+
 .gettingStarted {
   p {
     display: inline;
@@ -18,7 +19,7 @@
 /* Style the buttons that are used to open the tab content */
 .tab button {
   flex: 1 1 auto;
-  background-color: $gold;
+  background-color: $tabColor;
   float: left;
   border: none;
   outline: none;
@@ -29,7 +30,7 @@
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color: $gold;
+  background-color: $tabColor;
 }
 
 /* Create an active/current tablink class */
@@ -42,19 +43,99 @@
 .tabcontent {
   display: none;
   background: white;
+
   form {
     display: flex;
     flex-direction: row;
     align-items: center;
+
     input {
       margin-right: 1px;
       flex: 1 1 auto;
       padding: 24px 16px;
       border: none;
     }
+
     button {
       flex: 0 0 auto;
       border: none;
+    }
+  }
+}
+
+/* Parallax image styling */
+.parallax-mask {
+  position: relative;
+  max-width: 100%;
+  mask-image: url('https://images.ctfassets.net/uo17ejk9rkwj/7dSdtqE276RhWoXXF8EfNa/f977736950314737cca5c601f1b7fd2e/Asset_2grscicoll.svg');
+  -webkit-mask-image: url('https://images.ctfassets.net/uo17ejk9rkwj/7dSdtqE276RhWoXXF8EfNa/f977736950314737cca5c601f1b7fd2e/Asset_2grscicoll.svg');
+  mask-repeat: no-repeat;
+  mask-position: bottom;
+  mask-size: contain;
+  z-index: 1;
+}
+
+.parallax-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #00c4ff;
+  background-image: linear-gradient(168deg, #00c4ff 29%, #d1628e 48%, #f2bf48 67%);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+  transition: background-position 0.1s ease-out;
+}
+
+.grscicoll-header {
+  max-height: 700px;
+  min-height: auto;
+  background-color: #faeff3;
+  background-image: linear-gradient(160deg, #faeff3 0%, #f0f3f9 100%);
+
+  .parallax-mask {
+    width: 300px;
+    height: 300px;
+  }
+  .logo-container {
+    padding-bottom: 48px;
+  }
+}
+
+@media (min-width: 400px) {
+  .grscicoll-header {
+    .parallax-mask {
+      width: 400px;
+      height: 400px;
+    }
+  }
+}
+
+@media (min-width: 600px) {
+  .grscicoll-header {
+    .parallax-mask {
+      width: 500px;
+      height: 500px;
+    }
+  }
+}
+
+@media (min-width: 1050px) {
+  .grscicoll-header {
+    .feature-content {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 40px;
+      width: auto;
+    }
+
+    .parallax-mask {
+      mask-position: center;
     }
   }
 }

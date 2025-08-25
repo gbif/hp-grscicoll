@@ -4,6 +4,8 @@ $darkGold: #a6906c;
 $blue: #538e91;
 $lightpurple: #6E84BB;
 $homepageActiveTabColor: $lightpurple;
+$headerColor: #333;
+$tabColor: #ddd;
 @import "_navbar";
 @import "_home";
 @import "_stats";
@@ -62,16 +64,14 @@ html {
     text-align: start;
     margin-left: auto;
     margin-right: auto;
-    width: $navbar-breakpoint;
     max-width: 100%;
-    padding-left: 70px;
   }
 
   .feature-description {
     margin: initial;
     padding: 0;
     width: 500px;
-    color: $gold;
+    color: $headerColor;
     p {
       font-weight: 500
     }
@@ -84,7 +84,7 @@ html {
     width: 500px;
     max-width: 100%;
     font-size: 3rem;
-    color: $gold;
+    color: $headerColor;
     font-weight: 300;
     font-family: 'Bitter', serif;
     line-height: 1.2em;
