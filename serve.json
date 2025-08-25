@@ -3,6 +3,11 @@
     { "source": "/institution/*-*", "destination": "/institution/_key_.html" },
     { "source": "/institution/*-*/*", "destination": "/institution/_key_.html" },
     { "source": "/collection/*-*", "destination": "/collection/_key_.html" },
-    { "source": "/collection/*-*/*", "destination": "/collection/_key_.html" }
+    { "source": "/collection/*-*/*", "destination": "/collection/_key_.html" },
+
+    { "source": "/es/institution/*-*", "destination": "/es/institution/_key_.html" },
+    { "source": "/es/institution/*-*/*", "destination": "/es/institution/_key_.html" },
+    { "source": "/es/collection/*-*", "destination": "/es/collection/_key_.html" },
+    { "source": "/es/collection/*-*/*", "destination": "/es/collection/_key_.html" }
   ]
 }
