@@ -16,7 +16,7 @@ placeholderInstitutions: Search institutions
 placeholderSpecimens: Search for digitized specimens
 background:  "{{ site.data.images.calcinus.src }}"
 imageLicense: "{{ site.data.images.calcinus.caption }}"
-height: 85vh
+height: 80vh
 composition:
   - type: grscicollHeader # the block type
   - type: stats
@@ -29,10 +29,6 @@ composition:
     data: navCards.news
   - type: features
     data: collections
-navbar:
-    color: transparent!important
-    hasWhiteText: true
-    floating: true
 ---
 
 Ideas for the home page and content more broadly

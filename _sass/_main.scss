@@ -2,7 +2,10 @@
 $gold: #F5EDCC;
 $darkGold: #a6906c;
 $blue: #538e91;
-$homepageActiveTabColor: $blue;
+$lightpurple: #6E84BB;
+$homepageActiveTabColor: $lightpurple;
+$headerColor: #333;
+$tabColor: #ddd;
 @import "_navbar";
 @import "_home";
 @import "_stats";
@@ -61,16 +64,14 @@ html {
     text-align: start;
     margin-left: auto;
     margin-right: auto;
-    width: $navbar-breakpoint;
     max-width: 100%;
-    padding-left: 70px;
   }
 
   .feature-description {
     margin: initial;
     padding: 0;
     width: 500px;
-    color: $gold;
+    color: $headerColor;
     p {
       font-weight: 500
     }
@@ -83,7 +84,7 @@ html {
     width: 500px;
     max-width: 100%;
     font-size: 3rem;
-    color: $gold;
+    color: $headerColor;
     font-weight: 300;
     font-family: 'Bitter', serif;
     line-height: 1.2em;
@@ -177,3 +178,15 @@ html {
     border-radius: 0!important;
     &.active {
       border-left: 3px solid #f08177; } } }
+      
+.video-block {
+  padding: 3em;
+}
+
+.features {
+  background: #F1F3F8;
+}     
+
+.navbar-item img {
+max-height: 4em;
+} 
