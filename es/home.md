@@ -35,10 +35,6 @@ composition:
   - 
     type: features
     data: es.collections
-navbar:
-  color: transparent!important
-  hasWhiteText: true
-  floating: true
 ---
 
 Ideas for the home page and content more broadly
