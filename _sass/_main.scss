@@ -197,3 +197,10 @@ html {
 .navbar-item img {
 max-height: 4em;
 } 
+
+@media (max-width: 600px) {
+  .home.floatingHero .feature-description, .home.boxHero .feature-description, .home.textBanner .feature-description {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
