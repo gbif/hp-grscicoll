@@ -6,7 +6,7 @@ description: |
   Comment naviguer le Registre Mondial des collections scientifiques et mettre à jour son contenu
 background: ""
 imageLicense: ""
-height: 70vh
+height: 60vh
 #layout: documentation
 #sideNavigation: about.about
 #composition: # you can extend the documentation layout with a custom composition
