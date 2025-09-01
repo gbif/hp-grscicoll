@@ -6,7 +6,7 @@ description: |
   Contáctenos si desea contribuir al Registro Global de Colecciones Científicas, tiene algún problema o tiene alguna pregunta. Para ponerse en contacto con colecciones o instituciones específicas, consulte la información de contacto en sus respectivas páginas.
 background: "{{ site.data.images.octopus-eggs.src }}"
 imageLicense: "{{ site.data.images.octopus-eggs.caption }}"
-height: 70vh
+height: 60vh
 #layout: documentation
 #sideNavigation: about.about
 #composition: # you can extend the documentation layout with a custom composition
