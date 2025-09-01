@@ -111,8 +111,6 @@
     .parallax-mask {
       width: 400px;
       height: 400px;
-      mask-image: url('https://images.ctfassets.net/uo17ejk9rkwj/3A6GaFaHNy5WZYURVGQLYG/1ad7471210a4943db0beec9dd1834220/Asset_3grscicoll-logo.svg');
-      -webkit-mask-image: url('https://images.ctfassets.net/uo17ejk9rkwj/3A6GaFaHNy5WZYURVGQLYG/1ad7471210a4943db0beec9dd1834220/Asset_3grscicoll-logo.svg');
     }
   }
 }
@@ -122,8 +120,6 @@
     .parallax-mask {
       width: 420px;
       height: 420px;
-      mask-image: url('https://images.ctfassets.net/uo17ejk9rkwj/3A6GaFaHNy5WZYURVGQLYG/1ad7471210a4943db0beec9dd1834220/Asset_3grscicoll-logo.svg');
-      -webkit-mask-image: url('https://images.ctfassets.net/uo17ejk9rkwj/3A6GaFaHNy5WZYURVGQLYG/1ad7471210a4943db0beec9dd1834220/Asset_3grscicoll-logo.svg');
     }
   }
 }
@@ -152,7 +148,27 @@
 }
 
 @media (max-width: 600px) {
-  .parallax-image {
-    background-image: url('https://images.ctfassets.net/uo17ejk9rkwj/3A6GaFaHNy5WZYURVGQLYG/1ad7471210a4943db0beec9dd1834220/Asset_3grscicoll-logo.svg');
-        }
+  .grscicoll-header .parallax-mask {
+    -webkit-mask-image: url('https://images.ctfassets.net/uo17ejk9rkwj/3A6GaFaHNy5WZYURVGQLYG/1ad7471210a4943db0beec9dd1834220/Asset_3grscicoll-logo.svg');
+    mask-image: url('https://images.ctfassets.net/uo17ejk9rkwj/3A6GaFaHNy5WZYURVGQLYG/1ad7471210a4943db0beec9dd1834220/Asset_3grscicoll-logo.svg');
+    -webkit-mask-position: center center;
+    mask-position: center center;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
   }
+}
+
+@media (max-width: 400px) {
+  .grscicoll-header .parallax-mask {
+    -webkit-mask-image: url('https://images.ctfassets.net/uo17ejk9rkwj/3A6GaFaHNy5WZYURVGQLYG/1ad7471210a4943db0beec9dd1834220/Asset_3grscicoll-logo.svg');
+    mask-image: url('https://images.ctfassets.net/uo17ejk9rkwj/3A6GaFaHNy5WZYURVGQLYG/1ad7471210a4943db0beec9dd1834220/Asset_3grscicoll-logo.svg');
+    -webkit-mask-position: center center;
+    mask-position: center center;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+  }
+}
