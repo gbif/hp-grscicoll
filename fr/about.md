@@ -6,7 +6,7 @@ description: |
   Le Registre Global de Collections Scientifiques - Global Registry of Scientific Collections ou GRSciColl en anglais, est un référentiel maintenu par une communauté active qui s'appuit sur le travail du Consortium of the Barcode of Life (CBOL).
 background: "{{ site.data.images.kanakia.src }}"
 imageLicense: "{{ site.data.images.kanakia.caption }}"
-height: 70vh
+height: 60vh
 #layout: documentation
 #sideNavigation: about.about
 #composition: # you can extend the documentation layout with a custom composition
