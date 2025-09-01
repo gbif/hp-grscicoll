@@ -6,7 +6,7 @@ description: |
   **全球科学收藏品注册表**（GRSciColl）是有关科学收藏品的信息的综合存储库。 这是一个由“生命条形码联盟”（CBOL）的合作机构之前的工作构建而成的社区驱动的倡议项目。
 background: "{{ site.data.images.kanakia.src }}"
 imageLicense: "{{ site.data.images.kanakia.caption }}"
-height: 70vh
+height: 60vh
 #layout: documentation
 #sideNavigation: about.about
 #composition: # you can extend the documentation layout with a custom composition
