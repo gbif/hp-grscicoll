@@ -184,6 +184,12 @@ html {
   padding: 3em;
 }
 
+@media (max-width: 600px) {
+  .video-block {
+    padding: 0;
+  }
+}
+
 .features {
   background: #F1F3F8;
 }     
