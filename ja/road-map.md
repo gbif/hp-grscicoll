@@ -6,7 +6,7 @@ description: |
   This road map builds in the [2021 roadmap](https://github.com/gbif/registry/blob/dev/roadmap-grscicoll-2021.md) as well as the efforts in 2022 to build a community of editors an mediators.
 background: "{{ site.data.images.pandeleteius.src }}"
 imageLicense: "{{ site.data.images.pandeleteius.caption }}"
-height: 70vh
+height: 60vh
 #layout: documentation
 #sideNavigation: about.about
 #composition: # you can extend the documentation layout with a custom composition

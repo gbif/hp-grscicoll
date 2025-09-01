@@ -6,7 +6,7 @@ description: |
   Jak se pohybovat v celosvětovém registru vědeckých sbírek a aktualizovat jeho obsah
 background: "{{ site.data.images.pagurus.src }}"
 imageLicense: "{{ site.data.images.pagurus.caption }}"
-height: 70vh
+height: 60vh
 #layout: documentation
 #sideNavigation: about.about
 #composition: # you can extend the documentation layout with a custom composition

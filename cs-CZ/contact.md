@@ -6,7 +6,7 @@ description: |
   Pokud byste chtěli přispět do Globálního registru vědeckých sbírek, narazit na nějaký problém nebo se na něco zeptat, kontaktujte nás. Kontakty na konkrétní sbírky nebo instituce naleznete na jejich příslušných stránkách.
 background: "{{ site.data.images.octopus-eggs.src }}"
 imageLicense: "{{ site.data.images.octopus-eggs.caption }}"
-height: 70vh
+height: 60vh
 #layout: documentation
 #sideNavigation: about.about
 #composition: # you can extend the documentation layout with a custom composition

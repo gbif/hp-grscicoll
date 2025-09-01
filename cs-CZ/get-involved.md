@@ -6,7 +6,7 @@ description: |
   Existuje několik způsobů, jak nám pomoci zlepšit GRSciColl.
 background: "{{ site.data.images.costatrochus.src }}"
 imageLicense: "{{ site.data.images.costatrochus.caption }}"
-height: 70vh
+height: 60vh
 #layout: documentation
 #sideNavigation: about.about
 #composition: # you can extend the documentation layout with a custom composition
