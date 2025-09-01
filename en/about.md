@@ -7,7 +7,7 @@ description: |
     
 background:  "{{ site.data.images.kanakia.src }}"
 imageLicense: "{{ site.data.images.kanakia.caption }}"
-height: 50vh
+height: 60vh
 # layout: documentation
 # sideNavigation: about.about
 # composition: # you can extend the documentation layout with a custom composition
