@@ -25,7 +25,11 @@ description: >- # this means to ignore newlines (until baseurl:)
   An ever growing catalogue of the world’s natural history collections and the material they hold
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scientific-collections.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: gbif # if you have an account you want to link to. Else comment this line out
+# twitter_username: gbif
+mastodon_url: https://biodiversity.social/@gbif
+bluesky_username: gbif.org
+linkedin_url: https://www.linkedin.com/company/gbif 
+github_username:  gbif
 github_username:  gbif # if you have an account you want to link to. Else comment this line out
 webApi: "https://graphql.gbif.org"
 
