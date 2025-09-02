@@ -141,4 +141,13 @@
   }
 }
 
+@media (max-width: 600px) {
+      .parallax-mask {
+        mask-image: url('https://images.ctfassets.net/uo17ejk9rkwj/3A6GaFaHNy5WZYURVGQLYG/a21c8df76683c3c1168a4519d8c839fd/Asset_3grscicoll.svg');
+        -webkit-mask-image: url('https://images.ctfassets.net/uo17ejk9rkwj/3A6GaFaHNy5WZYURVGQLYG/a21c8df76683c3c1168a4519d8c839fd/Asset_3grscicoll.svg');
+      }
 
+      .parallax-image {
+        background-attachment: scroll !important;
+      }
+    }
