@@ -4,5 +4,6 @@ title: Data
 description: Publikujeme otevřená data
 layout: collection-key
 lang-ref: collection/key
+noindex: false
 ---
 
