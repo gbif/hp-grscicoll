@@ -4,5 +4,5 @@ title: Data
 description: We publish open data
 layout: institution-key
 lang-ref: institution/key
-noindex: false
+metaRobots: allow
 ---
