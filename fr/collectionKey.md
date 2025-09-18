@@ -4,6 +4,6 @@ title: Données
 description: Nous publions des données ouvertes
 layout: collection-key
 lang-ref: collection/key
-noindex: false
+metaRobots: allow
 ---
 
