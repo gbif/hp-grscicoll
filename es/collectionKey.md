@@ -4,6 +4,6 @@ title: Datos
 description: Publicamos datos abiertos
 layout: collection-key
 lang-ref: collection/key
-noindex: false
+metaRobots: allow
 ---
 
