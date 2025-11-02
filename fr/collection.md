@@ -1,5 +1,5 @@
 ---
-permalink: /collection/search
+permalink: /fr/collection/search
 title: Données
 description: Nous publions des données ouvertes
 layout: collection-search
