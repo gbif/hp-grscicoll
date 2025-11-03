@@ -1,12 +1,12 @@
 ---
 permalink: /fr/how-to
 lang-ref: how-to
-title: How to
+title: Comment Procéder
 description: |
   Comment naviguer le Registre Mondial des collections scientifiques et mettre à jour son contenu
-background: ""
-imageLicense: ""
-height: 60vh
+background: "{{ site.data.images.pagurus.src }}"
+imageLicense: "{{ site.data.images.pagurus.caption }}"
+height: 70vh
 #layout: documentation
 #sideNavigation: about.about
 #composition: # you can extend the documentation layout with a custom composition
@@ -64,10 +64,10 @@ Pour devenir un.e éditeur.ice GRSciColl, vous aurez besoin d'avoir un [compte d
 
 ### Importer des données
 
-L'[API des collections GBIF](https://www.gbif.org/developer/registry#collections) permet d'éditer des entrées sans nécessiter l'interface web. The API also has an experimental feature to upload batches of collection and institutions. See the documentation [here](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
+L'[API des collections GBIF](https://www.gbif.org/developer/registry#collections) permet d'éditer des entrées sans nécessiter l'interface web. L'API a également une fonctionnalité en cours d'expérimentation pour charger des lots de collections et d'institutions. Voir la documentation [ici](https://github.com/gbif/registry/blob/dev/docs/grscicoll_batches.md).
 
-If you are interested in using the API for editing GRSciColl, the permission system and requirements are the same as for becoming an editor.
+Si vous êtes intéressé par l'utilisation de l'API pour éditer GRSciColl, le système de permission et les exigences sont les mêmes que pour devenir éditeur.
 
-## How to share collection descriptors
+## Comment partager des descripteurs de collection
 
-We are working on improving the documentation. In the meantime, please refer to this tutorial here: https://data-blog.gbif.org/post/grscicoll-collection-descriptors/
+Nous travaillons à l'amélioration de la documentation. Pour l'instant, veuillez vous référer à ce tutoriel: https://data-blog.gbif.org/post/grscicoll-collection-descriptors/

@@ -35,10 +35,6 @@ composition:
   - 
     type: features
     data: collections
-navbar:
-  color: transparent!important
-  hasWhiteText: true
-  floating: true
 ---
 
 Idées pour la page d'accueil et le contenu plus large
