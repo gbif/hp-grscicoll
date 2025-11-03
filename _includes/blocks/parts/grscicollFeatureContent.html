@@ -13,16 +13,12 @@ include.blankTarget | default: include.content.blankTarget | default: false %}
   class="feature-content {% if center %} feature-content--centered {% endif %}"
 >
   <div class="feature-text">
-    <h3 class="feature-title">
-      <div>
-        <div><span>G</span>lobal</div>
-        <div><span>R</span>egistry</div>
-        <div id="headline-offset-wrapper">
-          <span id="headline-offset">of </span><span>Sci</span>entific
+    <div class="logo-container">
+      <div class="parallax-mask">
+        <div class="parallax-image" id="parallax-image">
         </div>
-        <div><span>Coll</span>ections</div>
       </div>
-    </h3>
+    </div>
   </div>
 
   <div class="feature-description">
@@ -122,12 +118,6 @@ include.blankTarget | default: include.content.blankTarget | default: false %}
       </div>
     </div>
     <script>
-      window.setTimeout(function () {
-        let a = document.getElementById("headline-offset");
-        a.parentElement.style.marginLeft = "-" + a.offsetWidth + "px";
-        // a.parentElement.parentElement.style.paddingLeft = a.offsetWidth + 'px';
-      }, 300);
-
       function openTab(evt, tabName) {
         // Declare all variables
         var i, tabcontent, tablinks;

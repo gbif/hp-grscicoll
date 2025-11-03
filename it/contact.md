@@ -6,7 +6,7 @@ description: |
   Contattaci se vorresti contribuire al Registro Globale delle Collezioni Scientifiche (GBIF, sigla inglese), se dovessi riscontrare dei problemi o avessi qualsiasi domanda. Per contattare specifiche collezioni o istituzioni, per favore fare riferimento ai contatti presenti sulle loro rispettive pagine.
 background: "{{ site.data.images.octopus-eggs.src }}"
 imageLicense: "{{ site.data.images.octopus-eggs.caption }}"
-height: 70vh
+height: 60vh
 #layout: documentation
 #sideNavigation: about.about
 #composition: # you can extend the documentation layout with a custom composition

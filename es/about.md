@@ -6,7 +6,7 @@ description: |
   El Registro Mundial de Colecciones Científicas, o GRSciColl–por sus siglas en inglés–es un repositorio comunitario de información sobre colecciones científicas que amplía la labor iniciada por el Consorcio del Código de Barras de la Vida (CBOL).
 background: "{{ site.data.images.kanakia.src }}"
 imageLicense: "{{ site.data.images.kanakia.caption }}"
-height: 70vh
+height: 60vh
 #layout: documentation
 #sideNavigation: about.about
 #composition: # you can extend the documentation layout with a custom composition

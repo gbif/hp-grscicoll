@@ -6,7 +6,7 @@ description: |
     Here you will find the answers to the most frequently asked questions.
 background:  "{{ site.data.images.bombus-rufocinctus.src }}"
 imageLicense: "{{ site.data.images.bombus-rufocinctus.caption }}"
-height: 70vh
+height: 60vh
 # layout: documentation
 # sideNavigation: about.about
 # composition: # you can extend the documentation layout with a custom composition

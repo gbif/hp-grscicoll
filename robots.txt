@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /occurrence/
+Disallow: /*/occurrence/
+Disallow: /species/
+Disallow: /*/species/
+Disallow: /dataset/
+Disallow: /*/dataset/
+Disallow: /publisher/
+Disallow: /*/publisher/
+Disallow: /literature/
+Disallow: /*/literature/
+
+Disallow: /*/institution/
+Disallow: /*/collection/
+crawl-delay: 0.1
