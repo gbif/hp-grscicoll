@@ -6,7 +6,7 @@ description: |
   Vous trouverez ici les questions les plus fréquemment posées.
 background: "{{ site.data.images.bombus-rufocinctus.src }}"
 imageLicense: "{{ site.data.images.bombus-rufocinctus.caption }}"
-height: 60vh
+height: 70vh
 #layout: documentation
 #sideNavigation: about.about
 #composition: # you can extend the documentation layout with a custom composition
@@ -32,12 +32,12 @@ puis remplir et envoyer le [modèle de nomination](mailto:scientific-collections
 Le résultat d'une recherche de collection ou d'institution peut être téléchargé à partir du site Web en cliquant sur ce bouton:
 <img width="1664" alt="download_as_csv" src="https://github.com/gbif/hp-grscicoll/assets/7677271/0ed58648-4efc-4755-876f-29677f6be975" />
 
-## What is the difference between GBIF datasets and GRSciColl collections?
+## Quelle est la différence entre les datasets GBIF et les collections GRSciColl?
 
-GRSciColl originated independently from GBIF, it has [its own history](/about#data-history). Many datasets published on GBIF contain records for specimens that belong to collections registered in GRSciColl. The content between GBIF and GRSciColl can overlap. However, there are a few differences:
-* A GRSciColl collection entry must correspond to a physical collection while GBIF datasets can contain other types of records like observations.
-* A GRSciColl collection entry can refer to a historical collection that was lost or split.
-* Datasets published on GBIF contain biodiversity data while collection entries on GRSciColl can describe geological or archeological collections for example.
+GRSciColl a émergé indépendamment de GBIF, il a [sa propre histoire](/about#data-history). Beaucoup de datasets publiés sur GBIF contiennent des données de spécimens qui font partie de collections enregistrées dans le GRSciColl. Le contenu de GBIF et de GRSciColl peuvent se recouper. Toutefois, il y a quand même quelques différences:
+* L'entrée d'une collection GRSciColl doit correspondre à une collection physique, alors qu'un dataset GBIF peut contenir d'autres types de données, telles que des observations.
+* L'entrée d'une collection GRSciColl peut se référer à une collection historique qui a été perdue ou séparée.
+* Les sets de données publiés sur GBIF contiennent des données de biodiversité, alors que les entrées sur GRSciColl peuvent tant être des collections de géologie que d'archéologie par exemple.
 
 GBIF publishers may choose to publish all their records in one dataset but describe their holdings with several collection entries in GRSciColl. Alternatively, several datasets can contain records corresponding to specimens belonging to the same collection.
 
