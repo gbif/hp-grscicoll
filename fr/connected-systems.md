@@ -6,7 +6,7 @@ description: |
   GRSciColl supporte l'interopérabilité et interagit avec un grand nombre d'autres systèmes.
 background: "{{ site.data.images.echinometra.src }}"
 imageLicense: "{{ site.data.images.echinometra.caption }}"
-height: 60vh
+height: 70vh
 #layout: documentation
 #sideNavigation: about.about
 #composition: # you can extend the documentation layout with a custom composition
@@ -55,10 +55,10 @@ Chaque entrée GRSciColl a un Identifiant Unique Universel (UUID) et est associ�
 
 En plus des contributions des éditeurs GRSciColl. les identifiants de certaines institutions sont importés automatiquement ou semi-automatiquement.
 * À toutes les entrées liées à l'Index Herbariorum sont attribuéesun identifiant propre à l'Index Herbariorum. Voir [comment la synchronisation avec l'Index Herbariorum fonctionne](/about#index-herbariorum).
-* Many `CITES` identifiers also come from Index Herbariorum. See [how the syncronization with Index Herbariorum works](/connected-systems#index-herbariorum).
-* We matched as many GRSciColl institution entries as possible with [Wikidata](https://www.wikidata.org/) with their [OpenRefine](https://openrefine.org) Resolution tool and imported the wikidata identifiers.
-* We matched as many GRSciColl institution entries as possible with the [Research Organization Registry (ROR)](https://ror.org) using their [OpenRefine](https://openrefine.org) Resolution tool and imported the ROR identifiers.
-* We are working with the [NCBI BioCollection](https://www.ncbi.nlm.nih.gov/biocollections) team to import their identifiers in GRSciColl.
+* Plusieurs identifiants `CITES` proviennent également de l'Index Herbariorum. Voir [ comment fonctionne la synchronisation avec l'Index Herbariorum](/connected-systems#index-herbariorum).
+* Nous avons fait correspondre autant d'entrées d'institutions GRSciColl que possible avec [Wikidata](https://www.wikidata.org/) au moyen de leur outil [OpenRefine](https://openrefine.org) et avons importé leurs identifiants.
+* Nous avons fait correspondre autant d'entrées d'institutions GRSciColl que possible avec le [Registre des Organisations de Recherche (ROR)](https://ror.org) en utilisant leur outil de résolution [OpenRefine](https://openrefine.org) et en important leurs identifiants.
+* Nous travaillons avec l'équipe de [NCBI BioCollection](https://www.ncbi.nlm.nih.gov/biocollections) afin d'importer leurs identifiants dans GRSciColl.
 
 Users can search identifiers for collections and institutions both on this website and through [our API lookup servcie](https://www.gbif.org/developer/registry#lookup).
 
