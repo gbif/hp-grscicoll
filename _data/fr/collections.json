@@ -341,7 +341,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From New England Botanical Club",
+      "description": "Du Club de Botanique de Nouvelle-Angleterre",
       "background": "http://data.huh.harvard.edu/4cbc7879-66fd-4459-929c-cc1d9acd3eed/image",
       "imageLicense": "[Ranunculus hispidus Michx.](/specimen/search?entity=1998642278)",
       "xcta": [
@@ -353,7 +353,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From University of Georgia",
+      "description": "De l'Université de Géorgie",
       "background": "https://bisque.cyverse.org/image_service/image/00-uVbG69hffRJnxVDyio6Hod?resize=4000&format=jpeg",
       "imageLicense": "[Hieracium gronovii L.](/specimen/search?entity=3709801047)",
       "xcta": [
@@ -364,8 +364,8 @@
       ]
     },
     {
-      "title": "Invertebrate Paleontology",
-      "description": "From Peabody Museum of Natural History",
+      "title": "Paléontologie des invertébrés",
+      "description": "Du Muséum d'Histoire Naturelle Peabody",
       "background": "https://images.collections.yale.edu/iiif/2/ypm:d10ddda6-9ff2-4dbd-afc2-c8185f4fbfc6/full/full/0/default.jpg",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1848928433)",
       "xcta": [
@@ -377,7 +377,7 @@
     },
     {
       "title": "Entomologie",
-      "description": "From Harvard University, Museum of Comparative Zoology",
+      "description": "De l'Université de Harvard, Muséum de Zoologie comparée",
       "background": "https://mczbase.mcz.harvard.edu/specimen_images/entomology/thumbnails/MCZ-ENT00767405_Ennomos_subsignaria_lbs.jpg",
       "imageLicense": "[Ennomos subsignaria Hübner, 1818-1823](/specimen/search?entity=3329079312)",
       "xcta": [
@@ -389,7 +389,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From Museu Botânico Municipal",
+      "description": "Du Muséum Botanique Municipal",
       "background": "http://imagens1.jbrj.gov.br/fsi/server?type=image&source=mbm/sibbr2/16/20/95/MBM162095.JPG",
       "imageLicense": "[Passiflora setacea DC.](/specimen/search?entity=2996609701)",
       "xcta": [
@@ -401,7 +401,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From UNIVEGE Université Clermont Auvergne",
+      "description": "De l'Université Clermont Auvergne UNIVEGE",
       "background": "http://mediaphoto.mnhn.fr/media/1446664933656Y2OYl67Gsb1RWTsg",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1437892963)",
       "xcta": [
@@ -413,7 +413,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "description": "Du Muséum national d'Histoire naturelle MNHN",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=mnhn/LOTE_F/PC0709456_004.jpg",
       "imageLicense": "[Bryum Hedw.](/specimen/search?entity=2997419511)",
       "xcta": [
@@ -424,8 +424,8 @@
       ]
     },
     {
-      "title": "Invertebrate Zoology (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Zoologie des invertébrés (USNM)",
+      "description": "De l'Institution Smithsonian, Muséum National d'Histoire Naturelle",
       "background": "http://n2t.net/ark:/65665/m3e401857f-b3ae-4b5d-82b6-24ca5a180af6",
       "imageLicense": "[Lumbrineris tenuis Verrill, 1873](/specimen/search?entity=1320568936)",
       "xcta": [
@@ -436,8 +436,8 @@
       ]
     },
     {
-      "title": "CAS Herpetology",
-      "description": "From California Academy of Sciences",
+      "title": "CAS Herpétologie",
+      "description": "De l'Académie des Sciences de Californie",
       "background": "http://www.archive.org/stream/catalogueofdepar26unse#page/n59/mode/2up",
       "imageLicense": "[Bipes biporus (Cope, 1894)](/specimen/search?entity=543497608)",
       "xcta": [
@@ -449,7 +449,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From University of Texas at Austin",
+      "description": "De l'Université du Texas à Austin",
       "background": "http://was.tacc.utexas.edu/fileget?coll=Botany&type=O&filename=sp67549546799257488630.att.jpg",
       "imageLicense": "[Platanthera brevifolia (Greene) Senghas](/specimen/search?entity=2807184302)",
       "xcta": [
@@ -461,7 +461,7 @@
     },
     {
       "title": "Herbarium Berolinense, Berlin (B)",
-      "description": "From ZE Botanischer Garten und Botanisches Museum, Freie Universität Berlin",
+      "description": "Du Muséum et Jardin botaniques ZE, Université libre de Berlin",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=b/bgbm/B/20/01/42/07/b_20_0142076.jpg",
       "imageLicense": "[Pecluma M.G.Price](/specimen/search?entity=2996504964)",
       "xcta": [
@@ -473,7 +473,7 @@
     },
     {
       "title": "Herbier de plantes vasculaires",
-      "description": "From Estonian University of Life Sciences",
+      "description": "De l'Université des Sciences de la Vie d'Estonie",
       "background": "https://files.plutof.ut.ee/public/large/19/57/19577289DE7A2AF3CB54702F8A47E0264DA9A08E3A1DB8CAC9BA3E1591C4E594.jpg",
       "imageLicense": "[Leucanthemum vulgare Lam.](/specimen/search?entity=3412747435)",
       "xcta": [
@@ -485,7 +485,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From Harvard University",
+      "description": "De l'Université de Harvard",
       "background": "http://data.huh.harvard.edu/3d4e30a3-8ac8-442b-b4e3-9ec2887409da/image",
       "imageLicense": "[Rosa roxburghii f. normalis Rehder & E.H.Wilson](/specimen/search?entity=1998573742)",
       "xcta": [
@@ -497,7 +497,7 @@
     },
     {
       "title": "Herbarium",
-      "description": "From Harvard University",
+      "description": "De l'Université de Harvard",
       "background": "http://data.huh.harvard.edu/3d3c7993-d034-44d6-90be-4981257c9fed/image",
       "imageLicense": "[Chamberlainia digastra (Müll.Hal. ex Kindb.) H.Rob.](/specimen/search?entity=1998573454)",
       "xcta": [
@@ -509,7 +509,7 @@
     },
     {
       "title": "Botanique",
-      "description": "From Peabody Museum of Natural History",
+      "description": "Du Muséum d'Histoire Naturelle Peabody",
       "background": "https://images.collections.yale.edu/iiif/2/ypm:2fbac234-e0c6-4b29-9d74-2c55ff8e8a9f/full/full/0/default.jpg",
       "imageLicense": "[Euosmolejeunea duriuscula A.Evans](/specimen/search?entity=1805438952)",
       "xcta": [
@@ -520,8 +520,8 @@
       ]
     },
     {
-      "title": "Zoological Collections",
-      "description": "From Estonian Museum of Natural History",
+      "title": "Collections zoologiques",
+      "description": "Du Muséum d'Histoire Naturelle d'Estonie",
       "background": "https://files.plutof.ut.ee/public/orig/06/13/0613784613FD2894444B586498FFFDAEDD240581DB5732127945F15F2BA83780.CR2",
       "imageLicense": "[Arctiidae](/specimen/search?entity=3003608326)",
       "xcta": [
@@ -533,7 +533,7 @@
     },
     {
       "title": "Herbier",
-      "description": "From Canadian Museum of Nature",
+      "description": "Du Musée Canadien de la Nature",
       "background": "http://ipt.nature.ca/multimedia/69/335/CAN10024608.jpg",
       "imageLicense": "[Salix arctica Pall.](/specimen/search?entity=1804458960)",
       "xcta": [
@@ -545,7 +545,7 @@
     },
     {
       "title": "Herbier",
-      "description": "From Utah State University",
+      "description": "De l'Université de l'Utah",
       "background": "http://swbiodiversity.org/imglib/intermt/specimens/UTC00247/UTC00247269_big_lg.jpg",
       "imageLicense": "[Dicranum scoparium Hedwig, 1801](/specimen/search?entity=1994031098)",
       "xcta": [
@@ -556,8 +556,8 @@
       ]
     },
     {
-      "title": "Vertebrate Zoology, Fishes (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Zoologie des vertébrés, Poissons (USNM)",
+      "description": "De l'Institution Smithsonian, Muséum National d'Histoire Naturelle",
       "background": "http://n2t.net/ark:/65665/m353928693-8d38-456f-90c3-c8bba4e88b88",
       "imageLicense": "[Scarus Forsskål, 1775](/specimen/search?entity=1843529917)",
       "xcta": [
