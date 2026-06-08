@@ -10,6 +10,8 @@ Disallow: /*/publisher/
 Disallow: /literature/
 Disallow: /*/literature/
 
+Disallow: /institution/
+Disallow: /collection/
 Disallow: /*/institution/
 Disallow: /*/collection/
 crawl-delay: 0.1
