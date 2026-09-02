@@ -16,7 +16,7 @@ placeholderInstitutions: Vyhledávání institucí
 placeholderSpecimens: Hledání digitalizovaných exemplářů
 background: "{{ site.data.images.calcinus.src }}"
 imageLicense: "{{ site.data.images.calcinus.caption }}"
-height: 50vh
+height: 85vh
 composition:
   - 
     type: grscicollHeader #the block type
