@@ -545,7 +545,7 @@
     },
     {
       "title": "Herbier",
-      "description": "De l'Université de l'Utah",
+      "description": "De l'Université d'État de l'Utah",
       "background": "http://swbiodiversity.org/imglib/intermt/specimens/UTC00247/UTC00247269_big_lg.jpg",
       "imageLicense": "[Dicranum scoparium Hedwig, 1801](/specimen/search?entity=1994031098)",
       "xcta": [
@@ -569,7 +569,7 @@
     },
     {
       "title": "Herbier",
-      "description": "From Acadia University",
+      "description": "De l'Université Acadia",
       "background": "http://procyon.acadiau.ca/ecsmith/cgi-bin/image.cgi?51248,jpeg",
       "imageLicense": "[Gaylussacia baccata (Wangenh.) K.Koch](/specimen/search?entity=1807239505)",
       "xcta": [
@@ -580,8 +580,8 @@
       ]
     },
     {
-      "title": "Paleobiology (USNM)",
-      "description": "From Smithsonian Institution, National Museum of Natural History",
+      "title": "Paléobiologie (USNM)",
+      "description": "De l'Institution Smithsonian, Muséum National d'Histoire Naturelle",
       "background": "http://n2t.net/ark:/65665/m3a20a553f-cdb3-4770-9128-84b2507b11f5",
       "imageLicense": "[Insexcta](/specimen/search?entity=1316715874)",
       "xcta": [
@@ -592,8 +592,8 @@
       ]
     },
     {
-      "title": "CAS Botany",
-      "description": "From California Academy of Sciences",
+      "title": "CAS Botanique",
+      "description": "De l'Académie des Sciences de Californie",
       "background": "http://ibss-images.calacademy.org:80/static/botany/originals/62/41/62419520-409e-4f76-be0d-62932f35d6f4.jpg",
       "imageLicense": "[Pachyphytum brevifolium Rose](/specimen/search?entity=2006018309)\n",
       "xcta": [
@@ -604,8 +604,8 @@
       ]
     },
     {
-      "title": "Botanical Collections",
-      "description": "From Estonian Museum of Natural History",
+      "title": "Collections botaniques",
+      "description": "Du Muséum d'Histoire Naturelle d'Estonie",
       "background": "https://files.plutof.ut.ee/public/large/13/E3/13E3E775C7115287E52D4DD94F2FA4FF7A4E69C481C47BA728408BDA2C7D9772.jpg",
       "imageLicense": "[Vaccinium vitis-idaea L.](/specimen/search?entity=3001125938)",
       "xcta": [
@@ -617,7 +617,7 @@
     },
     {
       "title": "Herbier",
-      "description": "From California Botanic Garden",
+      "description": "Du Jardin botanique de Californie",
       "background": "https://bisque.cyverse.org/image_service/image/00-Pj6k3qeRaTSahgSyyEy5JA/resize:4000/format:jpeg",
       "imageLicense": "[Astragalus sclerocarpus A.Gray](/specimen/search?entity=2989945851)",
       "xcta": [
@@ -629,7 +629,7 @@
     },
     {
       "title": "Herbier",
-      "description": "From Harvard University",
+      "description": "De l'Université de Harvard",
       "background": "http://data.huh.harvard.edu/4d0e5acf-3e48-4a7c-8de4-fc93a7faba99/image",
       "imageLicense": "[Graphorkis lurida (Sw.) Kuntze](/specimen/search?entity=3828128336)",
       "xcta": [
@@ -641,7 +641,7 @@
     },
     {
       "title": "Herbier",
-      "description": "From Institut National de la Recherche Agronomique (INRA)",
+      "description": "De l'Institut National de la Recherche Agronomique (INRA)",
       "background": "http://mediaphoto.mnhn.fr/media/1537914610021o1UdU29uoBcv3JOJ",
       "imageLicense": "[Aira praecox L.](/specimen/search?entity=3427599101)",
       "xcta": [
@@ -653,7 +653,7 @@
     },
     {
       "title": "Herbier",
-      "description": "From Universidade Estadual de Feira de Santana",
+      "description": "De l'Université d'État de Feira de Santana",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=huefs/Lecythidaceae/jpg/HUEFS0091643.jpg",
       "imageLicense": "[Eschweilera ovata (Cambess.) Mart. ex Miers](/specimen/search?entity=2998240117)",
       "xcta": [
@@ -665,7 +665,7 @@
     },
     {
       "title": "Herbier",
-      "description": "From Universidade Federal da Bahia, Campus Universitário de Ondina",
+      "description": "De l'Université fédérale de Bahia, campus universitaire de Ondina",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=alcb/output_13102016/ALCB/0/2/80/46/ALCB028046.JPG",
       "imageLicense": "[Senna Mill.](/specimen/search?entity=2996066919)",
       "xcta": [
@@ -677,7 +677,7 @@
     },
     {
       "title": "Herbier",
-      "description": "From Komi Scientific Centre, Russian Academy of Sciences",
+      "description": "Du Centre Scientifique Komi, Académie russe des Sciences",
       "background": "https://ib.komisc.ru/files/gbif/bryo/label_img/27/4_14_IMG_0268-000.JPG",
       "imageLicense": "[Rhizomnium pseudopunxctatum T.Koponen, 1968](/specimen/search?entity=1945842726)",
       "xcta": [
@@ -688,8 +688,8 @@
       ]
     },
     {
-      "title": "The molluscs collection (IM) of the Muséum national d'Histoire naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "title": "La collection de mollusques (IM) du Muséum national d'Histoire naturelle (MNHN - Paris)",
+      "description": "Du Muséum national d'Histoire naturelle MNHN",
       "background": "http://mediaphoto.mnhn.fr/media/1401117421477pa8ZCn2F4KdxbA5n",
       "imageLicense": "[Ocenebra newmani Lorenz, 1990](/specimen/search?entity=1019711173)",
       "xcta": [
@@ -700,8 +700,8 @@
       ]
     },
     {
-      "title": "Paleontology - Invertebrates and Plants",
-      "description": "From University of Colorado Museum of Natural History",
+      "title": "Paléontologie - Invertébrés et Plantes",
+      "description": "Du Muséum d'Histoire Naturelle de l'Université du Colorado",
       "background": "http://paleo-attachments.colorado.edu/static/originals/sp69104765486768384680.att.jpg",
       "imageLicense": "[Diptera](/specimen/search?entity=1064377209)",
       "xcta": [
@@ -712,8 +712,8 @@
       ]
     },
     {
-      "title": "Plant specimens",
-      "description": "From University of Texas at El Paso Biodiversity Collections",
+      "title": "Spécimens de plantes",
+      "description": "De l'Université du Texas au Collections de Biodiversité d'El Paso",
       "background": "http://arctos.database.museum/media/10623984?open",
       "imageLicense": "[Apodanthera undulata A.Gray](/specimen/search?entity=1611937359)",
       "xcta": [
@@ -725,7 +725,7 @@
     },
     {
       "title": "Herbier",
-      "description": "From Fairchild Tropical Botanic Garden",
+      "description": "Du Jardin botanique tropical de Fairchild",
       "background": "https://cdn.plantatlas.org/img/specimens/FTG/55506.jpg",
       "imageLicense": "[Lycopodium L.](/specimen/search?entity=122968478)",
       "xcta": [
@@ -737,7 +737,7 @@
     },
     {
       "title": "Herbier",
-      "description": "From Jardin botanique de la ville de Lyon",
+      "description": "Du Jardin botanique de la ville de Lyon",
       "background": "http://mediaphoto.mnhn.fr/media/14859484564779WxsBVXfyTL1MaEx",
       "imageLicense": "[Lysimachia punxctata L.](/specimen/search?entity=1835627210)",
       "xcta": [
@@ -749,7 +749,7 @@
     },
     {
       "title": "Herbier",
-      "description": "From George Mason University",
+      "description": "De l'Université George Mason",
       "background": "https://bisque.cyverse.org/image_service/image/00-5pmWqYUywfi88MCA3C6Xsi/resize:4000/format:jpeg",
       "imageLicense": "[Lespedeza violacea Pers.](/specimen/search?entity=3357392237)",
       "xcta": [
@@ -761,7 +761,7 @@
     },
     {
       "title": "Herbier",
-      "description": "From North Carolina State University",
+      "description": "De l'Université d'État de Caroline du Nord",
       "background": "https://bisque.cyverse.org/image_service/image/00-tXvWds96Foj9cjSzrfbjh3?resize=4000&format=jpeg",
       "imageLicense": "[Fagus grandifolia Ehrh.](/specimen/search?entity=1990241443)",
       "xcta": [
@@ -773,7 +773,7 @@
     },
     {
       "title": "Herbier",
-      "description": "From Central Siberian Botanical Garden, Siberian Branch of Russian Academy of Sciences",
+      "description": "Du Jardin botanique de Sibérie Centrale, Branche sibérienne de l'Académie russe des Sciences",
       "background": "http://herb.csbg.nsc.ru:8081/backend/herbarium/view/9240",
       "imageLicense": "[Nitraria komarovii Iljin & Lava](/specimen/search?entity=2421783795)",
       "xcta": [
@@ -785,7 +785,7 @@
     },
     {
       "title": "Herbier",
-      "description": "From Peabody Museum of Natural History",
+      "description": "Du Muséum d'Histoire Naturelle Peabody",
       "background": "https://images.collections.yale.edu/iiif/2/ypm:f25c21a7-eeff-425f-9bed-4e7f266528dc/full/!1920,1920/0/default.jpg",
       "imageLicense": "[Eragrostis spexctabilis (Pursh) Steud.](/specimen/search?entity=1038919019)",
       "xcta": [
@@ -797,7 +797,7 @@
     },
     {
       "title": "Herbier LUX",
-      "description": "From National Museum of Natural History, Luxembourg",
+      "description": "Du Muséum National d'Histoire Naturelle, Luxembourg",
       "background": "https://archimg.mnhn.lu/Collections/Collections/15114.jpg",
       "imageLicense": "[Hieracium murorum L.](/specimen/search?entity=2417914425)",
       "xcta": [
@@ -880,7 +880,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From Peabody Museum of Natural History",
       "background": "https://images.collections.yale.edu/iiif/2/ypm:47ffc537-5bd7-429f-9713-314651dc355e/full/!1920,1920/0/default.jpg",
       "imageLicense": "[Catocala residua Grote, 1874](/specimen/search?entity=1060795705)",
@@ -940,7 +940,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Irkutsk State University",
       "background": "https://plant.depo.msu.ru/open/public/item/IRKU017043/img/0.jpg?gbif",
       "imageLicense": "[Poa glauca Vahl](/specimen/search?entity=3339707356)",
@@ -952,7 +952,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Muséum Requien",
       "background": "http://mediaphoto.mnhn.fr/media/1478511158712bxdJ2gy5dEw8rNBT",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1803781091)",
@@ -976,7 +976,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Black Hills State University",
       "background": "https://ngpherbaria.org/imglib/seinet/ngph/BHSC_BHSC/BHSC0008/BHSC0008159_1595863728_lg.jpg",
       "imageLicense": "[Panicum capillare L.](/specimen/search?entity=2821218313)",
@@ -988,7 +988,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Berea College",
       "background": "https://bisque.cyverse.org/image_service/image/00-wsDEmsSkKPjDMeSVcD9cFA/resize:4000/format:jpeg",
       "imageLicense": "[Thlaspi alliaceum L.](/specimen/search?entity=1977817221)",
@@ -1036,7 +1036,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From University of Lethbridge",
       "background": "https://digitallibrary.uleth.ca/digital/api/singleitem/image/herbarium/12371/default.jpg",
       "imageLicense": "[Atriplex patula L.](/specimen/search?entity=894985850)",
@@ -1048,8 +1048,8 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From University of Manitoba",
+      "title": "Herbier",
+      "description": "De l'Université de Manitoba",
       "background": "http://herbarium.cc.umanitoba.ca/Trichophorum%20cespitosum/54696.jpg",
       "imageLicense": "[Trichophorum cespitosum (L.) Hartm.](/specimen/search?entity=1703291145)",
       "xcta": [
@@ -1060,8 +1060,8 @@
       ]
     },
     {
-      "title": "Herbarium",
-      "description": "From Millersville University",
+      "title": "Herbier",
+      "description": "De l'Université de Millersville",
       "background": "https://s3.us-east-2.amazonaws.com/natureatlas.org/specimens/398098.jpg",
       "imageLicense": "[Pinus strobus L.](/specimen/search?entity=3331181304)",
       "xcta": [
@@ -1072,8 +1072,8 @@
       ]
     },
     {
-      "title": "The birds collection (ZO) of the Muséum national d'Histoire Naturelle (MNHN - Paris)",
-      "description": "From MNHN - Museum national d'Histoire naturelle",
+      "title": "La collection d'oiseaux (ZO) du Muséum national d'Histoire Naturelle (MNHN - Paris)",
+      "description": "Du Muséum national d'Histoire naturelle MNHN",
       "background": "http://mediaphoto.mnhn.fr/media/15217079555065Mb3k9lCbpORAyI8",
       "imageLicense": "[Poecile palustris (Linnaeus, 1758)](/specimen/search?entity=1837434994)",
       "xcta": [
@@ -1084,8 +1084,8 @@
       ]
     },
     {
-      "title": "Herbarium - Vascular plants",
-      "description": "From UiT The Arctic University of Norway",
+      "title": "Herbier - Plantes vasculaires",
+      "description": "De l'Université Arctique de Norvège UiT",
       "background": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=15454692&type=jpeg",
       "imageLicense": "[Poa arctica R.Br.](/specimen/search?entity=1323850868)",
       "xcta": [
@@ -1096,8 +1096,8 @@
       ]
     },
     {
-      "title": "Paleontology",
-      "description": "From University of Oregon, The Museum of Natural and Cultural History",
+      "title": "Paléontologie",
+      "description": "De l'Université d'Oregon, Le Muséum d'Histoire Naturelle et Culturelle",
       "background": "http://munch-condonattach.uoregon.edu/originals/sp61014146251314407323.att.jpg",
       "imageLicense": "[Tipulidae](/specimen/search?entity=2642736358)",
       "xcta": [
@@ -1108,7 +1108,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Museum d'histoire naturelle de Nîmes",
       "background": "http://mediaphoto.mnhn.fr/media/1487690203890UXahyyvDEpTjnnZ7",
       "imageLicense": "[Platanus orientalis L.](/specimen/search?entity=1803807171)",
@@ -1132,7 +1132,7 @@
       ]
     },
     {
-      "title": "Herbarium - Lichens",
+      "title": "Herbier - Lichens",
       "description": "From UiT The Arctic University of Norway",
       "background": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=7801800&type=jpeg",
       "imageLicense": "[Sphaerophorus fragilis (L.) Pers.](/specimen/search?entity=1302823205)",
@@ -1144,7 +1144,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Manaaki Whenua - Landcare Research",
       "background": "http://data.landcareresearch.co.nz/Image/71V/NZVH",
       "imageLicense": "[Russula atroviridis Buyck](/specimen/search?entity=1135775921)",
@@ -1204,7 +1204,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Manaaki Whenua - Landcare Research",
       "background": "http://data.landcareresearch.co.nz/Image/22KB/NZVH",
       "imageLicense": "[Tolpis barbata (L.) Gaertn.](/specimen/search?entity=1091106468)",
@@ -1216,7 +1216,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Muséum des Volcans",
       "background": "http://mediaphoto.mnhn.fr/media/1473087122663TlFJbEX0CLKEBwhC",
       "imageLicense": "[Glyceria distans (Jacq.) Wahlenb.](/specimen/search?entity=3427413189)",
@@ -1240,7 +1240,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Texas Tech University",
       "background": "https://bisque.cyverse.org/image_service/image/00-zJ5iy7rKCb6SgGKwZMJxRo/resize:4000/format:jpeg",
       "imageLicense": "[Carex intumescens Rudge](/specimen/search?entity=3340057473)",
@@ -1252,7 +1252,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From University of Melbourne",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=9342b119-9a07-433b-a91a-595dff0dc8b5",
       "imageLicense": "[Tetratheca pilosa Labill.](/specimen/search?entity=2419528381)",
@@ -1264,7 +1264,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Royal Ontario Museum",
       "background": "https://crataegus.library.utoronto.ca/TRT00002080.JPG",
       "imageLicense": "[Crataegus viridis L.](/specimen/search?entity=1899304029)",
@@ -1276,7 +1276,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Muséum d'Histoire naturelle de Besançon",
       "background": "http://mediaphoto.mnhn.fr/media/14676700771958tUy6k3pmQ43tlUF",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1806622164)",
@@ -1300,7 +1300,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From CEPEC, CEPLAC e Universidade Federal do Sul da Bahia",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=cepec/Cyperaceae5/CEPEC00017786.JPG",
       "imageLicense": "[Rhynchospora ridleyi C.B.Clarke](/specimen/search?entity=2997226412)",
@@ -1312,7 +1312,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Kagoshima University",
       "background": "https://dbs.kaum.kagoshima-u.ac.jp/musedb/s_plant/picture/KAG001802/KAG001802.jpg",
       "imageLicense": "[Sagittaria trifolia L.](/specimen/search?entity=3408897258)",
@@ -1336,7 +1336,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Universidade Estadual do Oeste do Paraná",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=u/unop/jpeg/UNOP009458.JPG",
       "imageLicense": "[Justicia lythroides (Nees) V.A.W.Graham](/specimen/search?entity=2302495435)",
@@ -1348,7 +1348,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Tula State Lev Tolstoy Pedagogical University",
       "background": "https://plant.depo.msu.ru/open/public/item/TUL001896/img/0.jpg?gbif",
       "imageLicense": "[Juncus bufonius L.](/specimen/search?entity=2532988391)",
@@ -1384,7 +1384,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From University of Tartu Natural History Museum",
       "background": "https://files.plutof.ut.ee/public/large/DF/C4/DFC4F312BC6D5567825B8E409FA35F13E11FFA561AEE05E3A000191232C5A709.jpg",
       "imageLicense": "[Pertusaria leioplaca (Ach.) DC.](/specimen/search?entity=3024246388)",
@@ -1408,7 +1408,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Conservatoire Botanique Pierre Fabre",
       "background": "http://mediaphoto.mnhn.fr/media/1464961446351SVCKOxSMjjoRxE70",
       "imageLicense": "[incertae sedis](/specimen/search?entity=2234720468)",
@@ -1480,7 +1480,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Harvard University",
       "background": "http://data.huh.harvard.edu/416e8478-d860-4baf-a401-cbeea618ec35/image",
       "imageLicense": "[Eriogonum abertianum Torr.](/specimen/search?entity=1998591964)",
@@ -1492,7 +1492,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Muséum des sciences naturelles d'Angers",
       "background": "http://mediaphoto.mnhn.fr/media/1480426155410YYCf9LggWGwm8SrV",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1851076852)",
@@ -1528,7 +1528,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From Davidson College",
       "background": "https://api.idigbio.org/v2/media/17374ef2b863e31cf5926db96ada5041?size=fullsize",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1934674787)",
@@ -1564,7 +1564,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Universidade Federal do Paraná",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=u/upcb/UPCB/output_062017_16-09-2019/UPCB0042037.JPG",
       "imageLicense": "[Hymenophyllum microcarpum Desv.](/specimen/search?entity=2998517124)",
@@ -1576,7 +1576,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From Mississippi State University",
       "background": "https://scan-bugs.org:443/imglib/scan/MISSA_MEM/MEM343/MEM343038_Cucullia_postera_IWF_1556904033_lg.jpg",
       "imageLicense": "[Cucullia postera Guenée, 1852](/specimen/search?entity=1846473785)",
@@ -1588,7 +1588,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Canadian Museum of Nature",
       "background": "http://ipt.nature.ca/multimedia/9/764/CANM112428.jpg",
       "imageLicense": "[Mnium spinulosum Bruch & W.P.Schimper, 1846](/specimen/search?entity=1804562562)",
@@ -1612,7 +1612,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Muséum d'Histoire naturelle de Grenoble",
       "background": "http://mediaphoto.mnhn.fr/media/1521477149384S9CCp2zx1jKZhyjQ",
       "imageLicense": "[Juncus capitatus Weigel](/specimen/search?entity=3435670308)",
@@ -1624,7 +1624,7 @@
       ]
     },
     {
-      "title": "NHMD Entomology",
+      "title": "Entomologie NHMD",
       "description": "From Natural History Museum of Denmark",
       "background": "https://specify-attachments.science.ku.dk/static/NHMD_Entomology/originals/sp64882253855935359653.att.jpg",
       "imageLicense": "[Cephalops argutus (Hardy, 1968)](/specimen/search?entity=3458627549)",
@@ -1636,7 +1636,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Universidade Federal do Vale do São Francisco",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=h/hvasf/output_agosto2020_jpg/Combretaceae/HVASF6197.JPG",
       "imageLicense": "[Combretum hilariana D.Dietr.](/specimen/search?entity=2996441308)",
@@ -1648,7 +1648,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Lycée Félix Esclangon, Région PACA",
       "background": "http://mediaphoto.mnhn.fr/media/1445608610262izS6w2Zb31IMhXHQ",
       "imageLicense": "[incertae sedis](/specimen/search?entity=806799681)",
@@ -1660,7 +1660,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Universidad de Santiago de Compostela",
       "background": "http://193.144.34.193/imsrv/santimagethumb.php?id=1183",
       "imageLicense": "[Chamaecyparis lawsoniana (A.Murray bis) Parl.](/specimen/search?entity=2821300165)",
@@ -1672,7 +1672,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Universidade Federal do Rio Grande do Sul",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=icn/2-remessa/ICN00005337.JPG",
       "imageLicense": "[Cyperus incomtus Kunth](/specimen/search?entity=2997584017)",
@@ -1708,7 +1708,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From Natural History Museum of Utah",
       "background": "https://api.idigbio.org/v2/media/6b20b7e01a0476126c7492ed8baf19f4?size=fullsize",
       "imageLicense": "[Orthofidonia Packard, 1876](/specimen/search?entity=1457656532)",
@@ -1744,7 +1744,7 @@
       ]
     },
     {
-      "title": "CAS Entomology Types",
+      "title": "CAS Types d'Entomologie",
       "description": "From California Academy of Sciences",
       "background": "https://monarch.calacademy.org:443/mnt/target-images/CASTYPE/00019/CASTYPE19176_d.jpg",
       "imageLicense": "[Picromyza lutea Zeegers, 2015](/specimen/search?entity=2238763508)",
@@ -1768,7 +1768,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Arkansas Natural Heritage Commission",
       "background": "https://bisque.cyverse.org/image_service/image/00-qq9WXt2GVmnDEGzTsZaf5h/resize:4000/format:jpeg",
       "imageLicense": "[Sisyrinchium langloisii Greene](/specimen/search?entity=3435792930)",
@@ -1792,7 +1792,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Canadian Museum of Nature",
       "background": "http://ipt.nature.ca/multimedia/257/134/CANL10001389_t.jpg",
       "imageLicense": "[Bryocaulon divergens (Ach.) Kärnefelt](/specimen/search?entity=2301950006)",
@@ -1864,7 +1864,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Universidade da Região de Joinville - Univille",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=j/joi/BIGNONIACEAE/JOI003574.JPG",
       "imageLicense": "[Tabebuia roseoalba (Ridl.) Sandwith](/specimen/search?entity=3069578839)",
@@ -1900,7 +1900,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From University of Gothenburg",
       "background": "http://herbarium.bioenv.gu.se/web/images/GB-0047718.jpg",
       "imageLicense": "[Geranium skottsbergii R.Knuth](/specimen/search?entity=3043023694)",
@@ -1924,7 +1924,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From University of Hawaii",
       "background": "http://128.171.206.220/HAW06256.JPG",
       "imageLicense": "[Alyxia bracteolosa Rich. ex A.Gray](/specimen/search?entity=3751290871)",
@@ -1936,7 +1936,7 @@
       ]
     },
     {
-      "title": "Herbarium - Algae",
+      "title": "Herbier - Algues",
       "description": "From UiT The Arctic University of Norway",
       "background": "https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=15404327&type=jpeg",
       "imageLicense": "[Furcellaria lumbricalis (Hudson) J.V.Lamouroux](/specimen/search?entity=3855869054)",
@@ -1960,7 +1960,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From University of California, Davis",
       "background": "https://api.idigbio.org/v2/media/24fc75042d6b54ff2f1123b99b548a56",
       "imageLicense": "[Phacelia suaveolens Greene](/specimen/search?entity=2421782269)",
@@ -1972,7 +1972,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Universität Erlangen-Nürnberg",
       "background": "http://www.herbarium-erlangense.nat.uni-erlangen.de/datenbank/bild/103/10331-large.jpg",
       "imageLicense": "[Cardamine L.](/specimen/search?entity=1094958462)",
@@ -1996,7 +1996,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From University of Nevada, Museum of Biology",
       "background": "https://api.idigbio.org/v2/media/fe3e8e2774b89d35dac1b2be755d886a",
       "imageLicense": "[incertae sedis](/specimen/search?entity=2561481607)",
@@ -2032,7 +2032,7 @@
       ]
     },
     {
-      "title": "NCSM Herbarium Collection",
+      "title": "Collection d'Herbier NCSM",
       "description": "From North Carolina Museum of Natural Sciences",
       "background": "https://ncmns-cams.s3.amazonaws.com/Collections/herbarium/NCSM001454.JPG",
       "imageLicense": "[Carex willdenowii Willd.](/specimen/search?entity=2825495112)",
@@ -2104,7 +2104,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Weber State University",
       "background": "https://intermountainbiota.org/imglib/seinet/intermt/WeberStateUniversity_WSCO/WSCO007/Acer_grandidentatum_SClark_443_1647986257_lg.jpg",
       "imageLicense": "[Acer grandidentatum Nutt.](/specimen/search?entity=2461264107)",
@@ -2128,7 +2128,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Universidade Federal Rural do Rio de Janeiro",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=r/rbr/RBR00046548.JPG",
       "imageLicense": "[Cybistax antisyphilitica (Mart.) Mart.](/specimen/search?entity=2900356308)",
@@ -2152,8 +2152,8 @@
       ]
     },
     {
-      "title": "Entomology",
-      "description": "From W.F. Barr Entomological Collection",
+      "title": "Entomologie",
+      "description": "De la Collection Entomologique W.F. Barr",
       "background": "https://api.idigbio.org/v2/media/40b9646b18f94e2c0b8dde4aa5a058f3?size=fullsize",
       "imageLicense": "[Danaus plexippus (Linnaeus, 1758)](/specimen/search?entity=1977822649)",
       "xcta": [
@@ -2188,7 +2188,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Parc National des Cevennes",
       "background": "http://mediaphoto.mnhn.fr/media/14997828034774fApXIeOM41r7GRQ",
       "imageLicense": "[incertae sedis](/specimen/search?entity=1806624390)",
@@ -2212,7 +2212,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Institute of Agricultural and Environmental Sciences of the Estonian University of Life Sciences",
       "background": "https://ib.komisc.ru/files/gbif/redbook2019/taxonid-ib-komisc-ru-redbook-2019_054_Perenniporia_tenuis.png",
       "imageLicense": "[Perenniporia tenuis (Schwein.) Ryvarden](/specimen/search?entity=3320730916)",
@@ -2260,7 +2260,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Universidade Federal do Oeste do Pará",
       "background": "http://imagens4.jbrj.gov.br/fsi/server?type=image&source=h/hstm/HSTM002518.jpg",
       "imageLicense": "[Byrsonima Rich. ex Kunth](/specimen/search?entity=3069791305)",
@@ -2308,7 +2308,7 @@
       ]
     },
     {
-      "title": "Entomological Collection",
+      "title": "Collection entomologique",
       "description": "From Estonian University of Life Sciences",
       "background": "https://files.plutof.ut.ee/public/large/3A/66/3A6698DD4B956E8C0312F33699A80A6DA0967A99C7A43FD1A054276B993379B9.jpg",
       "imageLicense": "[Dendrothrips degeeri Uzel, 1895](/specimen/search?entity=3414871410)",
@@ -2332,7 +2332,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Universidade Regional de Blumenau",
       "background": "http://imagens2.jbrj.gov.br/fsi/server?type=image&source=f/furb/30000-39999/FURB32565.JPG",
       "imageLicense": "[Myrcia hebepetala DC.](/specimen/search?entity=2996166759)",
@@ -2356,7 +2356,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From University of Texas at El Paso Biodiversity Collections",
       "background": "http://arctos.database.museum/media/10603398?open",
       "imageLicense": "[Bembix occidentalis W.Fox, 1893](/specimen/search?entity=2234244402)",
@@ -2380,7 +2380,7 @@
       ]
     },
     {
-      "title": "Entomology Collection",
+      "title": "Collection entomologique",
       "description": "From DOI/FWS, Kenai National Wildlife Refuge",
       "background": "http://arctos.database.museum/media/10253782?open",
       "imageLicense": "[Hyppa Duponchel, 1845](/specimen/search?entity=2465077913)",
@@ -2392,7 +2392,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Universitat de València",
       "background": "https://colecciones.uv.es/files/large/4c5b1a06789dda555ed0909b65084ce3c5d39bd8.jpg",
       "imageLicense": "[Limonium Mill.](/specimen/search?entity=895314875)",
@@ -2416,7 +2416,7 @@
       ]
     },
     {
-      "title": "CAS Entomology",
+      "title": "CAS Entomologie",
       "description": "From California Academy of Sciences",
       "background": "https://serv.biokic.asu.edu/imglib/ecdysis/UCSB_IZC/UCSB-IZC00006/UCSB-IZC00006502.jpg",
       "imageLicense": "[Netelia Gray, 1860](/specimen/search?entity=2013219489)",
@@ -2524,7 +2524,7 @@
       ]
     },
     {
-      "title": "Herbarium",
+      "title": "Herbier",
       "description": "From Qarshi Industries (Pvt.) Ltd.",
       "background": "https://openherbarium.org:443/imglib/openherbarium/QARSHI_QARSHI/202010/DSC_0830_1603098214_lg.jpg",
       "imageLicense": "[Hypericum L.](/specimen/search?entity=3028699304)",
@@ -2584,7 +2584,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From Queensland Museum",
       "background": "https://images.ala.org.au/image/proxyImageThumbnailLarge?imageId=4d517df9-782e-4982-a5fc-3dcbabc8ea0e",
       "imageLicense": "[Bactrocera yorkensis Drew, Hancock & Romig, 1999](/specimen/search?entity=1066430238)",
@@ -3256,7 +3256,7 @@
       ]
     },
     {
-      "title": "Entomology",
+      "title": "Entomologie",
       "description": "From Western Washington University Insect Collection",
       "background": "https://scan-bugs.org:443/imglib/scan/misc/202109/Undetermined-WWUC-0000000230-D.jpg",
       "imageLicense": "[incertae sedis](/specimen/search?entity=2234690896)",
@@ -3556,8 +3556,8 @@
       ]
     },
     {
-      "title": "Entomology",
-      "description": "From Frost Entomological Museum, Penn State University",
+      "title": "Entomologie",
+      "description": "Du Muséum Entomologique Frost, Université d'État Penn",
       "background": "https://scan-bugs.org:443/imglib/scan/PSUC_ENTO/00000/IMG_9916_1557236681.jpg",
       "imageLicense": "[Callirhytis Förster, 1869](/specimen/search?entity=2274097120)",
       "xcta": [
