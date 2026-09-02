@@ -6,7 +6,7 @@ description: |
   Globální registr vědeckých sbírek (Global Registry of Scientific Collections, GRSciColl) je komplexní, komunitou spravovaný repozitář informací o vědeckých sbírkách, který rozšiřuje práci původně zahájenou Konsorciem čárového kódu života (Consortium of the Barcode of Life, CBOL).
 background: "{{ site.data.images.kanakia.src }}"
 imageLicense: "{{ site.data.images.kanakia.caption }}"
-height: 60vh
+height: 70vh
 #layout: documentation
 #sideNavigation: about.about
 #composition: # you can extend the documentation layout with a custom composition
