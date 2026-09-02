@@ -16,7 +16,7 @@ placeholderInstitutions: Buscar instituciones
 placeholderSpecimens: Buscar especímenes digitalizados
 background: "{{ site.data.images.calcinus.src }}"
 imageLicense: "{{ site.data.images.calcinus.caption }}"
-height: 50vh
+height: 85vh
 composition:
   - 
     type: grscicollHeader #the block type
