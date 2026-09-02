@@ -6,7 +6,7 @@ description: |
   GRSciColl supporta l'interoperabilità e interagisce con numerosi altri sistemi.
 background: "{{ site.data.images.echinometra.src }}"
 imageLicense: "{{ site.data.images.echinometra.caption }}"
-height: 60vh
+height: 70vh
 #layout: documentation
 #sideNavigation: about.about
 #composition: # you can extend the documentation layout with a custom composition
